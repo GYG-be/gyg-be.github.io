@@ -1,2 +1,2 @@
 # MarkBruns.github.io
-Notes from the underbelly of reliability engineering
+The naked underbelly of reliability engineering heads its ugly rear
