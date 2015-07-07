@@ -1,2 +1,2 @@
 # MarkBruns.github.io
-Engineering sustainable reliability
+Trying to engineer sustainable reliability
