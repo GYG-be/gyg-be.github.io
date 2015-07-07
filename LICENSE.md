@@ -2,13 +2,15 @@
 # Version 1, July 2015
 
 
-                            Preamble
+                            Part Manifesto, Part Preamble
 
 Licenses for most software are designed to take away your freedom to share and change it.  By contrast, the GNU General Public License was intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.  
 
-# Your FREEDOM is about you. Sustaining that freedom depends on your VOLUNTARY actions to expand and defend freedom for others and yourself.
+#### Your FREEDOM is about you. Sustaining that freedom depends on your VOLUNTARY actions to expand and defend freedom for others and yourself.
 
-The [DANTON](https://en.wikipedia.org/wiki/Georges_Danton) General Public License is about revolution.  The DANTON General Public License empowers you and obliges you to THINK for yourself and to voluntarily engage in fighting to expand freedom and defend liberty for others ... you are empowered by this License, but be careful with your revolution. If you let power go to your head, you'll lose it!
+The [DANTON](https://en.wikipedia.org/wiki/Georges_Danton) General Public License is about what type of revolution you want to lead.  
+
+The DANTON General Public License empowers you to be revolutionary actor. But it obliges you to THINK for yourself and to voluntarily engage in fighting to expand freedom and defend liberty for others ... you are empowered by the Danton General Public License, but you are encouraged be careful with your revolution. If you let power go to your head, you'll lose it!
 
 The Danton General Public License recognizes that there ought to be limits on what any individual can force others to do ... FREEDOM is about VOLUNTARY action.  To the extent possible, the user of the software, licensed under the DANTON General Public License, must refrain from allowing the open source software to be used to COERCIVELY concentrate and consolidate wealth and power, to lessen the chance that any tyrant can engage in any self-righteous "reign of terror."  
 
