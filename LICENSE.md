@@ -6,11 +6,13 @@
 
 Licenses for most software are designed to take away your freedom to share and change it.  
 
-By contrast, the GNU General Public License was intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.  The DANTON General Public License asks you to THINK and voluntarily engage in fighting to expand freedom for others. 
+By contrast, the GNU General Public License was intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.  
 
-The Danton General Public License specifically obliges the user of the software to THINK about consequences, to defend the liberty and freedom of others in the future.  To the extent possible the user of the software must refrain from allowing the open source software to be used to COERCIVELY concentrate and consolidate wealth and power, to lessen the chance that any tyrant can engage in any self-righteous "reign of terror."  
+The DANTON General Public License obliges you to THINK for yourself and to voluntarily engage in fighting to expand freedom and defend liberty for others ... you are empowered by this License, but be careful with your revolution. When you let power go to your head, you'll lose it!
 
-The Danton general public license is exactly like the GNU General Public License, except that the Danton Public License obliges users to THINK about consequences of software architecture. 
+The Danton General Public License recognizes that there ought to be limits on what any individual can force others to do ... FREEDOM is about VOLUNTARY action.  To the extent possible, the user of the software, licensed under the DANTON General Public License, must refrain from allowing the open source software to be used to COERCIVELY concentrate and consolidate wealth and power, to lessen the chance that any tyrant can engage in any self-righteous "reign of terror."  
+
+The Danton general public license is almost exactly like the GNU General Public License, except that the Danton Public License obliges users to THINK about consequences of software architecture on how individuals, organizations and governments operate. 
 
 Specifically, we must think about the consequences of [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law), which states *"organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."*  
 
