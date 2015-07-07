@@ -16,11 +16,13 @@ The Danton general public license is almost exactly like the GNU General Public 
 
 Specifically, we must think about the consequences of [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law), which states *"organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."*  
 
-Conversely, Danton's Law states that *"Software architecture defines an organization's ability to learn about customer or client needs and to serve those needs.  It is the responsibility of those who understand software architecture to refuse to participate in enabling the COERCIVE concentration of wealth and power that always results in a democidal reign of terror."*  We are not worried about power and wealth accumulating those those on the the basis of merit.  The competition of the free market rewards companies that produce good products and provide good service; it punishes those who provide less than satisfactory products and services.  
+Conversely, Danton's Law states that *"Software architecture defines an organization's ability to learn about customer or client needs and to serve those needs.  It is the responsibility of those who understand software architecture to refuse to participate in enabling the COERCIVE concentration of wealth and power that always results in a democidal reign of terror."*  
+
+It is worth pointing out that we are not especially worried about power and wealth accumulating those those on the the basis of merit.  For example: competition in the free marketplace rewards organizations that produce good products and provide good service with more resources while simultaneously denying access to resources to those who provide less than satisfactory products and services. Competition is good; coercive restriction on competition is bad.  
 
 Danton General Public License is about more aggressively, but VOLUNTARILY defending freedom.  Anti-freedom is about the COERCIVE concentration of power and wealth that we find in organizations that use government's monopoly on violence in order to extract extra wealth and power from the less wealthy and less powerful.
 
-# When we speak of free software, we are referring to freedom of coercion, not price.  
+# When we speak of free software, we are referring to FREEDOM from coercion and coercive restictions, not price.  
 
 The GNU and Danton General Public Licenses were designed to make sure that you
 have the freedom to distribute copies of free software (and charge for
