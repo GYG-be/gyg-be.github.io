@@ -1,25 +1,22 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 2, June 1991
+# DANTON GENERAL PUBLIC LICENSE
+# Version 1, July 2015
 
- Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
- 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
 
                             Preamble
 
-  The licenses for most software are designed to take away your
-freedom to share and change it.  By contrast, the GNU General Public
-License is intended to guarantee your freedom to share and change free
-software--to make sure the software is free for all its users.  This
-General Public License applies to most of the Free Software
-Foundation's software and to any other program whose authors commit to
-using it.  (Some other Free Software Foundation software is covered by
-the GNU Lesser General Public License instead.)  You can apply it to
-your programs, too.
+Licenses for most software are designed to take away your freedom to share and change it.  
 
-# When we speak of free software, we are referring to freedom, not
-price.  
+By contrast, the GNU General Public License was intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.  
+
+The Danton General Public License specifically obliges the user of the software to THINK about consequences, to defend the liberty and freedom of others in the future.  To the extent possible the user of the software must refrain from allowing the open source software to be used to concentrate and consolidate wealth and power, to lessen the chance that any tyrant can engage in any self-righteous "reign of terror."  
+
+The Danton general public license is exactly like the GNU General Public License, except that the Danton Public License obliges users to THINK about consequences of software architecture. 
+
+Specifically, we must think about the consequences of [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law), which states *"organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."*  
+
+Conversely, Danton's Law states that *"Software architecture defines an organizations ability to learn and serve.It is the responsibility of those who understand software architecture to refuse to enable the concentration of wealth and power that results in a reign of terror."*
+
+# When we speak of free software, we are referring to freedom of thought, not price.  
 
 Our General Public Licenses are designed to make sure that you
 have the freedom to distribute copies of free software (and charge for
