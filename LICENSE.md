@@ -6,7 +6,7 @@
 
 Licenses for most software are designed to take away your freedom to share and change it.  By contrast, the GNU General Public License was intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.  
 
-# Your FREEDOM is about you. Sustaining that freedome depends on your VOLUNTARY actions to expand and defend freedom for others and yourself.
+# Your FREEDOM is about you. Sustaining that freedom depends on your VOLUNTARY actions to expand and defend freedom for others and yourself.
 
 The [DANTON](https://en.wikipedia.org/wiki/Georges_Danton) General Public License is about revolution.  The DANTON General Public License empowers you and obliges you to THINK for yourself and to voluntarily engage in fighting to expand freedom and defend liberty for others ... you are empowered by this License, but be careful with your revolution. If you let power go to your head, you'll lose it!
 
