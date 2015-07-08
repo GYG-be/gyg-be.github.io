@@ -6,59 +6,29 @@
 
 Licenses for most software are designed to take away your freedom to share and change it.  By contrast, the GNU and Danton General Public Licenses are intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.  
 
-##### Your FREEDOM is about you. Sustaining that freedom depends on your VOLUNTARY actions to expand and defend freedom for others and yourself.
+Your FREEDOM is about you. Sustaining that freedom depends on your VOLUNTARY actions to expand and defend freedom for others and yourself.
 
-The Danton General Public License is about you thinking a bit harder about exactly what type of revolution you want to lead.  
+The Danton General Public License recognizes that there ought to be limits on what any individual can force others to do ... FREEDOM is about deliberate VOLUNTARY action. The Danton General Public License is about more aggressively, but VOLUNTARILY defending freedom by refusing to participate in or enable coercion.  Anti-freedom is about the COERCIVE concentration of power and wealth that we find in powerful and wealthy organizations which use government's monopoly on violence in order to extract even more wealth and power from the less wealthy and less powerful.
 
-The Danton General Public License empowers you to be revolutionary fighter for freedom. Freedom entails obligations and cost. The Danton General Public License obliges you to THINK for yourself and to voluntarily engage in fighting to expand freedom and defend liberty for others ... you are empowered by the Danton General Public License, but you are encouraged be careful with your revolution. [As the French Revolution teaches us](https://en.wikipedia.org/wiki/Georges_Danton), when you let power go to your head, you'll lose it!
+When we speak of free software, we are referring to FREEDOM from coercion and freedom from coercively enforced restictions against extending, modifying and adapting a tool. Freedom is not about price or what can be charged for a product or service -- freedom is certainly not about working for free.  
 
-The Danton General Public License recognizes that there ought to be limits on what any individual can force others to do ... FREEDOM is about deliberate VOLUNTARY action.  To the extent possible, the user of the software, licensed under the Danton General Public License, must refrain from allowing the open source software to be used to COERCIVELY concentrate and consolidate wealth and power, to lessen the chance that any tyrant can engage in any self-righteous "reign of terror."  
+The GNU and Danton General Public Licenses were designed to make sure that you have the freedom to distribute copies of free software (and charge for this service if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs; and that you know you can do these things.
 
-The Danton general public license is almost exactly like the GNU General Public License, except that the Danton Public License obliges users to THINK about consequences of software architecture on how individuals, organizations and governments operate.
+To protect your rights, we need to ask you to voluntarily join the fight for freedom by making restrictions that forbid anyone to deny you these rights or to ask you to surrender the rights. These restrictions translate to certain responsibilities for you if you distribute copies of the software, or if you modify it.
 
-Specifically, we must think about the consequences of [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law), which states *"organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."*  
+For example, if you distribute copies of such a program, whether gratis or for a fee, you must give the recipients all the rights that you have.  You must make sure that they, too, receive or can get the source code.  And you must show them these terms so they know their rights.
 
-Conversely, Danton's Law states that *"Software architecture defines an organization's ability to learn about customer or client needs and to serve those needs.  It is the responsibility of those who understand software architecture to refuse to participate in enabling the COERCIVE concentration of wealth and power that always results in a democidal reign of terror."*  
+We protect your rights with THREE steps:
 
-It is worth pointing out that we are not especially worried about power and wealth accumulating those those on the the basis of merit.  For example: competition in the free marketplace rewards organizations that produce good products and provide good service with more resources while simultaneously denying access to resources to those who provide less than satisfactory products and services. Competition is good; coercive restriction on competition is bad.  
+(1) copyright the software, and
 
-Danton General Public License is about more aggressively, but VOLUNTARILY defending freedom.  Anti-freedom is about the COERCIVE concentration of power and wealth that we find in organizations that use government's monopoly on violence in order to extract extra wealth and power from the less wealthy and less powerful.
+(2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
 
-##### When we speak of free software, we are referring to FREEDOM from coercion and freedom from coercively enforced restictions against extending, modifying and adapting a tool. Freedom is not about price or what can be charged for a product or service -- freedom is certainly not about working for free.  
+(3) ask you to THINK and to voluntarily engage in the fight for DISTRIBUTED freedom, rather than enabling the COERCIVE concentration of wealth and power.  {The added third step lacks the authority of law for a fundamental reason: ALL laws and legal protectioin depend upon just authority granted by the consent of those governed. Governments and courts are not the source of your rights -- YOU ARE.}
 
-The GNU and Danton General Public Licenses were designed to make sure that you
-have the freedom to distribute copies of free software (and charge for
-this service if you wish), that you receive source code or can get it
-if you want it, that you can change the software or use pieces of it
-in new free programs; and that you know you can do these things.
+Also, for each author's protection and ours, we want to make certain that everyone understands that there is no warranty for this free software.  If the software is modified by someone else and passed on, we want its recipients to know that what they have is not the original, so that any problems introduced by others will not reflect on the original authors' reputations.
 
-To protect your rights, we need to ask you to voluntarily join the fight for freedom by making restrictions that forbid
-anyone to deny you these rights or to ask you to surrender the rights.
-These restrictions translate to certain responsibilities for you if you
-distribute copies of the software, or if you modify it.
-
-For example, if you distribute copies of such a program, whether
-gratis or for a fee, you must give the recipients all the rights that
-you have.  You must make sure that they, too, receive or can get the
-source code.  And you must show them these terms so they know their
-rights.
-
-We protect your rights with THREE steps: (1) copyright the software, and
-(2) offer you this license which gives you legal permission to copy,
-distribute and/or modify the software. (3) ask you to THINK and to voluntarily engage in the fight for DISTRIBUTED freedom, rather than enabling the COERCIVE concentration of wealth and power.  {The added third step lacks the authority of law for a fundamental reason: ALL laws and legal protectioin depend upon just authority granted by the consent of those governed. Governments and courts are not the source of your rights -- YOU ARE.}
-
-  Also, for each author's protection and ours, we want to make certain
-that everyone understands that there is no warranty for this free
-software.  If the software is modified by someone else and passed on, we
-want its recipients to know that what they have is not the original, so
-that any problems introduced by others will not reflect on the original
-authors' reputations.
-
-  Finally, any free program is threatened constantly by software
-patents.  We wish to avoid the danger that redistributors of a free
-program will individually obtain patent licenses, in effect making the
-program proprietary.  To prevent this, we have made it clear that any
-patent must be licensed for everyone's free use or not licensed at all.
+Finally, any free program is threatened constantly by software patents.  We wish to avoid the danger that redistributors of a free program will individually obtain patent licenses, in effect making the program proprietary.  To prevent this, we have made it clear that any patent must be licensed for everyone's free use or not licensed at all.
 
 The precise terms and conditions for copying, distribution and modification follow those of the GNU General Public License.  Please read those terms.
 
