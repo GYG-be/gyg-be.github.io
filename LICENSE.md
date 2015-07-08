@@ -4,17 +4,17 @@
 
                             Part Manifesto, Part Preamble
 
-Licenses for most software are designed to take away your freedom to share and change it.  By contrast, the GNU General Public License was intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.  
+Licenses for most software are designed to take away your freedom to share and change it.  By contrast, the GNU and Danton General Public Licenses are intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.  
 
 ##### Your FREEDOM is about you. Sustaining that freedom depends on your VOLUNTARY actions to expand and defend freedom for others and yourself.
 
-The [DANTON](https://en.wikipedia.org/wiki/Georges_Danton) General Public License is about you thinking a bit harder about exactly what type of revolution you want to lead.  
+The Danton General Public License is about you thinking a bit harder about exactly what type of revolution you want to lead.  
 
-The DANTON General Public License empowers you to be revolutionary actor. But it obliges you to THINK for yourself and to voluntarily engage in fighting to expand freedom and defend liberty for others ... you are empowered by the Danton General Public License, but you are encouraged be careful with your revolution. If you let power go to your head, you'll lose it!
+The Danton General Public License empowers you to be revolutionary fighter for freedom. Freedom entails obligations and cost. The Danton General Public License obliges you to THINK for yourself and to voluntarily engage in fighting to expand freedom and defend liberty for others ... you are empowered by the Danton General Public License, but you are encouraged be careful with your revolution. [As the French Revolution teaches us](https://en.wikipedia.org/wiki/Georges_Danton), when you let power go to your head, you'll lose it!
 
-The Danton General Public License recognizes that there ought to be limits on what any individual can force others to do ... FREEDOM is about VOLUNTARY action.  To the extent possible, the user of the software, licensed under the DANTON General Public License, must refrain from allowing the open source software to be used to COERCIVELY concentrate and consolidate wealth and power, to lessen the chance that any tyrant can engage in any self-righteous "reign of terror."  
+The Danton General Public License recognizes that there ought to be limits on what any individual can force others to do ... FREEDOM is about deliberate VOLUNTARY action.  To the extent possible, the user of the software, licensed under the Danton General Public License, must refrain from allowing the open source software to be used to COERCIVELY concentrate and consolidate wealth and power, to lessen the chance that any tyrant can engage in any self-righteous "reign of terror."  
 
-The Danton general public license is almost exactly like the GNU General Public License, except that the Danton Public License obliges users to THINK about consequences of software architecture on how individuals, organizations and governments operate. 
+The Danton general public license is almost exactly like the GNU General Public License, except that the Danton Public License obliges users to THINK about consequences of software architecture on how individuals, organizations and governments operate.
 
 Specifically, we must think about the consequences of [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law), which states *"organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."*  
 
@@ -45,7 +45,7 @@ rights.
 
 We protect your rights with THREE steps: (1) copyright the software, and
 (2) offer you this license which gives you legal permission to copy,
-distribute and/or modify the software. (3) ask you to THINK and to voluntarily engage in the fight for DISTRIBUTED freedom, rather than enabling the COERCIVE concentration of wealth and power.  {The added third step lacks the authority of law for a fundamental reason: ALL laws and legal protectioin depend upon just authority granted by the consent of those governed. Governments and courts are not the source of your rights -- YOU ARE.} 
+distribute and/or modify the software. (3) ask you to THINK and to voluntarily engage in the fight for DISTRIBUTED freedom, rather than enabling the COERCIVE concentration of wealth and power.  {The added third step lacks the authority of law for a fundamental reason: ALL laws and legal protectioin depend upon just authority granted by the consent of those governed. Governments and courts are not the source of your rights -- YOU ARE.}
 
   Also, for each author's protection and ours, we want to make certain
 that everyone understands that there is no warranty for this free
@@ -343,4 +343,3 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
-
