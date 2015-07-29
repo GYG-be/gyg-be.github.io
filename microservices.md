@@ -63,7 +63,7 @@
 
 ## Expedient hackery to build a USEFUL model without modeling too much detail
 
-## Developer Concerns -- Agile, Lean, Rugged -- Faster, Cheaper, safer
+## Developer Concerns -- Agile, Lean, Rugged -- Faster, Cheaper, Safer
 
 ## Zipkin Browser
 
