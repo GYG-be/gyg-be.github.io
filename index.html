@@ -1,52 +1,23 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+---
+layout: default
+---
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+<div class="home">
 
-    <title>MarkBruns.GitHub.io by MarkBruns</title>
-  </head>
+  <h1 class="page-heading">Posts</h1>
 
-  <body>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-    <header>
-      <div class="container">
-        <h1>MarkBruns.GitHub.io</h1>
-        <h2>August 18 2015</h2>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-        <section id="downloads">
-          <a href="https://github.com/MarkBruns" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-    <div class="container">
-      <section id="main_content">
-        <h3>
-<a id="opensourcist" class="anchor" href="#opensourcist" aria-hidden="true"><span class="octicon octicon-link"></span></a>Graph Databases</h3>
-
-<p>“What if we take the relationships and connections in our data and reimagined our business along those relationships? What would that look like?”</p>
-
-<p>Asking this "What If" question is definitional. Conway's law tells us that many companies will simply not be able to imagine asking this question ... moreover, many people inside those companies would never in a million years think of asking a question like this because they have been conditioned to think in terms of static, pre-defined roles. Culture, companies and most people change very slowly ... speed of delivery [of better solutions] demands that people amp up their game when it comes to changing. Graphs might matter to us, but only because social relationships are DYNAMIC; it is necessary to think about evolution, change and how the knowledge furnished will change and be used..</p>
-
-<pre><code>It's about connect the dots for how others others WILL interact.</pre></code>
-
-<p>What might the methods, tools and technologies of exploring working relationships, examining market interactions ... understanding customers well enough to predict trends in what they will ask for.</p>
-
-
-<p>...</p>
-
-<p>Next: <a href="https://MarkBruns.GitHub.io/20150821.html" target="_blank">More Graph Databases</a> ... see also http://www.dougengelbart.org/about/collective-iq.html</p>
-
-<p>From the ARCHIVE: <a href="https://MarkBruns.GitHub.io/20150809.html" target="_blank">Tell me how I can be of service!</a></p>
-
-    </section>
-    </div>
-
-
-  </body>
-</html>
+</div>
