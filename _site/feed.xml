@@ -5,8 +5,8 @@
     <description>This is the Tech Blog for MarkBruns</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Sep 2015 15:45:11 -0500</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2015 15:45:11 -0500</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2015 15:52:41 -0500</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2015 15:52:41 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -18,6 +18,8 @@
 &lt;p&gt;Enter GitHub and the GitHubification of professional work and what has happened in explosively successful companies like &lt;a href=&quot;http://techblog.netflix.com/&quot;&gt;Netflix&lt;/a&gt;. &lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;Open source socially-produced code has arrived&lt;/a&gt; because the most savvy DevOps engineers thoroughly understand why collaborating on an open source team is not only fun and that the collaborative effort also “moves the ball ahead” for everyone … there’s a private intrinsic reward, but with the &lt;a href=&quot;https://help.github.com/categories/graphs-and-contributions/&quot;&gt;GitHub graphs and contributions metrics&lt;/a&gt; there is also the direct professional recognition [and possible financial reward] that comes from the public trail of commits.&lt;/p&gt;
 
 &lt;p&gt;The transparency and code-graphhing of Github is really nothing more than the reliability growth analysis and collecting, modeling, analyzing and interpreting data from the code graph of a open source development program.  We assess the trajectory of the time and money required to develop a solution by looking at the GitHub codegraph … but in order to really understand the GitHub codegraph we need to have an appreciation for &lt;a href=&quot;https://en.wikipedia.org/wiki/Git_(software)&quot;&gt;Git&lt;/a&gt; and the &lt;a href=&quot;https://en.wikipedia.org/wiki/Git_(software)&quot;&gt;history of and rational for distributed version control systems&lt;/a&gt; and the practical nuts-and-bolts of the &lt;a href=&quot;https://youtu.be/FyfwLX4HAxM?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&quot;&gt;foundations of Git, use Git on the command line and the Github graphical user interfaces&lt;/a&gt;… and of course we should understand the economics of &lt;a href=&quot;https://www.quora.com/What-makes-GitHub-such-an-important-and-strategic-web-property&quot;&gt;what the GitHub social coding ecosystem is about&lt;/a&gt; or how &lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;GitHub conquered Microsoft and Google and everyone else&lt;/a&gt; and what &lt;a href=&quot;https://help.github.com/articles/be-social/&quot;&gt;being social&lt;/a&gt; and then &lt;a href=&quot;https://developer.github.com/program/&quot;&gt;extending Github platform&lt;/a&gt; is about.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t worry if this doesn’t make sense yet, it will&lt;/strong&gt; … it will make more and more sense to you as you &lt;strong&gt;use Github&lt;/strong&gt; to collaborate with other developers and use that experience to show you how to evaluate the GitHub codegraphs of various &lt;a href=&quot;https://help.github.com/articles/about-repository-graphs/&quot;&gt;development repositories&lt;/a&gt; and &lt;a href=&quot;https://help.github.com/articles/viewing-contributions-on-your-profile-page/&quot;&gt;developer progress&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Aug 2015 03:30:00 -0500</pubDate>
         <link>/technology/2015/08/28/The-GitHubification-of-Professional-Life.html</link>
