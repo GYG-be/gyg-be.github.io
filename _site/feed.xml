@@ -5,13 +5,15 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Sep 2015 10:34:38 -0500</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 10:34:38 -0500</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2015 11:17:50 -0500</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2015 11:17:50 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Workflow-As-Code ... More True Git</title>
-        <description>&lt;p&gt;&lt;strong&gt;What if we take the relationships and connections in OUR workflow and reimagined OUR professional project life along data-driven algorithmic critical chain relationships? What would our project management skills and daily look like if ALL of the people with who we were collaborating on the same version-controlled Âroadmap?&lt;/strong&gt; Workflow should be driven by FLOW of work using Git. &lt;strong&gt;How can more transparent and equitable organizations give professionals more feedback AND control over their Gitflow?&lt;/strong&gt;”&lt;/p&gt;
+        <description>&lt;p&gt;If you want a label, I would label myself as an &lt;a href=&quot;https://en.wikipedia.org/wiki/Anarcho-capitalism&quot;&gt;anarcho-capitalist&lt;/a&gt; … practically, you should wonder how true, peaceful anarchy might come about … without the coercion of the State, how would ever be we able to make truly free markets and private property work without Big Brother.  How would be able to track ownership, hold each other accountable and TRUST one another?  The blockchain distributed database technology might help us do that, but maybe we should look for PRACTICAL examples that are working right now.&lt;/p&gt;
+
+&lt;p&gt;Maybe we should start by considering how we could manage our work togther without the fear, coercion and threat of firing normally found many workplaces.  &lt;strong&gt;How can more transparent and equitable organizations give professionals more feedback AND control over their workflow?&lt;/strong&gt;”  What if we take the relationships and connections in OUR workflow and reimagined OUR professional project life along data-driven algorithmic critical chain relationships? What would our project management skills and daily look like if ALL of the people with who we were collaborating on the same version-controlled roadmap? The practical experience of the most successful emergent firms on the planet right now suggest that the way that we think about systems and workflow should be driven by a FLOW of work that has been made possible by the &lt;a href=&quot;http://git-scm.com/book/en/v2&quot;&gt;professional use of Git database technology&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;It is very important to understand that Git is not just about software … Git will change the workflow of ANYONE doing ANY kind knowledge work [if it hasn’t already].&lt;/p&gt;
 
@@ -19,7 +21,7 @@
 
 &lt;p&gt;Git software didn’t exist just a little 10 years ago; it was created for the Linux kernel, but Git’s impact will probably be larger than Linux – because of how Git provides for distributed, decentralized team workflows for geographically-dispersed teams&lt;/p&gt;
 
-&lt;p&gt;Github [the largest host of Git repositories] provides for a common, standardized, hyper-efficient Git workflow … the Github workflow is so efficient because it applies seamlessly as developers or authors switch to OTHER open source projects and other teams that are using GitHub … Github has had a GIGANTIC impact on software development in the last five years and this impact is expanding … all kinds of knowledge workers who write books or develop any kind of content collaboratively are moving to Git and Github  … it is worth reading the account of Github’s rise on Wired magazine to understand the larger significance of what Github is about.&lt;/p&gt;
+&lt;p&gt;Github [the largest host of Git repositories] provides for a common, standardized, hyper-efficient Git workflow … the Github workflow is so efficient because it applies seamlessly as developers or authors switch to OTHER open source projects and other teams that are using GitHub … Github has had a GIGANTIC impact on software development in the last five years and this impact is expanding … all kinds of knowledge workers who write books or develop any kind of content collaboratively are moving to Git and Github  … it is worth reading the account of Github’s rise on Wired magazine to understand the larger significance of what &lt;a href=&quot;http://www.wired.com/tag/github/&quot;&gt;Github&lt;/a&gt; is about.&lt;/p&gt;
 
 &lt;p&gt;With Git all authors participating in a project have version-controlled copies of the entire project repository [or repositories] on their own local machines.  Git manages the edits/revisions while providing full tracking of exactly who did what to the code or text document … Git also retains all branches or forks – ALL of the creation/edit/revision/merge history is there, so there don’t have to be any worries about deletions or unwanted changes.  This allows for COMFORTABLY adopting a radically decentralized, distributed workflow for dispersed teams as well as meshing people with unconventional schedules (eg nightowls collaborating with early-risers and normal people with 9-to-5 jobs who code after hours).&lt;/p&gt;
 
