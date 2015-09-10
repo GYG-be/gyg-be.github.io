@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Workflow-As-Code"
+title:  "Workflow-As-Code ... More True Git"
 date:   2015-09-09 8:30:00
 categories: Workflow-As-Code
 ---
