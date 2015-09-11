@@ -8,7 +8,7 @@ If you want to make a difference and change the world, you must first change you
 
 Reading A LOT is the first step to skillfully curating content and thinking ahead, learning how to learn what will be important and doing more serious work with automating data and data APIs. Advanced work with data is essential for understanding the flow of information [in both the digital and non-digital realms].  Trust, integrity, information security and everything impacting the social contract is all about information flow, misdirection, obfuscation and bias.  Everything is biased and you really don't have a prayer of beginning to understand the biases without the perspective you get from doing a LOT of reading and interacting with other thinkers who do a lot of reading.  If you think this is tough now [and you should or you really don't understand quantum reading], reading is getting tougher every single day and even with better content filters, there is going to be a lot more to read.
 
-# Develop your OWN reading list ... OWN that list.
+# Develop your OWN reading list of 25 things to read ... curate content, OWN that list, control what is going into your brain.
 
 1. Learn how to learn on your own, learn by teaching others, study the process for how the best MOOCs/wikis/content repositoriess were created
 2. Git, Git foundations, Git flow, Git mastery, Github, taking Git to the next level
