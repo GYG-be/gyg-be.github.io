@@ -8,6 +8,35 @@ If you want to make a difference and change the world, you must first change you
 
 Reading A LOT is the first step to skillfully curating content and thinking ahead, learning how to learn what will be important and doing more serious work with automating data and data APIs. Advanced work with data is essential for understanding the flow of information [in both the digital and non-digital realms].  Trust, integrity, information security and everything impacting the social contract is all about information flow, misdirection, obfuscation and bias.  Everything is biased and you really don't have a prayer of beginning to understand the biases without the perspective you get from doing a LOT of reading and interacting with other thinkers who do a lot of reading.  If you think this is tough now [and you should or you really don't understand quantum reading], reading is getting tougher every single day and even with better content filters, there is going to be a lot more to read.
 
+# Develop your OWN reading list ... OWN that list.
+
+1. Learn how to learn on your own, learn by teaching others, study the process for how the best MOOCs/wikis/content repositoriess were created
+2. Git, Git foundations, Git flow, Git mastery, Github, taking Git to the next level
+3. Lock at the world of blogging, writing, publishin; evaluate ASCIIdoctor, Amazon or O'Reilly Atlas publishing platforms
+4. Work on being more empathetic, become a listening leader
+5. Look at social media and platforms for managing social media like Hootsuite; LISTEN with analytics and tracking tools
+6. Look at important cultural developments, eg. Bitcoin culture and cryptocurrencies; study the distributed, decentralized architecture of blockchain database technology
+7. Lifehack, find ways to optimize your workflow, your calendars, your todo lists, your inboxes; do a better job of using chat especially if connected to repositories, capture notes with Evernote
+8. Become more fit, become tougher, find ways to eliminate your health/wellness weaknesses
+9. Become more aware of nutrition, cooking, nutrigenomics; sample your microbiome
+10. Become more proficient at communication; use Facetime, Google Hangouts and other alternatives to driving/flying to meetings and conferences; make better use of meetings and conferences
+11. Look into video production as well as video surveillance and video security; control your projector; do not passively consume content from others
+12. Become proficient at photography and the use of cameras, especially the cameras on your phone.
+13. Study cryptography, steganography, hashing, security
+14. Algorithms for the sake of thinking algorithmically
+15. Mathematics, statistics, physics ... for their own sake ... just because
+16. 86400 seconds per day; appreciate every one of them by scrupulously and diligently managing and optimizing the value of your TIME
+17. Work at mastery of martial arts and healing arts
+18. Study meditation and lojong techniques
+19. Art for art's sake
+20. Music for music's sake
+21. Learn new databases, concurrency frameworks, languages, RT/FT/security kernels for operating systems
+22. Pay attention to LARGER news stories while ignoring MOST of the news; learn a few languages that might really matter ... Mandarin, Russian, English
+23. History, biography, philosophy
+24. Cooking, food, agriculture, soils, gardening, microbrewing, opengermplasm
+25. Do not ignore culture, fashion, counterculture ... what are the 25 biggest things that are happening in culture right now?
+
+
 # Political economics and social choice theory
 If you want to understand government, you need to ask the fundamental questions ... [Bastiat](http://bastiat.org/en/the_law.html#SECTION_G004) was doing this a LONG TIME ago ... but some of us are still trying to work on [overcoming naivete when it comes to government](https://medium.com/@AngrBodhisattva/around-6-30-a-m-on-november-4-1979-in-tehran-4e086e412d9d).
 
