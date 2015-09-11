@@ -11,12 +11,12 @@ Reading A LOT is the first step to skillfully curating content and thinking ahea
 
 # Develop your OWN reading list of 25 things to read ... curate content, OWN that list, be in control and ready to read to control what is going into your brain.
 
-1. Learn how to learn on your own, learn by teaching others, study the process for how the best MOOCs/wikis/content repositoriess were created
-2. Git, Git foundations, Git flow, Git mastery, Github, taking Git to the next level
-3. Lock at the world of blogging, writing, publishin; evaluate ASCIIdoctor, Amazon or O'Reilly Atlas publishing platforms
-4. Work on being more empathetic, become a listening leader
-5. Look at social media and platforms for managing social media like Hootsuite; LISTEN with analytics and tracking tools
-6. Look at important cultural developments, eg. Bitcoin culture and cryptocurrencies; study the distributed, decentralized architecture of blockchain database technology
+1. Learn how to learn on your own, learn by teaching others, study the process for how the best MOOCs/wikis/content repositories were created
+2. Work on ways to be more empathetic, become a listening leader, find ways to accelerate kindness by helping those who help others
+3. [Git](https://www.youtube.com/watch?v=ZDR433b0HJY), distributed control systems and Git foundations, Git branching and flow, [Git mastery](https://github.com/progit/progit2), Github, [Github jobs API](https://jobs.github.com/api), the [GitHub blog](https://github.com/blog), taking Git to the next level
+4. Look at social media and platforms for managing social media like [Hootsuite](https://hootsuite.com/dashboard) to [effectively network professionally](https://www.safaribooksonline.com/library/view/manage-your-job/9781680501377/chap14.xhtml) and manage the ROI of your social media as you LISTEN with analytics and tracking tools
+5. Lock at the world of writing and publishing [beyond microblogging and blogging]; evaluate ASCIIdoctor, Amazon or O'Reilly Atlas publishing platforms
+6. Look at important cultural developments, eg. [Bitcoin](https://www.safaribooksonline.com/library/view/mastering-bitcoin/9781491902639/) technological stack and how it has driven culture and cryptocurrencies; study the distributed, decentralized architecture of [blockchain](https://www.youtube.com/playlist?list=PLb68nxJHvj10JvS-lebOb-FHHeWUMpwKO) database technology
 7. Lifehack, find ways to optimize your workflow, your calendars, your todo lists, your inboxes; do a better job of using chat especially if connected to repositories, capture notes with Evernote
 8. Become more fit, become tougher, find ways to eliminate your health/wellness weaknesses
 9. Become more aware of nutrition, cooking, nutrigenomics; sample your microbiome
@@ -24,18 +24,18 @@ Reading A LOT is the first step to skillfully curating content and thinking ahea
 11. Look into video production as well as video surveillance and video security; control your projector; do not passively consume content from others
 12. Become proficient at photography and the use of cameras, especially the cameras on your phone.
 13. Study cryptography, steganography, hashing, security
-14. Algorithms for the sake of thinking algorithmically
+14. [Algorithms](https://www.safaribooksonline.com/library/view/algorithms-fourth-edition/9780132762564/), [Conway's Law](https://youtu.be/Lwdhw8aI8es?list=PL055Epbe6d5YhDchEvY3O4nIuSLYyrx7K) and thinking algorithmically
 15. Mathematics, statistics, physics ... for their own sake ... just because
 16. 86400 seconds per day; appreciate every one of them by scrupulously and diligently managing and optimizing the value of your TIME
 17. Work at mastery of martial arts and healing arts
 18. Study meditation and lojong techniques
-19. Art for art's sake
-20. Music for music's sake
+19. Appreciate nature without any political bullshit or biases or filters ... raise worms, become a beekeeper, grow a garden in order to be part of nature
+20. Appreciate art for the art's sake (not necessarily because you like it or it pleases you); listen to music for the music's sake
 21. Learn new databases, concurrency frameworks, languages, RT/FT/security kernels for operating systems
 22. Pay attention to LARGER news stories while ignoring MOST of the news; learn a few languages that might really matter ... Mandarin, Russian, English
-23. History, biography, philosophy
+23. Enjoy history, biography, philosophy
 24. Cooking, food, agriculture, soils, gardening, microbrewing, opengermplasm
-25. Do not ignore culture, fashion, counterculture ... what are the 25 biggest things that are happening in culture right now?
+25. Do not ignore pop culture, fashion, counterculture ... and of course, [what are the biggest things that are happening in the workplace or work culture right now](http://www.forbes.com/sites/joshbersin/2015/03/13/culture-why-its-the-hottest-topic-in-business-today/)?
 
 
 # Political economics and social choice theory
