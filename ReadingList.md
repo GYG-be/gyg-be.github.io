@@ -33,17 +33,14 @@ Reading A LOT is the first step to skillfully curating content and thinking ahea
 20. Appreciate art for the art's sake (not necessarily because you like it or it pleases you); listen to music for the music's sake
 21. Learn new databases, concurrency frameworks, languages, RT/FT/security kernels for operating systems
 22. Pay attention to LARGER news stories while ignoring MOST of the news; learn a few languages that might really matter ... Mandarin, Russian, English
-23. Enjoy history, biography, philosophy
+23. Enjoy history, biography, philosophy, political economy, social choice theory
 24. Cooking, food, agriculture, soils, gardening, microbrewing, opengermplasm
 25. Do not ignore pop culture, fashion, counterculture ... and of course, [what are the biggest things that are happening in the workplace or work culture right now](http://www.forbes.com/sites/joshbersin/2015/03/13/culture-why-its-the-hottest-topic-in-business-today/)?
 
 
-# Political economics and social choice theory
-If you want to understand government, you need to ask the fundamental questions ... [Bastiat](http://bastiat.org/en/the_law.html#SECTION_G004) was doing this a LONG TIME ago ... but some of us are still trying to work on [overcoming naivete when it comes to government](https://medium.com/@AngrBodhisattva/around-6-30-a-m-on-november-4-1979-in-tehran-4e086e412d9d).
-
 # Git foundations and the Githubification of the professional devops world
 
-# Social Production or Commons-Based Peer Production (CBPP)
+- Social Production or Commons-Based Peer Production (CBPP)
 
 # Blockchain and Bitcoin
 
@@ -63,3 +60,6 @@ If you want to understand government, you need to ask the fundamental questions 
  Understanding the abstract, higher level things is always insufficient ... if you don't understand [at least approximately] how the lower level *magic* works, you believe in things you do not understand and you will suffer ... for example, many bitcoin fans believe in the magic of bitcoin, simply because it's the underdog currency while others dismiss bitcoin [along with blockchain databases, bitcoin protocol and the cryptocurrency wallets and all kinds of other alt payments technologies] simply because they believe it is nothing more than the underdog currency or a something pertinent only to the culture of disenfranchised tech geeks.  That sort of superficial understanding is completely insufficent for hardened, rational assesment of a technology ... OR for making choices about ANYTHING in the algorithmically-driven smart.  
 
  In order to effectively use and design [distributed] databases for lower latency, responsiveness or rapid retrieval [when data is needed], it is necessary think about applying more appropriate or efficient algorithms that exploit the particular attributes of data for managing or indexing data stores.  Toward that end, it is important to develop a better working understanding of things like [hash functions](https://en.wikipedia.org/wiki/Hash_function), [checksums](https://en.wikipedia.org/wiki/Checksum), [check digits](https://en.wikipedia.org/wiki/Check_digit), [digital fingerprinting algorithms](https://en.wikipedia.org/wiki/Fingerprint_%28computing%29), [randomization functions](https://en.wikipedia.org/wiki/Randomization_function), [forward error-correction](https://en.wikipedia.org/wiki/Forward_error_correction), [network coding](https://en.wikipedia.org/wiki/Linear_network_coding), [cryptographic ciphers](https://en.wikipedia.org/wiki/Cipher), [blockchain](https://en.wikipedia.org/wiki/Block_chain_(database)), [distributed databases](https://en.wikipedia.org/wiki/Distributed_database) and a variety of topics in [coding theory](https://en.wikipedia.org/wiki/Coding_theory).
+
+# Political economics and social choice theory
+ If you want to understand government, you need to ask the fundamental questions ... [Bastiat](http://bastiat.org/en/the_law.html#SECTION_G004) was doing this a LONG TIME ago ... but some of us are still trying to work on [overcoming naivete when it comes to government](https://medium.com/@AngrBodhisattva/around-6-30-a-m-on-november-4-1979-in-tehran-4e086e412d9d).
