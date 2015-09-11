@@ -4,7 +4,7 @@ title:  "Workflow-As-Code ... Toward a Truer Git"
 date:   2015-09-09 8:30:00
 categories: Workflow-As-Code
 ---
-How can we enable a better culture?  If you want a label, I would label myself as an [anarcho-capitalist](https://en.wikipedia.org/wiki/Anarcho-capitalism) ... because anyone who really wants to be be labeled as a anarchist needs to not just criticize but practically CREATE a better world.
+How can we enable a better culture?  If you want a label for me, label me as an [anarcho-capitalist](https://en.wikipedia.org/wiki/Anarcho-capitalism) ... because anyone who really wants to be be labeled as a anarchist needs to not just criticize but practically CREATE a better world ... CREATING SOMETHING BETTER IS THE MOST ENLIGHTENED FORM OF CRITICISM!
 
 In my view, anarchists have to stop whining and start inventing the paths to a truly voluntary and peaceful anarchy.  Irresponsible goofballs will prep for some sort of apocalyptic revolution but that's an idiotic, destructive waste of time.  There is PRACTICAL HARD REAL work for serious anarchiest to do ... we need to get serious and focus on creating a world based on leadership rather than fear, a culture that outgrows, outcompetes without the coercion of the State.  We need to think hard about how we would ever be we able to make truly free markets and private property work without Big Brother.  How would we be able to allocate resources, track ownership of assets, hold each other accountable and establish the necessary TRUST NETWORKS to form the basis of a productive, voluntary culture?  
 
