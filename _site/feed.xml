@@ -5,13 +5,19 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Sep 2015 14:03:52 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2015 14:03:52 -0500</lastBuildDate>
+    <pubDate>Sun, 13 Sep 2015 12:35:28 -0500</pubDate>
+    <lastBuildDate>Sun, 13 Sep 2015 12:35:28 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Workflow-As-Code ... Toward a Truer Git</title>
-        <description>&lt;p&gt;How can we enable a better culture?  The practical experience of the most successful emergent firms on the planet right now suggest that the way that we think about systems and workflow should be driven by a FLOW of work that has been made possible by the &lt;a href=&quot;http://git-scm.com/book/en/v2&quot;&gt;professional use of Git database technology&lt;/a&gt;.  Git software didn’t exist just a little 10 years ago; it was created for the Linux kernel, but Git’s impact will probably be larger than Linux – because of how Git provides for distributed, decentralized team workflows for geographically-dispersed teams.  Although Git might have emerged from a particular software development need, it is very important to understand that the uses for Git are not just about software … Git will change the workflow of ANYONE doing ANY kind knowledge work [if it hasn’t already].&lt;/p&gt;
+        <title>Workflow-As-Code ... Culture Drives Freedom And Responsibility</title>
+        <description>&lt;p&gt;How can we enable a healthier, more enjoyable, more productive culture?&lt;/p&gt;
+
+&lt;p&gt;The practical experience of the most successful emergent firms on the planet right now, such as Netflix or Uber or any emergent company you want to pick, suggest that a better, more dynamic and antifragile culture is NOT a matter of diversity quotas or cool perks or quirky policy or any nice little participation ribbon tied to some secondary or tertiary initiative that was allowed to pollute the work environment … the most important thing about a better culture is customer-driven focus … that means that everyone must respect and serve the central mission of the organization with an expectation of performance and delivery on SMART objectives that are aligned to the customer-driven focus … a better culture comes with the freedom and responsibility to build personal and professional independence and to be able to move on to something that serves customers even better.&lt;/p&gt;
+
+&lt;p&gt;It is about lean thinking, seeing waste and designing the non-value-added distractions out of the equation and optimizing the flow past the constraints in our systems and our workflow.   A better FLOW of work that has become practically achievable by understanding that all knowledge work is a matter of programming and the opportunity to automate a better workflow with extensible software systems – there are lessons from the &lt;a href=&quot;http://git-scm.com/book/en/v2&quot;&gt;professional use of Git distributed version-control database technology&lt;/a&gt; and the development of extensible, open source software that apply to EVERY business with a future.&lt;/p&gt;
+
+&lt;p&gt;The Git story is one that particularly worth understanding.  Git software didn’t exist just a little 10 years ago; it was created for the Linux kernel, but Git’s impact will probably be larger than Linux – because of how Git provides for distributed, decentralized team workflows for geographically-dispersed teams.  Although Git might have emerged from a particular software development need, it is very important to understand that the uses for Git are not just about software … Git will change the workflow of ANYONE doing ANY kind knowledge work [if it hasn’t already].&lt;/p&gt;
 
 &lt;p&gt;For one thing, a Git workflow radically changes or ELIMINATES meetings … conversations about writing/editing/issues in using code/content in repositories gravitate toward a continually transcripted chat-driven 24x7 conversation with repository-centric chat tools like Gitter … Git is also changing the way that professionals are managed [because everyone can see who is doing what when, so team structures get a lot flatter] AND Git changes the way those professionals develop resumes or portfolios of their collaborative work history.&lt;/p&gt;
 
