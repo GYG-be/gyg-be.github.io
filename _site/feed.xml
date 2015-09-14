@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2015 11:55:50 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 11:55:50 -0500</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2015 12:00:26 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2015 12:00:26 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,11 +21,11 @@
 
 &lt;p&gt;Thanks to the fact that &lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;the open source revolution has FULLY arrived and now legitimately dominates economic growth in the world&lt;/a&gt;, you can and should become an OpenSourcist, join forces with others in something like playing a small role &lt;a href=&quot;https://git-scm.com/community&quot;&gt;the Git community&lt;/a&gt; to create an even better Git or curate a &lt;a href=&quot;https://www.youtube.com/playlist?list=PLElrASo3VHBy9JJzDdkvkqdV0ZlbCCheR&quot;&gt;playlist of useful Git-related videos&lt;/a&gt; or even just convincing others to use a distributed version controls system like Git in a blog posting.  The [Git Documentation repository &lt;a href=&quot;https://github.com/git/git/tree/master/Documentation&quot;&gt;on GitHub&lt;/a&gt; in the &lt;a href=&quot;https://github.com/git/git&quot;&gt;Git source code repository&lt;/a&gt; has several files of interest to developers who are looking to help contribute. After reading the &lt;a href=&quot;https://github.com/git/git/blob/master/Documentation/CodingGuidelines&quot;&gt;coding guidelines&lt;/a&gt;, you can learn &lt;a href=&quot;https://github.com/git/git/blob/master/Documentation/SubmittingPatches&quot;&gt;how to submit patches&lt;/a&gt;. For those looking to get more deeply involved, there is a &lt;a href=&quot;https://github.com/git/git/blob/master/Documentation/howto/maintain-git.txt&quot;&gt;howto for Git maintainers&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Of course, it is also important to not to be too trusting and maintain a situational awareness for what is happening in the open source world – as these projects become significantly larger and much more valuable, the &lt;a href=&quot;http://www.wired.com/2015/07/open-source-going-even-openbecause/&quot;&gt;open source single-sponsor model breaks down&lt;/a&gt;.  There’s a still a lot of proprietary, closed-source evil to fight … there are TONS of allies and they are hard-nosed practical fighters not altuistic idealist pansies … so if you want to be an Open Source warrior, you need to “march toward the sound of gunfire” or find the most awesome startup companies or heavily-starred, heavily-followed ACTIVE repositories, roll up your sleeves and fork and clone different repositories, learn everything you can about the code, learn about the people involved, blog/tweet/evangelize about what they are up to … network with different people doing cool things, help do cool things and then network some more!&lt;/p&gt;
+&lt;p&gt;Of course, it is also important to not to be too trusting and maintain a situational awareness for what is happening in the open source world – as these projects become significantly larger and much more valuable, the &lt;a href=&quot;http://www.wired.com/2015/07/open-source-going-even-openbecause/&quot;&gt;open source single-sponsor model breaks down&lt;/a&gt;.  There’s a still a lot of proprietary, closed-source evil to fight … there are TONS of allies and they are hard-nosed practical fighters not altuistic idealist pansies … so if you want to be an Open Source warrior, you need to “march toward the sound of gunfire” or find the most awesome startup companies or heavily-starred, heavily-followed ACTIVE repositories, roll up your sleeves and fork and clone different repositories, learn everything you can about the code, learn about the people and the organizations that are involved, blog/tweet/evangelize about what they are up to … network with different people doing cool things, help do cool things and then network some more!  Don’t stop fighting.&lt;/p&gt;
 
 &lt;p&gt;If you want to defeat evil, work at creating a PRODUCTIVE community!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;The best way to criticize is to create.  There are opportunities everywhere.  ATTACK! ATTACK!  ATTACK!  The best way to criticize is to create!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The best way to fight is to create.  There are opportunities everywhere.  ATTACK the problems! ATTACK the opportunities! ATTACK! The best way to attack is to create!&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Sep 2015 03:30:00 -0500</pubDate>
         <link>/situational/intelligence/2015/09/16/Situational-Intelligence.html</link>
