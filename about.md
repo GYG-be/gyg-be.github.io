@@ -1,7 +1,0 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-I am [MarkBruns](https://www.linkedin.com/in/markbruns) ... [MarkBruns.github.io](http://MarkBruns.github.io) is my blog about [version-controlled](https://en.wikipedia.org/wiki/Version_control) [social production](https://en.wikipedia.org/wiki/Commons-based_peer_production) of [open source](https://en.wikipedia.org/wiki/Open-source_software) technology ... my interest in this technology is related to [my interest in trying to live life as if the point of life were to helping as many people people as possible](https://medium.com/@AngrBodhisattva) ... feel free to reach out to me and tell me how I can be of service to you!
