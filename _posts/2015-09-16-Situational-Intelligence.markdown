@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Attack, Attack, Attack"
+title:  "The best way to criticize is to create!"
 date:   2015-09-16 8:30:00
 categories: Situational Intelligence
 ---
@@ -16,4 +16,4 @@ Thanks to the open source revolution, you can join forces with others in playing
 
 If you want to defeat evil, work at creating a PRODUCTIVE community!
 
-**The best way to criticize is to create.  There are opportunities everywhere.  ATTACK! ATTACK!  ATTACK!**  
+**The best way to criticize is to create.  There are opportunities everywhere.  ATTACK! ATTACK!  ATTACK!  The best way to criticize is to create!**  
