@@ -5,12 +5,12 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Sep 2015 17:02:17 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2015 17:02:17 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2015 17:03:30 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 17:03:30 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>It looks like we might have consensus!</title>
+        <title>It looks like we might have CONSENSUS!</title>
         <description>&lt;p&gt;I enjoy and am frustrated by the topic of CONSENSUS enough that I once started writing a book once about consensus and distributed leadership … &lt;a href=&quot;http://www.platosrepublicans.com/&quot;&gt;Plato’s Republicans&lt;/a&gt; … my interest in political economics and social choice theory gradually was overcome by the more concrete and practical world of consensus algorithms for distributed databases … although I continue to see BOTH topics as very closely related, but I now see that the implementations of the distributed database algorithms offers much more promise than the theoretic navel-gazing of political economics and the even more abstract topic of how leaders form, seize, shape, manipulate, define consensus … &lt;em&gt;if you thought consensus algorithms were difficult.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a techblog so my focus in this post is upon an exploration of consensus algorithms in distributed databases.  In these RT/FT algorithms as in life with humans, it is easy to recognize what consensus is after you are there … everyone loves it and we almost declare some sort of moral triumph when we exclaim, “So we have consensus!” … but the pain of converging on the final solution can be a bugger … especially if speed of convergence matters.&lt;/p&gt;

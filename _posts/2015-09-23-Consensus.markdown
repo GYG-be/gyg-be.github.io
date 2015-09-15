@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It looks like we might have consensus!"
+title:  "It looks like we might have CONSENSUS!"
 date:   2015-09-23 8:30:00
 categories: algorithms social leadership
 ---
