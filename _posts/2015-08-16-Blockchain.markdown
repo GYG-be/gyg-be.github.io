@@ -34,11 +34,5 @@ TBD
 ## Network as if your life depends on it, becuase it does
 Always work at finding new friends, but focus your time for other people appropriately ... it's a matter of time management and priorities.  An entrepreneur probably needs to focus on working twice as long as the person with a nine-to-five job -- that means 90+ hours a week, but you should allocate two and a half hours to the connections with the people in your life.  Give the VERY BEST, VERY HIGHEST QUALITY thirty minutes a day to the five most important people in your life.  Give next best thirty PERSONAL minutes to to the next twenty most important friends, family, colleagues.  Give next best thirty PERSONAL minutes to the next 100 people around you who are routinely come into contact with.  Give next best thirty PERSONAL minutes to social media, messaging the next 500 to your professional network.  If you still have energy give thirty PERSONAL minutes a day via social media or some other broadcast mechanism on the next 2500 or the members of your larger community.
 
-## LEAD
-TBD
-
-## LEAD
-TBD
-
-## Give away everything you own, everyday
+## Give away everything you own, everyday ... open source burns the enemies war machine down
 Don't cling to your attachments.  Don't put up with storing or maintaining or shuffling things about. Ditch your baggage so that you can be more more mobile, more flexible.
