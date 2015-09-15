@@ -14,6 +14,7 @@ This is a techblog so my focus in this post is upon an exploration of consensus 
 
 [Raft](https://raft.github.io/) ... first published in 2013 by [Diego Ongaro](https://ongardie.net/) and [John Osterhout](http://web.stanford.edu/~ouster/cgi-bin/home.php) is a understandable, more readily-implementable consensus algorithm designed as a more [practical alternative to famously difficult Paxos algorithm](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf). It's no accident -- according to Ongaro, [the idea for Raft was CONCIEVED and then DESIGNED AT EVERY STEP TO BE MORE UNDERSTANDABLE](https://www.youtube.com/watch?v=6bBggO6KN_k) than Paxos or Chandra-Toueg algorithms by means of separation of logic, but it is also formally proven safe and offers some new features. Raft offers a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the cluster agrees upon the same series of state transitions.  Although Raft is a recent development, it already has a number of open-source reference implementations, with full-spec implementations in Go, C++, Java, and Scala.
 
+[Ark](http://arxiv.org/pdf/1407.4765.pdf) ... first published in 2014 by Zardosht Kashef and Leif Walsh It ultimately has many similarities with Raft, but diverges in a few ways, mainly to support other features like chained replication and unacknowledged writes. Ark elections have been used in [TokuMX](https://github.com/Tokutek/mongo) 
 
 Reading list ...
 
