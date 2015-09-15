@@ -20,3 +20,9 @@ Reading list ...
 * TBD social consensus research ... glaringly incomplete! ... especially the material on social leadership ... haven't Twitter, FB and LinkedIn taught us anything ... what about Bitcoin and [other cultural phenomena, such as the bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) *
 
 * TBD consensus algorithm dissertations and peer-reviewed papers ... glaringly incomplete! ... [A Formal Approach to Fault Tolerant Distributed Consensus](http://lampwww.epfl.ch/~blackbal/Thesis/thesis.pdf)
+
+* TBD
+
+* Extended TBD
+
+* MORE TBD
