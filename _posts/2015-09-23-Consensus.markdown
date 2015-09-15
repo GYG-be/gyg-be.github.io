@@ -27,6 +27,8 @@ Reading list ...
 
 * TBD ... video playlists
 
+* [RocksDB](https://github.com/facebook/rocksdb)
+
 * [FoundationDB](https://en.wikipedia.org/wiki/FoundationDB) ... the *consensus* is that [Apple is not about to become an open source company](http://www.forbes.com/sites/benkepes/2015/03/25/a-cautionary-open-source-tale-apple-buys-and-shutters-foundationdb/)
 
 * Extended blogosphere and twittersphere TBD
