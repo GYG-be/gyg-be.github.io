@@ -21,8 +21,8 @@ Reading list ...
 
 * TBD consensus algorithm dissertations and peer-reviewed papers ... glaringly incomplete! ... [A Formal Approach to Fault Tolerant Distributed Consensus](http://lampwww.epfl.ch/~blackbal/Thesis/thesis.pdf)
 
-* TBD
+* TBD ... video playlists
 
-* Extended TBD
+* Extended blogosphere and twitosphere TBD
 
-* MORE TBD
+* MORE repository TBD
