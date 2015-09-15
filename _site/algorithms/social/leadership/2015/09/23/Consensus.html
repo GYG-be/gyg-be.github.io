@@ -74,7 +74,7 @@
 
 <p><a href="https://en.wikipedia.org/wiki/Chandra%E2%80%93Toueg_consensus_algorithm">Chandra-Toueg</a> … published by Tushar Deepak Chandra and Sam Toueg in 1996, is an algorithm for solving consensus in a network of unreliable processes equipped with an eventually strong failure detector. The failure detector is an abstract version of timeouts; it signals to each process when other processes may have crashed. An eventually strong failure detector is one that never identifies some specific good process as having failed after some initial period of confusion, and at the same time eventually identifies all bad processes as failed. The algorithm itself is similar to the Paxos algorithm, which also relies on failure detectors. Both algorithms assume the number of faulty processes is less than n/2, where n is the total number of processes.</p>
 
-<p><a href="https://raft.github.io/">Raft</a> … first published in 2013 is a understandable, more readily-implementable consensus algorithm designed as a more practical alternative to Paxos. It was meant to be more understandable than Paxos by means of separation of logic, but it is also formally proven safe and offers some new features. Raft offers a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the cluster agrees upon the same series of state transitions. It has a number of open-source reference implementations, with full-spec implementations in Go, C++, Java, and Scala.</p>
+<p><a href="https://raft.github.io/">Raft</a> … first published in 2013 by <a href="https://ongardie.net/">Diego Ongaro</a> and <a href="http://web.stanford.edu/~ouster/cgi-bin/home.php">John Osterhout</a> is a understandable, more readily-implementable consensus algorithm designed as a more practical alternative to Paxos. <a href="https://www.youtube.com/watch?v=6bBggO6KN_k">Raft was DESIGNED TO BE MORE UNDERSTANDABLE</a> than Paxos or Chandra-Toueg by means of separation of logic, but it is also formally proven safe and offers some new features. Raft offers a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the cluster agrees upon the same series of state transitions.  Although Raft is a recent development, it already has a number of open-source reference implementations, with full-spec implementations in Go, C++, Java, and Scala.</p>
 
 <p>Reading list …</p>
 
@@ -87,6 +87,9 @@
   </li>
   <li>
     <p><a href="http://research.google.com/archive/spanner.html">Google’s Spanner</a> <a href="http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf">pdf</a>, <a href="http://research.google.com/archive/spanner-osdi2012.pptx">slides</a>, <a href="http://livestream.com/accounts/1545775/osdi12/videos/4646642">2012 talk at OSDI</a> Spanner is Google’s scalable, multi-version, globally-distributed, and synchronously-replicated database. It is the first system to distribute data at global scale and support externally-consistent distributed transactions. This paper describes how Spanner is structured, its feature set, the rationale underlying various design decisions, and a novel time API that exposes clock uncertainty. This API and its implementation are critical to supporting external consistency and a variety of powerful features: non-blocking reads in the past, lock-free read-only transactions, and atomic schema changes, across all of Spanner.</p>
+  </li>
+  <li>
+    <p>(https://cloud.google.com/datastore/docs/articles/balancing-strong-and-eventual-consistency-with-google-cloud-datastore/)</p>
   </li>
   <li>
     <p>TBD … video playlists</p>

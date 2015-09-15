@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2015 22:47:11 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 22:47:11 -0500</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2015 23:00:00 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2015 23:00:00 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Chandra%E2%80%93Toueg_consensus_algorithm&quot;&gt;Chandra-Toueg&lt;/a&gt; … published by Tushar Deepak Chandra and Sam Toueg in 1996, is an algorithm for solving consensus in a network of unreliable processes equipped with an eventually strong failure detector. The failure detector is an abstract version of timeouts; it signals to each process when other processes may have crashed. An eventually strong failure detector is one that never identifies some specific good process as having failed after some initial period of confusion, and at the same time eventually identifies all bad processes as failed. The algorithm itself is similar to the Paxos algorithm, which also relies on failure detectors. Both algorithms assume the number of faulty processes is less than n/2, where n is the total number of processes.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://raft.github.io/&quot;&gt;Raft&lt;/a&gt; … first published in 2013 is a understandable, more readily-implementable consensus algorithm designed as a more practical alternative to Paxos. It was meant to be more understandable than Paxos by means of separation of logic, but it is also formally proven safe and offers some new features. Raft offers a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the cluster agrees upon the same series of state transitions. It has a number of open-source reference implementations, with full-spec implementations in Go, C++, Java, and Scala.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raft.github.io/&quot;&gt;Raft&lt;/a&gt; … first published in 2013 by &lt;a href=&quot;https://ongardie.net/&quot;&gt;Diego Ongaro&lt;/a&gt; and &lt;a href=&quot;http://web.stanford.edu/~ouster/cgi-bin/home.php&quot;&gt;John Osterhout&lt;/a&gt; is a understandable, more readily-implementable consensus algorithm designed as a more practical alternative to Paxos. &lt;a href=&quot;https://www.youtube.com/watch?v=6bBggO6KN_k&quot;&gt;Raft was DESIGNED TO BE MORE UNDERSTANDABLE&lt;/a&gt; than Paxos or Chandra-Toueg by means of separation of logic, but it is also formally proven safe and offers some new features. Raft offers a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the cluster agrees upon the same series of state transitions.  Although Raft is a recent development, it already has a number of open-source reference implementations, with full-spec implementations in Go, C++, Java, and Scala.&lt;/p&gt;
 
 &lt;p&gt;Reading list …&lt;/p&gt;
 
@@ -32,6 +32,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://research.google.com/archive/spanner.html&quot;&gt;Google’s Spanner&lt;/a&gt; &lt;a href=&quot;http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf&quot;&gt;pdf&lt;/a&gt;, &lt;a href=&quot;http://research.google.com/archive/spanner-osdi2012.pptx&quot;&gt;slides&lt;/a&gt;, &lt;a href=&quot;http://livestream.com/accounts/1545775/osdi12/videos/4646642&quot;&gt;2012 talk at OSDI&lt;/a&gt; Spanner is Google’s scalable, multi-version, globally-distributed, and synchronously-replicated database. It is the first system to distribute data at global scale and support externally-consistent distributed transactions. This paper describes how Spanner is structured, its feature set, the rationale underlying various design decisions, and a novel time API that exposes clock uncertainty. This API and its implementation are critical to supporting external consistency and a variety of powerful features: non-blocking reads in the past, lock-free read-only transactions, and atomic schema changes, across all of Spanner.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;(https://cloud.google.com/datastore/docs/articles/balancing-strong-and-eventual-consistency-with-google-cloud-datastore/)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;TBD … video playlists&lt;/p&gt;
