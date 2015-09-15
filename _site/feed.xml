@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2015 19:19:06 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 19:19:06 -0500</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2015 22:45:43 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2015 22:45:43 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -25,16 +25,19 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;TBD social consensus research … glaringly incomplete! … especially the material on social leadership … haven’t Twitter, FB and LinkedIn taught us anything … what about Bitcoin and &lt;a href=&quot;https://en.wikipedia.org/wiki/Bandwagon_effect&quot;&gt;other cultural phenomena, such as the bandwagon effect&lt;/a&gt; *&lt;/p&gt;
+    &lt;p&gt;TBD social consensus research … glaringly incomplete! … especially given the material that should be out there on NEW forms of social leadership … haven’t Twitter, FB and LinkedIn taught us anything about Leaders and followers … consider also Bitcoin and &lt;a href=&quot;https://en.wikipedia.org/wiki/Bandwagon_effect&quot;&gt;other cultural phenomena, such as the bandwagon effect&lt;/a&gt; *&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;TBD consensus algorithm dissertations and peer-reviewed papers … glaringly incomplete! … &lt;a href=&quot;http://lampwww.epfl.ch/~blackbal/Thesis/thesis.pdf&quot;&gt;A Formal Approach to Fault Tolerant Distributed Consensus&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://research.google.com/archive/spanner.html&quot;&gt;Google’s Spanner&lt;/a&gt; &lt;a href=&quot;http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf&quot;&gt;pdf&lt;/a&gt;, &lt;a href=&quot;http://research.google.com/archive/spanner-osdi2012.pptx&quot;&gt;slides&lt;/a&gt;, &lt;a href=&quot;http://livestream.com/accounts/1545775/osdi12/videos/4646642&quot;&gt;2012 talk at OSDI&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;TBD … video playlists&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Extended blogosphere and twitosphere TBD&lt;/p&gt;
+    &lt;p&gt;Extended blogosphere and twittersphere TBD&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;MORE repository TBD&lt;/p&gt;

@@ -17,12 +17,14 @@ This is a techblog so my focus here is upon an exploration of consensus algorith
 
 Reading list ...
 
-* TBD social consensus research ... glaringly incomplete! ... especially the material on social leadership ... haven't Twitter, FB and LinkedIn taught us anything ... what about Bitcoin and [other cultural phenomena, such as the bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) *
+* TBD social consensus research ... glaringly incomplete! ... especially given the material that should be out there on NEW forms of social leadership ... haven't Twitter, FB and LinkedIn taught us anything about Leaders and followers ... consider also Bitcoin and [other cultural phenomena, such as the bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) *
 
 * TBD consensus algorithm dissertations and peer-reviewed papers ... glaringly incomplete! ... [A Formal Approach to Fault Tolerant Distributed Consensus](http://lampwww.epfl.ch/~blackbal/Thesis/thesis.pdf)
 
+* [Google's Spanner](http://research.google.com/archive/spanner.html) [pdf](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf), [slides](http://research.google.com/archive/spanner-osdi2012.pptx), [2012 talk at OSDI](http://livestream.com/accounts/1545775/osdi12/videos/4646642)
+
 * TBD ... video playlists
 
-* Extended blogosphere and twitosphere TBD
+* Extended blogosphere and twittersphere TBD
 
 * MORE repository TBD
