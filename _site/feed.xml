@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Sep 2015 10:48:12 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2015 10:48:12 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2015 12:04:14 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 12:04:14 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Chandra%E2%80%93Toueg_consensus_algorithm&quot;&gt;Chandra-Toueg&lt;/a&gt; … published by Tushar Deepak Chandra and Sam Toueg in 1996, is an algorithm for solving consensus in a network of unreliable processes equipped with an eventually strong failure detector. The failure detector is an abstract version of timeouts; it signals to each process when other processes may have crashed. An eventually strong failure detector is one that never identifies some specific good process as having failed after some initial period of confusion, and at the same time eventually identifies all bad processes as failed. The algorithm itself is similar to the Paxos algorithm, which also relies on failure detectors. Both algorithms assume the number of faulty processes is less than n/2, where n is the total number of processes.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://raft.github.io/&quot;&gt;Raft&lt;/a&gt; … first published in 2013 by &lt;a href=&quot;https://ongardie.net/&quot;&gt;Diego Ongaro&lt;/a&gt; and &lt;a href=&quot;http://web.stanford.edu/~ouster/cgi-bin/home.php&quot;&gt;John Osterhout&lt;/a&gt; is a understandable, more readily-implementable consensus algorithm designed as a more &lt;a href=&quot;http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf&quot;&gt;practical alternative to famously difficult Paxos algorithm&lt;/a&gt;. It’s no accident – according to Ongaro, &lt;a href=&quot;https://www.youtube.com/watch?v=6bBggO6KN_k&quot;&gt;the idea for Raft was CONCIEVED and then DESIGNED AT EVERY STEP TO BE MORE UNDERSTANDABLE&lt;/a&gt; than Paxos or Chandra-Toueg algorithms by means of separation of logic, but it is also formally proven safe and offers some new features. Raft offers a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the cluster agrees upon the same series of state transitions.  Although Raft is a recent development, it already has a number of open-source reference implementations, with full-spec implementations in Go, C++, Java, and Scala.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raft.github.io/&quot;&gt;Raft&lt;/a&gt; … first published in 2013 by &lt;a href=&quot;https://ongardie.net/&quot;&gt;Diego Ongaro&lt;/a&gt; and &lt;a href=&quot;http://web.stanford.edu/~ouster/cgi-bin/home.php&quot;&gt;John Osterhout&lt;/a&gt; is a understandable, more readily-implementable consensus algorithm designed as a more &lt;a href=&quot;http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf&quot;&gt;practical alternative to famously difficult Paxos algorithm&lt;/a&gt;. It’s no accident – according to Ongaro, &lt;a href=&quot;https://www.youtube.com/watch?v=6bBggO6KN_k&quot;&gt;the idea for Raft was CONCIEVED and then DESIGNED AT EVERY STEP TO BE MORE UNDERSTANDABLE&lt;/a&gt; than Paxos or Chandra-Toueg algorithms by means of separation of logic, but it is also formally proven safe and offers some new features. Raft offers a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the cluster agrees upon the same series of state transitions.  Although Raft is a recent development, it already has a number of open-source reference implementations, with full-spec implementations in Go, C++, Java, &lt;a href=&quot;https://github.com/heidi-ann/ocaml-raft&quot;&gt;OCaml&lt;/a&gt; and Scala.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://arxiv.org/pdf/1407.4765.pdf&quot;&gt;Ark&lt;/a&gt; … first published in 2014 by Zardosht Kashef and Leif Walsh It ultimately has many similarities with Raft, but diverges in a few ways, mainly to support other features like chained replication and unacknowledged writes (ie prevention from rolled back writes by elections). Ark elections have been used in &lt;a href=&quot;https://github.com/Tokutek/mongo&quot;&gt;TokuMX&lt;/a&gt;&lt;/p&gt;
 
@@ -148,6 +148,57 @@
         
         
         <category>technology</category>
+        
+      </item>
+    
+      <item>
+        <title>Avoiding the cost of erosion in software-as-a-service</title>
+        <description>&lt;h1 id=&quot;twelve-factor-apps-become-necessary-in-the-softare-as-a-service-realm&quot;&gt;Twelve Factor apps become NECESSARY in the softare-as-a-service realm&lt;/h1&gt;
+
+&lt;h2 id=&quot;i-codebase&quot;&gt;I. Codebase&lt;/h2&gt;
+&lt;p&gt;There can be many deployments, but a twelve-factor app is ALWAYS tracked in a version control system, such as Git, Mercurial, or Subversion. A copy of the revision tracking database is known as a code repository, often shortened to code repo or just repo.&lt;/p&gt;
+
+&lt;h2 id=&quot;ii-dependencies&quot;&gt;II. Dependencies&lt;/h2&gt;
+&lt;p&gt;A twelve-factor app never relies on implicit existence of system-wide packages. It declares all dependencies, completely and exactly, via a dependency declaration manifest.&lt;/p&gt;
+
+&lt;h2 id=&quot;iii-config&quot;&gt;III. Config&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app stores config in environment variables (often shortened to env vars or env). Env vars are easy to change between deploys without changing any code; unlike config files, there is little chance of them being checked into the code repo accidentally. In a twelve-factor app, env vars are granular controls, each fully orthogonal to other env vars. They are never grouped together as “environments”, but instead are independently managed for each deploy.&lt;/p&gt;
+
+&lt;h2 id=&quot;iv-backing-services&quot;&gt;IV. Backing Services&lt;/h2&gt;
+&lt;p&gt;The code for a twelve-factor app makes no distinction between local and third party services. To the app, both are attached resources, accessed via a URL or other locator/credentials stored in the config.&lt;/p&gt;
+
+&lt;h2 id=&quot;v-build-release-run&quot;&gt;V. Build, release, run&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app uses strict separation between the build, release, and run stages. Every release should always have a unique release ID, such as a timestamp of the release (such as 2011-04-06-20:32:17) or an incrementing number (such as v100). Releases are an append-only ledger and a release cannot be mutated once it is created. Any change MUST create a new release.&lt;/p&gt;
+
+&lt;h2 id=&quot;vi-processes&quot;&gt;VI. Processes&lt;/h2&gt;
+&lt;p&gt;Twelve-factor processes are stateless and share-nothing. Any data that needs to persist must be stored in a stateful backing service, typically a database. The memory space or filesystem of the process can be used as a brief, single-transaction cache.&lt;/p&gt;
+
+&lt;h2 id=&quot;vii-port-binding&quot;&gt;VII. Port binding&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app is completely self-contained and does not rely on runtime injection of a webserver into the execution environment to create a web-facing service. Typically, the web app exports HTTP as a service by binding to a port, and listening to requests coming in on that port. HTTP is not the only service that can be exported by port binding. Nearly any kind of server software can be run via a process binding to a port and awaiting incoming requests. Examples include ejabberd (speaking XMPP), and Redis (speaking the Redis protocol).&lt;/p&gt;
+
+&lt;h2 id=&quot;viii-concurrency&quot;&gt;VIII. Concurrency&lt;/h2&gt;
+&lt;p&gt;In the twelve-factor app, processes are a first class citizen. Processes in the twelve-factor app take strong cues from the &lt;a href=&quot;http://adam.herokuapp.com/past/2011/5/9/applying_the_unix_process_model_to_web_apps/&quot;&gt;unix process model for running service daemons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;ix-disposability&quot;&gt;IX. Disposability&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app’s processes are disposable, meaning they can be started or stopped at a moment’s notice. This facilitates fast elastic scaling, rapid deployment of code or config changes, and robustness of production deploys.&lt;/p&gt;
+
+&lt;h2 id=&quot;x-devprod-parity&quot;&gt;X. Dev/prod parity&lt;/h2&gt;
+&lt;p&gt;The twelve-factor app is designed for continuous deployment by making the gap between development and production as small as possible… make the time gap small … make the personnel gap small … make the tools gap small.&lt;/p&gt;
+
+&lt;h2 id=&quot;xi-logs&quot;&gt;XI. Logs&lt;/h2&gt;
+&lt;p&gt;A twelve-factor app never concerns itself with routing or storage of its output stream. It should not attempt to write to or manage logfiles.&lt;/p&gt;
+
+&lt;h2 id=&quot;xii-admin-processes&quot;&gt;XII. Admin processes&lt;/h2&gt;
+&lt;p&gt;Run admin/management tasks as one-off processes. One-off admin processes should be run in an identical environment as the regular long-running processes of the app. They run against a release, using the same codebase and config as any process run against that release. Admin code must ship with application code to avoid synchronization issues.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Aug 2015 03:30:00 -0500</pubDate>
+        <link>/12/factor/2015/08/21/12-Factor.html</link>
+        <guid isPermaLink="true">/12/factor/2015/08/21/12-Factor.html</guid>
+        
+        
+        <category>12</category>
+        
+        <category>factor</category>
         
       </item>
     
