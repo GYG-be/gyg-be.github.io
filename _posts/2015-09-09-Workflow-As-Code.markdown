@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Workflow-As-Code ... getting the culture to drive freedom And responsibility"
+title:  "Workflow-As-Code ... getting the culture to drive freedom and responsibility"
 date:   2015-09-09 8:30:00
 categories: Workflow-As-Code
 ---
