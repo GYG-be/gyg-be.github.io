@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Sep 2015 16:43:17 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2015 16:43:17 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2015 16:45:11 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 16:45:11 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -211,8 +211,8 @@
       </item>
     
       <item>
-        <title>Smart Contracts</title>
-        <description>&lt;h1 id=&quot;how-can-we-make-our-workflow-work-better&quot;&gt;How can we make our workflow work better?&lt;/h1&gt;
+        <title>Enabling smart contracts</title>
+        <description>&lt;h1 id=&quot;smart-contracts-sound-good-in-theory-in-practice-they-will-depend-upon-smarter-workflows-how-can-we-make-our-workflow-work-better&quot;&gt;Smart contracts sound good in theory; in practice they will depend upon smarter workflows. How can we make our workflow work better?&lt;/h1&gt;
 &lt;p&gt;Developing smart contracts with others depends upon a common frame of reference … if we cannot find the right people to work with on SIMPLE contracts, there is no point in negotiating a Lose-Lose-Lose deal.&lt;/p&gt;
 
 &lt;h2 id=&quot;lead-by-developing-your-own-technology-to-drive-culture-of-freedom-and-responsibility&quot;&gt;LEAD by developing your own technology to drive culture of freedom and responsibility&lt;/h2&gt;

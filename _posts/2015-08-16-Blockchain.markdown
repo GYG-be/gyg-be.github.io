@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Smart Contracts"
+title:  "Enabling smart contracts"
 date:   2015-08-16 8:30:00
 categories: Blockchain
 ---
-# How can we make our workflow work better?
+# Smart contracts sound good in theory; in practice they will depend upon smarter workflows. How can we make our workflow work better?
 Developing smart contracts with others depends upon a common frame of reference ... if we cannot find the right people to work with on SIMPLE contracts, there is no point in negotiating a Lose-Lose-Lose deal.  
 
 ## LEAD by developing your own technology to drive culture of freedom and responsibility
