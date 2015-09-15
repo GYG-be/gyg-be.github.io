@@ -21,7 +21,7 @@ Reading list ...
 
 * TBD consensus algorithm dissertations and peer-reviewed papers ... glaringly incomplete! ... [A Formal Approach to Fault Tolerant Distributed Consensus](http://lampwww.epfl.ch/~blackbal/Thesis/thesis.pdf)
 
-* [Google's Spanner](http://research.google.com/archive/spanner.html) [pdf](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf), [slides](http://research.google.com/archive/spanner-osdi2012.pptx), [2012 talk at OSDI](http://livestream.com/accounts/1545775/osdi12/videos/4646642)
+* [Google's Spanner](http://research.google.com/archive/spanner.html) [pdf](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf), [slides](http://research.google.com/archive/spanner-osdi2012.pptx), [2012 talk at OSDI](http://livestream.com/accounts/1545775/osdi12/videos/4646642) Spanner is Google's scalable, multi-version, globally-distributed, and synchronously-replicated database. It is the first system to distribute data at global scale and support externally-consistent distributed transactions. This paper describes how Spanner is structured, its feature set, the rationale underlying various design decisions, and a novel time API that exposes clock uncertainty. This API and its implementation are critical to supporting external consistency and a variety of powerful features: non-blocking reads in the past, lock-free read-only transactions, and atomic schema changes, across all of Spanner.
 
 * TBD ... video playlists
 
