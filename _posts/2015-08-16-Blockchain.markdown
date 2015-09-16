@@ -14,22 +14,22 @@ TBD
 TBD emergent companies ... Conway's Law
 
 ## Humbly work at learning how to learn
-TBD
+Develop and EXECUTE your list of 200 ways to learn.
 
 ## Be persistent, just stay at it, show up when you don't feel well
 The essence of being a warrior is to never quit on yourself.
 
-## Aim for quality not quantity, get rid of quantity
-TBD
+## Aim for quality not quantity, get rid of quantity and complexity
+Work of reducing your tolerance for complexity.  
 
 ## Be more fit, seek criticism, train and exercise
-TBD
+Learn to see waste and avoid it. Train harder every day.  Build exercise into your work routine. Seek out more criticism ... especially from key people, partners, investors, important employees, paying customers. 
 
 ## Be maniacally customer-driven, know your customer better than your customer does
-TBD
+Listen to “what” these critics actually say, then listen again. Disregard “how” you hear it. The criticism is not about you unless you fall into to the trap of choosing to be sensitive and make the criticism about you. Listen to “what” these critics actually say and ONLY what they say.
 
 ## Manage your time, 5S your life ... sort, simplify, shine, standardize, sustain
-TBD
+You can use software and automation to fix a lot of things, but software and automation are NOT a substitute for simplification [refactoring or better yet, elimination] and orderliness.
 
 ## Network as if your life depends on it, becuase it does
 Always work at finding new friends, but focus your time for other people appropriately ... it's a matter of time management and priorities.  An entrepreneur probably needs to focus on working twice as long as the person with a nine-to-five job -- that means 90+ hours a week, but you should allocate two and a half hours to the connections with the people in your life.  Give the VERY BEST, VERY HIGHEST QUALITY thirty minutes a day to the five most important people in your life.  Give next best thirty PERSONAL minutes to to the next twenty most important friends, family, colleagues.  Give next best thirty PERSONAL minutes to the next 100 people around you who are routinely come into contact with.  Give next best thirty PERSONAL minutes to social media, messaging the next 500 to your professional network.  If you still have energy give thirty PERSONAL minutes a day via social media or some other broadcast mechanism on the next 2500 or the members of your larger community.
