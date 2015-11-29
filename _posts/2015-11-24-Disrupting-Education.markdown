@@ -14,6 +14,8 @@ I am still digesting the depth of what I learned at a recent [Violence Dynamics 
 
 4) Training should not end when the sessions wrap up.  Most of the commentary should occur AFTER the training session rather than during it.  By the same token there is something to be said for training prerequisites.
 
+5) How should I train?  How should I lead others in training?  Since I am most interested in next generation training (i.e. I want to train for the FUTURE threat, not the threat of yesterday or today) I started looking into things like the [Israeli Krav Maga training](http://kravmaga-ikmf.com/krav-maga/train-in-israel/warriors-quest/).
+
 
 
 THURSDAY NOVEMBER 19
