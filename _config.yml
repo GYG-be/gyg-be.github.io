@@ -7,5 +7,3 @@ github_username:  MarkBruns
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-asciidoc
