@@ -1,69 +1,27 @@
 ---
 layout: post
-title:  "Disrupting Education"
-date:   2015-11-24 8:30:00
-categories: learning
+title:  "The Monk Thing"
+date:   2015-11-230 8:30:00
+categories: learning to learn
 ---
-I am still digesting the depth of what I learned at a recent [Violence Dynamics seminar held in Mounds View, MN](http://chirontraining.com/Site/VioDy_MN_November.html) ... the timetable of the material covered in this seminar is given at the bottom of this posting ... but that doesn't really describe the impact that the seminar had on me.
+I have been thinking a LOT about how I should TRAIN now.  It's not really so much about me anymore, it's mostly about what I should do so that I can effectly work with others or assist others in their training?  If one survives long enough, one becomes more interested in next generation training (i.e. I want to train for the FUTURE threat, not the threat of yesterday or today). I have started looking into training systems like [Marine Corps Martial Arts close combat training](http://www.combatical.com/) or the [Israeli Krav Maga training](http://kravmaga-ikmf.com/krav-maga/train-in-israel/warriors-quest/) but I respect traditions and realize very much that I am still just an OLD MONK.
 
-1) Marc MacYoung is responsible for pointing out that violence is a taboo topic nowadays in the same way that sex was a taboo topic in the 1950s.  You cannot talk about violence in polite company any more.  SEX is a completely different matter. Whether it's stretched, holey spandex on an older overweight woman in Walmart OR the latest overexposure of something that one of the Kardashians should keep private OR a [feminist using her own vaginal yeast for her sourdough bread](http://mashable.com/2015/11/23/blogger-bread-vagina-yeast/#L4U6QKDgpaq3), [whether you want to think about it or not] SEX is something that cannot and will not be underexpressed any more.  The sexual revolution is over and we all have lost.
+# Create a daily practice that supports and sustains you and advances your art.
+1) Get up and get moving, move throughout the day. Try to eat better each day than you did the day before
+2) Do the HARD THING that you fear most first so that your mind is clear to write, code, implement, debug
+3) Play with principles and your original extension of principles rather than memorizing specific techniques, quotes, phrases.
 
-2) Violence training can disrupt education in the same way that SEX has totally disrupted commerce.  When it comes to team building, trust networks and practical bonds between professionals NOTHING can match hands on training in violence.  When you put others into serious choke holds and, in turn, you are put into serious choke holds by every other person in class, you learn something about others that you cannot learn from a face-to-face conversation.  Serious means that a person has to tap out or loses consciousness.
+# Rest and relax without engaging in bad unmindful habits
+1) If you need a distraction from your pathetic life, you're doing it wrong.
+2) Use or don't use sex or stimulants or drugs or asceticism, but do not allow addiction to rule you.
+3) Practice the habits of mindfulness, especially in your rest and relaxation.
 
-3) Play and humor matter in anything -- they are especially important in training and teambuilding. We need more class clowns; but those class clowns also need to handle being slapped.
+# The essence of being a warrior is never quitting on yourself.
+1) Relapse is a necessary part of recovery, recovery is necessary to beat addiction. Don't let relapse lead you back to addiction.
+2) Celebrate your victories by working on your humility; never be satisfied -- always think about the ways that you could have done something better or helped others more.
+3) Be more anonymous, but rule by example. Avoid dick measuring competitions. Work harder at channeling desire for wealth, power, fame, sex, comfort into helping others.
 
-4) Training should not end when the sessions wrap up.  Most of the commentary should occur AFTER the training session rather than during it.  By the same token there is something to be said for training prerequisites.
-
-5) How should I train?  How should I work with others or lead others in training?  Since I am most interested in next generation training (i.e. I want to train for the FUTURE threat, not the threat of yesterday or today) I started looking into things like the [Israeli Krav Maga training](http://kravmaga-ikmf.com/krav-maga/train-in-israel/warriors-quest/).
-
-
-
-THURSDAY NOVEMBER 19
-8:00-8:45	Introduce Instructors/ Introductory Paper Work	Keckeisen
-9:00-9:45	Introduction to Basic Drills/Pre-test	Keckeisen
-10:00-10:45	Social Violence A	MacYoung & King
-11:00-11:45	Social Violence B	MacYoung & King
-12:00-12:45	Break
-1:00-1:45	Striking Power Generation	Beyer
-2:00-2:45	Striking Targeting	Beyer
-3:00-3:45	Asocial Violence A	MacYoung & King
-4:00-4:45	Asocial Violence B	MacYoung & King
-
-FRIDAY NOVEMBER 20
-8:00-8:45	Counter Assault A (Discussion and Principles)	King
-9:00-9:45	Counter Assault B (Application and Drills)	King
-10:00-10:45	Logic of Violence A	Miller
-11:00-11:45	Logic of Violence B	Miller
-12:00-12:45	Break
-1:00-1:45	Mechanics of Throwing A	Keckeisen
-2:00-2:45	Mechanics of Throwing B	Keckeisen
-3:00-3:45	Force Law (Pre-arrest)	Keckeisen
-4:00-4:45	Force Law (Post-arrest)	Keckeisen
-5:00-6:00	Principle Based Movement	Q Fitness
-
-SATURDAY NOVEMBER 21
-8:00-8:45	Con Com A	Beyer
-9:00-9:45	Con Com B	Beyer
-10:00-10:45	High End Use of Force A	Keckeisen
-11:00-11:45	High End Use of Force B	Keckeisen
-12:00-12:45	Break
-1:00-1:45	Con Com C	Beyer
-2:00-2:45	Con Com D	Beyer
-3:00-3:45	Ground Skills A	Miller
-4:00-4:45	Ground Skills B	Miller
-5:00-6:00	Principle Based Movement	Q Fitness
-
-SUNDAY NOVEMBER 22
-8:00-8:45	Basic Drills Post Test	Keckeisen
-8:45-9:00	Conclusion Paper Work (Course Reviews)
-9:00-9:45	Mall Training Brief	Miller
-9:45-10:00	Drive to MOA
-10:00-10:45	Topic 1 of 4
-10:45-11:00	Debrief 1
-11:00-11:45	Topic 2 of 4
-11:45-12:00	Debrief 2
-12:00-1:00	Break
-1:00-1:45	Topic 3 of 4
-1:45-2:00	Debrief 3
-2:00-2:45	Topic 4 of 4
-2:45-3:00	Final Debrief
+# You can be dead serious without losing your sense of humor.
+1) Practice giving humor speeches or being a standup comic.
+2) Have a point, but illustrate your point with humor, koans, riddles.
+3) Shut up and listen.  Work on being a better listener.
