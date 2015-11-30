@@ -4,7 +4,11 @@ title:  "The Monk Thing"
 date:   2015-11-30 8:30:00
 categories: learning to learn
 ---
-I have been thinking a LOT about how I should TRAIN now.  It's not really so much about me anymore, it's mostly about what I should do so that I can effectly work with others or assist others in their training?  If one survives long enough, one becomes more interested in next generation training (i.e. I want to train for the FUTURE threat, not the threat of yesterday or today). I have started looking into training systems like [Marine Corps Martial Arts close combat training](http://www.combatical.com/) or the [Israeli Krav Maga training](http://kravmaga-ikmf.com/krav-maga/train-in-israel/warriors-quest/) but I respect traditions and realize very much that I am still just an OLD MONK.
+I am just an OLD MONK, but after seeing friends and family again over Thanksgiving, I have been thinking a LOT about how I should TRAIN now.  
+
+The important thing is that my training not at all about me anymore, it's mostly about what I should do so that I can more effectively work with others or assist others in THEIR training.  When an old monk survives long enough, he becomes more interested in next generation training (i.e. I want to train for the FUTURE threat, not my survival or the threat of yesterday or today). Some time ago, I started looking into training SYSTEMS ... there are plenty of worthy examples like [Marine Corps Martial Arts close combat training](http://www.combatical.com/) or the [Israeli Krav Maga training](http://kravmaga-ikmf.com/krav-maga/train-in-israel/warriors-quest/).  Since I respect traditions, I realize that I am not really any different from those who have come before me.  I am just an OLD MONK ... but I am obligated to train others because I survived to be an old monk.
+
+There are some fairly simple and timeless rules that emerge ...
 
 # Create a daily practice that supports and sustains you and advances your art.
 1) Get up and get moving, move throughout the day. Try to eat better each day than you did the day before
