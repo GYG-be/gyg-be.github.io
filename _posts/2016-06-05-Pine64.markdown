@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Pine64"
+date:   2016-06-05 8:30:00
+categories: KickStarter
+---
+My Pine64 boards showed up last week ... actually before I expected to receive them ... I have come to expect people who organize and run crowdfunding campaigns for hardware underestimate how difficult it will be to meet any significant project deadline ... hardware is HARD.  
