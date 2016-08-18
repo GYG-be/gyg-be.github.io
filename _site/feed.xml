@@ -5,9 +5,38 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Aug 2016 09:09:47 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Aug 2016 09:09:47 -0500</lastBuildDate>
+    <pubDate>Thu, 18 Aug 2016 07:50:49 -0500</pubDate>
+    <lastBuildDate>Thu, 18 Aug 2016 07:50:49 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>The Role of White-rot Fungi in Herbicide Transformation</title>
+        <description>&lt;p&gt;Understanding herbicide transformation is necessary for pesticide development for their safe and efficient use, as well as for developing pesticide bioremediation strategies for contaminated soil and water. Recent studies persuasively demonstrated the key role of soil white-rot fungi in biotransformation of various anthropogenic environmental contaminants. However, often this common knowledge is not associated with specific metabolic processes of fungi and therefore cannot be transformed into specific recommendations for agricultural practice.&lt;/p&gt;
+
+&lt;p&gt;Of course oceans are very important, but since most humans live on land, human life is almost entirely based on what soil ecosystems.  Many people believe that the largest problem facing humanity involves carbon in the atmosphere … whether this is a concern or not, these people seem to completely ignore that 2,700 Gt of C stored in soils worldwide and there is a capacity to double, triple or quadruple the soil organic carbon in most soils under cultivation or in human use – this matters because there is only 780 Gt of C is in the atmosphere. Even if we assume that world’s oceans cannot be managed as a carbon sink [which is debatable], it becomes clear that carbon “problem” should be thought of as a soil issue. We can do a much better job of utilizing our soils and, in almost all cases, adding soil organic carbon will improve soil quality and productivity.&lt;/p&gt;
+
+&lt;p&gt;The OTHER issue with soil ecosystems involves essential compounds like antibiotics that originated from studies of soils.  People fail to realize how fundamentally these discoveries have transformed human existence … the real problem with this fundamental ignorance is the lack of understanding that we have only just scratched the surface.  We probably don’t understand a tenth or even one-percent of what soil ecosystems have to offer.&lt;/p&gt;
+
+&lt;p&gt;It is painfully clear that our knowledge of soil ecosystems is completely insufficient.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Aug 2016 03:30:00 -0500</pubDate>
+        <link>/bioremediation,/antibiotics,/enzymes,/metagenomics,/soil/ecosystems/2016/08/24/White-Rot.html</link>
+        <guid isPermaLink="true">/bioremediation,/antibiotics,/enzymes,/metagenomics,/soil/ecosystems/2016/08/24/White-Rot.html</guid>
+        
+        
+        <category>bioremediation,</category>
+        
+        <category>antibiotics,</category>
+        
+        <category>enzymes,</category>
+        
+        <category>metagenomics,</category>
+        
+        <category>soil</category>
+        
+        <category>ecosystems</category>
+        
+      </item>
     
       <item>
         <title>Antifragile Government</title>
@@ -615,37 +644,6 @@ Plan-Do-Check-Act … start spec-ing out the idea for your business/life. Get go
         <category>social</category>
         
         <category>leadership</category>
-        
-      </item>
-    
-      <item>
-        <title>The best way to criticize is to create!</title>
-        <description>&lt;p&gt;&lt;strong&gt;The best way to criticize is to CREATE.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In an abstract sense, we all [should] want to fight evil. It is necessary to avoid aiding evil by just generating more chaos, but you can always recognize evil by its actions; evil terrorizes and oppresses and blames while using all kinds of arguments and pride to justify its use of terror, blame and jealousy.  If you want to defeat an enemy, Sun Tzu’s advice will always hold “first attack the enemy’s strategy, then his alliance, next his army and last his cities.” In other words, &lt;strong&gt;attack the PROBLEM intelligently and creatively, don’t be an idiot and harm the innocents!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It is tough to think strategically about fighting something as abstract as evil, but you can bring it down to the intensely practical level, where evil has directly impacted your own daily life.  You do not need to look all that far to find the presence of evil … you know what you need to do in your own life or your own projects, for example … be persistent, aim for quality not quantity, be more fit, train and exercise your muscle and your mind, humbly never stop learning and maniacally research your customer … fighting evil is basically a matter of working hard doing the right things before you get paid.&lt;/p&gt;
-
-&lt;p&gt;You already know what evil is when you see it; you shouldn’t switch on the news or get distracted by the movies. You are swimming in evil all around you. You might have witnessed the effects of different forms of evil: telling lies, gossiping, cheating, underhanded subterfuges, engaging in office politics, for instance.  You don’t want to attack the cities of innocent people; you want to attack strategically.&lt;/p&gt;
-
-&lt;p&gt;Practically, this means finding a PROBLEM that bugs you and attacking the problem, not the people.  You might want to fight the strategies of obfuscators and weasels OR if you detest toxic workplaces and resource-wasting meetings, you have to work on a strategy that involves creating a more just equitable, honest, open workflow.  It’s one thing to do that on your own, but establishing something like for others has been really HARD to accomplish on your own … until now.&lt;/p&gt;
-
-&lt;p&gt;Thanks to the fact that &lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;the open source revolution has FULLY arrived and now legitimately dominates economic growth in the world&lt;/a&gt;, you can and should become an OpenSourcist, join forces with others in something like playing a small role &lt;a href=&quot;https://git-scm.com/community&quot;&gt;the Git community&lt;/a&gt; to create an even better Git or curate a &lt;a href=&quot;https://www.youtube.com/playlist?list=PLElrASo3VHBy9JJzDdkvkqdV0ZlbCCheR&quot;&gt;playlist of useful Git-related videos&lt;/a&gt; or even just convincing others to use a distributed version controls system like Git in a blog posting.  The [Git Documentation repository &lt;a href=&quot;https://github.com/git/git/tree/master/Documentation&quot;&gt;on GitHub&lt;/a&gt; in the &lt;a href=&quot;https://github.com/git/git&quot;&gt;Git source code repository&lt;/a&gt; has several files of interest to developers who are looking to help contribute. After reading the &lt;a href=&quot;https://github.com/git/git/blob/master/Documentation/CodingGuidelines&quot;&gt;coding guidelines&lt;/a&gt;, you can learn &lt;a href=&quot;https://github.com/git/git/blob/master/Documentation/SubmittingPatches&quot;&gt;how to submit patches&lt;/a&gt;. For those looking to get more deeply involved, there is a &lt;a href=&quot;https://github.com/git/git/blob/master/Documentation/howto/maintain-git.txt&quot;&gt;howto for Git maintainers&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Of course, it is also important to not to be too trusting and maintain a situational awareness for what is happening in the open source world – as these projects become significantly larger and much more valuable, the &lt;a href=&quot;http://www.wired.com/2015/07/open-source-going-even-openbecause/&quot;&gt;open source single-sponsor model breaks down&lt;/a&gt;.  There’s a still a lot of proprietary, closed-source evil to fight … there are TONS of allies and they are hard-nosed practical fighters not altuistic idealist pansies … so if you want to be an Open Source warrior, you need to “march toward the sound of gunfire” or find the most awesome startup companies or heavily-starred, heavily-followed ACTIVE repositories, roll up your sleeves and fork and clone different repositories, learn everything you can about the code, learn about the people and the organizations that are involved, blog/tweet/evangelize about what they are up to … network with different people doing cool things, help do cool things and then network some more!  Don’t stop fighting.&lt;/p&gt;
-
-&lt;p&gt;If you want to defeat evil, work at creating a PRODUCTIVE community!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The best way to fight is to create.  There are opportunities everywhere.  ATTACK the problems! ATTACK the opportunities! ATTACK! The best way to attack is to create!&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Sep 2015 03:30:00 -0500</pubDate>
-        <link>/situational/intelligence/2015/09/16/Situational-Intelligence.html</link>
-        <guid isPermaLink="true">/situational/intelligence/2015/09/16/Situational-Intelligence.html</guid>
-        
-        
-        <category>Situational</category>
-        
-        <category>Intelligence</category>
         
       </item>
     
