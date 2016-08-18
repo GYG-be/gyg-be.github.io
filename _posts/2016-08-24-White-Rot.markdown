@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The Role of White-rot Fungi in Herbicide Transformation"
+date:   2016-08-24 8:30:00
+categories: bioremediation, antibiotics, enzymes, metagenomics, soil ecosystems
+---
+Understanding herbicide transformation is necessary for pesticide development for their safe and efficient use, as well as for developing pesticide bioremediation strategies for contaminated soil and water. Recent studies persuasively demonstrated the key role of soil white-rot fungi in biotransformation of various anthropogenic environmental contaminants. However, often this common knowledge is not associated with specific metabolic processes of fungi and therefore cannot be transformed into specific recommendations for agricultural practice.
+
+Of course oceans are very important, but since most humans live on land, human life is almost entirely based on what soil ecosystems.  Many people believe that the largest problem facing humanity involves carbon in the atmosphere ... whether this is a concern or not, these people seem to completely ignore that 2,700 Gt of C stored in soils worldwide and there is a capacity to double, triple or quadruple the soil organic carbon in most soils under cultivation or in human use -- this matters because there is only 780 Gt of C is in the atmosphere. Even if we assume that world's oceans cannot be managed as a carbon sink [which is debatable], it becomes clear that carbon "problem" should be thought of as a soil issue. We can do a much better job of utilizing our soils and, in almost all cases, adding soil organic carbon will improve soil quality and productivity.  
+
+The OTHER issue with soil ecosystems involves essential compounds like antibiotics that originated from studies of soils.  People fail to realize how fundamentally these discoveries have transformed human existence ... the real problem with this fundamental ignorance is the lack of understanding that we have only just scratched the surface.  We probably don't understand a tenth or even one-percent of what soil ecosystems have to offer.
+
+It is painfully clear that our knowledge of soil ecosystems is completely insufficient.
