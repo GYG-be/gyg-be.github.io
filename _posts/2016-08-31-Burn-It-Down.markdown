@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "There are a lot of houses and ghettos of houses out there in the world of ideas that should be burned down before they hurt somebody."
-date:   2016-08-24 8:30:00
+title:  "Burn It Down"
+date:   2016-08-31 8:30:00
 categories: open source
 ---
 So what if [the tiny house trend is becoming ordinary, untrendy and boring](https://www.kasita.com/is-the-tiny-house-trend-dead/) ... does that really matter? In a way, I think it does in a way ... the [Kasita container-esque idea](https://www.kasita.com/#about) HAS TO escape the Austin cartoon of itself [or the Portlandia cartoon of Portland] orbit ... as well as the tiny house trend orbit ... or it will die. I believe Kasita homes and Kasita parks and the Kasita concept MIGHT have the capacity to do that -- since, the Kasita concept is one of the VERY FEW tiny house ideas that could survive the collapse of the tiny house trend universe if that is actually happening ... **but I am SKEPTICAL.**
@@ -14,4 +14,4 @@ My critique of ANY tiny house idea, especially a proprietary, non-standard or on
 
 Remodeling, re-appliance-ing, re-customizing homes is a completely banal idea, but it is a significant standard, structural, strategic ADVANTAGE of residential construction that we should not ignore, any more than we should ignore how water expands when it freezes or runs downhill.  We should ask if the basic shell of idea re-saleable like a 20' shipping container or is the cute little quirky rat's nest a disgusting liability somebody will have to handle in hazmat suits, like a hoarder's collection of potentially hazardous, too-precious-to-part-with trash?
 
-BTW ... have you tried on a [20' shipping container](http://www.ebay.com/bhp/20-ft-shipping-container) recently?  I'm guessing that a shipping container would fits you better than anything else you will find in the tiny house menagerie of goofball ideas ... and it's probably is a good way to transport any possession you need anywhere in the world [and if you need more things than a 20' shipping container, you might need to re-prioritize and 5S your life] ... and guess what, there's actually a pretty vibrant MARKET for used shipping containers, regardless of what kind of hipster slob you are.
+BTW ... have you tried a [20' shipping container](http://www.ebay.com/bhp/20-ft-shipping-container) on for size recently?  I'm guessing that a shipping container would fits you better than anything else you will find in the tiny house menagerie of goofball ideas ... and it's probably is a good way to transport any possession you need anywhere in the world [and if you need more things than a 20' shipping container, you might need to re-prioritize and 5S your life] ... and guess what, there's actually a pretty vibrant MARKET for used shipping containers, regardless of what kind of hipster slob you are.
