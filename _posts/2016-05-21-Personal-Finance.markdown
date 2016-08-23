@@ -19,8 +19,8 @@ categories: finance, investment, independence
 
 7) You are the average of your five closest old friends; since this applies to them as well, it is up to you to work with them to increase your average.
 
-8) Get 100 mentors ... blogs, podcasts, YouTube channels ... Nicolas Nassim Taleb, Barry Ritholz, Niall Ferguson, Milton Friedman, Thomas Sowell, Dave Grossman, Jocko Willink, Bruce Schneier,
+8) Curate a set of 100 mentors ... blogs, podcasts, YouTube channels ... Nicolas Nassim Taleb, Barry Ritholz, Niall Ferguson, Milton Friedman, Thomas Sowell, Dave Grossman, Jocko Willink, Bruce Schneier,
 
-9) Curate a reading list of 100 books you are reading, re-reading
+9) Curate a reading list of 100 books you are reading, re-reading ... you do not necessarily need to start right away with Seth Klarman's [Margin of Safety](https://files.leopolds.com/books/Margin.of.Safety.1st.Edition.1991.Klarman.pdf) but eventually you must read it because of what it has to say about discipline, effort, mindset and absolute control of emotions BEFORE investing large amounts of capital.
 
 10) Be extremely careful with the use of credit ... it is best if you can pay off your debts, but sometimes [eg an existing debt from the past, an accident, an unforeseen medical expense] that is just not feasible.  Realize that debt is not JUST about paying interest to use money, it is ALSO something that constrains your flexibility and options in the future.  
