@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Aug 2016 17:39:57 -0500</pubDate>
-    <lastBuildDate>Fri, 19 Aug 2016 17:39:57 -0500</lastBuildDate>
+    <pubDate>Tue, 23 Aug 2016 11:49:39 -0500</pubDate>
+    <lastBuildDate>Tue, 23 Aug 2016 11:49:39 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -72,6 +72,25 @@
         <category>soil</category>
         
         <category>ecosystems</category>
+        
+      </item>
+    
+      <item>
+        <title>The END of the American Experiment</title>
+        <description>&lt;p&gt;Dodd-Frank COMPLETELY changed my retirement plans … in a small way, that’s okay, I guess … life SHOULD come along and completely change things for a person; the’s the beauty of life.  In a much larger way, though, it is a really bad deal for America, Americans and all those who are allies and friends of Americans … in a nutshell, &lt;a href=&quot;http://www.wsj.com/articles/dodd-franks-effect-on-small-banks-is-muted-1443993212&quot;&gt;Dodd-Frank has eliminated NEW banking or financial company startup genesis, it has driven banks to merge and consolidate and, unsurprisingly, fewer and larger banks have effective monopolies in some markets boosting their pricing power, so profits of the fewer and larger banks have increased even as customers pay more for a shrinking or stagnant array of services&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Before Dodd-Frank was passed, I had planned to work like a fiend, save everything I earned, invest diligently and then keep re-investing until I could retire at 59 1/2 [since a large portion of what eventually would be my liquid net worth was in IRA/401(k) accounts] to develop an investment company and start-up accelerator [primarily for fintechs] to encourage others to work, save and invest in startups – of course that including getting others to start their own small banks and investment companies.  After Dodd-Frank, I decided to retire early, there was no longer a point in saving, I gave away most of my assets [except for enough to cover my expenses and not be destitute] and I decided to “go Galt” writing, doing research, improving my health, preparing for the inevitable COLLAPSE.  So far the collapse has been unfolding in an especially stagnant fashion.&lt;/p&gt;
+
+&lt;p&gt;Without a high birthrate of new employer firms … there is absolutely NO WAY to get the growth that will be necessary to responsibly handle the debt and contingent liabilities our nation as acquired through its copious expansion of entitlements … a diverse financial ecosystem with robust array of capital alternatives are essential for spurring the birthrate and initial expansion of new employer firms …. Dodd-Frank has killed the goose that laid the golden eggs; look at the disaster it has caused in banking, particularly in small banking and small financial companies – there’s been fewer than a handful of new small banking and small financial companies formed since Dodd-Frank … I do not see an alternative to an inevitable COLLAPSE, but I believe that sooner would be much better than later … while there are still people who remember what banking was like before Dodd-Frank, before Sarbanes-Oxley.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Aug 2016 03:30:00 -0500</pubDate>
+        <link>/collapse,/retirement/2016/08/21/Dodd-Franked.html</link>
+        <guid isPermaLink="true">/collapse,/retirement/2016/08/21/Dodd-Franked.html</guid>
+        
+        
+        <category>collapse,</category>
+        
+        <category>retirement</category>
         
       </item>
     
@@ -592,33 +611,6 @@ Plan-Do-Check-Act … start spec-ing out the idea for your business/life. Get go
         <pubDate>Tue, 24 Nov 2015 02:30:00 -0600</pubDate>
         <link>/learning/2015/11/24/Disrupting-Education.html</link>
         <guid isPermaLink="true">/learning/2015/11/24/Disrupting-Education.html</guid>
-        
-        
-        <category>learning</category>
-        
-      </item>
-    
-      <item>
-        <title>Go language and learning Russian</title>
-        <description>&lt;p&gt;I have been thinking a lot about the old story or parable of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Tower_of_Babel&quot;&gt;Tower of Babel&lt;/a&gt; lately … parables embed wisdom in cultures.  The lesson from Tower of Babel is we should be nervous about imagining that we can work well in different languages on difficult safety-critical projects of any scale.  It is probably not humanly impossible for someone to become a proficiently-wise polyglot in just one lifetime; it is impossible to have a competent multi-lingual team.  There has to be a common language that glues the conversation and collaboration together.  Yes, it is possible to become fluent enough in multiple languages to become dangerous, but being proficient to be wise and think with clear judgement is a lot tougher … this is not exactly the same as saying that most authors will never develop the proficiency to be Shakespeare – that’s already obvious enough.  It’s sort of like saying that most authors will probably never develop the multi-lingual proficiency to become remotely as competent [in different languages/cultures] as Kurt Vonnegut or Norman Mailer or John le Carré were in English … and certainly no multi-lingual author will be as proficient in multiple languages as the Steinbecks, Hemingways, Faulkners or Clarkes, Asimovs, Heinleins and other proficient users of the English language.&lt;/p&gt;
-
-&lt;p&gt;This posting is about computer languages, specifically the Go programming language.  The &lt;a href=&quot;http://www.google.com/trends/explore#q=golang&amp;amp;date=3%2F2012%2073m&amp;amp;cmpt=q&amp;amp;tz=Etc%2FGMT%2B5&quot;&gt;rate of adoption of Go language&lt;/a&gt; is just flat out impressive by almost any measure.  Go became a public open source project on November 10, 2009. After a couple of years of very active design and development, stability was called for and Go 1 was released on March 28, 2012.  There are, of course, other languages that one might want to be proficient or fluent in … languages that you cannot really ignore, even if you want to … C, Java, Python, Javascript, Erlang, Ruby, Haskell, Scala … but there are very good reasons to learn something about Go that are not just about why Go adoption is exploding, particularly in very interesting projects like Docker or CockroachDB.&lt;/p&gt;
-
-&lt;p&gt;You want to be VERY, VERY CAREFUL before you invest any effort learning in a new programming language … most programmers are not remotely careful enough about bumbling into a new language … if we want to understand why, let’s think about what we know about spoken languages.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.quora.com/What-are-the-best-ways-to-learn-a-language-as-an-adult&quot;&gt;Learning any new language as an adult&lt;/a&gt; can be a rather daunting and unrewarding task AT FIRST.  4% of students embarking on &lt;em&gt;language courses in schools&lt;/em&gt; achieve a BASIC level of fluency after three years; 96% of the student invest time and money learning a language might start the best intentions and the kids are certainly smart enough and most of them are motivated enough to achieve other things in life, but they fail to learn new languages because they start out with completely wrong expectations. It takes 600+ hours of study and practice to reach BASIC fluency in a typical new language, unless you already speak a language that is linguistic similar, eg French-Spanish-Portuguese-Italian or English-German-Dutch are examples of linguistic similar languages … let that sink in for a second, 600+ is 2 hrs/day – ideally with most of that time spent practicing with fluent speaker, EVERY day for a full year to get a BASIC, three-year-old’s level of fluency!&lt;/p&gt;
-
-&lt;p&gt;Fluency is not proficiency or mastery, mind you … effectively, fluency is not that much more than being able to follow a conversation translating what the speaker says and to ask VERY, VERY BASIC questions – fluency means that you can interact, but it does not mean that you can interact natively, without thinking… fluency is like hacking code, copy-and-pasting algorithmic snippets and taking 5X or 10X as long to debug code as someoe who is good enough to be proficient … at some point, you need to move beyond simple hacking and translating and you need to form new thoughts and actually THINK in a language.  REALLY learning a lanaguage to be able to think in that language will take you a LOT MORE than just 600+ hours; probably at least one order if not almost two orders of magnitude longer.&lt;/p&gt;
-
-&lt;p&gt;Of course, the ENTIRE reason to go to the effort of really learning a language well enough to THINK in that language is that, as Ludwig Wittgenstein famously said long ago [Tractatus Logico-Philosophicus (1922)], &lt;em&gt;a new language will expand the limits of your world dramatically&lt;/em&gt; but only if you USE it* … you need to understand and live the idioms and patterns, the best practices and the stories and parables that go with them, the algorithms and ways of thinking. Learning new ways to think is the big reason to learn a new language and USE IT!&lt;/p&gt;
-
-&lt;p&gt;I will admit that these are not very robust metaphors but they do sort of illustrate the way that I see the language thing.  Being fluent in Javascript, Python, Ruby and various scripting languages is [for a native English speaker] a lot like learning German or learning to use English at a higher, more abstract level … everytime I turn around, I find myself thinking I should be better at these.  If I did not already have a bit of a background in it, C [and to some degree C++ and Java] would probably be like learning Chinese … almost painful, but I do not have a choice … the number of applications for it is in the billions and neither C nor Chinese are going to go away.  Learning other languages like Erlang, Haskell or Go are probably a lot like learning Russian – people are doing some really interesting, really complex things in those languages and the mental world inhabited by those people is obviously far different than the middle-class American mental realm … so why not explore it?  But there are limits to what I can do, so when it comes to other languages like Cobol, Pascal, Fortran or &lt;em&gt;even a scientific computing language like &lt;a href=&quot;https://github.com/JuliaLang/julia&quot;&gt;Julia&lt;/a&gt; that I probably SHOULD dig into&lt;/em&gt; … those languages are like French or Spanish or Portuguese or Italian … yes, I know that a lot of great people use them and maybe they really turned my head at one at one time, but I don’t see them impacting my future that directly so I think I will just rely on friends or robo translators.&lt;/p&gt;
-
-&lt;p&gt;I think I will look at some Go idioms … or maybe some Russian proverbs&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Sep 2015 03:30:00 -0500</pubDate>
-        <link>/learning/2015/09/23/Learning-Russian.html</link>
-        <guid isPermaLink="true">/learning/2015/09/23/Learning-Russian.html</guid>
         
         
         <category>learning</category>
