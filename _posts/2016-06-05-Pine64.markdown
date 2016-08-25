@@ -5,3 +5,9 @@ date:   2016-06-05 8:30:00
 categories: KickStarter
 ---
 My Pine64 boards showed up last week ... actually before I expected to receive them ... I have come to expect people who organize and run crowdfunding campaigns for hardware underestimate how difficult it will be to meet any significant project deadline ... hardware is HARD.  Shipping hardware and dealing with all of the issues that come from customers attempting to use harder is REALLY hard ... but building an open source community around open source hardware is HARDER still ... maybe IMPOSSIBLY hard ... THAT is WHY I backed the Kickstarter project, not to build and open source community ... but maybe to watch it happen, maybe to help make it happen, MOSTLY to see how and why community building comes up short ... or what can be done differently next time ... and I am absolutely certain that there WILL BE a next time.
+
+Basically, cultivating an open source community seems to be a matter of [cultivation of leadership](https://www.safaribooksonline.com/library/view/cultivate-conference-2016/9781491959701/) when you do not have the authority to supervise, order or command behavior.
+
+Why is the project important enough to get people on board, why is the project important enough to motivate you to become a significant participant and leader?  (For example, I do not yet know if Pine64 is really worth my time ... I was hopeful, so I forked over some cash to support the initial build, but beyond that ... )
+
+How do you maintain a heartbeat?

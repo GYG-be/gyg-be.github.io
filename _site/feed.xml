@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Aug 2016 15:25:08 -0500</pubDate>
-    <lastBuildDate>Thu, 25 Aug 2016 15:25:08 -0500</lastBuildDate>
+    <pubDate>Thu, 25 Aug 2016 15:47:33 -0500</pubDate>
+    <lastBuildDate>Thu, 25 Aug 2016 15:47:33 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -124,6 +124,12 @@
       <item>
         <title>Pine64</title>
         <description>&lt;p&gt;My Pine64 boards showed up last week … actually before I expected to receive them … I have come to expect people who organize and run crowdfunding campaigns for hardware underestimate how difficult it will be to meet any significant project deadline … hardware is HARD.  Shipping hardware and dealing with all of the issues that come from customers attempting to use harder is REALLY hard … but building an open source community around open source hardware is HARDER still … maybe IMPOSSIBLY hard … THAT is WHY I backed the Kickstarter project, not to build and open source community … but maybe to watch it happen, maybe to help make it happen, MOSTLY to see how and why community building comes up short … or what can be done differently next time … and I am absolutely certain that there WILL BE a next time.&lt;/p&gt;
+
+&lt;p&gt;Basically, cultivating an open source community seems to be a matter of &lt;a href=&quot;https://www.safaribooksonline.com/library/view/cultivate-conference-2016/9781491959701/&quot;&gt;cultivation of leadership&lt;/a&gt; when you do not have the authority to supervise, order or command behavior.&lt;/p&gt;
+
+&lt;p&gt;Why is the project important enough to get people on board, why is the project important enough to motivate you to become a significant participant and leader?  (For example, I do not yet know if Pine64 is really worth my time … I was hopeful, so I forked over some cash to support the initial build, but beyond that … )&lt;/p&gt;
+
+&lt;p&gt;How do you maintain a heartbeat?&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Jun 2016 03:30:00 -0500</pubDate>
         <link>/kickstarter/2016/06/05/Pine64.html</link>
