@@ -38,3 +38,5 @@ categories: finance, investment, independence
 16) Death is certain. Not just for humans, but we also know that the entropy of the universe is always increasing. Everything dies. What you can affect is the window of time before death ... in other words, invest effort in appreciating, utilizing and exploiting NOW to the fullest and practice getting better at doing so.
 
 17) Beyond investing in your own productivity and accelerating the development of your own productivity (ie learning how to learn and improving your ability to learn how to learn), also work at investing the productivity of the team than you work with (eg, Github codegraph, GitHub for Teams, Github API).
+
+18) [Skill yourself up](http://www.forbes.com/sites/investor/2014/01/27/active-productive-assets-the-answer-to-the-conundrum-of-potential-financial-ruin/2/#487e43325be7). Invest in your own intellectual property.  Make yourself useful to others.
