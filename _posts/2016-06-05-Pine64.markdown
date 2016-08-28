@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pine64"
+title:  "Pine64 And The Essential Element of a Hobbyist Community"
 date:   2016-06-05 8:30:00
 categories: KickStarter
 ---
