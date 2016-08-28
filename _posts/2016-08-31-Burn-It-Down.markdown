@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Burn It Down -- Criticism Trumps Building Stupid Shit" 
+title:  "Burn It Down FIRST -- Why Criticism Trumps Building Stupid Shit"
 date:   2016-08-31 8:30:00
 categories: open source
 ---
+I really, really, really HATE safe spaces! Safe, criticism-free zones might just be the most pathological development in American history.
+
 [*You know that I like moldy ecosystems as much as the next guy*](http://markbruns.github.io/bioremediation,/antibiotics,/enzymes,/metagenomics,/soil/ecosystems/2016/08/24/White-Rot.html), but ... I am wondering,"So what if [the tiny house trend is becoming ordinary, untrendy and boring](https://www.kasita.com/is-the-tiny-house-trend-dead/) ... does that really matter if the tiny house trend dies as a trend and becomes a stable, mature and more solid STANDARD?" In a way, I think the demise of the trendiness would be a GREAT thing ... the longer-term survival of the tiny house STANDARD might depend upon letting the more extreme and goofy ideas just die before they hurt anyone.  
 
 Standardization sounds simple ... as long as we can get others to standardize on our way of doing things ... but standardization is HARD.  
