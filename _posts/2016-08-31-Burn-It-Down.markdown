@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Burn It Down"
+title:  "Burn It Down -- Criticism Trumps Building Stupid Shit" 
 date:   2016-08-31 8:30:00
 categories: open source
 ---
