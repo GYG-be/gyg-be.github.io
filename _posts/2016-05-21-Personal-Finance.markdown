@@ -39,4 +39,4 @@ categories: finance, investment, independence
 
 17) Beyond investing in your own productivity and accelerating the development of your own productivity (ie learning how to learn and improving your ability to learn how to learn), also work at investing the productivity of the team than you work with (eg, Github codegraph, GitHub for Teams, Github API).
 
-18) [Skill yourself up](http://www.forbes.com/sites/investor/2014/01/27/active-productive-assets-the-answer-to-the-conundrum-of-potential-financial-ruin/2/#487e43325be7). Invest in your own intellectual property.  Make yourself useful to others.
+18) Take a serious inventory of your skills while being mindful of our place in history. You are going to have workout, to get after it, to CRUSH your mental and physical workouts as you [skill yourself up](http://www.forbes.com/sites/investor/2014/01/27/active-productive-assets-the-answer-to-the-conundrum-of-potential-financial-ruin/2/#487e43325be7). Invest in your own intellectual property.  Make yourself useful to others.
