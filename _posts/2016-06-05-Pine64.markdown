@@ -12,4 +12,6 @@ Why is the project important enough to get people on board, why is the project i
 
 The rewards are not monetary or recognition that is typically associated with other forms of work ... how does the project maintain and cultivate a project heartbeat or momentum or something like a sense of progress on a shared fight that inspires and encourages collaborators?
 
-Is there a better way than GitHub to maintain decentralized, distributed control?  What are the shortcomings of Git?  Are there better ways than Git?
+Is there a better way than GitHub to maintain decentralized, distributed control?  What are the shortcomings of Git?  Are there better ways than Git? Of course, there are, but those ways haven't been invented yet -- the open source community is still getting to that, but the thing about open source community is how the OPEN SOURCE COMMUNITY KEEPS GETTING TO THE THINGS THAT MATTER MOST.
+
+So does Pine64 matter enough? Maybe ... but it's not my decision ... the ~community~ has to decide that it matters. 
