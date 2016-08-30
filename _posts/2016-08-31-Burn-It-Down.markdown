@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Burn It Down FIRST -- Why Criticism Trumps Building Stupid Shit"
+title:  "Burn It Down FIRST -- Why Simulation and Critique Is Better Than Building Stupid Shit"
 date:   2016-08-31 8:30:00
 categories: open source
 ---
