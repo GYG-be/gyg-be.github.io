@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Aug 2016 17:20:08 -0500</pubDate>
-    <lastBuildDate>Tue, 30 Aug 2016 17:20:08 -0500</lastBuildDate>
+    <pubDate>Tue, 30 Aug 2016 18:41:08 -0500</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2016 18:41:08 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -27,7 +27,23 @@
 
 &lt;p&gt;But &lt;a href=&quot;https://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/&quot;&gt;Jupyter Lab&lt;/a&gt; puts extensibility on steroids by making it easy to extend the already venerable &lt;a href=&quot;https://www.safaribooksonline.com/library/view/jupyter-notebook-for/9781771375030/&quot;&gt;Jupyter notebook for data science teams&lt;/a&gt; and provide a foundation for continued extensions of &lt;a href=&quot;http://jupyter.org/about.html&quot;&gt;Project Jupyter&lt;/a&gt; with &lt;a href=&quot;http://phosphorjs.github.io/about.html&quot;&gt;the PhosphorJS libraries&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;HTML and CSS were designed for documents, not applications. There are certain classes of user interactions which are expected of production-quality desktop applications which are impossible to implement in CSS alone. Think of tabbed and docked panels in an IDE application. These types of interactions must be implemented using JavaScript, and implementing them in a scalable and elegant fashion requires a reasonable amount of architecture. This includes facilities such as: a message-passing hierarchy, resize/attach/detach/show/hide events, size constraint aggregation, and efficient layout computation. PhosphorJS provides these low-level facilities that are currently missing from the web, in a way which is flexible, unopinionated, and compatible with existing code.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;My curation of content is not what it should be … I recently started thinking that I need to spend a fair amount of time … maybe as much as four hours a day (&lt;em&gt;Is that way too much?!  NOT ENOUGH??!!&lt;/em&gt;) engaged in skimming / sipping / “swimming in the deep end” from what I call the “Data Science Ecosystem Firehose”&lt;/p&gt;
+
+&lt;p&gt;YouTube&lt;/p&gt;
+
+&lt;p&gt;GitHub / Gitter&lt;/p&gt;
+
+&lt;p&gt;Stackoverflow&lt;/p&gt;
+
+&lt;p&gt;Udacity / CodeSchool / Cloud Academy&lt;/p&gt;
+
+&lt;p&gt;Meetups / Confs&lt;/p&gt;
+
+&lt;p&gt;LinkedIn / Twitter (Lists)&lt;/p&gt;
+
+&lt;p&gt;Blogs (FooledByRandomness)&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Sep 2016 03:30:00 -0500</pubDate>
         <link>/phosphorjs/2016/09/01/PhosphorJS-Jupyter-Lab.html</link>

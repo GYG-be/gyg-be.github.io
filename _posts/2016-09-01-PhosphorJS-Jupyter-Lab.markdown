@@ -20,4 +20,20 @@ The Jupyter Notebook combines two components: 1) A web application and 2) notebo
 
 But [Jupyter Lab](https://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/) puts extensibility on steroids by making it easy to extend the already venerable [Jupyter notebook for data science teams](https://www.safaribooksonline.com/library/view/jupyter-notebook-for/9781771375030/) and provide a foundation for continued extensions of [Project Jupyter](http://jupyter.org/about.html) with [the PhosphorJS libraries](http://phosphorjs.github.io/about.html).  
 
-HTML and CSS were designed for documents, not applications. There are certain classes of user interactions which are expected of production-quality desktop applications which are impossible to implement in CSS alone. Think of tabbed and docked panels in an IDE application. These types of interactions must be implemented using JavaScript, and implementing them in a scalable and elegant fashion requires a reasonable amount of architecture. This includes facilities such as: a message-passing hierarchy, resize/attach/detach/show/hide events, size constraint aggregation, and efficient layout computation. PhosphorJS provides these low-level facilities that are currently missing from the web, in a way which is flexible, unopinionated, and compatible with existing code.
+____________
+
+My curation of content is not what it should be ... I recently started thinking that I need to spend a fair amount of time ... maybe as much as four hours a day (*Is that way too much?!  NOT ENOUGH??!!*) engaged in skimming / sipping / "swimming in the deep end" from what I call the "Data Science Ecosystem Firehose"
+
+YouTube
+
+GitHub / Gitter
+
+Stackoverflow
+
+Udacity / CodeSchool / Cloud Academy
+
+Meetups / Confs
+
+LinkedIn / Twitter (Lists)
+
+Blogs (FooledByRandomness)
