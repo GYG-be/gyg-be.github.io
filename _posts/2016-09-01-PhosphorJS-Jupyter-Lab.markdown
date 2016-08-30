@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Jupyter Lab and PhosphorJS"
+date:   2016-09-01 8:30:00
+categories: PhosphorJS
+---
+A government has a strategy. The people have counter strategies.
+
+It USED to be that governments had the inside edge on gathering the data and formulating better strategies -- but increasingly that is no longer true -- governments have inept, inflexible, archaic sub-optimal strategies, whereas people have smarter, more sophisticated, more intensely-responsive strategies.
+
+I do not know *exactly* why I am so intensely intrigued by new computer languages ... I almost worry about the fascination sometimes ... but I am engrossed in things like the Julia Language, or tools for language polyglottery such as the Jupyter Project ... but it's mostly about how languages of data analysis enables sophistication and accuracies in the strategies of people.  I TOTALLY understand that shiny new tools are dangerous for their distractive power and their POWER in providing the WRONG answers. Nothing sends people to the ER like the exuberance of a new power tool. But *eventually* we figure out how to use the power tool for maximum productivity and, maybe even more importantly, TIMELINESS ... and one farmer can PERFECTLY plant more acres of a crop at exactly the right right time with his giant tractor pulling a sophisticated planting implement than armies of planters could have ever planted with their hoes and bags of seed.
+
+joined the [Jupyter Hackpad ](https://jupyter.hackpad.com/) because I believe that [Jupyter Lab](http://jupyterlab-tutorial.readthedocs.io/en/latest/index.html) is really a big deal ... sort of like Linux really looked spooky big 25 years ago, when a new riff on the Minix clone of Unix was small enough to be ignored because the gold standard was still a PCs running DOS or Windows NT ... but some could generally see that it was a big enough of an idea that you knew it was somehow GOING TO amount to something in the fall of 1991.  
+
+Well, I think Jupyter is going to be an even bigger deal because of things like [Jupyter Hackpad Weekly Dev Meetings](https://jupyter.hackpad.com/collection/zCqMrBELzrv) ... although I still suspect that Jupyter, like Linux, will ultimately be driven by an individual leading a small core development group.
+
+Of course, the [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/) was already a big deal because of what it means for team workflows ... sharing and and walking through code and data science ...and since those workflows change, what is important is how the Notebook extends the basic console-based approach to interactive computing in a qualitatively new direction, providing a web-based application suitable for capturing the whole computation process: developing, documenting, and executing code, as well as communicating the results.
+
+The Jupyter Notebook combines two components: 1) A web application and 2) notebook documents.  The web application is a browser-based tool for interactive authoring of documents which combine explanatory text, mathematics, computations and their rich media output.  The notebook documents provide a representation of all content visible in the web application, including inputs and outputs of the computations, explanatory text, mathematics, images, and rich media representations of objects.  
+
+But [Jupyter Lab](https://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/) puts extensibility on steroids by making it easy to extend the already venerable [Jupyter notebook for data science teams](https://www.safaribooksonline.com/library/view/jupyter-notebook-for/9781771375030/) and provide a foundation for continued extensions of [Project Jupyter](http://jupyter.org/about.html) with [the PhosphorJS libraries](http://phosphorjs.github.io/about.html).  
+
+HTML and CSS were designed for documents, not applications. There are certain classes of user interactions which are expected of production-quality desktop applications which are impossible to implement in CSS alone. Think of tabbed and docked panels in an IDE application. These types of interactions must be implemented using JavaScript, and implementing them in a scalable and elegant fashion requires a reasonable amount of architecture. This includes facilities such as: a message-passing hierarchy, resize/attach/detach/show/hide events, size constraint aggregation, and efficient layout computation. PhosphorJS provides these low-level facilities that are currently missing from the web, in a way which is flexible, unopinionated, and compatible with existing code.

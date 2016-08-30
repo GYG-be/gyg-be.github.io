@@ -5,9 +5,38 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Aug 2016 12:29:31 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Aug 2016 12:29:31 -0500</lastBuildDate>
+    <pubDate>Tue, 30 Aug 2016 13:30:26 -0500</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2016 13:30:26 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Jupyter Lab and PhosphorJS</title>
+        <description>&lt;p&gt;A government has a strategy. The people have counter strategies.&lt;/p&gt;
+
+&lt;p&gt;It USED to be that governments had the inside edge on gathering the data and formulating better strategies – but increasingly that is no longer true – governments have inept, inflexible, archaic sub-optimal strategies, whereas people have smarter, more sophisticated, more intensely-responsive strategies.&lt;/p&gt;
+
+&lt;p&gt;I do not know &lt;em&gt;exactly&lt;/em&gt; why I am so intensely intrigued by new computer languages … I almost worry about the fascination sometimes … but I am engrossed in things like the Julia Language, or tools for language polyglottery such as the Jupyter Project … but it’s mostly about how languages of data analysis enables sophistication and accuracies in the strategies of people.  I TOTALLY understand that shiny new tools are dangerous for their distractive power and their POWER in providing the WRONG answers. Nothing sends people to the ER like the exuberance of a new power tool. But &lt;em&gt;eventually&lt;/em&gt; we figure out how to use the power tool for maximum productivity and, maybe even more importantly, TIMELINESS … and one farmer can PERFECTLY plant more acres of a crop at exactly the right right time with his giant tractor pulling a sophisticated planting implement than armies of planters could have ever planted with their hoes and bags of seed.&lt;/p&gt;
+
+&lt;p&gt;joined the &lt;a href=&quot;https://jupyter.hackpad.com/&quot;&gt;Jupyter Hackpad &lt;/a&gt; because I believe that &lt;a href=&quot;http://jupyterlab-tutorial.readthedocs.io/en/latest/index.html&quot;&gt;Jupyter Lab&lt;/a&gt; is really a big deal … sort of like Linux really looked spooky big 25 years ago, when a new riff on the Minix clone of Unix was small enough to be ignored because the gold standard was still a PCs running DOS or Windows NT … but some could generally see that it was a big enough of an idea that you knew it was somehow GOING TO amount to something in the fall of 1991.&lt;/p&gt;
+
+&lt;p&gt;Well, I think Jupyter is going to be an even bigger deal because of things like &lt;a href=&quot;https://jupyter.hackpad.com/collection/zCqMrBELzrv&quot;&gt;Jupyter Hackpad Weekly Dev Meetings&lt;/a&gt; … although I still suspect that Jupyter, like Linux, will ultimately be driven by an individual leading a small core development group.&lt;/p&gt;
+
+&lt;p&gt;Of course, the &lt;a href=&quot;https://jupyter-notebook.readthedocs.io/en/latest/&quot;&gt;Jupyter Notebook&lt;/a&gt; was already a big deal because of what it means for team workflows … sharing and and walking through code and data science …and since those workflows change, what is important is how the Notebook extends the basic console-based approach to interactive computing in a qualitatively new direction, providing a web-based application suitable for capturing the whole computation process: developing, documenting, and executing code, as well as communicating the results.&lt;/p&gt;
+
+&lt;p&gt;The Jupyter Notebook combines two components: 1) A web application and 2) notebook documents.  The web application is a browser-based tool for interactive authoring of documents which combine explanatory text, mathematics, computations and their rich media output.  The notebook documents provide a representation of all content visible in the web application, including inputs and outputs of the computations, explanatory text, mathematics, images, and rich media representations of objects.&lt;/p&gt;
+
+&lt;p&gt;But &lt;a href=&quot;https://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/&quot;&gt;Jupyter Lab&lt;/a&gt; puts extensibility on steroids by making it easy to extend the already venerable &lt;a href=&quot;https://www.safaribooksonline.com/library/view/jupyter-notebook-for/9781771375030/&quot;&gt;Jupyter notebook for data science teams&lt;/a&gt; and provide a foundation for continued extensions of &lt;a href=&quot;http://jupyter.org/about.html&quot;&gt;Project Jupyter&lt;/a&gt; with &lt;a href=&quot;http://phosphorjs.github.io/about.html&quot;&gt;the PhosphorJS libraries&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;HTML and CSS were designed for documents, not applications. There are certain classes of user interactions which are expected of production-quality desktop applications which are impossible to implement in CSS alone. Think of tabbed and docked panels in an IDE application. These types of interactions must be implemented using JavaScript, and implementing them in a scalable and elegant fashion requires a reasonable amount of architecture. This includes facilities such as: a message-passing hierarchy, resize/attach/detach/show/hide events, size constraint aggregation, and efficient layout computation. PhosphorJS provides these low-level facilities that are currently missing from the web, in a way which is flexible, unopinionated, and compatible with existing code.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Sep 2016 03:30:00 -0500</pubDate>
+        <link>/phosphorjs/2016/09/01/PhosphorJS-Jupyter-Lab.html</link>
+        <guid isPermaLink="true">/phosphorjs/2016/09/01/PhosphorJS-Jupyter-Lab.html</guid>
+        
+        
+        <category>PhosphorJS</category>
+        
+      </item>
     
       <item>
         <title>Burn It Down FIRST -- Why Criticism Trumps Building Stupid Shit</title>
@@ -565,47 +594,6 @@ Plan-Do-Check-Act … start spec-ing out the idea for your business/life. Get go
         
         
         <category>Learning</category>
-        
-      </item>
-    
-      <item>
-        <title>The Monk Thing</title>
-        <description>&lt;p&gt;I am just an OLD MONK, but after seeing friends and family again over Thanksgiving, I have been thinking a LOT about how I should TRAIN now.&lt;/p&gt;
-
-&lt;p&gt;The important thing is that my training not at all about me anymore, it’s mostly about what I should do so that I can more effectively work with others or assist others in THEIR training.  When an old monk survives long enough, he becomes more interested in next generation training (i.e. I want to train for the FUTURE threat, not my survival or the threat of yesterday or today). Some time ago, I started looking into training SYSTEMS … there are old school martial arts traditions, but there are plenty of worthy modern examples also such as the &lt;a href=&quot;http://www.combatical.com/&quot;&gt;Marine Corps Martial Arts close combat training&lt;/a&gt; or the &lt;a href=&quot;http://kravmaga-ikmf.com/krav-maga/train-in-israel/warriors-quest/&quot;&gt;Israeli Krav Maga training&lt;/a&gt;.  Since I respect traditions, I realize that I am not really any different from those who have come before me.  I am just an OLD MONK … but I am obligated to train others because I survived to be an old monk.&lt;/p&gt;
-
-&lt;p&gt;There are some fairly simple and timeless rules that emerge …&lt;/p&gt;
-
-&lt;h1 id=&quot;create-a-daily-practice-that-supports-and-sustains-you-and-advances-your-art&quot;&gt;Create a daily practice that supports and sustains you and advances your art.&lt;/h1&gt;
-&lt;p&gt;1) Get up and get moving, move throughout the day. Try to eat better each day than you did the day before
-2) Do the HARD THING that you fear most first so that your mind is clear to write, code, implement, debug
-3) Play with principles and your original extension of principles rather than memorizing specific techniques, quotes, phrases.&lt;/p&gt;
-
-&lt;h1 id=&quot;rest-and-relax-without-engaging-in-bad-unmindful-habits&quot;&gt;Rest and relax without engaging in bad unmindful habits&lt;/h1&gt;
-&lt;p&gt;1) If you need a distraction from your pathetic life, you’re doing it wrong.
-2) Use or don’t use sex or stimulants or drugs or asceticism, but do not allow addiction to rule you.
-3) Practice the habits of mindfulness, especially in your rest and relaxation.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-essence-of-being-a-warrior-is-never-quitting-on-yourself&quot;&gt;The essence of being a warrior is never quitting on yourself.&lt;/h1&gt;
-&lt;p&gt;1) Relapse is a necessary part of recovery, recovery is necessary to beat addiction. Don’t let relapse lead you back to addiction.
-2) Celebrate your victories by working on your humility; never be satisfied – always think about the ways that you could have done something better or helped others more.
-3) Be more anonymous, but rule by example. Avoid dick measuring competitions. Work harder at channeling desire for wealth, power, fame, sex, comfort into helping others.&lt;/p&gt;
-
-&lt;h1 id=&quot;you-can-be-dead-serious-without-losing-your-sense-of-humor&quot;&gt;You can be dead serious without losing your sense of humor.&lt;/h1&gt;
-&lt;p&gt;1) Practice giving humor speeches or being a standup comic.
-2) Have a point, but illustrate your point with humor, koans, riddles.
-3) Shut up and listen.  Work on being a better listener.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 Nov 2015 02:30:00 -0600</pubDate>
-        <link>/learning/to/learn/2015/11/30/The-Monk-Thing.html</link>
-        <guid isPermaLink="true">/learning/to/learn/2015/11/30/The-Monk-Thing.html</guid>
-        
-        
-        <category>learning</category>
-        
-        <category>to</category>
-        
-        <category>learn</category>
         
       </item>
     
