@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jupyter Lab and PhosphorJS"
+title:  "Jupyter Lab, PhosphorJS ... and Getting Used to Swimming in the Deep End"
 date:   2016-09-01 8:30:00
 categories: PhosphorJS
 ---
@@ -23,7 +23,9 @@ But [Jupyter Lab](https://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/) puts e
 ____________
 
 # SWIMMING
-My curation of content is not what it should be ... I recently started thinking that I need to spend a fair amount of time ... maybe as much as four hours a day (*Is that way too much?!  NOT ENOUGH??!!*) engaged in skimming / sipping / "swimming in the deep end" from what I call the "Data Science Ecosystem Firehose"
+My curation of content is not what it should be ... maybe it is, but what I am referring to is the explosion of really important ideas in the realm of data science ... and the need to amp up one's situational awareness of development in this professional realm of knowledge ... using the tools of data science.
+
+I recently started thinking that I need to spend a fair amount of time ... maybe as much as four hours a day (*Is that way too much?!  NOT ENOUGH??!!*) engaged in skimming / sipping / "swimming in the deep end" from what I call the "Data Science Ecosystem Firehose"
 
 YouTube
 
