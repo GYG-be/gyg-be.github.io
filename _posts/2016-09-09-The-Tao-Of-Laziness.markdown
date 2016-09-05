@@ -4,7 +4,7 @@ title:  "The Tao of Cocksuckers ... it's not the politicians that are the proble
 date:   2016-09-09 8:30:00
 categories: bioremediation, antibiotics, enzymes, metagenomics, soil ecosystems
 ---
-This is an explanation of why I think we should just let things rot ... although there are giant benefits to subtly manipulating the rotting process.
+This is an explanation of why I think we should just let things rot ... although there are giant benefits to subtly manipulating, ie ACCELERATING, the rotting process.
 
 The complexity of soil ecosystems has some important lessons for how we think about human interactions and optimizing those interactions.
 
