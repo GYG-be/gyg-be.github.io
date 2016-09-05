@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Tao of Cocksuckers"
+title:  "The Tao of Cocksuckers ... it's not the politicians that are the problem; it's the LAZY people who put their faith in politicians and governments."
 date:   2016-09-09 8:30:00
 categories: bioremediation, antibiotics, enzymes, metagenomics, soil ecosystems
 ---
