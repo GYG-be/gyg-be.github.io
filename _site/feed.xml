@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Sep 2016 20:39:38 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Sep 2016 20:39:38 -0500</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2016 12:02:26 -0500</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2016 12:02:26 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -93,11 +93,15 @@
     
       <item>
         <title>WHY Government Sucks</title>
-        <description>&lt;p&gt;&lt;em&gt;If you trust governments, you shouldn’t.&lt;/em&gt; You shouldn’t really trust anyone or anything, but if you think you NEED to trust something, it’d be better if you trusted the type of people who are involved in a project like &lt;a href=&quot;https://github.com/whispersystems/&quot;&gt;Open Whisper&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Government always has a strategy … because of this, the people need to deploy counter strategies.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;IDEALLY, governments are supposed to exist in order to protect rights. Governments do not REALLY do this.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you trust governments, you shouldn’t.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;In practice, governments exist to protect the rights of powerful bureaucrats, politicians and tyrants. NO politician, soldier or bureaucrat has EVER has &lt;em&gt;absolutely&lt;/em&gt; followed their oath to support and defend the Constitution … they do the best that they can within the constraints of how government actually operates.&lt;/p&gt;
+&lt;p&gt;You &lt;em&gt;should&lt;/em&gt; trust your basic motives for wanting to believe that governments are there for good purposes like liberty, justice and fighting for the little guy … but governments are NOT what they promise to be.  You shouldn’t really trust anyone or anything, but if you think you NEED to trust something, it’d be better if you trusted the type of people who are involved in a project that helps get past government, like &lt;a href=&quot;https://github.com/whispersystems/&quot;&gt;Open Whisper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;IDEALLY, governments are supposed to exist in order to protect rights. Governments only RARELY do this … they would NEVER EVER EVER do this if not for checks, balances and people holding governments accountable.  That means the goodness of government is entirely up to you … without YOU holding your government accountable, government is EVIL.&lt;/p&gt;
+
+&lt;p&gt;In practice, governments exist to protect the rights of powerful bureaucrats, politicians and tyrants. This is not to say that there are not plenty of plenty who really try hard to make government better, to make it serve the public interest.  NO politician, soldier or bureaucrat has EVER has &lt;em&gt;absolutely&lt;/em&gt; followed their oath to support and defend the Constitution … even the ones who actually try can’t – they do the best that they can within the constraints of how government actually operates.&lt;/p&gt;
 
 &lt;p&gt;IDEALLY, government leaders are democratically selected.&lt;/p&gt;
 
