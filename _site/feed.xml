@@ -5,9 +5,40 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Sep 2016 20:21:40 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Sep 2016 20:21:40 -0500</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2016 20:22:39 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2016 20:22:39 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>The best way to criticize is to create!</title>
+        <description>&lt;p&gt;&lt;strong&gt;The best way to criticize is to CREATE.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In an abstract sense, we all [should] want to fight evil. It is necessary to avoid aiding evil by just generating more chaos, but you can always recognize evil by its actions; evil terrorizes and oppresses and blames while using all kinds of arguments and pride to justify its use of terror, blame and jealousy.  If you want to defeat an enemy, Sun Tzu’s advice will always hold “first attack the enemy’s strategy, then his alliance, next his army and last his cities.” In other words, &lt;strong&gt;attack the PROBLEM intelligently and creatively, don’t be an idiot and harm the innocents!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It is tough to think strategically about fighting something as abstract as evil, but you can bring it down to the intensely practical level, where evil has directly impacted your own daily life.  You do not need to look all that far to find the presence of evil … you know what you need to do in your own life or your own projects, for example … be persistent, aim for quality not quantity, be more fit, train and exercise your muscle and your mind, humbly never stop learning and maniacally research your customer … fighting evil is basically a matter of working hard doing the right things before you get paid.&lt;/p&gt;
+
+&lt;p&gt;You already know what evil is when you see it; you shouldn’t switch on the news or get distracted by the movies. You are swimming in evil all around you. You might have witnessed the effects of different forms of evil: telling lies, gossiping, cheating, underhanded subterfuges, engaging in office politics, for instance.  You don’t want to attack the cities of innocent people; you want to attack strategically.&lt;/p&gt;
+
+&lt;p&gt;Practically, this means finding a PROBLEM that bugs you and attacking the problem, not the people.  You might want to fight the strategies of obfuscators and weasels OR if you detest toxic workplaces and resource-wasting meetings, you have to work on a strategy that involves creating a more just equitable, honest, open workflow.  It’s one thing to do that on your own, but establishing something like for others has been really HARD to accomplish on your own … until now.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the fact that &lt;a href=&quot;http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/&quot;&gt;the open source revolution has FULLY arrived and now legitimately dominates economic growth in the world&lt;/a&gt;, you can and should become an OpenSourcist, join forces with others in something like playing a small role &lt;a href=&quot;https://git-scm.com/community&quot;&gt;the Git community&lt;/a&gt; to create an even better Git or curate a &lt;a href=&quot;https://www.youtube.com/playlist?list=PLElrASo3VHBy9JJzDdkvkqdV0ZlbCCheR&quot;&gt;playlist of useful Git-related videos&lt;/a&gt; or even just convincing others to use a distributed version controls system like Git in a blog posting.  The [Git Documentation repository &lt;a href=&quot;https://github.com/git/git/tree/master/Documentation&quot;&gt;on GitHub&lt;/a&gt; in the &lt;a href=&quot;https://github.com/git/git&quot;&gt;Git source code repository&lt;/a&gt; has several files of interest to developers who are looking to help contribute. After reading the &lt;a href=&quot;https://github.com/git/git/blob/master/Documentation/CodingGuidelines&quot;&gt;coding guidelines&lt;/a&gt;, you can learn &lt;a href=&quot;https://github.com/git/git/blob/master/Documentation/SubmittingPatches&quot;&gt;how to submit patches&lt;/a&gt;. For those looking to get more deeply involved, there is a &lt;a href=&quot;https://github.com/git/git/blob/master/Documentation/howto/maintain-git.txt&quot;&gt;howto for Git maintainers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Of course, it is also important to not to be too trusting and maintain a situational awareness for what is happening in the open source world – as these projects become significantly larger and much more valuable, the &lt;a href=&quot;http://www.wired.com/2015/07/open-source-going-even-openbecause/&quot;&gt;open source single-sponsor model breaks down&lt;/a&gt;.  There’s a still a lot of proprietary, closed-source evil to fight … there are TONS of allies and they are hard-nosed practical fighters not altuistic idealist pansies … so if you want to be an Open Source warrior, you need to “march toward the sound of gunfire” or find the most awesome startup companies or heavily-starred, heavily-followed ACTIVE repositories, roll up your sleeves and fork and clone different repositories, learn everything you can about the code, learn about the people and the organizations that are involved, blog/tweet/evangelize about what they are up to … network with different people doing cool things, help do cool things and then network some more!  Don’t stop fighting.&lt;/p&gt;
+
+&lt;p&gt;If you want to defeat evil, work at creating a PRODUCTIVE community!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The best way to fight is to create.  There are opportunities everywhere.  ATTACK the problems! ATTACK the opportunities! ATTACK! The best way to attack is to create!&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Sep 2016 03:30:00 -0500</pubDate>
+        <link>/situational/intelligence/2016/09/16/MORE-Situational-Intelligence.html</link>
+        <guid isPermaLink="true">/situational/intelligence/2016/09/16/MORE-Situational-Intelligence.html</guid>
+        
+        
+        <category>Situational</category>
+        
+        <category>Intelligence</category>
+        
+      </item>
     
       <item>
         <title>The Tao of Cocksuckers ... it&#39;s not the politicians that are the problem; it&#39;s the LAZY people who put their faith in politicians and governments.</title>
@@ -316,27 +347,6 @@
         <category>investment,</category>
         
         <category>independence</category>
-        
-      </item>
-    
-      <item>
-        <title>Lean Government</title>
-        <description>&lt;p&gt;Most people believe in government in the same way that four-year-olds believe in Santa Claus.  They believe because the rest of the human species has lied to them and it has never occurred to them that they had a choice in questioning their belief in government.  So governments persist … for the same reason that any group of four-year-olds will persist in their belief in Santa Claus – nothing will derail that that belief, because the four-year-olds WANT to believe in Santa … governments persist because people DESPERATELY, HOPELESSLY, UNFAILINGLY need to believe in governments [because deep down, they’re all little kids who still really WANT to believe in Santa].&lt;/p&gt;
-
-&lt;p&gt;Governments have ALWAYS existed to protect the interests of already powerful, wealthy and general affluence who want to preserve their power and wealth … there’s nothing especially dark or conspiratorial going here – government is MOSTLY just a matter of preserving the rules of the game, eg the currency in your wallet can be spent; if you buy a car, you get title to the car to prove you own it … but we should remember that the already powerful have the inside track on preserving and EXPANDING their power.&lt;/p&gt;
-
-&lt;p&gt;So what does technology have to do with it?  Technology is inherently DISRUPTIVE of power … even though powerful and wealthy citizens are good at investing in [and sometimes subverting] technologies.&lt;/p&gt;
-
-&lt;p&gt;But technology can also disrupt the inefficiencies that the powerful exploit to control government. Government does not have to be inefficient … even if the gross inefficiency of government will probably be what ultimately brings about the mass annihilation of all humans and other lifeforms.&lt;/p&gt;
-
-&lt;p&gt;Government does not have to be coercive … believe it or not, instead of broadcasting propaganda to the masses, a government could actually LISTEN to what individual human beings want in order to boost the efficiency of government.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 Mar 2016 03:30:00 -0500</pubDate>
-        <link>/government/2016/03/24/Lean-Government.html</link>
-        <guid isPermaLink="true">/government/2016/03/24/Lean-Government.html</guid>
-        
-        
-        <category>Government</category>
         
       </item>
     

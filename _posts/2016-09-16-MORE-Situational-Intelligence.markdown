@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The best way to criticize is to create!"
-date:   2015-09-16 8:30:00
+date:   2016-09-16 8:30:00
 categories: Situational Intelligence
 ---
 **The best way to criticize is to CREATE.**  
