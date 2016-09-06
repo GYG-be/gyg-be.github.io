@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Government Sucks"
+title:  "WHY Government Sucks"
 date:   2016-09-04 8:30:00
 categories: game theory, political theory
 ---
