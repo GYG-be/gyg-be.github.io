@@ -5,13 +5,13 @@
     <description>This is my blog about version-controlled social production of open source technology ... feel free to reach out to me and tell me how I can be of service to you!</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Sep 2016 20:22:39 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Sep 2016 20:22:39 -0500</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2016 20:25:01 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2016 20:25:01 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
-        <title>The best way to criticize is to create!</title>
-        <description>&lt;p&gt;&lt;strong&gt;The best way to criticize is to CREATE.&lt;/strong&gt;&lt;/p&gt;
+        <title>The best way to criticize is to compete!</title>
+        <description>&lt;p&gt;&lt;strong&gt;The best way to criticize is to COMPETE.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In an abstract sense, we all [should] want to fight evil. It is necessary to avoid aiding evil by just generating more chaos, but you can always recognize evil by its actions; evil terrorizes and oppresses and blames while using all kinds of arguments and pride to justify its use of terror, blame and jealousy.  If you want to defeat an enemy, Sun Tzu’s advice will always hold “first attack the enemy’s strategy, then his alliance, next his army and last his cities.” In other words, &lt;strong&gt;attack the PROBLEM intelligently and creatively, don’t be an idiot and harm the innocents!&lt;/strong&gt;&lt;/p&gt;
 
@@ -27,16 +27,20 @@
 
 &lt;p&gt;If you want to defeat evil, work at creating a PRODUCTIVE community!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;The best way to fight is to create.  There are opportunities everywhere.  ATTACK the problems! ATTACK the opportunities! ATTACK! The best way to attack is to create!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The best way to fight is to compete.  There are opportunities everywhere.  ATTACK the problems! ATTACK the opportunities! ATTACK! The best way to attack is to compete!&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Sep 2016 03:30:00 -0500</pubDate>
-        <link>/situational/intelligence/2016/09/16/MORE-Situational-Intelligence.html</link>
-        <guid isPermaLink="true">/situational/intelligence/2016/09/16/MORE-Situational-Intelligence.html</guid>
+        <link>/situational/intelligence,/electron,/jupyter/2016/09/16/MORE-Situational-Intelligence.html</link>
+        <guid isPermaLink="true">/situational/intelligence,/electron,/jupyter/2016/09/16/MORE-Situational-Intelligence.html</guid>
         
         
         <category>Situational</category>
         
-        <category>Intelligence</category>
+        <category>Intelligence,</category>
+        
+        <category>Electron,</category>
+        
+        <category>Jupyter</category>
         
       </item>
     

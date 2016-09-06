@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The best way to criticize is to create!"
+title:  "The best way to criticize is to compete!"
 date:   2016-09-16 8:30:00
-categories: Situational Intelligence
+categories: Situational Intelligence, Electron, Jupyter
 ---
-**The best way to criticize is to CREATE.**  
+**The best way to criticize is to COMPETE.**  
 
 In an abstract sense, we all [should] want to fight evil. It is necessary to avoid aiding evil by just generating more chaos, but you can always recognize evil by its actions; evil terrorizes and oppresses and blames while using all kinds of arguments and pride to justify its use of terror, blame and jealousy.  If you want to defeat an enemy, Sun Tzu’s advice will always hold “first attack the enemy’s strategy, then his alliance, next his army and last his cities.” In other words, **attack the PROBLEM intelligently and creatively, don't be an idiot and harm the innocents!**
 
@@ -20,4 +20,4 @@ Of course, it is also important to not to be too trusting and maintain a situati
 
 If you want to defeat evil, work at creating a PRODUCTIVE community!
 
-**The best way to fight is to create.  There are opportunities everywhere.  ATTACK the problems! ATTACK the opportunities! ATTACK! The best way to attack is to create!**  
+**The best way to fight is to compete.  There are opportunities everywhere.  ATTACK the problems! ATTACK the opportunities! ATTACK! The best way to attack is to compete!**  
