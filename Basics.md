@@ -6,10 +6,10 @@ permalink: /Basics/
 
 You should read a LOT and YOUR [reading list](http://markbruns.github.io/ReadingList/) matters ... there are BASICS you should come back to and re-read, read more deeply ... especially when it comes to "sharpening the saw" on tools that you use frequently, but perhaps not every day.
 
-# Develop your OWN reading list of 25 BASICS.
+The most BASIC thing of all is to develop your OWN reading list of 25 BASICS ... of course, you can copy mine if you really want, but you should realize that you are copying from *the slow, wierd old guy* in the back of the of the class.
 
-1. Javascript, ES6, Typescript and Node.JS.
-2. HTML, CSS and other front-end web development tools that are necessary for data visualization
+1. [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction), [ECMAScript®](https://tc39.github.io/ecma262/), [Typescript](https://www.typescriptlang.org/docs/tutorial.html) and [Node.JS](https://nodejs.org/en/docs/).
+2. HTML, CSS and other front-end development technologies as well as back-end technologies necessary for [full-stack web development tools](https://www.lynda.com/learning-paths/Web/become-a-full-stack-web-developer) which are increasingly necessary for anyone serious about data visualization
 3. [Git](https://www.youtube.com/watch?v=ZDR433b0HJY), distributed control systems and Git foundations, Git branching and flow, [Git mastery](https://github.com/progit/progit2), Github, [Github jobs API](https://jobs.github.com/api), the [GitHub blog](https://github.com/blog), taking Git to the next level
 4. Look at social media and platforms for managing social media like [Hootsuite](https://hootsuite.com/dashboard) to [effectively network professionally](https://www.safaribooksonline.com/library/view/manage-your-job/9781680501377/chap14.xhtml) and manage the ROI of your social media as you LISTEN with analytics and tracking tools
 5. Lock at the world of writing and publishing [beyond microblogging and blogging]; evaluate ASCIIdoctor, Amazon or O'Reilly Atlas publishing platforms
