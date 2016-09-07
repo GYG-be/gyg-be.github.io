@@ -14,17 +14,17 @@ You should read a LOT and YOUR [reading list](http://markbruns.github.io/Reading
 4. Look at social media and platforms for managing social media like [Hootsuite](https://hootsuite.com/dashboard) to [effectively network professionally](https://www.safaribooksonline.com/library/view/manage-your-job/9781680501377/chap14.xhtml) and manage the ROI of your social media as you LISTEN with analytics and tracking tools
 5. Lock at the world of writing and publishing [beyond microblogging and blogging]; evaluate ASCIIdoctor, Amazon or O'Reilly Atlas publishing platforms
 6. Look at important cultural developments, eg. [Bitcoin](https://www.safaribooksonline.com/library/view/mastering-bitcoin/9781491902639/) technological stack and how it has driven culture and cryptocurrencies; study the distributed, decentralized architecture of [blockchain](https://www.youtube.com/playlist?list=PLb68nxJHvj10JvS-lebOb-FHHeWUMpwKO) database technology
-7. Lifehack, find ways to optimize your workflow, your calendars, your todo lists, your inboxes; do a better job of using chat especially if connected to repositories, capture notes with Evernote
+7. Lifehack, find ways to optimize your workflow, your calendars, your todo lists, your inboxes; do a better job of using chat especially if connected to repositories, capture notes ... realizie that there are 86,400 seconds per day; appreciate every one of them by scrupulously and diligently managing and optimizing the value of your TIME
 8. Become more fit, become tougher, find ways to eliminate your health/wellness weaknesses
 9. Become more aware of nutrition, cooking, nutrigenomics; sample your microbiome
-10. Become more proficient at communication; use Facetime, Google Hangouts and other alternatives to driving/flying to meetings and conferences; make better use of meetings and conferences
+10. Become more proficient at communication especially alternatives to driving/flying to meetings and conferences; when you don't have a way out, make better use of your time at meetings and conferences
 11. Look into video production as well as video surveillance and video security; control your projector; do not passively consume content from others
 12. Become proficient at photography and the use of cameras, especially the cameras on your phone.
 13. Study cryptography, steganography, hashing, security
 14. [Algorithms](https://www.safaribooksonline.com/library/view/algorithms-fourth-edition/9780132762564/), [Conway's Law](https://youtu.be/Lwdhw8aI8es?list=PL055Epbe6d5YhDchEvY3O4nIuSLYyrx7K) and thinking algorithmically
 15. Mathematics, statistics, physics ... for their own sake ... just because
-16. 86400 seconds per day; appreciate every one of them by scrupulously and diligently managing and optimizing the value of your TIME
-17. Work at mastery of martial arts and healing arts
+16. Become more proficient in using your editor, your terminal application, the notebook applications [like Jupyter] and other cross-platform applications using Electron
+17. Work at mastery of the healing and martial arts
 18. Study meditation and lojong techniques
 19. Appreciate nature without any political bullshit or biases or filters ... raise worms, become a beekeeper, grow a garden in order to be part of nature
 20. Appreciate art for the art's sake (not necessarily because you like it or it pleases you); listen to music for the music's sake
@@ -35,13 +35,8 @@ You should read a LOT and YOUR [reading list](http://markbruns.github.io/Reading
 25. Do not ignore pop culture, fashion, counterculture ... and of course, [what are the biggest things that are happening in the workplace or work culture right now](http://www.forbes.com/sites/joshbersin/2015/03/13/culture-why-its-the-hottest-topic-in-business-today/)?
 
 
-# Git foundations and the Githubification of the professional devops world
 
-- THOROUGHLY immerse yourself in Git, Github and the Github API
-
-- Think about what DISTRIBUTED version control means for social production or Commons-Based Peer Production (CBPP)
-
-# LEAN
+# Always look for ways to employ LEAN thinking
 
 Use DOWNTIME in order recognize all of the forms of WASTE that creep into our lives.
 
