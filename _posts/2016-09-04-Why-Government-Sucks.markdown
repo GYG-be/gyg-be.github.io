@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WHY Government Sucks"
+title:  "WHY Governments and bureaucratic silos suck the life out of everything they touch"
 date:   2016-09-04 8:30:00
 categories: game theory, political theory
 ---
