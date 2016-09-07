@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The END of the American Experiment"
+title:  "The END of the old American Experiment; the BEGINNING of the new American Experiment"
 date:   2016-08-21 8:30:00
 categories: collapse, retirement
 ---
