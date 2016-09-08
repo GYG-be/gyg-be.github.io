@@ -5,7 +5,7 @@ permalink: /Basics/
 ---
 There are BASICS you should come back to and work on again and again ... it's a matter of "sharpening the saw" ... building proficiency with tools that you already use enough so that better knowledge will make your daily workflow more and more efficient.
 
-The most BASIC thing of all is to develop your OWN reading list of 25 BASICS ... you should READ a LOT and YOUR [reading list](http://markbruns.github.io/ReadingList/) matters.  Of course, you can copy mine if you really want, but you should realize that you are copying from *the slow, wierd old guy* in the back of the of the class.
+The most BASIC thing of all is to develop your OWN list of 25 BASIC tools ... YOU should be in control of sharpening your own saw ... in the same way, that you should READ a LOT and developing YOUR [reading list](http://markbruns.github.io/ReadingList/) matters for *controlling the content in your projector*.  Of course, you can copy mine if you really want, but you should realize that you are copying from *the slow, wierd old guy* in the back of the of the class.
 
 1. [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction), [ECMAScript®](https://tc39.github.io/ecma262/), [Typescript](https://www.typescriptlang.org/docs/tutorial.html) and [Node.JS](https://nodejs.org/en/docs/).
 2. HTML, CSS and other front-end development technologies as well as back-end technologies necessary for [full-stack web development tools](https://www.lynda.com/learning-paths/Web/become-a-full-stack-web-developer) which are increasingly necessary for anyone serious about data visualization and [data-driven documents](https://d3js.org/)
