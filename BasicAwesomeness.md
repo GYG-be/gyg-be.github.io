@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Basics
-permalink: /Basics/
+title: Basic Awesomeness
+permalink: /BasicAwesomeness/
 ---
-There are BASICS you should come back to and work on again and again ... it's a matter of "sharpening the saw" ... building proficiency with tools that you already use enough so that better knowledge will make your daily workflow more and more efficient.
+There are BASICS you should come back to and work on again and again ...  "extreme ownership" involves a commitment to genuine "awesomeness" in the basics; it's a matter of continually improving proficiencies and "sharpening the saw" in every aspect of your toolkit ... working on the small habits, looking for ways to polish skills and improve discipline ... building proficiency with tools that you already use enough so that better knowledge will make your daily workflow more and more efficient.
 
 The most BASIC thing of all is to develop your OWN list of 25 BASIC tools ... YOU should be in control of sharpening your own saw ... in the same way, that you should READ a LOT and developing YOUR [reading list](http://markbruns.github.io/ReadingList/) matters for *controlling the content in your projector*.  Of course, you can copy my list if you really want, but you should realize that you are copying from *the slow, wierd old guy* in the far right of extreme back of the very bottom of a class you might not want to be in.
 
@@ -24,37 +24,30 @@ The most BASIC thing of all is to develop your OWN list of 25 BASIC tools ... YO
 15. Mathematics, statistics, physics ... for their own sake ... just because
 16. Become more proficient in using your editor, your terminal application, the notebook applications [like Jupyter] and other cross-platform applications using Electron
 17. Work at mastery of the healing and martial arts
-18. Study meditation and lojong techniques
-19. Appreciate nature without any political bullshit or biases or filters ... raise worms, become a beekeeper, grow a garden in order to be part of nature
+18. Study meditation and lojong discipline; workout to become more aware of your body, do martial arts, develop humility and a sense of limits ... whatever it takes, find ways to CONTROL your mind.
+19. Appreciate nature without the biases or filters ... raise worms, become a beekeeper, grow a garden, build soil in order to be part of nature; look into fermentation, pickling, microbrewing, opengermplasm
 20. Appreciate art for the art's sake (not necessarily because you like it or it pleases you); listen to music for the music's sake
 21. Learn new databases, concurrency frameworks, languages, RT/FT/security kernels for operating systems
-22. Cooking, food, agriculture, soils, gardening, microbrewing, opengermplasm
-23. Enjoy history, biography, philosophy, political economy, social choice theory
-24. Pay attention to pop culture, fashion, counterculture ... and of course, [workplace or work culture](http://www.forbes.com/sites/joshbersin/2015/03/13/culture-why-its-the-hottest-topic-in-business-today/)
-25. **IGNORE most news and current events** ... pay attention to what "pushes your buttons" and avoid it; develop a proficiency for ignoring what people WANT to use to manipulate or scare you ... 99.999% of the world's windsocks are filled with clickbait blowhards and other forms of mindwasting employed by noospheric parasites in media.
+22. Work with data APIs, understand what makes a better API or why an API gets used and employed in other mashups
+23. Enjoy history, biography, philosophy, political economy, social choice theory. Understand why truth and a just cause will always trump assets and resources even though pussies will always be acquisitive. Losers will always believe that they need more money, more resources, more equipment, more land BEFORE THEY CAN ACT. An thorough appreciation of history, cultures and what leadership styles have worked will help you understand this.
+24. Pay attention to trends in pop culture, fashion, art, music, maker culture, counterculture, [workplace or work culture](http://www.forbes.com/sites/joshbersin/2015/03/13/culture-why-its-the-hottest-topic-in-business-today/) ... to be a good iconoclast or contrarian, to think outside the trend, to avoid conforming or to mindlessly following the herd.  It is terribly important, for example, to develop ways to be above or to **IGNORE most news and current events** ... pay attention to what either "pushes your buttons" to what makes you feel comfortable or even addicted and avoid those things.  Develop a proficiency for ignoring what people WANT to use to manipulate or scare you ... 99.999% of the world's windsocks are filled with clickbait blowhards driving people be jealous, to feel jealousy and engage in other forms of mindwasting and cultural divisiveness propagated by noospheric parasites in media.
+25. Always think skeptically, statistically, critically -- instead of being swayed by the easy path, look for new ideas to better employ LEAN thinking.  Lean thinking not *just* about "extreme ownership" or "lean enterprise" thinking. Although, small habits and effort at always improving disciplines matters Ideas like the "minimum viable product" idea that goes to the heart of stripping away the unnecessary and ONLY doing things to maximize the stream of VALUE for customers or to optimize customer satisfaction when setting up a new business interface.  In your existing businesses and operations, use your D.O.W.N.T.I.M.E. in order recognize all of the forms of WASTE that creep into our lives.
 
+- **D: Do not produce Defects** ... a Defect is defined as an outcome that is less than the best that is possible to produce; do not EVER be less than the very BEST you can be ... when you have not been at your best, STOP!  Refuse to ever persist in leading a defective life.
 
+- **O: Do not engage in Overproduction** ... do not produce for the sake of produce anything, even if it's the wrong thing ... it is HARD to find the right thing, but do not waste your life / effort / energy producing low-quality commodity goods and services ... find what you're good at and produce excellence, work HARD producing, do what you love most.
 
-# Always think about and look for new ideas to employ LEAN thinking
+- **W: Do not tolerate Waiting** for the right thing to be done; don't make others Wait ... be impatient and demanding, do not settle for crap, take chances and risk making enemies with those who want to produce waste and make others wait.  LEAD!  Take on risks and manage difficult situations in order to enhance and expedite the creation of excellence and value
 
-It's not just about NEW "lean enterprise" thinking and ideas like the "minimum viable product" idea that goes to the heart of stripping away the unnecessary and ONLY doing things to maximize the stream of VALUE for customers or to optimize customer satisfaction when setting up a new business interface.
+- **N: Not Listening to other people's concerns and ideas is for losers** ...be the grownup adult who people really TRUST ... be genuinely empathetic, be persistently optimistic.  Expect growth from people. Be the coach in tough, big games who believes and encourages, who keeps his head in the game until the end and who devises a practice strategy for next week on the way home.
 
-In your existing businesses and operations, use your D.O.W.N.T.I.M.E. in order recognize all of the forms of WASTE that creep into our lives.
+- **T: Transportation of products, especially by-products or waste products, is maybe even worse than waste that never has to go anywhere** ...  don't just wander around aimlessly in life, shuffling your shit from one dead end job to the next.  IMPLEMENT your vision by DRIVING forward looking far ahead, never backward or second-guessing like backseat driver.  Think long-term and logistically so that you do not just drive around looking for what you might find
 
-- D: Do not produce Defects ... a Defect is defined as an outcome that is less than the best that is possible to produce; do not EVER be less than the very BEST you can be ... when you have not been at your best, STOP!  Refuse to ever persist in leading a defective life.
+- **I: Inventory [of everything] is not an asset, it's baggage** that constrains independence ... LIVE CHEAPLY, consume less than anyone you know, be more fit, eliminate your addictions and bad habits, get rid of needy people in your life by helping others to become more independent and mindful
 
-- O: Do not engage in Overproduction; do not produce for the sake of produce anything, even if it's the wrong thing ... it is HARD to find the right thing, but do not waste your life / effort / energy producing low-quality commodity goods and services ... find what you're good at and produce excellence, work HARD producing, do what you love most.
+- **M: Motion or doing something for the sake of looking busy is for idiots** ... THINK first ... PLAN-DO-CHECK-ACT ... Doing things is essential, but if you don't Plan first, you will do the wrong things and do them badly, if you don't Check on what you have done, ie ask "does it satisfy the customer?" you shouldn't keep doing anything and finally it is extra essential to ACT when a plan, an implementation or quality checks are not producing value
 
-- W: Do not tolerate Waiting for the right thing to be done; don't make others Wait ... be impatient and demanding, do not settle for crap, take chances and risk making enemies with those who want to produce waste and make others wait.  LEAD!  Take on risks and manage difficult situations in order to enhance and expedite the creation of excellence and value
-- N: Do not be someone who is Not Listening to other people's concerns and  ideas ...be the grownup adult who people really TRUST ... be genuinely empathetic, be persistently optimistic.  Expect growth from people. Be the coach in tough, big games who believes and encourages, who keeps his head in the game until the end and who devises a practice strategy for next week on the way home.
-
-- T: Transportation of waste is even worst than stationary waste ...  don't just wander around aimlessly in life, shuffling your shit from one dead end job to the next.  IMPLEMENT your vision by DRIVING forward looking far ahead, never backward or second-guessing like backseat driver.  Think long-term and logistically so that you do not just drive around looking for what you might find
-
-- I: Inventory [of everything] is not an asset, it's baggage that constrains independence ... LIVE CHEAPLY, consume less than anyone you know, be more fit, eliminate your addictions and bad habits, get rid of needy people in your life by helping others to become more independent and mindful
-
-- M: Motion or doing something for the sake of looking busy is for idiots ... THINK first ... PLAN-DO-CHECK-ACT ... Doing things is essential, but if you don't Plan first, you will do the wrong things and do them badly, if you don't Check on what you have done, ie ask "does it satisfy the customer?" you shouldn't keep doing anything and finally it is extra essential to ACT when a plan, an implementation or quality checks are not producing value
-
-- E: Producing Extra features, extra complexity or extra nonsense is waste ... develop the Minimum Viable Product ... as you perfect and simplify product, do the simplest thing that can fix the root cause of what customers see as the product's MAIN failing ... maintain simple, great products; SERVE customers not your ego.  Avoid doing anything just to impress others. Add requirements, features, flourishes increases scopes, difficulties and costs.
+- **E: Producing Extra features, extra complexity or extra ego-driven piles of nonsense is extravagant waste** ... develop the Minimum Viable Product ... as you perfect and simplify product, do the simplest thing that can fix the root cause of what customers see as the product's MAIN failing ... maintain simple, great products; SERVE customers not your ego.  Avoid doing anything just to impress others. Add requirements, features, flourishes increases scopes, difficulties and costs.
 
 As you 5S your workflow/business/life, think about Ohno's 38 lessons from the Toyota Production System and how those lessons apply to you
 
