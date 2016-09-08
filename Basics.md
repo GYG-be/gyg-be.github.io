@@ -31,13 +31,15 @@ The most BASIC thing of all is to develop your OWN list of 25 BASIC tools ... YO
 22. Cooking, food, agriculture, soils, gardening, microbrewing, opengermplasm
 23. Enjoy history, biography, philosophy, political economy, social choice theory
 24. Pay attention to pop culture, fashion, counterculture ... and of course, [workplace or work culture](http://www.forbes.com/sites/joshbersin/2015/03/13/culture-why-its-the-hottest-topic-in-business-today/)
-25. **IGNORE most news and current events** ... pay attention to what "pushes your buttons" and avoid it; develop a proficiency for ignoring what people WANT to use to manipulate or scare you ... 99.9% of the world's windsocks are filled with clickbait blowhards and other forms of mindwasting.
+25. **IGNORE most news and current events** ... pay attention to what "pushes your buttons" and avoid it; develop a proficiency for ignoring what people WANT to use to manipulate or scare you ... 99.999% of the world's windsocks are filled with clickbait blowhards and other forms of mindwasting employed by noospheric parasites in media.
 
 
 
-# Always look for ways to employ LEAN thinking
+# Always think about and look for new ideas to employ LEAN thinking
 
-Use DOWNTIME in order recognize all of the forms of WASTE that creep into our lives.
+It's not just about NEW "lean enterprise" thinking and ideas like the "minimum viable product" idea that goes to the heart of stripping away the unnecessary and ONLY doing things to maximize the stream of VALUE for customers or to optimize customer satisfaction when setting up a new business interface.
+
+In your existing businesses and operations, use your D.O.W.N.T.I.M.E. in order recognize all of the forms of WASTE that creep into our lives.
 
 - D: Do not produce Defects ... a Defect is defined as an outcome that is less than the best that is possible to produce; do not EVER be less than the very BEST you can be ... when you have not been at your best, STOP!  Refuse to ever persist in leading a defective life.
 
