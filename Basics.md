@@ -3,10 +3,9 @@ layout: page
 title: Basics
 permalink: /Basics/
 ---
+There are BASICS you should come back to and work on again and again ... it's a matter of "sharpening the saw" ... building proficiency with tools that you already use enough so that better knowledge will make your daily workflow more and more efficient.
 
-You should read a LOT and YOUR [reading list](http://markbruns.github.io/ReadingList/) matters ... there are BASICS you should come back to and re-read, read more deeply ... especially when it comes to "sharpening the saw" on tools that you use frequently, but perhaps not every day.
-
-The most BASIC thing of all is to develop your OWN reading list of 25 BASICS ... of course, you can copy mine if you really want, but you should realize that you are copying from *the slow, wierd old guy* in the back of the of the class.
+The most BASIC thing of all is to develop your OWN reading list of 25 BASICS ... you should READ a LOT and YOUR [reading list](http://markbruns.github.io/ReadingList/) matters.  Of course, you can copy mine if you really want, but you should realize that you are copying from *the slow, wierd old guy* in the back of the of the class.
 
 1. [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction), [ECMAScript®](https://tc39.github.io/ecma262/), [Typescript](https://www.typescriptlang.org/docs/tutorial.html) and [Node.JS](https://nodejs.org/en/docs/).
 2. HTML, CSS and other front-end development technologies as well as back-end technologies necessary for [full-stack web development tools](https://www.lynda.com/learning-paths/Web/become-a-full-stack-web-developer) which are increasingly necessary for anyone serious about data visualization and [data-driven documents](https://d3js.org/)
@@ -29,10 +28,10 @@ The most BASIC thing of all is to develop your OWN reading list of 25 BASICS ...
 19. Appreciate nature without any political bullshit or biases or filters ... raise worms, become a beekeeper, grow a garden in order to be part of nature
 20. Appreciate art for the art's sake (not necessarily because you like it or it pleases you); listen to music for the music's sake
 21. Learn new databases, concurrency frameworks, languages, RT/FT/security kernels for operating systems
-22. Pay attention to LARGER news stories while ignoring MOST of the news; learn a few languages that might really matter ... Mandarin, Russian, English
+22. Cooking, food, agriculture, soils, gardening, microbrewing, opengermplasm
 23. Enjoy history, biography, philosophy, political economy, social choice theory
-24. Cooking, food, agriculture, soils, gardening, microbrewing, opengermplasm
-25. Do not ignore pop culture, fashion, counterculture ... and of course, [what are the biggest things that are happening in the workplace or work culture right now](http://www.forbes.com/sites/joshbersin/2015/03/13/culture-why-its-the-hottest-topic-in-business-today/)?
+24. Pay attention to pop culture, fashion, counterculture ... and of course, [workplace or work culture](http://www.forbes.com/sites/joshbersin/2015/03/13/culture-why-its-the-hottest-topic-in-business-today/)
+25. **IGNORE most news and current events** ... pay attention to what "pushes your buttons" and avoid it; develop a proficiency for ignoring what people WANT to use to manipulate or scare you ... 99.9% of the world's windsocks are filled with clickbait blowhards and other forms of mindwasting.
 
 
 
