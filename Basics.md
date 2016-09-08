@@ -78,53 +78,56 @@ As you 5S your workflow/business/life, think about Ohno's 38 lessons from the To
 
 11.  Wasted Motion Is Not Work - Make sure that what you are doing is not simply masturbation, unless that's really what you want to do.
 
-12. Agricultural People Like Inventory - Do NOT think like the farmers who are mesmerized by massive piles of GMO grain sitting on a pile waiting to be turned into an inferior product mandated by a communist renewable fuel standard ... unless you want to work for a gauranteed welfare check and not think a lot about your future.
+12. Agricultural People Like Inventory - Do NOT think like the farmers who are mesmerized by massive piles of GMO grain sitting on a pile waiting to be turned into an inferior product mandated by a communist renewable fuel standard ... unless you want to work for a guaranteed welfare check and not think a lot about your future.
 
 13. Improve Productivity With Reduced Volumes - get it right in small batches.
-Do Kaizen When Times Are Good - improve like a fiend when you don't have to
-Just In Time - JIT EVERYTHING, JIT all of your thought processes ... training for example -- ditch classrooms, instead teach in the shop, on the bench in the lab, out in the field.
-Old Man Sakichi Toyoda' Jikoda Idea - shut it down if it aint working for everybody ... right now.
-The Goal Was Ten Times Higher Productivity - don't settle for doubling productivity ... think completely different and encourage EVERYONE to encourage EVERYONE to think different.
-The Supermarket System - Devise systems and then tear them up and make them better.
-Toyota Made the Kanban System Possible - Get in shape so that you can be in good enough shape to get in better shape. Never stop getting better.
-We Learned Forging Changeover at Toyota do Brasil - Ditch your pride. Learn from people who are not supposed to have any way possible to get their work done as efficiently as you do, but still beat you. Steal ideas from everywhere.
-Rationalization is To Do What Isn't Rational - If the system is not broken, break it.
-Shut the Machines Off! - Don't automate, simplify.
-How To Produce At Lower Cost - THINK. Expect people to THINK.
-Fight The Robot Fad - Sometimes work isn't supposed to be easy; it is supposed to be eliminated.
-Work Is A Competition of Wits With Subordinates - PUSH, cajole, praise, intimidate, taunt, love, motivate the people who you are a mentor to ... become a mentor to ALL of your subordinates.
-There Are No Supervisors At Administrative Gemba - What is a layer of management for except to build homes for weasels?
-We Can Still Do A Lot More Kaizen - 1) We are only now getting to the point where we can see how much more we have left to do. 2) #1 will always be true.
-Wits Don't Work Until You Feel The Squeeze - Necessity is the mother of invention. Cortez burned his ship so that his men had to fight the Aztecs that they feared.
-Become A Reliable Boss - PREDICTABLY expect others to THINK; PREDICTABLY demand that others expect people around them to THINK.
-Sort, Set In Order, Sweep, Sanitize - AND Standardize ... 5S
-There Is A Correct Sequence To Kaizen - Reduce the biggest costs so that you have money and resources to reduce smaller cost.
-Operational Availability vs. Rate Of Operation -Actual rate of operation achieved matters -- it is should be obvious enough that a process that produce at a high rate is useless if it routinely is unavailable.
-The Difference Between Production Engineering and Manufacturing Engineering - Mfg Engineering is practical, hands-on and more valuable in TPS; Production Engineering launches new product, new facilities and must remember that it serves Mfg Engineering ... not the other way around.
-The Pitfall of Cost Calculation - Stop calculating, start reducing
-The Monaka System - Invest in good "equipment" that can be maintained and extended, then tear it down and re-use the good parts -- do not pay any attention to depreciation schedules or proprietary crap that cannot be maintained or extended
-Only Gemba Can Do Cost Reduction - NO CONSULTANTS ... cost reductions has gotta be done by the PEOPLE in production who know what they are doing.
-Follow The Decisions That Were Made - See the decision through, stick with it, if it was a bad decision, learn as much as possible so that the mistake is not repeated.
-The Shortest Time Should Be The Standard Time - Hopefully, this is obvious enough ... but many different constitutencies want to pad the standard work so that goals are easy to hit ... no sandbagging.
 
-# Blockchain and Bitcoin
+14. Do Kaizen When Times Are Good - improve like a fiend when you don't have to
 
-– Blockchain is the distributed database technology was used as the underlying decentralized ledger for the Bitcoin currency protocol, but many of the most  exciting new use cases have nothing to do with the Bitcoin crytocurrency ... the key thing to understand is that there are three layers of any modern crytocurrency stack: blockchain ledger, the protocol for exchanges and the crytocurrency in secure, digital wallet ... the technologies of wallets, protocols and ledgers are basically independent from one another and technology is certainly independent from Bitcoin hype, culture, economic reports, although those things influence the amount of money flowing into this area of #FinTech development.
+15. Just In Time - JIT EVERYTHING, JIT all of your thought processes ... training for example -- ditch classrooms, instead teach in the shop, on the bench in the lab, out in the field.
 
-– The artitecture of blockchain is basically that of an accounts ledger, but it is a distributed ledger that is not controlled by any single institution. You trust the algortithm rather than the institution.  The algorithms of blockchain are relatively simple; what are highly complex and totally unnerving are the intensely emotional relationships that people have to money.  People might say that they don't understand blockchain or bitcoin, but the reality is that they do not have any understanding about the magical and superstitious trust that they have blindly placed in money so blockchain and bitcoin make no sense ... because they are not secured by MAGIC, like blind faith in politically-driven monetary institution like the Federal Reserve.
+16. Old Man Sakichi Toyoda' Jikoda Idea - shut it down if it aint working for everybody ... right now.
 
-– The blockchain solves the double-spend problem by combining BitTorrent peer-to-peer file-sharing technology with public-key cryptography to make a new form of digital money.  A blockchain database is immutable. In the language of transactional database systems, it is CRUD without the Delete. You can never delete a record. Update means add a new record to the Blockchain, it does not mean that you change the record. You don’t have to trust an institution to maintain this record securely (this really matters in countries with lots of corruption at Government level, because those who control the records effectively control who owns what).
+17. The Goal Was Ten Times Higher Productivity - don't settle for doubling productivity ... think completely different and encourage EVERYONE to encourage EVERYONE to think different.
 
-– Smart Contracts are “if this then this” business rules automatically enforced by code. Most business contracts fall into some variant of “I will do x, when y happens”. The key is that enforcement is not via courts, it is via code. Smart contracts often use an entity that is akin to an escrow agent where release of funds is based on “multi sig” (multiple signatures) to confirm that funds can be released because an event has been triggered.
+18. The Supermarket System - Devise systems and then tear them up and make them better.
 
-- It is worth reading [Nick Szabo]'s [Patterns of integrity](http://unenumerated.blogspot.com/2005/10/patterns-of-integrity.html) and [other blogs posts](http://unenumerated.blogspot.com/) as well as his [essays, papers and concise tutorials](http://szabo.best.vwh.net/index.html)
+19. Toyota Made the Kanban System Possible - Get in shape so that you can be in good enough shape to get in better shape. Never stop getting better.
 
-# Algoritms and Mathematics
- [Algorthims](https://www.safaribooksonline.com/library/view/algorithms-fourth-edition/9780132762564) are a topic that no one should avoid.  You probably can't study too much or delve too deeply into [basic algorthims of elementary data structures, sorting, and searching](https://www.coursera.org/course/algs4partI) ... basic algorthim topics include union-find, binary search, stacks, queues, bags, insertion sort, selection sort, shellsort, quicksort, 3-way quicksort, mergesort, heapsort, binary heaps, binary search trees, red-black trees, separate chaining and linear probing hash tables, Graham scan, and kd-trees ... or [graph and string-processing algorithms](https://www.coursera.org/course/algs4partII) ... graph and string processing topics include depth-first search, breadth-first search, topological sort, Kosaraju-Sharir, Kruskal, Prim, Dijkistra, Bellman-Ford, Ford-Fulkerson, LSD radix sort, MSD radix sort, 3-way radix quicksort, multiway tries, ternary search tries, Knuth-Morris-Pratt, Boyer-Moore, Rabin-Karp, regular expression matching, run-length coding, Huffman coding, LZW compression, and the Burrows-Wheeler transform.
+20. We Learned Forging Changeover at Toyota do Brasil - Ditch your pride. Learn from people who are not supposed to have any way possible to get their work done as efficiently as you do, but still beat you. Steal ideas from everywhere.
 
- Understanding the abstract, higher level things is always insufficient ... if you don't understand [at least approximately] how the lower level *magic* works, you believe in things you do not understand and you will suffer ... for example, many bitcoin fans believe in the magic of bitcoin, simply because it's the underdog currency while others dismiss bitcoin [along with blockchain databases, bitcoin protocol and the cryptocurrency wallets and all kinds of other alt payments technologies] simply because they believe it is nothing more than the underdog currency or a something pertinent only to the culture of disenfranchised tech geeks.  That sort of superficial understanding is completely insufficent for hardened, rational assesment of a technology ... OR for making choices about ANYTHING in the algorithmically-driven smart.  
+21. Rationalization is To Do What Isn't Rational - If the system is not broken, break it.
 
- In order to effectively use and design [distributed] databases for lower latency, responsiveness or rapid retrieval [when data is needed], it is necessary think about applying more appropriate or efficient algorithms that exploit the particular attributes of data for managing or indexing data stores.  Toward that end, it is important to develop a better working understanding of things like [hash functions](https://en.wikipedia.org/wiki/Hash_function), [checksums](https://en.wikipedia.org/wiki/Checksum), [check digits](https://en.wikipedia.org/wiki/Check_digit), [digital fingerprinting algorithms](https://en.wikipedia.org/wiki/Fingerprint_%28computing%29), [randomization functions](https://en.wikipedia.org/wiki/Randomization_function), [forward error-correction](https://en.wikipedia.org/wiki/Forward_error_correction), [network coding](https://en.wikipedia.org/wiki/Linear_network_coding), [cryptographic ciphers](https://en.wikipedia.org/wiki/Cipher), [blockchain](https://en.wikipedia.org/wiki/Block_chain_(database)), [distributed databases](https://en.wikipedia.org/wiki/Distributed_database) and a variety of topics in [coding theory](https://en.wikipedia.org/wiki/Coding_theory).
+22. Shut the Machines Off! - Don't load up on equipment or automate, simplify.
 
-# Political economics and social choice theory
- If you want to understand government, you need to ask the fundamental questions ... [Bastiat](http://bastiat.org/en/the_law.html#SECTION_G004) was doing this a LONG TIME ago ... but some of us are still trying to work on [overcoming naivete when it comes to government](https://medium.com/@AngrBodhisattva/around-6-30-a-m-on-november-4-1979-in-tehran-4e086e412d9d).
+23.  How To Produce At Lower Cost - THINK. Expect people to THINK.
+
+24. Fight The Robot Fad - Sometimes work isn't supposed to be easy; it is supposed to be eliminated.
+
+25. Work Is A Competition of Wits With Subordinates - PUSH, cajole, praise, intimidate, taunt, love, motivate the people who you are a mentor to ... become a mentor to ALL of your subordinates.
+
+26. There Are No Supervisors At Administrative Gemba - What is a layer of management for except to build homes for weasels?
+
+27. We Can Still Do A Lot More Kaizen - 1) We are only now getting to the point where we can see how much more we have left to do. 2) #1 will always be true.
+
+28. Wits Don't Work Until You Feel The Squeeze - Necessity is the mother of invention. Cortez burned his ship so that his men had to fight the Aztecs that they feared.
+
+29. Become A Reliable Boss - PREDICTABLY expect others to THINK; PREDICTABLY demand that others expect people around them to THINK.
+
+30. Sort, Set In Order, Sweep, Sanitize - AND Standardize ... 5S
+
+31. There Is A Correct Sequence To Kaizen - Reduce the biggest costs so that you have money and resources to reduce smaller cost.
+
+32. Operational Availability vs. Rate Of Operation -Actual rate of operation achieved matters -- it is should be obvious enough that a process that produce at a high rate is useless if it routinely is unavailable.
+
+33. The Difference Between Production Engineering and Manufacturing Engineering - Mfg Engineering is practical, hands-on and more valuable in TPS; Production Engineering launches new product, new facilities and must remember that it serves Mfg Engineering ... not the other way around.
+
+34. The Pitfall of Cost Calculation - Stop calculating, start reducing
+
+35. The Monaka System - Invest in good "equipment" that can be maintained and extended, then tear it down and re-use the good parts -- do not pay any attention to depreciation schedules or proprietary crap that cannot be maintained or extended
+
+36. Only Gemba Can Do Cost Reduction - NO CONSULTANTS ... cost reductions has gotta be done by the PEOPLE in production who know what they are doing.
+
+37. Follow The Decisions That Were Made - See the decision through, stick with it, if it was a bad decision, learn as much as possible so that the mistake is not repeated.
+
+38. The Shortest Time Should Be The Standard Time - Hopefully, this is obvious enough ... but many different constituencies want to pad the standard work so that goals are easy to hit ... no sandbagging.
