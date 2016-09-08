@@ -31,7 +31,7 @@ Reading A LOT is the first step to skillfully curating content and thinking ahea
 18. Avionics, UAVs, robotics
 19. Distributed defense and security, crime, more creative ways to solve addiction and different societal problems
 20. Home repair, decks, painting, maintenance
-21. Cooking, recipes, food
+21. Ham radio, software-defined radio
 22. Bees, beekeeping, pollens, [melittin](https://en.wikipedia.org/wiki/Melittin), flowers, bee-plant interactions, vermiculture
 23. Apple cider, wine, beer, whiskey, pickles, fermented preservation
 24. Meat, smoked/cured meats, sausages, genetics, feeding practices
