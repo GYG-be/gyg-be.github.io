@@ -19,15 +19,15 @@ The most BASIC thing of all is to develop your OWN list of 25 BASIC tools ... YO
 8. Lifehack, find ways to optimize your workflow, your calendars, your todo lists, your inboxes; do a better job of using chat especially if connected to repositories, capture notes ... realizie that there are 86,400 seconds per day; appreciate every one of them by scrupulously and diligently managing and optimizing the value of your TIME
 9. Become more fit, become tougher, find ways to eliminate your health/wellness weaknesses. Become more aware of nutrition, cooking, nutrigenomics; sample your microbiome.  Work at mastery of the healing and martial arts.  Study meditation and lojong discipline; workout to become more aware of your body, do martial arts, develop humility and a sense of limits ... whatever it takes, find ways to CONTROL your mind.
 10. Become more proficient at communication especially alternatives to driving/flying to meetings and conferences; when you don't have a way out, make better use of your time at meetings and conferences.  Look at social media and platforms for managing social media like [Hootsuite](https://hootsuite.com/dashboard) to [effectively network professionally](https://www.safaribooksonline.com/library/view/manage-your-job/9781680501377/chap14.xhtml) and manage the ROI of your social media as you LISTEN with analytics and tracking tools.  Also, look at the world of writing and publishing [beyond microblogging and blogging]; evaluate ASCIIdoctor, Amazon or O'Reilly Atlas publishing platforms. Look into video production as well as video surveillance and video security; control your projector; do not passively consume content from others
-11. tbd
-12. Become proficient at photography and the use of cameras, especially the cameras on your phone.
-13. tbd
-14. tbd
+11. 57tbd
+12. Develop drills to become appreciative of your surroundings, including things like light, temperature, humidity ... become proficient at photography and the use of cameras, especially the cameras on your phone ... because THAT camera is likely to be WITH you.
+13. 57tbd
+14. 57tbd
 15. Look at important cultural developments in networking and establishing TRUST, eg. [Bitcoin](https://www.safaribooksonline.com/library/view/mastering-bitcoin/9781491902639/) technological stack and how it has driven culture and cryptocurrencies; study the distributed, decentralized architecture of [blockchain](https://www.youtube.com/playlist?list=PLb68nxJHvj10JvS-lebOb-FHHeWUMpwKO) database technology
-16. tbd
-17. tbd
-18. tbd
-19. Appreciate nature without any biases or filters ... find ways that require you to spend time in nature ... raise worms, become a beekeeper, grow a garden, build soil in order to be part of nature; look into fermentation, pickling, microbrewing, opengermplasm
+16. 57tbd
+17. Don't look back; you are not going that way ... it will get tougher; embrace the suck ... if you are still breathing, the pain can and will get worse ... think incident response or pager duty or some other job is tough ... remember what it was like to watch all of your family die being able to stop the suffering ... live so that bad people threaten you; survive death threats ... outlive 25 more healthy, fit, tough people who deserved to live longer than you did ... take comfort where you find it; everything dies
+18. 57tbd
+19. Appreciate nature without ANY biases or filters ... find ways that require you to routinely spend time out of doors, in nature ... living a town where you can get your lattes and sample a world of food carts is for disconnected wimps who are already dead ... raise worms, become a beekeeper, grow a garden, build soil in order to be part of nature; look into fermentation, pickling, microbrewing, opengermplasm
 20. Appreciate art for the art's sake (not necessarily because you like it or it pleases you); listen to music for the music's sake
 21. Learn new databases, concurrency frameworks, languages, RT/FT/security kernels for operating systems
 22. Work with data APIs, understand what makes a better API or why an API gets used and employed in other mashups
