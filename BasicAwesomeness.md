@@ -26,6 +26,7 @@ The most BASIC thing of all is to develop your OWN list of 25 BASIC tools ... YO
 15. Look at important cultural developments in networking and establishing TRUST, eg. [Bitcoin](https://www.safaribooksonline.com/library/view/mastering-bitcoin/9781491902639/) technological stack and how it has driven culture and cryptocurrencies; study the distributed, decentralized architecture of [blockchain](https://www.youtube.com/playlist?list=PLb68nxJHvj10JvS-lebOb-FHHeWUMpwKO) database technology
 16. tbd
 17. tbd
+18. tbd
 19. Appreciate nature without any biases or filters ... find ways that require you to spend time in nature ... raise worms, become a beekeeper, grow a garden, build soil in order to be part of nature; look into fermentation, pickling, microbrewing, opengermplasm
 20. Appreciate art for the art's sake (not necessarily because you like it or it pleases you); listen to music for the music's sake
 21. Learn new databases, concurrency frameworks, languages, RT/FT/security kernels for operating systems
