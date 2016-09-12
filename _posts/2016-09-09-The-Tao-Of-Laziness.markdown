@@ -1,9 +1,22 @@
 ---
 layout: post
-title:  "It's not the politicians that are the problem; it's the slugs who rely upon poiticians and governments."
+title:  "It's not the politicians that are the problem; it's the slugs who rely upon politicians and governments."
 date:   2016-09-09 8:30:00
 categories: bioremediation, antibiotics, enzymes, metagenomics, soil ecosystems
 ---
+First they came for the irredeemable, deplorable lunatics, and I did not speak out—
+Because I didn't think I was a irredeemable, deplorable lunatic.
+
+Then they came for the guys who post YouTube videos, and I did not speak out—
+Because I don't know how to shoot videos or post to YouTube.
+
+Then they came for the [NPR](http://twitchy.com/dougp-3137/2016/09/12/what-a-scream-howard-dean-has-had-it-with-anti-hillary-bias-from-npr/), and I did not speak out—
+Because I don't listen to public radio.
+
+Then they came for me—and there was no one left to speak for me.
+
+
+
 This is an explanation of why I think we should just let things rot .. because rotting is part of the chemical, nutrient and life cycle of human existence ... although there could be giant benefits to subtly manipulating, ie ACCELERATING, the rotting process.
 
 The complexity of soil ecosystems has some important lessons for how we think about human interactions and optimizing those interactions.
