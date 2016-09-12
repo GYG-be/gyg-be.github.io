@@ -4,16 +4,13 @@ title:  "It's not the politicians that are the problem; it's the slugs who rely 
 date:   2016-09-09 8:30:00
 categories: bioremediation, antibiotics, enzymes, metagenomics, soil ecosystems
 ---
-*First they came for the irredeemable, deplorable lunatics, and I did not speak out—
-Because I didn't think I was a irredeemable, deplorable lunatic.
+*First they came for the irredeemable, deplorable lunatics, and I did not speak out — Because I didn't think I was a irredeemable, deplorable lunatic.*
 
-Then they came for the guys who post YouTube videos, and I did not speak out—
-Because I don't know how to shoot videos or post to YouTube.
+*Then they came for the guys who post YouTube videos, and I did not speak out — Because I don't know how to shoot videos or post to YouTube.*
 
-Then they came for the [NPR](http://twitchy.com/dougp-3137/2016/09/12/what-a-scream-howard-dean-has-had-it-with-anti-hillary-bias-from-npr/), and I did not speak out—
-Because I don't listen to public radio.
+*Then they came for the [NPR](http://twitchy.com/dougp-3137/2016/09/12/what-a-scream-howard-dean-has-had-it-with-anti-hillary-bias-from-npr/), and I did not speak out — Because I don't listen to public radio.*
 
-Then they came for me—and there was no one left to speak for me.*
+*Then they came for me—and there was no one left to speak for me.*
 
 
 
