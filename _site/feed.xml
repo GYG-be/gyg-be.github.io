@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... and the interconnections to interconnections ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Sep 2016 10:30:05 -0500</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 10:30:05 -0500</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2016 10:31:01 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 10:31:01 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -18,19 +18,6 @@
         <pubDate>Fri, 23 Sep 2016 03:30:00 -0500</pubDate>
         <link>/junk/2016/09/23/Junk-Science.html</link>
         <guid isPermaLink="true">/junk/2016/09/23/Junk-Science.html</guid>
-        
-        
-        <category>Junk</category>
-        
-      </item>
-    
-      <item>
-        <title>Most of what passes for science these days involves a manufactured conclusion that artificially satisfies the expectations of funders</title>
-        <description>&lt;p&gt;The JAMA article about the &lt;a href=&quot;http://archinte.jamanetwork.com/article.aspx?articleid=2548255&quot;&gt;sugar lobby steering research for decades&lt;/a&gt; is far from news; it is TYPICAL of the way that 99.999% of the research conducted in academia is done. What’s amazing about it is that one of the loyal subjects actually FINALLY admitted that the emperor is wearing no clothes.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Sep 2016 03:30:00 -0500</pubDate>
-        <link>/junk/2016/09/23/Junk-Science-WTF.html</link>
-        <guid isPermaLink="true">/junk/2016/09/23/Junk-Science-WTF.html</guid>
         
         
         <category>Junk</category>
@@ -327,6 +314,31 @@
         
         
         <category>Government</category>
+        
+      </item>
+    
+      <item>
+        <title>Pine64 And thoughts on essential element of a building an active hobbyist community</title>
+        <description>&lt;p&gt;My Pine64 boards showed up last week … actually before I expected to receive them … I have come to expect people who organize and run crowdfunding campaigns for hardware underestimate how difficult it will be to meet any significant project deadline … hardware is HARD.  Shipping hardware and dealing with all of the issues that come from customers attempting to use harder is REALLY hard … but building an open source community around open source hardware is HARDER still … maybe IMPOSSIBLY hard … THAT is WHY I backed the Kickstarter project, not to build and open source community … but maybe to watch it happen, maybe to help make it happen, MOSTLY to see how and why community building comes up short … or what can be done differently next time … and I am absolutely certain that there WILL BE a next time.&lt;/p&gt;
+
+&lt;p&gt;Maybe cultivating an open source community seems to be a matter of &lt;a href=&quot;https://www.safaribooksonline.com/library/view/cultivate-conference-2016/9781491959701/&quot;&gt;cultivation of leadership&lt;/a&gt; when you do not have the authority to supervise, order or command behavior … but I think it is a lot more ORGANIC and something that requires patient cultivation, like soil building or at least &lt;strong&gt;worm farming&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I don’t mean to equate hobbyists with &lt;em&gt;worms&lt;/em&gt; but the thing is that the hobbyists have to have basic materials to sustain the life of their interest.  The hobbyists you want in your community are the ones who will have a LOT of really good things to do with their time and interest, ie they will be patient to a degree but they will move on.  Also, the community of hobbyists will need to be left alone, to a degree, to digest what they they want to digest, to do what they want to do.&lt;/p&gt;
+
+&lt;p&gt;There are different things to think about … but mostly, I think it’s a matter of respecting entirely different interests, skill sets and contributions from others, ie if the developer could do it himself, why would he need any hobbyists?  Why is the project important enough to get people on board, why is the project important enough to motivate you to become a significant participant and leader?  (For example, I do not yet know if Pine64 is really worth my time … I was hopeful, so I forked over some cash to support the initial build, but beyond that … )&lt;/p&gt;
+
+&lt;p&gt;The rewards are not monetary or recognition that is typically associated with other forms of work … how does the project maintain and cultivate a project heartbeat or momentum or something like a sense of progress on a shared fight that inspires and encourages collaborators?&lt;/p&gt;
+
+&lt;p&gt;Is there a better way than GitHub to maintain decentralized, distributed control?  What are the shortcomings of Git?  Are there better ways than Git? Of course, there are, but those ways haven’t been invented yet – the open source community is still getting to that, but the thing about open source community is how the OPEN SOURCE COMMUNITY KEEPS GETTING TO THE THINGS THAT MATTER MOST.&lt;/p&gt;
+
+&lt;p&gt;So does Pine64 matter enough? Maybe … but it’s not my decision … the ~community~ has to decide that it matters.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Jun 2016 03:30:00 -0500</pubDate>
+        <link>/kickstarter/2016/06/05/Pine64.html</link>
+        <guid isPermaLink="true">/kickstarter/2016/06/05/Pine64.html</guid>
+        
+        
+        <category>KickStarter</category>
         
       </item>
     
