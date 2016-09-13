@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Most of what passes for "science" these days involves a manufactured conclusion that artificially satisfies the expectations of funders"
+title:  "Most of what passes for science these days involves a manufactured conclusion that artificially satisfies the expectations of funders"
 date:   2016-09-23 8:30:00
 categories: Junk, Scientism
 ---
