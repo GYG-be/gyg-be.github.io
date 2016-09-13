@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technology ... and the interconnections to interconnections ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Sep 2016 10:20:34 -0500</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 10:20:34 -0500</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2016 10:21:57 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 10:21:57 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -14,13 +14,11 @@
         <description>&lt;p&gt;The JAMA article about the &lt;a href=&quot;http://archinte.jamanetwork.com/article.aspx?articleid=2548255&quot;&gt;sugar lobby steering research for decades&lt;/a&gt; is far from news; it is TYPICAL of the way that 99.999% of the research conducted in academia is done. What’s amazing about it is that one of the loyal subjects actually FINALLY admitted that the emperor is wearing no clothes.&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Sep 2016 03:30:00 -0500</pubDate>
-        <link>/junk,/scientism/2016/09/23/Junk-Science-WTF.html</link>
-        <guid isPermaLink="true">/junk,/scientism/2016/09/23/Junk-Science-WTF.html</guid>
+        <link>/junk/2016/09/23/Junk-Science-WTF.html</link>
+        <guid isPermaLink="true">/junk/2016/09/23/Junk-Science-WTF.html</guid>
         
         
-        <category>Junk,</category>
-        
-        <category>Scientism</category>
+        <category>Junk</category>
         
       </item>
     
@@ -53,7 +51,7 @@
         <title></title>
         <description>&lt;p&gt;The JAMA article about the &lt;a href=&quot;http://archinte.jamanetwork.com/article.aspx?articleid=2548255&quot;&gt;sugar lobby steering research for decades&lt;/a&gt; is far from news; it is TYPICAL of the way that 99.999% of the research conducted in academia is done. What’s amazing about it is that one of the loyal subjects actually FINALLY admitted that the emperor is wearing no clothes.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 13 Sep 2016 10:20:34 -0500</pubDate>
+        <pubDate>Tue, 13 Sep 2016 10:21:57 -0500</pubDate>
         <link>/2016/09/13/2016-09-23-Junk-Science.html</link>
         <guid isPermaLink="true">/2016/09/13/2016-09-23-Junk-Science.html</guid>
         
