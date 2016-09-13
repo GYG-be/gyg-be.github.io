@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Most of what passes for science is NOT"
-date:   2016-09-13 8:30:00
+date:   2016-09-23 8:30:00
 categories: Junk
 ---
 Most of what passes for science these days involves a manufactured conclusion that artificially satisfies the expectations of funders.  

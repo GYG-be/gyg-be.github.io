@@ -5,9 +5,24 @@
     <description>This is my blog about version-controlled social production of open source technology ... and the interconnections to interconnections ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Sep 2016 10:28:52 -0500</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 10:28:52 -0500</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2016 10:30:05 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 10:30:05 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Most of what passes for science is NOT</title>
+        <description>&lt;p&gt;Most of what passes for science these days involves a manufactured conclusion that artificially satisfies the expectations of funders.&lt;/p&gt;
+
+&lt;p&gt;The recent JAMA article about the &lt;a href=&quot;http://archinte.jamanetwork.com/article.aspx?articleid=2548255&quot;&gt;sugar industry lobby steering research for decades&lt;/a&gt; is far from news … no one is [or should be] really all that surprised by this.  Funding steering conclusion [more than results] is TYPICAL of the way that 99.999% of the research conducted in academia is done. What is amazing about this article is that one of the loyal subjects has actually FINALLY admitted in empire’s most venerable publication that the emperor is wearing absolutely no clothes.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Sep 2016 03:30:00 -0500</pubDate>
+        <link>/junk/2016/09/23/Junk-Science.html</link>
+        <guid isPermaLink="true">/junk/2016/09/23/Junk-Science.html</guid>
+        
+        
+        <category>Junk</category>
+        
+      </item>
     
       <item>
         <title>Most of what passes for science these days involves a manufactured conclusion that artificially satisfies the expectations of funders</title>
@@ -44,21 +59,6 @@
         <category>Electron,</category>
         
         <category>Jupyter</category>
-        
-      </item>
-    
-      <item>
-        <title>Most of what passes for science is NOT</title>
-        <description>&lt;p&gt;Most of what passes for science these days involves a manufactured conclusion that artificially satisfies the expectations of funders.&lt;/p&gt;
-
-&lt;p&gt;The recent JAMA article about the &lt;a href=&quot;http://archinte.jamanetwork.com/article.aspx?articleid=2548255&quot;&gt;sugar industry lobby steering research for decades&lt;/a&gt; is far from news … no one is [or should be] really all that surprised by this.  Funding steering conclusion [more than results] is TYPICAL of the way that 99.999% of the research conducted in academia is done. What is amazing about this article is that one of the loyal subjects has actually FINALLY admitted in empire’s most venerable publication that the emperor is wearing absolutely no clothes.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 13 Sep 2016 03:30:00 -0500</pubDate>
-        <link>/junk/2016/09/13/Junk-Science.html</link>
-        <guid isPermaLink="true">/junk/2016/09/13/Junk-Science.html</guid>
-        
-        
-        <category>Junk</category>
         
       </item>
     
