@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anthropogenic soil building ecosystems"
-date:   2016-09-16 8:30:00
+date:   2016-09-06 8:30:00
 categories: Situational Intelligence, Electron, Jupyter
 ---
 **The best way to criticize is to CREATE.  To create, observe and mimic nature.**  You cannot spend too much time outdoors, not just in the smoking area behind your building or an urban courtyard [which isn't that different than huddling outside to take a drag off of a cigarette] ... BE really outdoors, with your bare feet on the earth, observing nature, as part of nature, looking at how nature creates.  
