@@ -14,7 +14,7 @@ categories: bioremediation, antibiotics, enzymes, metagenomics, soil ecosystems
 
 
 
-This is an explanation of why I think we should just let things rot .. because rotting is part of the chemical, nutrient and life cycle of human existence ... although there could be giant benefits to subtly manipulating, ie ACCELERATING, the rotting process.
+Maybe we should just let things take their own course and ROT .. because rotting is part of the chemical, nutrient and life cycle of human existence ... although there could be giant benefits to subtly manipulating, ie ACCELERATING, the rotting process.
 
 The complexity of soil ecosystems has some important lessons for how we think about human interactions and optimizing those interactions.
 
