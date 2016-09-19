@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 12:35:45 -0500</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 12:35:45 -0500</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 12:36:20 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 12:36:20 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -24,7 +24,7 @@
         <guid isPermaLink="true">/relearning,/trust/2016/09/21/The-Tao-of-Github.html</guid>
         
         
-        <category>Relearning,</category>
+        <category>relearning,</category>
         
         <category>trust</category>
         
