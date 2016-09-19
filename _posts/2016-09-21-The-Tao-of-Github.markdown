@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "WHY won't updates to GitHub pages load."
+title:  "WHY won't updates to GitHub pages load?"
 date:   2016-09-21 8:30:00
-categories: Relearning
+categories: Relearning, trust
 ---
 Forgot about what you might believe ... you simply are NOT **entitled** to help from anyone else ... including GitHub.
 
