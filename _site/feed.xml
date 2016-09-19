@@ -5,15 +5,15 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 11:35:10 -0500</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 11:35:10 -0500</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 11:38:35 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 11:38:35 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>WHY won&#39;t updates to GitHub pages load?</title>
         <description>&lt;p&gt;Forgot about what you might believe … you simply are NOT &lt;strong&gt;entitled&lt;/strong&gt; to help from anyone else … including GitHub.&lt;/p&gt;
 
-&lt;p&gt;So I was working on a blog with the same Atom Editor and GitHub Desktop tools I’ve come to know and love … and use somewhat successfully … using Jekyll locally to transform my MARKDOWN pages in HTML … ol &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;127.0.0.1:4000&lt;/a&gt; looked as current and good [ie what I expected to see] as ever … there had been no error messages from the editor or desktop app … I had up to date version of each … the updated pages were in Github’s repo and I could see them on Github’s website … but Github was not loading my updated pages for some reason … SO IT WAS TIME FOR ME TO RELEARN SOME STUFF … I had used the Github pages MAGIC and it just worked … I didn’t need to know AND I didn’t know some key portions of the magic … I had trusted Github and I know better … you cannot trust ANYONE … including Github.&lt;/p&gt;
+&lt;p&gt;So I was working on a blog with the same Atom Editor and GitHub Desktop tools I’ve come to know and love … and use somewhat successfully … using Jekyll locally to transform my MARKDOWN pages in HTML … good ol’ &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;127.0.0.1:4000&lt;/a&gt; looked as current and good [ie what I expected to see] as ever … there had been no error messages from the editor or desktop app … I had up to date version of each … the updated pages were in Github’s repo and I could see them on Github’s website … but Github was not loading my updated pages for some reason … SO IT WAS TIME FOR ME TO RELEARN SOME STUFF … I had used the Github pages MAGIC and it just worked … I didn’t need to know AND I didn’t know some key portions of the magic … I had trusted Github and I know better … you cannot trust ANYONE … including Github … most importantly YOU CANNOT PLACE ALL OF YOUR FAITH MAGIC YOU DON’T UNDERSTAND … if you’re going to rely on magic, at least build in some redundancies, just in case, things like GH don’t perform as you think they will, when you need to them to perform.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Sep 2016 03:30:00 -0500</pubDate>
         <link>/relearning,/trust/2016/09/21/The-Tao-of-Github.html</link>
