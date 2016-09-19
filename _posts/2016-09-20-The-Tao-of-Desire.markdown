@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prove your words by your deeds"
-date:   2016-09-19 8:30:00
+date:   2016-09-20 8:30:00
 categories: Culture, History, Seneca
 ---
 Words are nothing more than imperfectly expressed desires. For thousands of years, humans have known action speak louder. Many people use words in order to enlist others, makes sales, get opportunities.
