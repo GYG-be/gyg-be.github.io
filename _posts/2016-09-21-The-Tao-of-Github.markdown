@@ -4,7 +4,7 @@ title:  "WHY won't updates to GitHub pages load immediately [or with the same la
 date:   2016-09-21 8:30:00
 categories: relearning, trust
 ---
-Forgot about what you might believe ... you simply are NOT **entitled** to help from anyone else ... including GitHub.
+Forgot about what you might believe ... you simply are NOT **entitled** to help from anyone else ... including even GitHub.
 
 Now ... the folks at GitHub might want to help you, but there might be impediments ... maybe you haven't phrased your question intelligently or in a manner that fits their jargon and linguistic realm ... maybe there are problems with people who supply services to them; maybe they have their own glitches or bugs or issues ... there are all kinds of reasons why the latency of their service might vary.  It's not a perfect world.  And, even though we probably should not FIRST suspect malicious intent, since it's so much more likely that OTHER things are driving actions, there ARE indeed very malevolent actors out there -- not just hackers who want to take down a service like Github for their own idiotic purposes, but maybe's it WORSE ... like some EVIL national security agency of a totalitarian regime of thugs might be forcing Github to supply data or obstruct free speech.  We have reasons for why we should LOVE Github, but ... even if their intentions are better, purer, smarter than anyone else's ... you simply are NOT **entitled** to expect IMMEDIATE help from anyone else ... including GitHub.
 

@@ -5,13 +5,13 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 12:36:20 -0500</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 12:36:20 -0500</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 12:38:24 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 12:38:24 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>WHY won&#39;t updates to GitHub pages load immediately [or with the same latency]?</title>
-        <description>&lt;p&gt;Forgot about what you might believe … you simply are NOT &lt;strong&gt;entitled&lt;/strong&gt; to help from anyone else … including GitHub.&lt;/p&gt;
+        <description>&lt;p&gt;Forgot about what you might believe … you simply are NOT &lt;strong&gt;entitled&lt;/strong&gt; to help from anyone else … including even GitHub.&lt;/p&gt;
 
 &lt;p&gt;Now … the folks at GitHub might want to help you, but there might be impediments … maybe you haven’t phrased your question intelligently or in a manner that fits their jargon and linguistic realm … maybe there are problems with people who supply services to them; maybe they have their own glitches or bugs or issues … there are all kinds of reasons why the latency of their service might vary.  It’s not a perfect world.  And, even though we probably should not FIRST suspect malicious intent, since it’s so much more likely that OTHER things are driving actions, there ARE indeed very malevolent actors out there – not just hackers who want to take down a service like Github for their own idiotic purposes, but maybe’s it WORSE … like some EVIL national security agency of a totalitarian regime of thugs might be forcing Github to supply data or obstruct free speech.  We have reasons for why we should LOVE Github, but … even if their intentions are better, purer, smarter than anyone else’s … you simply are NOT &lt;strong&gt;entitled&lt;/strong&gt; to expect IMMEDIATE help from anyone else … including GitHub.&lt;/p&gt;
 
