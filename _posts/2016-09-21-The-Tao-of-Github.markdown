@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "WHY won't updates to GitHub pages load?"
+title:  "WHY won't updates to GitHub pages load immediately [or with the same latency]?"
 date:   2016-09-21 8:30:00
 categories: Relearning, trust
 ---
 Forgot about what you might believe ... you simply are NOT **entitled** to help from anyone else ... including GitHub.
+
+Now ... the folks at GitHub might want to help you, but there might be impediments ... maybe you haven't phrased your question intelligently or in a manner that fits their jargon and linguistic realm ... maybe there are problems with people who supply services to them; maybe they have their own glitches or bugs or issues ... there are all kinds of reasons why the latency of their service might vary.  It's not a perfect world.  And, even though we probably should not FIRST suspect malicious intent, since it's so much more likely that OTHER things are driving actions, there ARE indeed very malevolent actors out there -- not just hackers who want to take down a service like Github for their own idiotic purposes, but maybe's it WORSE ... like some EVIL national security agency of a totalitarian regime of thugs might be forcing Github to supply data or obstruct free speech.  We have reasons for why we should LOVE Github, but ... even if their intentions are better, purer, smarter than anyone else's ... you simply are NOT **entitled** to expect IMMEDIATE help from anyone else ... including GitHub.
 
 So I was working on a blog with the same Atom Editor and GitHub Desktop tools I've come to know and love ... and use somewhat successfully ... using Jekyll locally to transform my MARKDOWN pages in HTML ... good ol' [127.0.0.1:4000](http://127.0.0.1:4000) looked as current and good [ie what I expected to see] as ever ... there had been no error messages from the editor or desktop app ... I had up to date version of each ... the updated pages were in Github's repo and I could see them on Github's website ... but Github was not loading my updated pages for some reason ... SO IT WAS TIME FOR ME TO RELEARN SOME STUFF ... I had used the Github pages MAGIC and it just worked ... I didn't need to know AND I didn't know some key portions of the magic ... I had trusted Github and I know better ... you cannot trust ANYONE ... including Github ... most importantly YOU CANNOT PLACE ALL OF YOUR FAITH MAGIC YOU DON'T UNDERSTAND ... if you're going to rely on magic, at least build in some redundancies, just in case, things like GH don't perform as you think they will, when you need to them to perform.
