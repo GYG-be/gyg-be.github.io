@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prove your words by your deeds."
-date:   2016-09-20 8:30:00
+date:   2016-09-19 8:30:00
 categories: Culture, History, Seneca
 ---
 *If you want opportunities ... then USE the mountain of opportunities you already have.*
