@@ -5,32 +5,22 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 11:01:20 -0500</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 11:01:20 -0500</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 11:21:01 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 11:21:01 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
-        <title>Prove your words by your deeds.</title>
-        <description>&lt;p&gt;&lt;em&gt;If you want opportunities … then USE the mountain of opportunities you already have.&lt;/em&gt;&lt;/p&gt;
+        <title>WHY won&#39;t updates to GitHub pages load.</title>
+        <description>&lt;p&gt;Forgot about what you might believe … you simply are NOT &lt;strong&gt;entitled&lt;/strong&gt; to help from anyone else … including GitHub.&lt;/p&gt;
 
-&lt;p&gt;The range of options and opportunities is always going to be pretty damned limited for people who think first in getting help from others and do not develop their abilities to think in terms of what they can work on, what they can make better, what they can use in order to &lt;em&gt;advance the ball.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If you look ONLY at what you can do without begging for help from others and then narrow your focus to what is the very highest and very best use of your time among those options … it will tend to exceptionally true that the very best opportunities one has just do not look especially inviting or compelling.  Opportunity is usually about the thing that eliminates a constraint for a lot of people or really helps the most people in the biggest way, especially when they do not understand that YOU are the one helping them&lt;/p&gt;
-
-&lt;p&gt;It is still highly advantageous to seek anonymity rather than get taken in by fame or adoration, power or wealth … fame, adoration, power or wealth ALWAYS attract the cocksuckers, ie the people who want to perform small services in order to “pick up the crumbs” and hopefully get opportunity &lt;em&gt;on the cheap&lt;/em&gt;.  There are plenty of people who enjoy having their cock sucked and relentlessly pursue fame, adoration, power and wealth … there are others, who enjoy getting into dick-measuring contests to compare stories or resumes or combat medals.  That is unfortunate – but it is a reality.&lt;/p&gt;
-
-&lt;p&gt;For the FEW who are not just expedient whores, it is possible to see the emptiness of those pursuits or how desire for fame, adoration, power and wealth leads to a state of permanent neediness and suffering.&lt;/p&gt;
+&lt;p&gt;So I was working on a blog with the same Atom Editor and GitHub Desktop tools I’ve come to know and love … and use somewhat successfully … using Jekyll locally to transform my MARKDOWN pages in HTML …&lt;/p&gt;
 </description>
-        <pubDate>Tue, 20 Sep 2016 03:30:00 -0500</pubDate>
-        <link>/culture,/history,/seneca/2016/09/20/The-Tao-of-Opportunity.html</link>
-        <guid isPermaLink="true">/culture,/history,/seneca/2016/09/20/The-Tao-of-Opportunity.html</guid>
+        <pubDate>Wed, 21 Sep 2016 03:30:00 -0500</pubDate>
+        <link>/relearning/2016/09/21/The-Tao-of-Github.html</link>
+        <guid isPermaLink="true">/relearning/2016/09/21/The-Tao-of-Github.html</guid>
         
         
-        <category>Culture,</category>
-        
-        <category>History,</category>
-        
-        <category>Seneca</category>
+        <category>Relearning</category>
         
       </item>
     
