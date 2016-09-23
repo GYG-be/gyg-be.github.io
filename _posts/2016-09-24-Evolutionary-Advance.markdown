@@ -16,4 +16,4 @@ Applying the [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) method
 
 Extreme ownership
 
-Naturalizing or becoming native
+Naturalizing, assimilating, adapting enough to thrive and become native, like [muscari armeniacum](https://flic.kr/y/2rpqQTs)
