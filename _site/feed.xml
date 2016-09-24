@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2016 23:47:04 -0500</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2016 23:47:04 -0500</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2016 00:50:44 -0500</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2016 00:50:44 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -18,6 +18,8 @@
 &lt;p&gt;Learning &lt;em&gt;at your own pace&lt;/em&gt; or &lt;em&gt;on your own&lt;/em&gt; is NEVER really a matter of &lt;em&gt;going it entirely alone&lt;/em&gt; … the best way to really learn or even master something is to teach it to someone else … there are ways to apply the benefits of exposure and network effects, to encourage meaningful social interaction, to elicit others to be involved in progress, to participate in the code code graph, to not just participate but to take on the effort as their own, to hack it, to extend it for others.&lt;/p&gt;
 
 &lt;p&gt;This makes me think about applying the &lt;a href=&quot;https://github.com/FreeCodeCamp/FreeCodeCamp&quot;&gt;FreeCodeCamp&lt;/a&gt; method to the natural HARD sciences … it goes beyond mere coding, but coding is extremely important for building tools that explore relationships … like &lt;a href=&quot;https://neo4j.com/use-cases/real-time-recommendation-engine/&quot;&gt;graph databases&lt;/a&gt; and building a tool to find shared knowledge connections or what might be described as a &lt;a href=&quot;https://www.youtube.com/watch?v=ILjTikVhT9k&quot;&gt;topical interest recommendation engine&lt;/a&gt; … for example, what kinds of understanding can we bring together to give us new frontiers to explore in understanding an aspect of soil ecosystem health and nutritional pathways … of course, understanding informs the approach we use in looking for data … sometimes we simply need to gather a lot more data now, perhaps we can get lots of macro photos (although macro photos are important and there are better technologies for micro and even nano level photography), but also we also think about things like sequential or time-lapse longitudinal panel data gathering, but we can also explore other tools like DNA chips for nutritional genomics of different species in different ecosystems.&lt;/p&gt;
+
+&lt;p&gt;We should think about how superheros like us build and use tools … and then use those tools to build and use better tools … and how the incremental daily improvement might not seem all that significant, but when we look back we see how incredibly much things have CHANGED in &lt;a href=&quot;https://www.youtube.com/watch?v=lyDLAutA88s&quot;&gt;the last 20 years of building tools to munge data.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Sep 2016 03:30:00 -0500</pubDate>
         <link>/learning,/acceleration/2016/09/24/Evolutionary-Advance.html</link>
