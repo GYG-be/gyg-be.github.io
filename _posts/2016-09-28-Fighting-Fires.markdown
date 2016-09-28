@@ -10,7 +10,7 @@ Do we need a President to lead a government that prevents us from murdering ours
 
 WHY do we need pathological *crutch* of believing that we need a President?
 
-Seriously.  WHY?  
+Seriously.  WHY?  I am ready to concede that we might need a *nightwatchmen* or minimal government with a President who had to rule by ONLY moral authority and ONLY moral authority, like a *modernized* George Washington, who had almost NO ROLE WHATSOEVER in the daily lives, activities and enterprises of 99.999% of the citizens of the American republic.  But can ANYONE who looks at Trump or Hillary seriously believe that THOSE people are capable of having a significant role, ie the modern Presidential role, in the lives of all Americans?  WHY do we need a President?  *Have we become THAT pathetic?*  OR, do we just believe that we are that pathetic?
 
 You will see all kinds of articles that ... instead of inspiring people to work with their communities, neighbors and friends to solve problems ... call for people to look to a bigger role for government (e.g. "There oughta be a law to ...").  For example, you might see headlines that say something like *[Murders Rose At Their Fastest Pace In A Quarter Century Last Year](http://fivethirtyeight.com/features/murders-rose-at-their-fastest-pace-in-a-quarter-century-last-year/)*  
 
