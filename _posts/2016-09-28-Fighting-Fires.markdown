@@ -1,12 +1,20 @@
 ---
 layout: post
-title:  "Fighting crime, fighting fires"
-date:   2016-09-28 8:30:00
+title:  "WHY do we need a President?"
+date:   2016-09-27 8:30:00
 categories: crime, root cause
 ---
-You might see headlines that say something like *[Murders Rose At Their Fastest Pace In A Quarter Century Last Year](http://fivethirtyeight.com/features/murders-rose-at-their-fastest-pace-in-a-quarter-century-last-year/)*  
+Do we need a President to lead a government that prevents us from murdering ourselves?  Why haven't past Presidents ELIMINATED murder? Why are the areas where there is more crime and murder the places where government has a largest role in people's lives?  Yes, you can argue that cities need more government for more people, but WHY do cities expect so much less of their citizens?  WHY do people in SOME [but not all] jurisdictions think that their citizens are incapable of providing for their own food, housing, education, enterprise and security ... and WHY do those jurisdictions have a tendency to cultivate an environment that is more hopeless and crime-ridden?  
 
-That's PARTIALLY true, but it is grossly misleading ... because in many jurisdictions, murders decreased.  It's important to look at the data to see EXACTLY where the breakdown is happening -- things are NOT breaking down everywhere. According to NYU Law School’s Brennan Center for Justice, the [murder rate in cities is up 13% in 2016](
+**If we say that we believe in people ... then why can we bring ourselves to really TRUST people?**
+
+WHY do we need pathological *crutch* of believing that we need a President?
+
+Seriously.  WHY?  
+
+You will see all kinds of articles that ... instead of inspiring people to work with their communities, neighbors and friends to solve problems ... call for people to look to a bigger role for government (e.g. "There oughta be a law to ...").  For example, you might see headlines that say something like *[Murders Rose At Their Fastest Pace In A Quarter Century Last Year](http://fivethirtyeight.com/features/murders-rose-at-their-fastest-pace-in-a-quarter-century-last-year/)*  
+
+That's PARTIALLY true, but it is grossly misleading ... because in many jurisdictions, particularly in jurisdictions with smaller governments, murders have decreased ... murders and all other crimes have certainly decreased in those towns/cities/rural areas that have VOLUNTEER fire departments.  It's important to drill down, to REALLY look at the data to see EXACTLY where the breakdown is happening -- things are NOT breaking down everywhere. According to NYU Law School’s Brennan Center for Justice, the [murder rate in cities is up 13% in 2016](
 https://www.brennancenter.org/publication/crime-2016-preliminary-analysis) ... which is an alarming start of [what hopefully is NOT] a pattern of a double-digit increase on top of another double-digit increase ... since murders in the U.S. jumped by 10.8% in 2015, according to FBI data.  
 
 Oddly enough, there is a LOT of good news in crime data -- GENERALLY speaking, in most jurisdictions, crime has been really low and been falling even more.  
