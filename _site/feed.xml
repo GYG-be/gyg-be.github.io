@@ -5,9 +5,26 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Oct 2016 07:35:22 -0500</pubDate>
-    <lastBuildDate>Fri, 07 Oct 2016 07:35:22 -0500</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2016 07:38:04 -0500</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2016 07:38:04 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Knowledge Prospecting</title>
+        <description>&lt;p&gt;It is said that travel helps one to find new perspectives, prospect for new interests, meet new friends … and although I believe that could not be more true, I also believe that traveling for the sake of traveling, or crossing places visited off some sort of bucket list, is mostly a non-value-added activity.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 Oct 2016 03:30:00 -0500</pubDate>
+        <link>/problem/solving,/entertain/2016/10/08/Prospecting.html</link>
+        <guid isPermaLink="true">/problem/solving,/entertain/2016/10/08/Prospecting.html</guid>
+        
+        
+        <category>problem</category>
+        
+        <category>solving,</category>
+        
+        <category>entertain</category>
+        
+      </item>
     
       <item>
         <title>Fighting Fires</title>
@@ -47,23 +64,6 @@
         <category>cause</category>
         
         <category>analysis</category>
-        
-      </item>
-    
-      <item>
-        <title>Knowledge Prospecting</title>
-        <description>&lt;p&gt;It is said that travel helps one to find new perspectives, prospect for new interests, meet new friends … and although I believe that could not be more true, I also believe that traveling for the sake of traveling, or crossing places visited off some sort of bucket list, is mostly a non-value-added activity.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Sep 2016 03:30:00 -0500</pubDate>
-        <link>/problem/solving,/entertain/2016/09/27/Prospecting.html</link>
-        <guid isPermaLink="true">/problem/solving,/entertain/2016/09/27/Prospecting.html</guid>
-        
-        
-        <category>problem</category>
-        
-        <category>solving,</category>
-        
-        <category>entertain</category>
         
       </item>
     
