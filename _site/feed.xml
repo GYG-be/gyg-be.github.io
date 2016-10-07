@@ -5,23 +5,13 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Sep 2016 08:41:05 -0500</pubDate>
-    <lastBuildDate>Thu, 29 Sep 2016 08:41:05 -0500</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2016 07:35:22 -0500</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2016 07:35:22 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
-        <title>WHY do we need a President?</title>
-        <description>&lt;p&gt;Do we need a President to lead a government that … does things that we maybe should do ourselves … like working in our communities to engage people to prevents us from murdering ourselves?  If governments and Presidents are so great at doing things for people, why haven’t past Presidents ELIMINATED murder? Specifically why are the areas where there is more crime and murder the places where government has a largest role in people’s lives?&lt;/p&gt;
-
-&lt;p&gt;Yes, you can argue that cities need more government for more people, but WHY do cities atrophy indigenous leadership skills or expect so LITTLE of their helpless citizens?  WHY do people in SOME [but not all] jurisdictions think that their citizens are incapable of providing for their own food, housing, education, enterprise and security … and WHY do those jurisdictions have a tendency to cultivate an environment that is more hopeless and crime-ridden?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;If we say that we believe in people … then why can we bring ourselves to really TRUST people?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;WHY do we need pathological &lt;em&gt;crutch&lt;/em&gt; of believing that we need a President?&lt;/p&gt;
-
-&lt;p&gt;Seriously.  WHY?  I am ready to concede that we might need a &lt;em&gt;nightwatchmen&lt;/em&gt; or minimal government with a President who had to rule by ONLY moral authority and ONLY moral authority, like a &lt;em&gt;modernized&lt;/em&gt; George Washington, who had almost NO ROLE WHATSOEVER in the daily lives, activities and enterprises of 99.999% of the citizens of the American republic.  But can ANYONE who looks at Trump or Hillary seriously believe that THOSE people are capable of having a significant role, ie the modern Presidential role, in the lives of all Americans?  WHY do we need a President?  &lt;em&gt;Have we become THAT pathetic?&lt;/em&gt;  OR, do we just believe that we are that pathetic?&lt;/p&gt;
-
-&lt;p&gt;You will see all kinds of articles that … instead of inspiring people to work with their communities, neighbors and friends to solve problems … call for people to look to a bigger role for government (e.g. “There oughta be a law to …”).  For example, you might see headlines that say something like &lt;em&gt;&lt;a href=&quot;http://fivethirtyeight.com/features/murders-rose-at-their-fastest-pace-in-a-quarter-century-last-year/&quot;&gt;Murders Rose At Their Fastest Pace In A Quarter Century Last Year&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+        <title>Fighting Fires</title>
+        <description>&lt;p&gt;You will see all kinds of articles that … instead of inspiring people to work with their communities, neighbors and friends to solve problems … call for people to look to a bigger role for government (e.g. “There oughta be a law to …”).  For example, you might see headlines that say something like &lt;em&gt;&lt;a href=&quot;http://fivethirtyeight.com/features/murders-rose-at-their-fastest-pace-in-a-quarter-century-last-year/&quot;&gt;Murders Rose At Their Fastest Pace In A Quarter Century Last Year&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;That’s PARTIALLY true, but it is grossly misleading … murders did NOT increase EVERYWHERE; murders did not increase in MOST jurisdictions where MOST Americans live.  The AVERAGE murder rate for America increased because it increased DRAMATICALLY in SOME jurisdictions.&lt;/p&gt;
 
@@ -45,9 +35,9 @@
 
 &lt;p&gt;When it comes to situations where things are engulfed in flame and BURNING DOWN … even in relatively small fires … another part of fighting fire is about EXIT.  That means there is no good that comes from be being the stupid amateur hero, puts on his superhero cape and CONFRONTS the fire that is already out-of-control.  In other words, back away from the blaze, call in the professionals and do NOT complicate the problem the professionals have to solve by becoming part of the situation.  Do NOT be a hero unless you are a TRAINED PROFESSIONAL who is PAID to develop all of the skills necessary to be a hero, ie support your Fire Dept folks, support your police.  The thing to do with an out-of-control fire is to GET AWAY and let the professionals decide what to do … don’t be too surprised if they decide to let the fire burn what it’s going to burn.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 27 Sep 2016 03:30:00 -0500</pubDate>
-        <link>/crime,/root/cause/2016/09/27/Fighting-Fires.html</link>
-        <guid isPermaLink="true">/crime,/root/cause/2016/09/27/Fighting-Fires.html</guid>
+        <pubDate>Wed, 28 Sep 2016 03:30:00 -0500</pubDate>
+        <link>/crime,/root/cause/analysis/2016/09/28/Fighting-Fires.html</link>
+        <guid isPermaLink="true">/crime,/root/cause/analysis/2016/09/28/Fighting-Fires.html</guid>
         
         
         <category>crime,</category>
@@ -55,6 +45,25 @@
         <category>root</category>
         
         <category>cause</category>
+        
+        <category>analysis</category>
+        
+      </item>
+    
+      <item>
+        <title>Knowledge Prospecting</title>
+        <description>&lt;p&gt;It is said that travel helps one to find new perspectives, prospect for new interests, meet new friends … and although I believe that could not be more true, I also believe that traveling for the sake of traveling, or crossing places visited off some sort of bucket list, is mostly a non-value-added activity.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Sep 2016 03:30:00 -0500</pubDate>
+        <link>/problem/solving,/entertain/2016/09/27/Prospecting.html</link>
+        <guid isPermaLink="true">/problem/solving,/entertain/2016/09/27/Prospecting.html</guid>
+        
+        
+        <category>problem</category>
+        
+        <category>solving,</category>
+        
+        <category>entertain</category>
         
       </item>
     
@@ -299,54 +308,6 @@
         <category>political</category>
         
         <category>theory</category>
-        
-      </item>
-    
-      <item>
-        <title>Jupyter Lab, PhosphorJS ... and Getting Used to Swimming in the Deep End</title>
-        <description>&lt;p&gt;A government has a strategy. The people have counter strategies.&lt;/p&gt;
-
-&lt;p&gt;It USED to be that governments had the inside edge on gathering the data and formulating better strategies – but increasingly that is no longer true – governments have inept, inflexible, archaic sub-optimal strategies, whereas people have smarter, more sophisticated, more intensely-responsive strategies.&lt;/p&gt;
-
-&lt;p&gt;I do not know &lt;em&gt;exactly&lt;/em&gt; why I am so intensely intrigued by things like new computer languages … I almost worry about the fascination sometimes … but I am engrossed in things that enable collaborative workflows like the Julia Language, or tools for collaborative language polyglottery such as the Jupyter (Julia-Python-R) Project, including both Jupyter Notebook, Jupyter Lab and &lt;a href=&quot;https://jupyterhub.readthedocs.io/en/latest/howitworks.html&quot;&gt;JupyterHub&lt;/a&gt; … but it’s mostly about how language enables thinking – that includes the data analysis that provides the sophistication and accuracies in the strategies of people … I am not particularly interested in policy prescriptions for governments, although I get that people [especially investors and fund managers] can benefit from having &lt;a href=&quot;http://quantecon.org/notebooks.html&quot;&gt;quantitative economic&lt;/a&gt; models [including models of government policy] for their own information and use in their own industries and economic spheres.  I TOTALLY understand that shiny new tools are dangerous for their distractive power and their POWER in providing the WRONG answers. Nothing sends people to the ER like the exuberance of a new power tool. But &lt;em&gt;eventually&lt;/em&gt; we figure out how to use the power tool for maximum productivity and, maybe even more importantly, TIMELINESS … and one farmer can PERFECTLY plant more acres of a crop at exactly the right right time with his giant tractor pulling a sophisticated planting implement than armies of planters could have ever planted with their hoes and bags of seed.&lt;/p&gt;
-
-&lt;p&gt;joined the &lt;a href=&quot;https://jupyter.hackpad.com/&quot;&gt;Jupyter Hackpad &lt;/a&gt; because I believe that &lt;a href=&quot;http://jupyterlab-tutorial.readthedocs.io/en/latest/index.html&quot;&gt;Jupyter Lab&lt;/a&gt; is really a big deal … sort of like Linux really looked spooky big 25 years ago, when a new riff on the Minix clone of Unix was small enough to be ignored because the gold standard was still a PCs running DOS or Windows NT … but some could generally see that it was a big enough of an idea that you knew it was somehow GOING TO amount to something in the fall of 1991.&lt;/p&gt;
-
-&lt;p&gt;Well, I think Jupyter is going to be an even bigger deal because of things like &lt;a href=&quot;https://jupyter.hackpad.com/collection/zCqMrBELzrv&quot;&gt;Jupyter Hackpad Weekly Dev Meetings&lt;/a&gt; … although I still suspect that Jupyter, like Linux, will ultimately be driven by an individual leading a small core development group.&lt;/p&gt;
-
-&lt;p&gt;Of course, the &lt;a href=&quot;https://jupyter-notebook.readthedocs.io/en/latest/&quot;&gt;Jupyter Notebook&lt;/a&gt; was already a big deal because of what it means for team workflows … sharing and and walking through code and data science …and since those workflows change, what is important is how the Notebook extends the basic console-based approach to interactive computing in a qualitatively new direction, providing a web-based application suitable for capturing the whole computation process: developing, documenting, and executing code, as well as communicating the results.&lt;/p&gt;
-
-&lt;p&gt;The Jupyter Notebook combines two components: 1) A web application and 2) notebook documents.  The web application is a browser-based tool for interactive authoring of documents which combine explanatory text, mathematics, computations and their rich media output.  The notebook documents provide a representation of all content visible in the web application, including inputs and outputs of the computations, explanatory text, mathematics, images, and rich media representations of objects.&lt;/p&gt;
-
-&lt;p&gt;But &lt;a href=&quot;https://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/&quot;&gt;Jupyter Lab&lt;/a&gt; puts extensibility on steroids by making it easy to extend the already venerable &lt;a href=&quot;https://www.safaribooksonline.com/library/view/jupyter-notebook-for/9781771375030/&quot;&gt;Jupyter notebook for data science teams&lt;/a&gt; and provide a foundation for continued extensions of &lt;a href=&quot;http://jupyter.org/about.html&quot;&gt;Project Jupyter&lt;/a&gt; with &lt;a href=&quot;http://phosphorjs.github.io/about.html&quot;&gt;the PhosphorJS libraries&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;swimming&quot;&gt;SWIMMING&lt;/h1&gt;
-&lt;p&gt;My curation of content is not what it should be … maybe it is, but what I am referring to is the explosion of really important ideas in the realm of data science … and the need to amp up one’s situational awareness of development in this professional realm of knowledge … using the tools of data science, ie a Jupyter notebook of notebooks, data visualizations, webinars, code repos and Github codegraphs.&lt;/p&gt;
-
-&lt;p&gt;I recently started thinking that I need to spend a fair amount of time … maybe as much as four hours a day (&lt;em&gt;Is that way too much?!  NOT ENOUGH??!!&lt;/em&gt;) engaged in skimming / sipping / “swimming in the deep end” from what I call the “Data Science Ecosystem Firehose”&lt;/p&gt;
-
-&lt;p&gt;YouTube&lt;/p&gt;
-
-&lt;p&gt;GitHub / Gitter&lt;/p&gt;
-
-&lt;p&gt;Stackoverflow&lt;/p&gt;
-
-&lt;p&gt;Udacity / CodeSchool / Cloud Academy&lt;/p&gt;
-
-&lt;p&gt;Meetups / Confs&lt;/p&gt;
-
-&lt;p&gt;LinkedIn / Twitter (Lists)&lt;/p&gt;
-
-&lt;p&gt;Blogs (FooledByRandomness)&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 Sep 2016 03:30:00 -0500</pubDate>
-        <link>/phosphorjs/2016/09/01/PhosphorJS-Jupyter-Lab.html</link>
-        <guid isPermaLink="true">/phosphorjs/2016/09/01/PhosphorJS-Jupyter-Lab.html</guid>
-        
-        
-        <category>PhosphorJS</category>
         
       </item>
     

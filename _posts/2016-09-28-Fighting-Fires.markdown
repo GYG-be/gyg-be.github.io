@@ -1,19 +1,9 @@
 ---
 layout: post
-title:  "WHY do we need a President?"
-date:   2016-09-27 8:30:00
-categories: crime, root cause
+title:  "Fighting Fires"
+date:   2016-09-28 8:30:00
+categories: crime, root cause analysis
 ---
-Do we need a President to lead a government that ... does things that we maybe should do ourselves ... like working in our communities to engage people to prevents us from murdering ourselves?  If governments and Presidents are so great at doing things for people, why haven't past Presidents ELIMINATED murder? Specifically why are the areas where there is more crime and murder the places where government has a largest role in people's lives?  
-
-Yes, you can argue that cities need more government for more people, but WHY do cities atrophy indigenous leadership skills or expect so LITTLE of their helpless citizens?  WHY do people in SOME [but not all] jurisdictions think that their citizens are incapable of providing for their own food, housing, education, enterprise and security ... and WHY do those jurisdictions have a tendency to cultivate an environment that is more hopeless and crime-ridden?  
-
-**If we say that we believe in people ... then why can we bring ourselves to really TRUST people?**
-
-WHY do we need pathological *crutch* of believing that we need a President?
-
-Seriously.  WHY?  I am ready to concede that we might need a *nightwatchmen* or minimal government with a President who had to rule by ONLY moral authority and ONLY moral authority, like a *modernized* George Washington, who had almost NO ROLE WHATSOEVER in the daily lives, activities and enterprises of 99.999% of the citizens of the American republic.  But can ANYONE who looks at Trump or Hillary seriously believe that THOSE people are capable of having a significant role, ie the modern Presidential role, in the lives of all Americans?  WHY do we need a President?  *Have we become THAT pathetic?*  OR, do we just believe that we are that pathetic?
-
 You will see all kinds of articles that ... instead of inspiring people to work with their communities, neighbors and friends to solve problems ... call for people to look to a bigger role for government (e.g. "There oughta be a law to ...").  For example, you might see headlines that say something like *[Murders Rose At Their Fastest Pace In A Quarter Century Last Year](http://fivethirtyeight.com/features/murders-rose-at-their-fastest-pace-in-a-quarter-century-last-year/)*  
 
 That's PARTIALLY true, but it is grossly misleading ... murders did NOT increase EVERYWHERE; murders did not increase in MOST jurisdictions where MOST Americans live.  The AVERAGE murder rate for America increased because it increased DRAMATICALLY in SOME jurisdictions.  
