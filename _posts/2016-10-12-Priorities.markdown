@@ -16,4 +16,4 @@ You don't have to be part of the herd; you can choose to be part of the minority
 
 ---
 
-*"There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control."* — Jean Baudrillard ... from the epigraph of Cody Wilson's book [Come and Take It: The Gun Printer's Guide to Thinking Free](https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/)
+*"There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control."* — Jean Baudrillard ... from the ***epigraph*** of Cody Wilson's book [Come and Take It: The Gun Printer's Guide to Thinking Free](https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/)
