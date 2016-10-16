@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Integrity Is Impossible To Achieve Through Imitation"
+title:  "Design for Maintainability"
 date:   2016-10-18 8:30:00
 categories: DFSS, Dfx, Design for Maintainability
 ---
