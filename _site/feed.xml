@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Oct 2016 11:36:17 -0500</pubDate>
-    <lastBuildDate>Sun, 16 Oct 2016 11:36:17 -0500</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2016 11:41:31 -0500</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2016 11:41:31 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -16,6 +16,8 @@
 &lt;p&gt;Maintainability does not just spontaneously happen.  Much, maybe even most, of the Javascript code hacked together by &lt;em&gt;developers&lt;/em&gt; worldwide is pretty much unmaintainable &lt;strong&gt;&lt;em&gt;junk.js&lt;/em&gt;&lt;/strong&gt; … it might &lt;em&gt;just work&lt;/em&gt; but maintenance of the code tends to be a matter of the original developer(s) &lt;em&gt;keeping their heads in the game&lt;/em&gt; and staying engaged to remember how the thing was supposed to work and where the technical debt &lt;em&gt;anti-treasure&lt;/em&gt; or where the treasure troves of dangerous anti-patterns and bad [unintentional] easter eggs are buried … in other words, unmaintable code might expediently &lt;em&gt;get the job done&lt;/em&gt;, but it cannot serve as a foundation, it cannot be built upon.&lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;p&gt;Maintainability is important because maintainability means thinking about the capabilities of OTHER people and maintaining their ability to be independent and free to protect themselves and advance their cause [without hurting other people]. Taking away the independence of others is one of the most immoral things that anyone can do.  Open source code and data are part of this – so are distributed information, defense and security.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;“There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control.”&lt;/em&gt; — Jean Baudrillard … from the &lt;strong&gt;&lt;em&gt;epigraph&lt;/em&gt;&lt;/strong&gt; of Cody Wilson’s book &lt;a href=&quot;https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/&quot;&gt;Come and Take It: The Gun Printer’s Guide to Thinking Free&lt;/a&gt;&lt;/p&gt;
 </description>

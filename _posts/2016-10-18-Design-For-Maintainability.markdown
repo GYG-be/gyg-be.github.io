@@ -10,4 +10,6 @@ Maintainability does not just spontaneously happen.  Much, maybe even most, of t
 
 ---
 
+Maintainability is important because maintainability means thinking about the capabilities of OTHER people and maintaining their ability to be independent and free to protect themselves and advance their cause [without hurting other people]. Taking away the independence of others is one of the most immoral things that anyone can do.  Open source code and data are part of this -- so are distributed information, defense and security. 
+
 *"There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control."* — Jean Baudrillard ... from the ***epigraph*** of Cody Wilson's book [Come and Take It: The Gun Printer's Guide to Thinking Free](https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/)
