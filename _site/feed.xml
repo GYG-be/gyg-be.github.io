@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Oct 2016 07:37:42 -0500</pubDate>
-    <lastBuildDate>Wed, 19 Oct 2016 07:37:42 -0500</lastBuildDate>
+    <pubDate>Thu, 20 Oct 2016 07:46:39 -0500</pubDate>
+    <lastBuildDate>Thu, 20 Oct 2016 07:46:39 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -15,13 +15,13 @@
 
 &lt;p&gt;Most of the entrant’s into &lt;a href=&quot;http://NIJ.gov/MappingChallenge&quot;&gt;mapping challenge&lt;/a&gt; sponsored by the &lt;a href=&quot;http://NIJ.gov&quot;&gt;Natl Institute of Justice&lt;/a&gt; will probably aim their approach to data science prediction and forecasting at mapping BAD OUTCOMES … and there is a lot to be said for place-based crime forecasting algorithms that look at neighborhoods at [future] risk.&lt;/p&gt;
 
-&lt;p&gt;But what if we looked instead at the predictors that lead to neighborhoods that DO NOT MAKE the news … is it possible for to change our our thinking to AVOID focusing on sensationalism and crisis?&lt;/p&gt;
+&lt;p&gt;But what if we looked instead at the predictors that lead to neighborhoods that DO NOT MAKE the news … is it possible for to change our our thinking to AVOID focusing on sensationalism and crisis?  Of course, it isn’t as simple as just applying a 180 degree reverse policy … we cannot really do the same data analytics on good behaviors as we do on reported data for criminal convictions.  Happiness analytics are much more suspect than crime analytics … since we don’t have numbers on people or communities &lt;em&gt;convicted&lt;/em&gt; of being happy, normal, successful or different things that are the opposite of crime, those who want to engage in happiness analytics must &lt;em&gt;infer&lt;/em&gt; more with the use of imperfect inferential statistical methods.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;guidelines&quot;&gt;Guidelines&lt;/h1&gt;
+&lt;h1 id=&quot;methodology&quot;&gt;Methodology&lt;/h1&gt;
 
-&lt;p&gt;&lt;em&gt;Placeholder for additional DAG material – tbd&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Placeholder for additional happiness analytics material – tbd&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -32,8 +32,8 @@
 &lt;p&gt;&lt;em&gt;“There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control.”&lt;/em&gt; — Jean Baudrillard … from the &lt;strong&gt;&lt;em&gt;epigraph&lt;/em&gt;&lt;/strong&gt; of Cody Wilson’s book &lt;a href=&quot;https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/&quot;&gt;Come and Take It: The Gun Printer’s Guide to Thinking Free&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Oct 2016 03:30:00 -0500</pubDate>
-        <link>/evergreen,/design/for/maintainability,/against/crime,/violence/interruption,/arm/thy/neighbor/2016/10/24/Design-Against-Crime.html</link>
-        <guid isPermaLink="true">/evergreen,/design/for/maintainability,/against/crime,/violence/interruption,/arm/thy/neighbor/2016/10/24/Design-Against-Crime.html</guid>
+        <link>/evergreen,/design/for/maintainability,/against/crime,/happiness/analytics,/arm/thy/neighbor/2016/10/24/Design-Against-Crime.html</link>
+        <guid isPermaLink="true">/evergreen,/design/for/maintainability,/against/crime,/happiness/analytics,/arm/thy/neighbor/2016/10/24/Design-Against-Crime.html</guid>
         
         
         <category>evergreen,</category>
@@ -48,9 +48,9 @@
         
         <category>Crime,</category>
         
-        <category>Violence</category>
+        <category>happiness</category>
         
-        <category>Interruption,</category>
+        <category>analytics,</category>
         
         <category>Arm</category>
         
