@@ -5,13 +5,13 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Oct 2016 07:46:39 -0500</pubDate>
-    <lastBuildDate>Thu, 20 Oct 2016 07:46:39 -0500</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2016 20:24:25 -0500</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2016 20:24:25 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Design Against Crime</title>
-        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;design&quot;&gt;Design&lt;/h1&gt;
 
 &lt;p&gt;Most of the entrant’s into &lt;a href=&quot;http://NIJ.gov/MappingChallenge&quot;&gt;mapping challenge&lt;/a&gt; sponsored by the &lt;a href=&quot;http://NIJ.gov&quot;&gt;Natl Institute of Justice&lt;/a&gt; will probably aim their approach to data science prediction and forecasting at mapping BAD OUTCOMES … and there is a lot to be said for place-based crime forecasting algorithms that look at neighborhoods at [future] risk.&lt;/p&gt;
 
@@ -25,18 +25,32 @@
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;epilogue&quot;&gt;Epilogue&lt;/h1&gt;
+&lt;h1 id=&quot;analytics&quot;&gt;Analytics&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Placeholder for additional happiness analytics material – tbd&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;improvement&quot;&gt;Improvement&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Placeholder for additional happiness analytics material – tbd&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;community&quot;&gt;Community&lt;/h1&gt;
 
 &lt;p&gt;Design for Maintainability … and the maintainability of better neighborhoods … is important as a [derived] value because maintainability means thinking about other people. That includes the differing valid motives, aptitudes, stage of education and levels of capabilities of OTHER developers. It is all about maintaining their ability to be creative, productive, independent and free to protect themselves and advance their just causes [without hurting other people]. Of course, it is NECESSARY that choices about maintainability are voluntary – a good argument with a useful tool should be sufficient to convince most people to go along with a policy – coercion, force and mandates are unnecessary. Controlling others or taking away the independence of others is one of the very most immoral things that anyone can do. Open source code and data are part of this – so are distributed information, defense and security.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;“There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control.”&lt;/em&gt; — Jean Baudrillard … from the &lt;strong&gt;&lt;em&gt;epigraph&lt;/em&gt;&lt;/strong&gt; of Cody Wilson’s book &lt;a href=&quot;https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/&quot;&gt;Come and Take It: The Gun Printer’s Guide to Thinking Free&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Oct 2016 03:30:00 -0500</pubDate>
-        <link>/evergreen,/design/for/maintainability,/against/crime,/happiness/analytics,/arm/thy/neighbor/2016/10/24/Design-Against-Crime.html</link>
-        <guid isPermaLink="true">/evergreen,/design/for/maintainability,/against/crime,/happiness/analytics,/arm/thy/neighbor/2016/10/24/Design-Against-Crime.html</guid>
+        <link>/evergreen,/dmaic,/design/for/maintainability,/against/crime,/happiness/analytics,/arm/thy/neighbor/2016/10/24/Design-Against-Crime.html</link>
+        <guid isPermaLink="true">/evergreen,/dmaic,/design/for/maintainability,/against/crime,/happiness/analytics,/arm/thy/neighbor/2016/10/24/Design-Against-Crime.html</guid>
         
         
         <category>evergreen,</category>
+        
+        <category>DMAIC,</category>
         
         <category>Design</category>
         
