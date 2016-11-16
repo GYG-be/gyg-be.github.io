@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Nov 2016 18:38:57 -0600</pubDate>
-    <lastBuildDate>Tue, 15 Nov 2016 18:38:57 -0600</lastBuildDate>
+    <pubDate>Wed, 16 Nov 2016 08:30:31 -0600</pubDate>
+    <lastBuildDate>Wed, 16 Nov 2016 08:30:31 -0600</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -23,7 +23,7 @@
 
 &lt;h1 id=&quot;methodology&quot;&gt;Methodology&lt;/h1&gt;
 
-&lt;p&gt;&lt;em&gt;Placeholder for additional happiness analytics material – tbd&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;ONE way of looking at good behavior is how productive [and generally higher-earning] behavior gets monetized into something like &lt;a href=&quot;https://www.kaggle.com/c/house-prices-advanced-regression-techniques&quot;&gt;strong housing prices&lt;/a&gt;. We all know some things about housing already – for example, we know that the age of the something like carpet or even a furnace is going to be orders of magnitude less important than location or proximity to a good school or other community amenities.  AFTER we have prepared our data set [by eliminating obvious outliers in the data], we could BEGIN our exploratory analysis by looking at the different housing districts by using a &lt;a href=&quot;https://en.wikipedia.org/wiki/Random_forest&quot;&gt;random forest model&lt;/a&gt; in order to assure that we are comparing basically similar neighborhoods.&lt;/p&gt;
 
 &lt;hr /&gt;
 
