@@ -7,9 +7,11 @@ categories: evergreen, DMAIC, Design For Maintainability, Design Against Crime, 
 
 # Design
 
-Most of the entrant's into [mapping challenge](http://NIJ.gov/MappingChallenge) sponsored by the [Natl Institute of Justice](http://NIJ.gov) will probably aim their approach to data science prediction and forecasting at mapping BAD OUTCOMES ... and there is a lot to be said for place-based crime forecasting algorithms that look at neighborhoods at [future] risk.
+Most of the entrant's into [mapping challenge](http://NIJ.gov/MappingChallenge) sponsored by the [Natl Institute of Justice](http://NIJ.gov) will probably aim their approach to data science prediction and forecasting at mapping BAD OUTCOMES ... and there is a lot to be said for place-based crime forecasting algorithms that look at neighborhoods at [future] risk. Okay, crime is interesting enough ... and it is certainly very necessary to get serious about law enforcement and neighborhood watch programs and others ways to deal better with crime, BUT ...
 
-But what if we looked instead at the predictors that lead to neighborhoods that DO NOT MAKE the news ... is it possible for to change our our thinking to AVOID focusing on sensationalism and crisis?  Of course, it isn't as simple as just applying a 180 degree reverse policy ... we cannot really do the same data analytics on good behaviors as we do on reported data for criminal convictions.  Happiness analytics are much more suspect than crime analytics ... since we don't have numbers on people or communities *convicted* of being happy, normal, successful or different things that are the opposite of crime, those who want to engage in happiness analytics must *infer* more with the use of imperfect inferential statistical methods.  
+... what if instead of playing defense [against something negative like crime], we went on offense and started trying to put POSITIVE points on the board for the GOOD changes that we might be able to effect.  What if we looked instead at the predictors that lead to neighborhoods that DO NOT MAKE the news ... is it possible for to change our our thinking to AVOID focusing on the sensationalism and crisis that usually follows things like crime?  
+
+Of course, it isn't as simple as just applying a 180 degree reverse policy ... we cannot really do the same data analytics on good behaviors as we do on reported data for criminal convictions.  Happiness analytics are much more suspect than crime analytics ... since we don't have numbers on people or communities *convicted* of being happy, normal, successful or different things that are the opposite of crime, those who want to engage in happiness analytics must *infer* more with the use of imperfect inferential statistical methods.  
 
 
 ---
