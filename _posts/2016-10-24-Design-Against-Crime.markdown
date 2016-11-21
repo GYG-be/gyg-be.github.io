@@ -24,16 +24,14 @@ ONE way of looking at good behavior is how productive [and generally higher-earn
 
 # Analytics
 
-*Placeholder for additional happiness analytics material -- tbd*
-
+Why just look at Ames ... let's look at ALL real estate in Iowa.  Or the world.
 
 
 ---
 
 # Improvement
 
-*Placeholder for additional happiness analytics material -- tbd*
-
+Design your COMMUNITY for Maintainability ... and the maintainability of better neighbors, better neighborhoods, better public utilities, better civic projects ... is important as a [derived] value because maintainability means thinking about other people. That includes the differing valid motives, aptitudes, stage of education and levels of capabilities of OTHER developers.
 
 
 
@@ -41,7 +39,7 @@ ONE way of looking at good behavior is how productive [and generally higher-earn
 
 # Community
 
-Design for Maintainability ... and the maintainability of better neighborhoods ... is important as a [derived] value because maintainability means thinking about other people. That includes the differing valid motives, aptitudes, stage of education and levels of capabilities of OTHER developers. It is all about maintaining their ability to be creative, productive, independent and free to protect themselves and advance their just causes [without hurting other people]. Of course, it is NECESSARY that choices about maintainability are voluntary -- a good argument with a useful tool should be sufficient to convince most people to go along with a policy -- coercion, force and mandates are unnecessary. Controlling others or taking away the independence of others is one of the very most immoral things that anyone can do. Open source code and data are part of this -- so are distributed information, defense and security.
+It is all about building an social architecture or *culturescape* that engenders people in the future [after you are gone] to go about maintaining their ability to be creative, productive, independent and free to protect themselves and advance their just causes [without hurting other people]. Of course, it is NECESSARY that choices about maintainability are voluntary -- a good argument with a useful tool should be sufficient to convince most people to go along with a policy -- coercion, force and mandates are unnecessary. Controlling others or taking away the independence of others is one of the very most immoral things that anyone can do. Open source code and data are part of this -- so are distributed information, defense and security.
 
 ---
 
