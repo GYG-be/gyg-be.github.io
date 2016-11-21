@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Design For Immunity"
+date:   2016-11-19 8:30:00
+categories: evergreen, DMAIC, Design For Immunity, Design Against Disease, evidence based health, Arm Thy Neighbor
+---
+
+# Design
+
+Most of the entrant's into [mapping challenge](http://NIJ.gov/MappingChallenge) sponsored by the [Natl Institute of Justice](http://NIJ.gov) will probably aim their approach to data science prediction and forecasting at mapping BAD OUTCOMES ... and there is a lot to be said for place-based crime forecasting algorithms that look at neighborhoods at [future] risk. Okay, crime is interesting enough ... and it is certainly very necessary to get serious about law enforcement and neighborhood watch programs and others ways to deal better with crime, BUT ...
+
+... what if instead of playing defense [against something negative like crime], we went on offense and started trying to put POSITIVE points on the board for the GOOD changes that we might be able to effect.  What if we looked instead at the predictors that lead to neighborhoods that DO NOT MAKE the news ... is it possible for to change our our thinking to AVOID focusing on the sensationalism and crisis that usually follows things like crime?  
+
+Of course, it isn't as simple as just applying a 180 degree reverse policy ... we cannot really do the same data analytics on good behaviors as we do on reported data for criminal convictions.  Happiness analytics are much more suspect than crime analytics ... since we don't have numbers on people or communities *convicted* of being happy, normal, successful or different things that are the opposite of crime, those who want to engage in happiness analytics must *infer* more with the use of imperfect inferential statistical methods.  
+
+
+---
+
+# Methodology
+
+ONE way of looking at good behavior is how productive [and generally higher-earning] behavior gets monetized into something like [strong housing prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). We all know some things about housing already -- for example, we know that the age of the something like carpet or even a furnace is going to be orders of magnitude less important than location or proximity to a good school or other community amenities.  AFTER we have prepared our data set [by eliminating obvious outliers in the data], we could BEGIN our exploratory analysis by looking at the different housing districts by using a [random forest model](https://en.wikipedia.org/wiki/Random_forest) in order to assure that we are comparing basically similar neighborhoods.   
+
+---
+
+# Analytics
+
+Why just look at Ames ... let's look at ALL real estate in Iowa.  Or the world.
+
+
+---
+
+# Improvement
+
+Design your COMMUNITY for Maintainability ... and the maintainability of better neighbors, better neighborhoods, better public utilities, better civic projects ... is important as a [derived] value because maintainability means thinking about other people. That includes the differing valid motives, aptitudes, stage of education and levels of capabilities of OTHER developers.
+
+
+
+---
+
+# Community
+
+It is all about building an social architecture or *culturescape* that engenders people in the future [after you are gone] to go about maintaining their ability to be creative, productive, independent and free to protect themselves and advance their just causes [without hurting other people]. Of course, it is NECESSARY that choices about maintainability are voluntary -- a good argument with a useful tool should be sufficient to convince most people to go along with a policy -- coercion, force and mandates are unnecessary. Controlling others or taking away the independence of others is one of the very most immoral things that anyone can do. Open source code and data are part of this -- so are distributed information, defense and security.
+
+---
+
+*"There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control."* — Jean Baudrillard ... from the ***epigraph*** of Cody Wilson's book [Come and Take It: The Gun Printer's Guide to Thinking Free](https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/)
