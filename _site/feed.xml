@@ -5,19 +5,23 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Nov 2016 15:34:14 -0600</pubDate>
-    <lastBuildDate>Mon, 21 Nov 2016 15:34:14 -0600</lastBuildDate>
+    <pubDate>Wed, 30 Nov 2016 12:07:20 -0600</pubDate>
+    <lastBuildDate>Wed, 30 Nov 2016 12:07:20 -0600</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Design For Immunity</title>
         <description>&lt;h1 id=&quot;design&quot;&gt;Design&lt;/h1&gt;
 
-&lt;p&gt;Most of the entrant’s into &lt;a href=&quot;http://NIJ.gov/MappingChallenge&quot;&gt;mapping challenge&lt;/a&gt; sponsored by the &lt;a href=&quot;http://NIJ.gov&quot;&gt;Natl Institute of Justice&lt;/a&gt; will probably aim their approach to data science prediction and forecasting at mapping BAD OUTCOMES … and there is a lot to be said for place-based crime forecasting algorithms that look at neighborhoods at [future] risk. Okay, crime is interesting enough … and it is certainly very necessary to get serious about law enforcement and neighborhood watch programs and others ways to deal better with crime, BUT …&lt;/p&gt;
+&lt;p&gt;What is the GOAL of the Design for Immunity project? We might not think about it as much as we should, but ALL of us basically want to boost our immune system.  We all want to be healthier tomorrow than we are today.&lt;/p&gt;
 
-&lt;p&gt;… what if instead of playing defense [against something negative like crime], we went on offense and started trying to put POSITIVE points on the board for the GOOD changes that we might be able to effect.  What if we looked instead at the predictors that lead to neighborhoods that DO NOT MAKE the news … is it possible for to change our our thinking to AVOID focusing on the sensationalism and crisis that usually follows things like crime?&lt;/p&gt;
+&lt;p&gt;Anyone who is serious about health [and strengthening immunity against all kinds of attacks] knows that there’s a LOT to think about … almost TOO MUCH … so should think about the scope of the project or about what we might focus on FIRST.&lt;/p&gt;
 
-&lt;p&gt;Of course, it isn’t as simple as just applying a 180 degree reverse policy … we cannot really do the same data analytics on good behaviors as we do on reported data for criminal convictions.  Happiness analytics are much more suspect than crime analytics … since we don’t have numbers on people or communities &lt;em&gt;convicted&lt;/em&gt; of being happy, normal, successful or different things that are the opposite of crime, those who want to engage in happiness analytics must &lt;em&gt;infer&lt;/em&gt; more with the use of imperfect inferential statistical methods.&lt;/p&gt;
+&lt;p&gt;As a SPECIFIC example … to prove the concept in a practical manner that demonstrates how one might incorporate particular interests, I will be look in at how I can learn about designing, building and continuously improving an edible foodscape on small amount of land that house sits on.  This foodscape will need to provides me with all kinds of antioxidants and phytochemicals and raw foods that I not only LIKE, but also are especially conductive to rebuilding my immune system.&lt;/p&gt;
+
+&lt;p&gt;As a starting point, for getting a general idea of the “lay of the land” for this project, I will attempt curate an AWESOME annotated reading list that looks at things like the types of &lt;a href=&quot;https://www.cancertutor.com/mirror_lymphoma/&quot;&gt;nutritional programs recommended for those undergoing radiation or chemotherapy or other particular toxic treatments for cancer&lt;/a&gt; … but the background research, derived from curating and annotating a reading list is ONLY for making informed choices about this project.&lt;/p&gt;
+
+&lt;p&gt;The MOST important informed choice that I can make about the SCOPE of this particular immunity project is deciding the general strategy that I will use for attacking the opportunity … I will refer to my Design For Immunity approach as a meta-immunity approach … it will be about building the informational infrastructure for continually advancing the PRACTICAL, PERSONAL goal of improving my level of immunity.  To accomplish this, &lt;em&gt;we&lt;/em&gt; … I recognize the NEED to reach out, build upon what others have done … &lt;em&gt;WE&lt;/em&gt; will be designing a set of cloneable, forkable, open source repositories to construct a dynamic, continuously updatable system that helps people get information and data, learn on their own, build a lifestyle that takes responsibility for caring for ones environment in a way that strengthens immune systems and generally builds health.&lt;/p&gt;
 
 &lt;hr /&gt;
 
