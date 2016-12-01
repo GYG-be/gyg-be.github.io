@@ -40,7 +40,8 @@ Eventually, people will stop playing defense and just being spooked by the #Just
 
 # Community
 
-Genome Wide Association Studies
+We foresee an explosion of data-driven immmunity / fitness / productivity social communities ... this includes things like the democratization of genome wide association studies and things made possible by affordable, portable nanopore DNA sequencer
+
 ---
 
 *"There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control."* — Jean Baudrillard ... from the ***epigraph*** of Cody Wilson's book [Come and Take It: The Gun Printer's Guide to Thinking Free](https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/)

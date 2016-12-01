@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Dec 2016 11:28:25 -0600</pubDate>
-    <lastBuildDate>Thu, 01 Dec 2016 11:28:25 -0600</lastBuildDate>
+    <pubDate>Thu, 01 Dec 2016 11:32:33 -0600</pubDate>
+    <lastBuildDate>Thu, 01 Dec 2016 11:32:33 -0600</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -45,7 +45,9 @@
 
 &lt;h1 id=&quot;community&quot;&gt;Community&lt;/h1&gt;
 
-&lt;h2 id=&quot;genome-wide-association-studies&quot;&gt;Genome Wide Association Studies&lt;/h2&gt;
+&lt;p&gt;We foresee an explosion of data-driven immmunity / fitness / productivity social communities … this includes things like the democratization of genome wide association studies and things made possible by affordable, portable nanopore DNA sequencer&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;em&gt;“There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control.”&lt;/em&gt; — Jean Baudrillard … from the &lt;strong&gt;&lt;em&gt;epigraph&lt;/em&gt;&lt;/strong&gt; of Cody Wilson’s book &lt;a href=&quot;https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/&quot;&gt;Come and Take It: The Gun Printer’s Guide to Thinking Free&lt;/a&gt;&lt;/p&gt;
 </description>
