@@ -22,29 +22,25 @@ The MOST important informed choice that I can make about the SCOPE of this parti
 
 # Methodology
 
-ONE way of looking at good behavior is how productive [and generally higher-earning] behavior gets monetized into something like [strong housing prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). We all know some things about housing already -- for example, we know that the age of the something like carpet or even a furnace is going to be orders of magnitude less important than location or proximity to a good school or other community amenities.  AFTER we have prepared our data set [by eliminating obvious outliers in the data], we could BEGIN our exploratory analysis by looking at the different housing districts by using a [random forest model](https://en.wikipedia.org/wiki/Random_forest) in order to assure that we are comparing basically similar neighborhoods.   
+It's really about education ... data APIs, repositories, MOOCs, JUPYTER notebooks, Electron driven messaging like Slack, online conferences [with LIVEstreamed video and more-or-less immediate interaction]
 
 ---
 
 # Analytics
 
-Why just look at Ames ... let's look at ALL real estate in Iowa.  Or the world.
-
+Eventually, people will stop playing defense and just being spooked by the #JustWorryAboutIt passive strategies used by conventional healthcare systems ... when get serious about [re]building immunity / fitness / productivity, we will measure, compare and quantitatively optimize. [#InsuranceAintHealth](https://www.mercatus.org/hoap) #DontGetSick
 
 ---
 
 # Improvement
 
-Design your COMMUNITY for Maintainability ... and the maintainability of better neighbors, better neighborhoods, better public utilities, better civic projects ... is important as a [derived] value because maintainability means thinking about other people. That includes the differing valid motives, aptitudes, stage of education and levels of capabilities of OTHER developers.
-
-
+[HOAP](https://www.mercatus.org/hoap)
 
 ---
 
 # Community
 
-It is all about building an social architecture or *culturescape* that engenders people in the future [after you are gone] to go about maintaining their ability to be creative, productive, independent and free to protect themselves and advance their just causes [without hurting other people]. Of course, it is NECESSARY that choices about maintainability are voluntary -- a good argument with a useful tool should be sufficient to convince most people to go along with a policy -- coercion, force and mandates are unnecessary. Controlling others or taking away the independence of others is one of the very most immoral things that anyone can do. Open source code and data are part of this -- so are distributed information, defense and security.
-
+Genome Wide Association Studies
 ---
 
 *"There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control."* — Jean Baudrillard ... from the ***epigraph*** of Cody Wilson's book [Come and Take It: The Gun Printer's Guide to Thinking Free](https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/)

@@ -5,8 +5,8 @@
     <description>This is my blog about version-controlled social production of open source technologies, cultures and revolutions ... and my interconnections to larger, more awesome interconnections in the universe ... https://xkcd.com/1579/</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Nov 2016 12:38:31 -0600</pubDate>
-    <lastBuildDate>Wed, 30 Nov 2016 12:38:31 -0600</lastBuildDate>
+    <pubDate>Thu, 01 Dec 2016 11:28:25 -0600</pubDate>
+    <lastBuildDate>Thu, 01 Dec 2016 11:28:25 -0600</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -27,27 +27,25 @@
 
 &lt;h1 id=&quot;methodology&quot;&gt;Methodology&lt;/h1&gt;
 
-&lt;p&gt;ONE way of looking at good behavior is how productive [and generally higher-earning] behavior gets monetized into something like &lt;a href=&quot;https://www.kaggle.com/c/house-prices-advanced-regression-techniques&quot;&gt;strong housing prices&lt;/a&gt;. We all know some things about housing already – for example, we know that the age of the something like carpet or even a furnace is going to be orders of magnitude less important than location or proximity to a good school or other community amenities.  AFTER we have prepared our data set [by eliminating obvious outliers in the data], we could BEGIN our exploratory analysis by looking at the different housing districts by using a &lt;a href=&quot;https://en.wikipedia.org/wiki/Random_forest&quot;&gt;random forest model&lt;/a&gt; in order to assure that we are comparing basically similar neighborhoods.&lt;/p&gt;
+&lt;p&gt;It’s really about education … data APIs, repositories, MOOCs, JUPYTER notebooks, Electron driven messaging like Slack, online conferences [with LIVEstreamed video and more-or-less immediate interaction]&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h1 id=&quot;analytics&quot;&gt;Analytics&lt;/h1&gt;
 
-&lt;p&gt;Why just look at Ames … let’s look at ALL real estate in Iowa.  Or the world.&lt;/p&gt;
+&lt;p&gt;Eventually, people will stop playing defense and just being spooked by the #JustWorryAboutIt passive strategies used by conventional healthcare systems … when get serious about [re]building immunity / fitness / productivity, we will measure, compare and quantitatively optimize. &lt;a href=&quot;https://www.mercatus.org/hoap&quot;&gt;#InsuranceAintHealth&lt;/a&gt; #DontGetSick&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h1 id=&quot;improvement&quot;&gt;Improvement&lt;/h1&gt;
 
-&lt;p&gt;Design your COMMUNITY for Maintainability … and the maintainability of better neighbors, better neighborhoods, better public utilities, better civic projects … is important as a [derived] value because maintainability means thinking about other people. That includes the differing valid motives, aptitudes, stage of education and levels of capabilities of OTHER developers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.mercatus.org/hoap&quot;&gt;HOAP&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h1 id=&quot;community&quot;&gt;Community&lt;/h1&gt;
 
-&lt;p&gt;It is all about building an social architecture or &lt;em&gt;culturescape&lt;/em&gt; that engenders people in the future [after you are gone] to go about maintaining their ability to be creative, productive, independent and free to protect themselves and advance their just causes [without hurting other people]. Of course, it is NECESSARY that choices about maintainability are voluntary – a good argument with a useful tool should be sufficient to convince most people to go along with a policy – coercion, force and mandates are unnecessary. Controlling others or taking away the independence of others is one of the very most immoral things that anyone can do. Open source code and data are part of this – so are distributed information, defense and security.&lt;/p&gt;
-
-&lt;hr /&gt;
+&lt;h2 id=&quot;genome-wide-association-studies&quot;&gt;Genome Wide Association Studies&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;“There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control.”&lt;/em&gt; — Jean Baudrillard … from the &lt;strong&gt;&lt;em&gt;epigraph&lt;/em&gt;&lt;/strong&gt; of Cody Wilson’s book &lt;a href=&quot;https://www.amazon.com/Come-Take-Printers-Guide-Thinking-ebook/dp/B01CO34MBI/&quot;&gt;Come and Take It: The Gun Printer’s Guide to Thinking Free&lt;/a&gt;&lt;/p&gt;
 </description>
