@@ -22,13 +22,13 @@ The MOST important informed choice that I can make about the SCOPE of this parti
 
 # Methodology
 
-It's really about education ... data APIs, repositories, MOOCs, JUPYTER notebooks, Electron driven messaging like Slack, online conferences [with LIVEstreamed video and more-or-less immediate interaction]
+It's really about open-sourcing education and aggressively developing ways to tap the power of community knowledge in learn how to live better and healthier, to replace bad habits with healthier ones and steadily build the foundations of things that build immunity to get stronger and stronger, little by little ... data APIs, repositories, MOOCs, JUPYTER notebooks, Electron driven messaging like Slack, online conferences [with LIVEstreamed video and more-or-less immediate interaction]
 
 ---
 
 # Analytics
 
-Eventually, people will stop playing defense and just being spooked by the #JustWorryAboutIt passive strategies used by conventional healthcare systems ... when get serious about [re]building immunity / fitness / productivity, we will measure, compare and quantitatively optimize. [#InsuranceAintHealth](https://www.mercatus.org/hoap) #DontGetSick
+Eventually, people will stop playing defense and just being spooked by the #JustWorryAboutIt passive strategies used by conventional healthcare systems ... when get serious about [re]building immunity / fitness / productivity, we will recursively develop metrics by measuring, comparing, quantitatively optimizing and then analyzing or tracking improvements in performance. To be sure, healthcare options are [tracked and analyzed at the state level](https://www.mercatus.org/hoap) #DontGetSick
 
 ---
 
