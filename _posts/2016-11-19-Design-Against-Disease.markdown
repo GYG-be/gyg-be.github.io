@@ -28,19 +28,19 @@ It's really about open-sourcing education and aggressively developing ways to ta
 
 # Analytics
 
-Eventually, people will stop playing defense and just being spooked by the #JustWorryAboutIt passive strategies used by conventional healthcare systems ... when get serious about [re]building immunity / fitness / productivity, we will recursively develop metrics by measuring, comparing, quantitatively optimizing and then analyzing or tracking improvements in performance. To be sure, healthcare options are [tracked and analyzed at the state level](https://www.mercatus.org/hoap) #DontGetSick
+Eventually, people will stop playing defense and just being spooked by the #JustWorryAboutIt passive strategies used by conventional healthcare systems ... when get serious about [re]building immunity / fitness / productivity, we will recursively develop metrics by measuring, comparing, quantitatively optimizing and then analyzing or tracking improvements in performance. To be sure, healthcare options are [tracked and analyzed at the state level](https://www.mercatus.org/hoap), but where the analytics are really necessary is at the individual level. #DontGetSick
 
 ---
 
 # Improvement
 
-[HOAP](https://www.mercatus.org/hoap)
+Improvement is driven by nothing other than EFFORT ... analytics can give you idea of where you should focus or how effective parts of your effort has been, eg consider reps, weight, distance, time in an exercise regimen, but they cannot replace EFFORT. There are ways to improve more effectively, but there are no shortcuts, no way around putting in the EFFORT.    
 
 ---
 
 # Community
 
-We foresee an explosion of data-driven immmunity / fitness / productivity social communities ... this includes things like the democratization of genome wide association studies and things made possible by affordable, portable nanopore DNA sequencer
+We envision an explosion of data-driven immunity / fitness / productivity social communities ... this includes things like the democratization of genome wide association studies and things made possible by affordable, portable nanopore DNA sequencer
 
 ---
 
