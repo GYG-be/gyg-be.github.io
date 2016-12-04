@@ -34,7 +34,7 @@ Eventually, people will stop playing defense and just being spooked by the #Just
 
 # Improvement
 
-Improvement is driven by nothing other than EFFORT ... analytics can give you idea of where you should focus or how effective parts of your effort has been, eg consider reps, weight, distance, time in an exercise regimen, but they cannot replace EFFORT. There are ways to improve more effectively, but there are no shortcuts, no way around putting in the EFFORT.    
+Improvement is driven by nothing other than disciplined, intelligently-applied, focused EFFORT ... analytics can give you idea of where you should focus or how effective parts of your effort has been, eg consider reps, weight, distance, time in an exercise regimen, but they cannot replace EFFORT. There are ways to improve more effectively, but there are no shortcuts, no way around putting in the EFFORT.    
 
 ---
 
