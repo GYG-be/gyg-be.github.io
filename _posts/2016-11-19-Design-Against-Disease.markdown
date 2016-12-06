@@ -40,7 +40,7 @@ Improvement is driven by nothing other than disciplined, intelligently-applied, 
 
 # Community
 
-We envision an explosion of data-driven immunity / fitness / productivity social communities ... this includes things like the democratization of genome wide association studies and things made possible by affordable, portable nanopore DNA sequencer
+We would like to be able to envision an explosion of data-driven immunity / fitness / productivity social communities, but it will take real work and sustained effort to build this kind of community ... somebody needs to LEAD efforts in things like the democratization of genome wide association studies and things made possible by affordable, portable nanopore DNA sequencer
 
 ---
 
