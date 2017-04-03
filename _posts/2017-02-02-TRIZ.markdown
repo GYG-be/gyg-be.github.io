@@ -1,0 +1,778 @@
+---
+layout: post
+title:  "TRIZ"
+date:   2017-02-02 8:30:00
+categories: TRIZ, problem-solving, 40 Principles
+---
+
+I have been reconsidering how I should develop or recast my skillsets in order to not only emigrate to life in the virtual realm but to be a more valuable and active citizen in the virtual realm.
+
+
+1) Golden-rule ... I treat others as I would want to be treated; most of all, this requires that I am FRANK, BLUNT and BRUTALLY HONEST with people.
+
+2) Assertiveness for everyone is a matter of pragmatic Stoicism. It is not that "might makes right" or authoritarianism ... in this existence, Reality rules -- that means understanding Reality and making the best of what options we have. There is nothing to be gained by imagining we are entitled to better options ... we must understand Reality as Reality really is, not as someone wants to imagine, hope or fear Reality might be.
+
+3) Communication, especially listening to others, is my obligation. I need to be proficient in the predominant languages of my trades -- most of the time, someone else has already solved the problem before, so it is up to me to UNDERSTAND the root cause of problems and to apply existing solutions before re-inventing the wheel.
+
+
+Beyond these basic , there are still fundamental principles of inventiveness ... principles that that I need to refine, extend, think more deeply about.  
+
+
+# 1. Segmentation
+
+A. Deconstruct, refactor and simplify complexity into separate, independent "chewable" pieces.
+
+  * Divide-and-conquer workflows, understand value-addition, D.O.W.N.T.I.M.E eliminates waste
+  * Design ventures to be autonomous profit centers; eliminate cost / complexity / overhead.
+  * Develop understandable work breakdown structures for large project to tap remote talent.
+  * Distribute power/control to franchised outlets to serve customers more directly
+  * Image/Value/Satisfaction segmentation of customer purchase-related preferences
+  * Kano Diagram – Excitement, Performance, and Threshold product attribute parameters.
+  * Micro-niche segmentation by demographics, sociographics, psychographics, lifestyles
+  * Segmentation of ‘idea management’ process into Fertilization, Seeding, and Incubation
+  * Strength/Weakness/Opportunity/Threat (SWOT) analysis
+  * Simplifying complexity without losing value with [simplexity thinking](http://www.basadur.com/howwedoit/TheSimplexityThinkingSystem/tabid/72/Default.aspx) and [Basadur process](http://www.basadur.com/howwedoit/An8StepProcess/tabid/82/Default.aspx)
+
+B. Design objects to be easy to disassemble/assemble/reconfigure.  
+  * Flexible pensions
+  * Eliminate headcount, use temporary workers, contractors, short-term project
+  * Flexible Manufacturing Systems
+  * Modular furniture/offices
+  * Container shipment
+
+C. Increase the degree of fragmentation or segmentation.
+
+  * Quality Circles or LEAN workshops for empowerment – segmentation of decision making.
+  * Distance learning (also ‘Taking Out’)
+  * Virtual office/remote working (also ‘Taking Out’)
+  * ‘Creative Segmentation’ – ‘high performance small car’, ‘easy to use SLR’, ‘cordless power tool’
+
+
+# 2. Taking Out
+
+Separate an interfering part or property from an object, or single out the only necessary part (or property) of an object.
+
+Breakdown barriers between departments (Point No.9 of Deming’s Fourteen Points (5)).
+Eliminate exhortations (Point No.10 of Deming’s Fourteen Points (5))
+Eliminate targets (Point No.11 of Deming’s Fourteen Points (5)).
+Drive Out Fear (Point No.8 of Deming’s Fourteen Points (5))
+‘Separate the PEOPLE from the PROBLEM’ (‘Getting To Yes’ (6)).
+‘Lean Manufacture’ (7)
+USP advertising
+Just-In-Time inventory management
+Activity-Based Costing instead of allocation cost accounting.
+Separate development and production activities – skunkworks, tiger-teams, etc.
+‘The optimum committee has no members’ (Augustine’s Law #31 (Reference 8))
+
+
+# 3. Local Quality
+
+
+
+A. Change an object’s structure from uniform to non-uniform, change an external environment (or external influence) from uniform to non-uniform.
+
+Moves away from rigid salary structures/job grading.
+Flexible working hours.
+Franchise fast food outlets have local dishes in addition to normal product range.
+Casual (‘dress-down’) days.
+Introduce ‘Corporate Jester’ (e.g. British Airways) as a method of encouraging ‘out of the box’ thinking.
+Red team/Blue team proposal preparation structures
+‘Quiet’ work areas.
+B. Make each part of an object function in conditions most suitable forits operation.
+
+‘Empowerment’ of individuals
+Have each employee’s workplace customized to his/her ergonomic and psychological needs.
+Working hours phased to accommodate people working on international, shifted time-zone projects
+Customizable software
+C. Make each part of an object fulfill a different and useful function.
+
+organizational division by function rather than product.
+Staff specialists in centers of excellence
+Position factory or distribution center near to customers
+Hire local people to acquire cultural knowledge of local customers
+‘Kids areas’ in restaurants, etc
+
+# 4. Asymmetry
+
+A. Change the shape of an object from symmetrical to asymmetrical.
+
+(Proportionately) more ‘P’ or more ‘S’ in the Deming PDSA cycle
+Skewed normal distributions.
+Use a different marketing approach for each class of clients. (Combine with Segmentation and Local Quality–make each class smaller to be sure the approach is exactly tailored to it.)
+Budget for different departments individually rather than using a constant percentage increase or reduction for all departments
+B. If an object is asymmetrical, change itsdegree of asymmetry.
+
+360º appraisals
+More equitable 2-way dialogue between management and workers
+Shift away from calendar-influenced sales bias (e.g. shift from annual to bi-annual car registration dates (to reduce August sales peak), greetings card companies, etc.)
+‘The Peter Pyramid’ (9)
+Honda’s 4M – ‘man maximum, machine minimum’ product design philosophy.
+
+# 5. Merging
+
+
+
+A. Bring closer together (or merge) identical or similar objects, assemble identical or similar parts to perform parallel operations.
+
+Personal computers in a network
+Cell-based Manufacture
+Toyota JIT
+Merge companies with related products
+Internet Cafe
+The ‘Joiner Triangle’ – Quality/Scientific Approach/All-One-Team (10)
+‘Young engineers have ideas, old engineers have bad experiences’ Japanese saying
+B. Make operations contiguous or parallel; bring them together in time.
+
+Theory of Constraints (11)
+Enlisting customer help in designing the product (Boeing 777 ‘Working Together Teams)
+Multi-media presentations
+‘Aligned, Creative and Exploring’ Teams (12)
+
+# 6. Universality
+
+A. Make an object or structure performmultiple functions; eliminate the need for other parts.
+
+Multi-skilling of work-force
+Team leader acts as recorder and timekeeper.
+‘One-stop shopping’ – supermarkets sell insurance, banking services, fuel, newspapers, etc.
+Rapid Reaction Forces in the military – cross-trained, equipment versatility, etc)
+Semco – managerial staff set their own salaries, shopfloor workers set their own productivity targets, part of change agent’s job is to eliminate need for his/her job (13)
+
+# 7. “Nested Doll”
+
+
+
+A. Place one object inside another; place each object, in turn, inside theother.
+
+Store-in-store
+Mapping priority innovation areas (Reference 3, pp136-7)
+Four levels of knowledge – 1) Basic Skills, 2) Know How, 3) Process Management, 4) Strategic Vision – contained in effective company (e.g. Sony) training schemes – (Reference 3, pp292-4)
+Hierarchy of employee needs – Basic, Environment, Simple Individual, Complex Individual, Transcendent (Reference 14, Chapter 3)
+B. Make one part pass through a cavity in the other.
+
+Plug holes in organization structure
+Use ‘Why, What’s Stopping?’ question sequence to break through layers of problems to get to root cause (4)
+Expose traditionally inward facing job-holders to external events/customers (e.g. engineers shadow marketing people during customer visits)
+Door sensors count customers into and out of a store/office, etc (use data for market profiling, etc)
+Casino hotel architecture (Las Vegas style): The guest must pass through the gaming area to get to the restaurant, the hotel registration, even the lavatories!
+
+# 8. Anti-Weight
+
+A. To compensate for the weight (downward tendency)of an object, merge it with other objects that provide lift.
+
+In a merger of two companies, one ‘lifts’ the other with whatever its stronger features are (distribution system, marketing, methods, capital, etc)
+Companies increase flagging sales by making connections with other rising products (e.g. movie tie-ins)
+‘This is my depressed stance. When you’re depressed, it makes a lot of difference how you stand. The worst thing you can do is straighten up and hold your head high because then you’ll start to feel better. If you’re going to get any joy out of being depressed, you’ve got to stand like this.’ Charlie Brown
+“Whenever I feel afraid, I hold my head erect, and whistle a happy tune, and no one will suspect I’m afraid.”–Anna in “The King and I” by Rogers and Hammerstein
+B. To compensate for the weight (downward tendency)of an object, make it interact with the environment (e.g. use globallift forces).
+
+A small company is ‘lifted’ by a resource – use of a transportation network, etc – to the level of the larger companies
+Political parties boost poll ratings by attaching themselves to popular causes
+Attach product/service marketing to customer and business driving forces (Megatrends – aging population, desire for flexibility, simplicity, etc)
+
+# 9. Preliminary Anti-Action
+
+
+
+A. If it will be necessary to do an action with both harmful and usefuleffects, this action should be replaced with anti-actions to control harmfuleffects.
+
+When making a public announcement, include all the information, not just the harmful parts (e.g. Johnson & Johnson’s handling of the Tylenol tampering case)
+Use formal risk assessment methods to quantify risk and identify mitigation actions before (and during) a project
+Customer trials/segmented launch of (high risk) new products (e.g. film companies film several endings to a movie and trial with different audiences before finalising selection)
+Use of voluntary redundancy/pay-cuts/short-time working/job-sharing as alternatives to down-sizing
+B. Create beforehand stresses in an object that will oppose knownundesirable working stresses later on.
+
+Epson product development engineers spend time as sales and then service staff before they are allowed to work on product development activities (Reference 3, p101)
+Prior to a lay-off, prepare compensation, outplacement, and communication packages for all affected employees
+‘In me the tiger sniffs the rose.’ Siegfried Sassoon
+Principle 10. Preliminary Action
+
+
+
+A. Perform, before it is needed, the required change of an object (eitherfully or partially).
+
+Project pre-planning
+Perform non-critical path tasks early (where circumstances permit)
+Dialogue with employees before embarking on BPR/change management activities.
+Use of ‘story-boarding’ to facilitate creative problem solving (i.e. gathering the data before the “creativity” session)
+B. Pre-arrange objects such that they can come into action from the mostconvenient place and without losing time for their delivery.
+
+Kanban arrangements in a Just-In-Time factory
+Cell-based manufacture
+Publish an agenda before meetings
+‘If I had 8 hours to chop down a tree, I’d spend 6 hours sharpening my axe’ Abraham Lincoln.
+Benetton ‘retarded differentiation’ – clothing is knitted before it is dyed; colour only applied when the season’s popular colours emerge.
+Dealer-fit car accessories – CD player, alloy wheels, air-con, etc.
+Principle 11. Beforehand Cushioning
+
+
+
+A. Prepare emergency means beforehand to compensate for the relatively lowreliability of an object.
+
+Contingency planning
+Establish a worst-case, fall-back position prior to negotiation – ‘Best Alternative to a Negotiated Agreement’ (6)
+Back up computer data
+Run anti-virus software frequently (and update it frequently)
+Encourage short, effective meetings by removing the chairs
+Put clauses in contracts requiring arbitration/mediation to avoid litigation
+Begin with ‘S’ in the PDSA cycle (10)
+‘80% of a successful production is in the casting’ Lindsay Anderson
+
+# Principle 12. Equipotentiality
+
+
+
+A. In a potential field, limit position changes (e.g. change operatingconditions to eliminate the need to raise or lower objects in a gravity field).
+
+Make ‘horizontal’ career changes to broaden skills
+Team members distribute their own merit award money (rather than often divisive management dictate)
+Force-Field Analysis – group discussion of the phrase ‘forces push in various directions’ – teambuilding/problem-solving technique discussed in Reference 3.
+Beware of the Peter Principle – ‘Every employee tends to rise to his/her level of incompetence (15)
+Principle 13. ‘The Other Way Round’
+
+
+
+A. Invert the action(s) used to solve the problem (e.g. instead of coolingan object, heat it).
+
+Bring the mountain to Mohammed, instead of bringing Mohammed to the mountain.
+Expansion instead of contraction during recession.
+Benchmark against the worst instead of the best (16).
+Blame the process not the person
+‘I used to think that anyone doing anything weird was weird. I suddenly realised that anyone doing anything weird wasn’t weird at all, and it was the people saying they were weird that were weird’ Paul McCartney.
+B. Make movable parts (or the external environment) fixed, and fixed partsmovable).
+
+Home-shopping
+Home banking
+Park-and-ride schemes in busy cities
+Don’t make changes just because they are fashionable management fads
+‘If you obey all the rules, you miss all the fun’ Katherine Hepburn (17)
+C. Turn the object (or process) ‘upside down‘.
+
+Cash-till assistant is the most important part of a retail organization
+Computer help lines were often originally set up with relatively no-technical staff at the front-end, directing calls to progressively more technically able staff the more complicated the problem is. Latest logic suggests reversing this trend – i.e. place the most qualified staff as first point of contact (e.g. IBM)
+Product- rather than function- based organization structure
+‘Ready, Fire, Aim’ – Tom Peters (18)
+Mercedes Benz vision changed from ‘the best or nothing’ to ‘the best for our customers’ – i.e. shift from internal to externally focused vision statement.
+The Peter Pyramid (9)
+Corporate ‘unlearning’ – acquiring the ability to forget about the past where appropriate
+‘Ours is the age that is proud of machines that think and suspicious of men who try to’ H Mumford-Jones (16)
+Russian government pays inventors for patent applications/West makes the inventor pay to apply.
+Chairman of company spends time in the complaints department answering customer complaints
+‘Nothing fails like success’ (19)
+‘We don’t stop playing because we grow old, we grow old because we stop playing’ (12)
+‘When you reach the top, that’s when the climb begins’ Michael Caine
+Principle 14. Spheroidality – Curvature
+
+
+
+A. Instead of using rectilinear parts, surfaces, or forms, use curvilinearones; move from flat surfaces to spherical ones; from parts shaped as a cube(parallelepiped) to ball-shaped structures.
+
+
+
+Ergonomic desk/work-station designs.
+Take the shortest path to the customer – around the organization rather than point-to-point through the bureaucracy
+‘Form the wagons into a circle’ John Wayne
+B. Use rollers, balls, spirals, domes.
+
+Mobile factory
+Mobile car service – mechanic comes to you rather than you going to garage
+Mobile library
+‘Meals on wheels’/home-delivery pizza
+C. Go from linear to rotary motion, use centrifugal forces.
+
+Rotate leadership of a team
+Establish a sphere of influence, then market to that sphere
+Quality Circles
+Circular work cells
+Levi Strauss’ IS Department’s organizational chart resembles a solar system, with the names of 20 managers appearing once on a large circle-and in many cases, also on one of four smaller circles intersecting the large one. The small circles represent action groups focusing on specific tasks, including customer service and business systems (20).
+Principle 15. Dynamics
+
+
+
+A. Allow (or design) the characteristics of an object, externalenvironment, or process to change to be optimal or to find an optimal operatingcondition.
+
+Empowerment
+‘Customer Response Teams’
+Continuous Process Improvement
+Rapid Reaction Force
+Swatch design proliferation – design for specific market niches
+‘Cafeteria’ benefits – where employees pick which types of insurance, health system, etc. they want
+‘In today’s turbulent business environment, there are no hard fast conclusions – only transitions’ (14)
+B. Divide an object into parts capable of movement relative to each other.
+
+Work teams oriented to achieve same goal, but work at different rates on different objectives
+Geographically or functionally independent business units
+Conglomerate structures
+C. If an object (or process) is rigid or inflexible, make it movable oradaptive.
+
+Gallery Furniture on-line shopping – customer is able to control and move cameras to point to different products in different parts of the store from his/her home computer (www.galleryfurniture.com)
+Changing the supervisor’s role; avoid ‘whack-a-mole’ firefighting (Reference 10, p20)
+Flexible organization structure (chaocracy)
+Principle 16. Partial or Excessive Actions
+
+
+
+A. If 100 percent of an objective is hard toachieve using a given solution method then, by using ‘slightly less’ or’slightly more’ of the same method, the problem may be considerably easier tosolve.
+
+Going into a new market, do “saturation” advertising by all media–mail, newspapers, local magazines, local radio, local TV, billboards, etc.
+Communicate more often and with more information than you think necessary
+‘If it ain’t broke, improve it anyway’ – Japanese process management philosophy.
+‘The most important numbers are the ones you’ll never know’ – W.E. Deming (i.e. is it possible to ever know what ‘100%’ means)
+‘Communication is and should be hellfire and sparks, as well as sweetness and light’ Aman Vivian Rakoff
+Principle 17. Another Dimension
+
+
+
+A. To move an object in two- or three-dimensional space.
+
+360º appraisals.
+Multi-dimensional organization hierarchy charts – 3D (e.g. to show ‘hard’ and ‘soft’ relationships), or 4D – to include an element of time or movement (‘Buckyball Management’ – Reference 20)
+Distributed responsibility and authority – e.g. Quality department advises on technical details and conducts audits, but everyone is responsible for quality. Ditto Safety Office.
+B. Use a multi-story arrangement of objects instead of a single-storyarrangement.
+
+organizational hierarchy
+Multi-stack storage systems use the height of a building, and save floorspace
+Employees “disappear” from the customers in a theme park, descend into a tunnel, and walk to their next assignment, where they return to the surface and magically reappear.
+‘Pile ‘em high, sell ‘em cheap’
+‘Standing on the shoulders of giants…’
+‘When two people meet, there are really six people present. There is each man as he sees himself, each man as he wants to be seen, and each man as he really is.’ Michael De Saintamo
+C. Tilt or re-orient the object, lay it on its side.
+
+Horizontal (peer) communication
+Horizontally integrated manufacture
+Switch from vertical to horizontal (lateral) thinking – and vice-versa (21)
+Shift from ‘line’ to ‘project’ management dominance in matrix organization (and vice-versa – depending on prevailing market conditions)
+Shift from portrait to landscape report format
+D. Use ‘another side’ of a given area.
+
+View your organization from the outside – either directly or using consultants, ‘mystery shoppers’, etc.
+New ways of looking at the selling process – instead of selling carpets to its commercial and industrial customers, Interface now offers what it calls the “Evergreen Lease.” Its customers no longer buy carpets or pay an installation fee – they just pay a monthly service fee that guarantees they will always have clean, attractive carpets (22)
+‘The seeing of objects involves many sources of information beyond those meeting the eye when we look at an object. It generally involves knowledge of the object derived from previous experience, and this experience is not limited to vision but may include the other senses: touch, taste, smell, hearing, and perhaps also temperature or pain.’ R.L.Gregory
+‘You can’t teach an old dogma new tricks’ Dorothy Parker
+Principle 18. Mechanical vibration
+
+
+
+A. Cause an object to oscillate or vibrate.
+
+Use the catchball process of hoshin planning to get the whole organization ‘vibrating’
+‘A good manager doesn’t try to eliminate conflict; he tries to keep it from wasting the energies of his people. If you’re the boss and your people fight you openly when they think that you are wrong — that’s healthy’ Robert Townsend
+‘The things we fear most in organizations — fluctuations, disturbances, imbalances — are the primary sources of creativity’ Margaret J Wheatley.
+B. Increase its frequency (even up to the ultrasonic).
+
+Communicate frequently, in multiple modes (newsletter, Intranet, staff meetings, etc).
+‘I don’t think that you should ever manage anything that you don’t care passionately about’ D Coleman, VP & CFO Apple (12)
+‘He inspired in us the belief that we were working in a medium that was powerful enough to influence the world’ Lillian Gish on D.W.Griffiths (12)
+C. Use an object’s resonant frequency.
+
+Use strategic planning (policy deployment, hoshin Kanri) to select the right frequency and get the organization resonating at that frequency to accomplish a breakthrough strategy
+Creating extra-ordinary unity of purpose in a work-team (e.g. Don Petersen’s story of the Ford versus Mazda ‘competition to win the transmission job for the FWD Taurus (23))
+‘Kansei’ – Japanese term for resonance/one-ness between product and user (Reference 23, pp 139-45)
+D. Use piezoelectric vibrators instead of mechanical ones, E. Usecombined ultrasonic and electromagnetic field oscillations. (Useexternal elements to create oscillation/vibration)
+
+
+
+Bring new blood into team
+Hire consultant
+Principle 19. Periodic Action
+
+
+
+A. Instead of continuous action, use periodic or pulsating actions.
+
+Batch manufacture.
+Tidal traffic flow schemes ease transport into and out of busy areas
+Change team leadership periodically (e.g. countries take it in turns to ‘lead’ the EU)
+Introduce sabbaticals to refresh people’s points of view
+B. If an action is already periodic, change the periodic magnitude orfrequency.
+
+Audit at irregular intervals
+Use monthly or weekly feedback instead of annual reviews
+Flexible savings schemes which pay higher interest rates the fewer the number of withdrawals made
+C. Use pauses between impulses to perform a different action.
+
+Get work done between meetings
+Perform maintenance work during vacations
+24-hour car service operation – evening pick-up, return of serviced car by breakfast the following morning (customer perspective).
+Principle 20. Continuity of Useful Action
+
+
+
+A. Carry on work continuously; make all parts of an object work at fullload, all the time.
+
+Run the bottleneck operations in a factory continuously, to reach the optimum pace. (From theory of constraints)
+Institute Constant Improvement (Point No.5 of Deming’s Fourteen Points (5))
+Continuous on-line monitoring of elevators by Otis – total maintenance responsibility (Reference 3, pp54-5)
+24 hour car service operation – evening pick-up, return of serviced car by breakfast the following morning (garage perspective)
+‘The power of a waterfall is nothing but a lot of drips working together’ (12)
+B. Eliminate all idle or intermittent actions or work.
+
+Multi-skilling to enable working in bottleneck functions to improve workflow
+Conduct training during pauses in work
+‘Hot-till’ing in supermarkets – staff do other tasks during quiet periods; move to tills when they see queues developing
+‘Life-long learning’
+‘The more I practice, the luckier I get’ Gary Player
+Principle 21. Skipping
+
+
+
+A. Conduct a process , or certain stages (e.g. destructive, harmful orhazardous operations) at high speed.
+
+‘Incrementalism is innovation’s worst enemy’ Nicholas Negreponte, MIT Media Lab (18)
+‘Don’t be afraid to take a big step if one is indicated. You can’t cross a chasm in two small jumps’ David Lloyd George
+‘Fail Fast; Learn Fast’
+‘Fast Cycle – Full Participation’ – method of involving the whole organization simultaneously and rapidly in a major change, such as a re-organization
+Get through painful processes quickly (e.g. firing someone)
+Rapid prototyping
+‘If you want to succeed, double your failure rate’ JR Watson, IBM founder
+Principle 22. “Blessing in Disguise” or “Turn Lemons intoLemonade”
+
+
+
+A. Use harmful factors (particularly, harmful effects of the environmentor surroundings) to achieve a positive effect.
+
+Recast an attack on you as an attack on the problem (6).
+Making a fuss over customers who have experienced a problem with your goods/services/etc, tends to re-enforce their overall positive feel about you – to a level greater than that where no problem had occurred
+Collect information to understand the harm, then formulate a positive action to remove it
+‘Provocations’ method of encouraging new ideas (24)
+‘The Extra Mile will have no traffic jams.’ Unknown.
+B. Eliminate the primary harmful action by adding it to another harmfulaction to resolve the problem.
+
+Eliminate fear of change by introducing fear of competition
+Put a ‘problem’ person on an assignment in another area where he/she can do well and not be a problem to the original group
+Loss-leader strategy for increasing sales
+Keep traffic out of cities by introducing cheap ‘park and ride’ and expensive downtown parking charges.
+Make potentially polluting industries place flow intakes downstream of flow outlets on a river
+C. Amplify a harmful factor to such a degree that it is no longer harmful.
+
+The famous software solution ‘that’s not a bug, it’s a feature’
+Benevolent dictatorship (25)
+Reduce resourcing levels to such an extent that new ways of doing the job have to be discovered
+Restrict supply of goods to create scarcity value (e.g. some sports car manufacturers seek to maintain a multiple year waiting list on vehicles)
+Principle 23. Feedback
+
+
+
+A. Introduce feedback (referring back, cross-checking) to improve aprocess or action.
+
+Statistical Process Control (SPC) — Measurements are used to decide when to modify a process.
+Budgets –Measurements are used to decide when to modify a process.
+Enlist customers in the design process.
+‘Extranets’ (22)
+Customer surveys/customer seminars, etc
+‘Active Transition Management’ as a way of controlling product development process between research, development and production phases.
+Electronic bulletin boards
+(Supermarket) loyalty cards – provide customer shopping profile information
+‘What you measure is what you get’ Joe Juran
+B. If feedback is already used, change its magnitude or influence.
+
+Change a management measure from budget variance to customer satisfaction.
+Expose designers as well as marketers to customers
+Multi-Criteria Decision Analysis (valid ‘apples and oranges’ comparisons).
+Toshiba medical systems division split into R&D, Engineering and Manufacture sectors. As a product is being developed, key personnel and leadership physically move from one sector to another to actively manage transitions between product development stages.
+‘Open the kimono’ – everything out in the open communication (Reference 14, Chapter 9)
+‘Supravision’ rather than ‘supervision’
+‘Co-evolutionary marketing’ – e.g. Amazon.com invites readers to write on-line book reviews; other readers often prefer these views to professional reviewer evaluations, therefore people visit the site more often (26)
+Motorola ‘open dissent’ policy – employees fill in a minority report to senior management when ideas they consider valuable are unsupported by colleagues and immediate superiors (Reference 27, pp164-6)
+Use of ‘half-life’ as a measure of improvement (e.g. time taken to half product development time) to encourage large-scale thinking
+Principle 24. ‘Intermediary’
+
+
+
+A. Use an intermediary carrier article or intermediary process.
+
+Use of impartial body during difficult negotiation (e.g. ACAS)
+‘Po’ (provocative operator) – a place between ‘yes’ and ‘no’, construct devised by Edward DeBono to help avoid premature discarding of ideas (28)
+Sub-contract non-core business (e.g. cleaning services, transport)
+Franchisee acts as intermediary between corporate vision and customer
+Travel agent (NB can also mean removal of intermediary – e.g. direct selling).
+UPS distribution system using core sorting center.
+KLM ‘feeder’ airline concept – short flights from Germany, England pull passengers away from national airlines in order that they fly long distances using Holland as a hub
+‘Video Plus’ – programme video using simple codes to represent channels, dates and times
+‘Cuckoo Investments’ (24)
+B. Merge one object temporarily with another (which can be easilyremoved).
+
+Introduction of specialist trouble-shooting or fire-fighting teams
+Hire consultant.
+Use bridging loan arrangements to help cashflow
+Subcontract occasional services – accounts, cleaning, transport, etc.
+Principle 25. Self-service
+
+
+
+A. Make an object serve itself by performing auxiliary helpful functions
+
+Quality Circles
+Self-help groups
+Brand image circularity – Harvard Business School produces bright people; these people enhance the School’s reputation; hence lots of people apply; hence they only take on very bright people; bright people in equals bright people out; and so the circle re-enforces itself.
+‘Cookies’ on the Internet gather data useful for future marketing activities, while performing a useful service for the ‘surfer’
+Bar-codes in supermarkets provide instant pricing information, but the system also gathers information to assist future marketing decisions
+Edward DeBono’s suggestion to Ford UK that they buy National Car Parks and then only let Ford cars into the parking lots – i.e. motorists buying a Ford are also buying a parking place in every city (24)
+B. Use waste (or lost) resources, energy, orsubstances.
+
+Re-hire retired workers for jobs where their experience is needed
+Loan out temporarily under-utilised workers to other organizations (load-capacity balancing across companies – e.g. footballers – win-win situation; the player stays match fit, the loaner saves wages, the loanee fills skill shortage)
+‘Industrial eco-systems’ (22, 29) – e.g. plan factories so that waste heat from one operation provides power for another operation, install co-generation equipment so that waste heat can generate electricity–use it for your own operations or sell it to the electric power utility.
+‘Brown-field’ developments
+Body Shop re-cycles used containers brought back by customers – helps promote corporate green image
+Re-cycle all packaging material
+Scan mail into data systems and recycle the paper
+Principle 26. Copying
+
+
+
+A. Instead of an unavailable, expensive, fragile object, use simpler andinexpensive copies.
+
+Virtual reality via computer instead of an expensive vacation
+Listen to an audiotape instead of attending a seminar.
+Rapid prototyping (e.g. stereo-lithography)
+Scan rare, historic books, documents, etc so they are accessible to all and the original remains protected
+Lascaux II – reproduction of Lascaux cave paintings which is open to visitors
+. Replace an object, or process with optical copies.
+
+Virtual product service manuals.
+Video-conferencing instead of physical travel
+Use a central electronic database instead of paper records in cases where multiple users would benefit from simultaneous access to data – e.g. medical records, customer data, engineering drawings, etc
+Keep your personal calendar on a web-site so you (and others?) can access it from any computer, and it can’t get lost
+C If optical copies are used, move to IR or UV (Usean appropriate out of the ordinary illumination and viewing situation).
+
+Evaluate employee morale using multiple methods such as interviews and questionnaires (2 different ‘wavelengths’)
+Evaluate customer satisfaction using multiple techniques
+Have your customers benchmark you/have your suppliers benchmark you
+Principle 27. Cheap Short-Living Objects
+
+
+
+A. Replace an expensive object with a multiple of inexpensive objects,compromising certain qualities (such as service life, for instance).
+
+Use disposable paper objects to avoid the cost of cleaning and storing durable objects. Plastic cups in motels, disposable diapers, many kinds of medical supplies.
+Numerical simulation – operational analysis (virtual war-gaming, virtual business development, strategic planning modeling).
+Flight simulator reduces pilot training costs.
+Swatch ‘renewed impulse’ buying ‘ – ‘Change clothes? Change Swatch’.
+Principle 28 Mechanics Substitution
+
+
+
+A. Replace a mechanical means with a sensory (optical, acoustic, taste orsmell) means.
+
+CEO of budget motel chain; ‘our goal is that when you turn out the lights and climb into bed, you think you are at the Hilton’ (16)
+Have retail customers enter data by means of a touch screen, instead of filling out a form that must be keyed in by employees. (Wedding registries, etc. use this)
+Electronic voting
+Supermarkets pump bakery odours around the store to help advertise bread products
+B. Use electric, magnetic and electromagnetic fields to interact with theobject.
+
+Mrs Fields Cookies has a morning video/internet conference with all franchisees – electronic communication replaces memos, etc.
+Automatic GPS sensors inform central control point where (e.g. delivery trucks or taxis) are
+Electronic tagging
+Pagers
+C. Change from static to movable fields, from unstructured fields to thosehaving structure.
+
+Mind-maps (30)
+Tidal traffic flow schemes /HOV lanes
+‘Hot-desking’
+MBWA – Management By Walking Around
+D. Use fields in conjunction with field-activated (e.g. ferromagnetic)particles.
+
+Mind-mapping software tools
+Intelligent tidal traffic flow control (e.g. using roadside sensors)
+Use a radio transponder payment system for traffic control (Highway 91 in California). The fee ranges from $0.50 to $3.50 depending on how heavy the traffic is on the free part of the highway. Radio signals deduct the payment from the users’ account when the car enters the special traffic lane.
+Principle 29. Pneumatics and Hydraulics
+
+
+
+A. Use gas and liquid parts of an object instead of solid parts (e.g.inflatable, filled with liquids, air cushion, hydrostatic, hydro-reactive).
+
+‘Water logic’ versus ‘rock logic’ – fluid, flowing, gradually building up logic versus permanent, hard-edged, rock-like alternatives (31)
+Flexible (fluid) organization structure versus old fixed hierarchical structures
+Liquidation of assets
+Introduction of ‘breathing spaces’ into contracts
+Principle 30. Flexible Shells and Thin Films
+
+
+
+A. Use flexible shells and thin films instead of three-dimensionalstructures
+
+The thinnest film is a single molecule thick. Likewise, the thinnest organization structure is one employee thick. Get faster customer service by having the single employee customer service agent have all the necessary data easily available, so the customer only deals with the single, flexible ‘shell’ of the organization not the whole bulky volume.
+Card transactions instead of money – e.g. vending machines in companies use employee ID card and charges are debited direct from salary
+‘Cardboard police’ – 2D policemen or police cars over freeway bridges used as a means of slowing down traffic
+Inflatable ‘passenger’ for lone drivers out late at night
+B. Isolate the object from the external environment using flexible shellsand thin films.
+
+Office workers in open areas can use flexible curtains to shut themselves off from the visual chaos of the open area when they need to concentrate rather than communicate
+Use ‘trade secret’ methods to separate company proprietary knowledge from general knowledge
+‘Umbrella’ organizations
+‘We like to delegate and leave people as free as possible, so we try to push management decisions down the line. We run Rolls-Royce with a very thin corporate structure’, Lord Tombs of Brailes, ex-Chairman of Rolls-Royce (32)
+Principle 31. Porous Materials
+
+
+
+A. Make an object porous or add porous elements (inserts, coatings, etc.).
+
+Think of the customer-facing layers of a company as a porous membrane which filters information flow both into and out of the organization
+Improve internal communications by creating Intranet accessible by all hierarchical layers; giving workers access to CEO and vice-versa.
+‘Trickle-down’ economics
+Government ‘leaks’ – used as a way of gauging public reaction to (usually) controversial issues
+B. If an object is already porous, use the pores to introduce a usefulsubstance or function.
+
+Empower the customer facing layer (information is the thing that fills the pores – see 30A).
+Use mind-maps (30), self-patterning capabilities (21), etc to improve the information/knowledge intake and filtering abilities of the brain
+Media relations department turns spin-doctor and/or marketing feedback gatherer
+Principle 32. Color Changes
+
+
+
+A. Change the color of an object or its external environment.
+
+Red/Blue proposal preparation teams
+Use of lighting effects to change mood in a room or office
+Six Thinking Hats (33)
+Creation of ‘corporate colours’ – creating a strong brand image through use of bespoke colours – ‘BP green’, ‘British Telecom red’ phone boxes, ‘Ford blue’, etc
+Use colours to communicate state of alert (green, black, amber, red, etc)
+Highlighter pens
+B. Change the transparency of an object or its external environment.
+
+‘Transparent’ organizations
+Transparent communications
+Importance of creating clear, concise mission statement (34)
+Smoke-screen/mis-information to disguise confidential R&D etc activities
+Principle 33. Homogeneity
+
+
+
+A. Make objects interact with a given object of the same material (ormaterial with identical properties).
+
+Co-located project teams
+Internal customers
+Product branding/product families
+Boeing ‘Working Together Teams’ – bring customers and suppliers into design loop.
+‘Constancy of Purpose’ (Point No. 1 of Deming’s Fourteen Points (5))
+‘Singing from the same hymn sheet’
+Common data transfer protocols between different organizations
+‘The best way to make a silk purse from a sow’s ear is to begin with a silk sow. The same is true of money’ (Augustine’s Law #1 (Reference 8))
+Principle 34. Discarding and Recovering
+
+
+
+A. Make portions of an object that have fulfilled their functions go away(discard by dissolving, evaporating, etc.) or modify them directly duringoperation.
+
+Flexible, variable-sized project teams
+Load/capacity balance using contract labour
+Consultants
+Contract hire of specialised equipment/facilities, etc
+B. Conversely, restore consumable parts of an object directly in operation.
+
+Need to periodically re-energise continuous improvement initiatives (‘enthusiasm injections’)
+Life-long learning (where individuals are given responsibility for managing their own personal continuing education, ensuring skills remain up to date)
+‘In a start-up company, you basically throw out all assumptions every three weeks.’ Scott McNealy
+Principle 35. Parameter Changes
+
+
+
+A. Change an object’s physical state (e.g. to a gas, liquid, or solid).
+
+Virtual prototyping
+Numerical simulation
+Virtual shopping – e.g. Amazon.com
+Telephone banking
+Electronic voting in elections
+B. Change the concentration or consistency.
+
+‘Six Thinking Hats’ (33)
+‘Six Action Shoes’ (35)
+Change the team structure (e.g. football teams use substitutes)
+Stores introduce ‘special offers’ and other promotions
+C. Change the degree of flexibility.
+
+Introduce intelligence into on-line catalogues (e.g. first generation catalogues were replicas of previous paper versions, latest generation incorporate search engines, expert systems, etc)
+Software with options for ‘beginner’ through to ‘expert’ usage
+Moves away from fixed clothing size partitions – e.g. ‘Personal Pairs’ – a customer at a participating store chooses which fabric he/she wants, then is measured. Those measurements are transmitted instantly to a Levi’s plant in Tennessee where the data controls a laser cutter. The bar-coded pieces are stitched on the regular assembly line, and mailed directly to the customer. (The custom Levi’s, which customers love, run about $15 more than off-the-rack ones) (22)
+D. Change the temperature.
+
+Get customers excited (‘hot’) about the product by giving them ownership of the change
+Get employees excited about the future of the company by using full involvement strategic planning, or stock options, or… etc.
+‘A fired-up team wins games even if it’s not the best team. A fired-up company can achieve the same result’ (34)
+Principle 36. Phase Transitions
+
+
+
+A. Use phenomena occurring during phase transitions. (Awarenessof macro-scale business phenomena)
+
+
+
+Awareness of the requirements of different stages – conception, birth, development, maturity, retirement – of a project (e.g. shifting manpower requirements, shifting budget requirements).
+Transition from a ‘bull’ to a ‘bear’ market.
+Tendency to relax after receiving a Quality Award, Innovation Award, etc.
+Forming/storming/norming/performing phases of team development – e.g. take advantage of enthusiasm dip during storming-norming (3)
+Principle 37. Thermal Expansion
+
+
+
+A. Use thermal expansion (or contraction) of materials.
+
+If employees are excited (‘hot’) each can do more in the space that expands to exist between them.
+‘A fired-up, empowered, appreciated individual will do the work of three who aren’t’ Anon.
+‘It seems safe to say that significant discovery, really creative thinking, does not occur with regard to problems about which the thinker is lukewarm’. Mary Henle
+B. If thermal expansion is being used, use multiple materials withdifferent coefficients of thermal expansion.
+
+Expand or contract marketing efforts depending on the product’s ‘hotness’ – rate of sales and profitability
+Personality matching on work-teams
+Principle 38. Strong Oxidants (‘Boosted Interactions’)
+
+
+
+A. Replace common air with oxygen-enriched air (enrichedatmosphere)
+
+Risk and Revenue Sharing Partnerships
+Guest speakers at a seminar
+Use internal subject matter experts
+Use simulations/games instead of lecture-style training
+Use case-studies in training
+Injection of new-blood/new challenge into a team
+B. Replace enriched air with pure oxygen (highlyenriched atmosphere).
+
+Consider personal chemistry issues when assembling a project team – find people who will spark-off interesting reactions with each other.
+Deming’s 4 stages of learning – unconscious incompetence, conscious incompetence, conscious competence, unconscious competence
+Focus teams on a single project only (give them an enriched environment full of success factors
+‘Leadership is a potent combination of strategy and character. But if you must be without one, be without strategy.’ General H. Norman, Schwartzkopff (17)
+Expose air or oxygen to ionizing radiation, D. Use ionized oxygen, E.Replace ozonized (or ionized) oxygen with ozone (atmosphereenriched by ‘unstable’ elements) .
+
+
+
+Corporate Jester
+‘Devil’s Advocate’
+‘I like Bartok and Stravinsky. It’s a discordant sound and there are discordant sounds inside a company. As president you must orchestrate the discordant sounds into a kind of harmony. But you never want too much harmony. One must cultivate a taste for finding harmony within discord or you will drift away from the forces that keep a company alive’ Takeo Fujisawa, Honda co-founder.
+Principle 39. Inert Atmosphere
+
+
+
+A. Replace a normal environment with an inert one.
+
+Moves away from the (normal) disruptive performance appraisal, merit award, and reward environment to an (emotionally neutral) more fair system of working practice (36, 37).
+‘TRIZ and People’ (38)
+Hare Brain, Tortoise Mind (39)
+Time-out during negotiation
+‘Away-day’s/ team-building days
+Corporate Retreats
+Operations Room – e.g. for planning organizational change, proposal submissions, contract tendering, etc.
+B. Add neutral parts, or inert additives to an object.
+
+Use of neutral third parties during difficult negotiations (e.g. Senator George Mitchell in Northern Ireland, ACAS, etc.)
+Introduction of ‘quiet areas’ into the workplace.
+Rest breaks/’pause for reflection’ breaks in meetings.
+Principle 40. Composite Structures
+
+
+
+A. Change from uniform to composite (multiple) structures.(Awareness and utilisation of combinations of different skills andcapabilities.)
+
+
+
+Multi-disciplinary project teams.
+Do training with a combination of lecture, simulations, on-line learning, video, etc.
+Employ different personality types (e.g. Myers-Briggs) on a team
+Hard person/soft person negotiating team.
+‘Post-capitalist Society’ (40)
+‘Small is beautiful’ – appreciation for diverse, interconnected systems (41)
+Mix of thinking skills in a project team (e.g. Basadur (4), De Bono’s ‘Six Thinking Hats‘ (33) and ‘Six Action Shoes’ (35))
+Positional players in a football team
+Combined high risk/low risk investment strategy
