@@ -29,13 +29,13 @@ BEFORE anyone starts doing anything, they really have to LEARN a lot the lay of 
 
 # Prioritization, Risk Management, SMART Goal Setting
 
-Of course, it is dangerous, tricky and HARD ... so is life.
+Of course, doing interesting things is going to be dangerous, tricky, uncharted and HARD ... that is what life is for human beings.
 
 # Brainstorm a PDCA Plan for Basic Practice, Building Discipline, Achieving Awareness
 
 # Designed experiments efficiently in a knowledgable manner
 
-Do NOT experiment for the point of experimenting or demonstrating your "skill" as a data scientist or some sort of precocious idiot who understands a trick or two using statistical inference.  Do not waste time experimenting to prove Ohm's Law or other experiments that are tantamount to reinventing the wheel. Use orthogonal arrays and similar methods that provide the most information in the shortest time possible. 
+Do NOT experiment for the point of experimenting or demonstrating your "skill" as a data scientist or some sort of precocious idiot who understands a trick or two using statistical inference.  Do not waste time experimenting to prove Ohm's Law or other experiments that are tantamount to reinventing the wheel. Use orthogonal arrays and similar methods that provide the most information in the shortest time possible.
 
 # Push past the point of comfort, but within a zone of comparative strength not to the breaking point -- develop a practical and safe 3-step plan for eustress leading to hormesis
 
