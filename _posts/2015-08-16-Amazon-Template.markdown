@@ -45,12 +45,22 @@ Use [press-pulse strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC532422
 
 # Master the first step, do at least 25 PDCA cycles
 
+At some point it boils down to work or applied diligence in the agile, continuous delivery of better and better awareness of the solution space ... twenty-five Plan-Do-Check-Act cycles rapidly improves your familiarity with the problem and your hunt for the optimal solution, HOWEVER twenty-five PDCA cycles is ONLY about laying the foundation or preparing for a steeper, tougher, harder climb. The first step is about making sure that you are ready AND making sure that the view will be worth the climb.
+
 # Re-Strategize the second step, then master that step with 25 more PDCA cycles
+
+In the first step, the going was tedious. In the second step, the going gets really tough and downright uncomfortable ... it still involves using at least twenty-five Plan-Do-Check-Act cycles, but in this step, expect significant disappointments, doubts, abandonment by "fair weather" supporters, lack of resources and funding ... we all know that it is "darkest before the dawn," but it is downright demoralizing knowing this, knowing the time and that dawn is still hours away, you're all alone in the bitter cold with no resources and there is serious doubt about whether you can make it to dawn.  
 
 # From "basecamp" for the final ascent, strategize the third step and master it.
 
+When the summit is in view, ATTACK!
+
 # After mastering the third step, plan to SUSTAIN your gains as you GROW in other realms.
+
+So what! How are you going to use your gains in order to SUSTAIN your pursuit of other challenges?
 
 # Appendices, Glossaries, Cheat Sheets, Workbooks, Checklists
 
 Scalia on Making Your Case
+
+Ohno on LEAN Thinking
