@@ -33,6 +33,8 @@ Of course, doing interesting things is going to be dangerous, tricky, uncharted 
 
 # Brainstorm a PDCA Plan for Basic Practice, Building Discipline, Achieving Awareness
 
+Almost every problem has been solved before; almost everything has been invented before.  Since an analogous solution has been invented for a problem with analogous circumstances, before you waste a lot of time throwing mud at the wall to see what sticks, consider the [40 principles of TRIZ](http://www.triz40.com/aff_Principles_TRIZ.php) and the [TRIZ contradiction matrix](https://triz-journal.com/contradiction-matrix-40-principles-innovative-problem-solving/) to guide your search for the solution.
+
 # Designed experiments efficiently in a knowledgable manner
 
 Do NOT experiment for the point of experimenting or demonstrating your "skill" as a data scientist or some sort of precocious idiot who understands a trick or two using statistical inference.  Do not waste time experimenting to prove Ohm's Law or other experiments that are tantamount to reinventing the wheel. Use orthogonal arrays and similar methods that provide the most information in the shortest time possible.
