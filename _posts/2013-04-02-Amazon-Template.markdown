@@ -5,7 +5,13 @@ date:   2013-04-02 8:30:00
 categories: Writing
 ---
 
-Write an extra-shitty first draft ... for nothing other than basic wild-ass THINKERING ... if the revisions never amount to anything, it will be THROWN AWAY ... so what ... the point is put ideas down and START getting your head wrapped around the project ... the point is to NOT BE PARALYZED by some ridiculous need to type out a first draft of EXCELLENCE ... your draft might somehow be entirely excellent and creatively brilliant beyond words, but it doesn't have to be -- that is NOT the objective of a first draft.
+Aim to write an INSANELY useful book for a reader who was at your level before you have learned what you have learned the HARD way ... think of your audience as you, five or ten or twenty years ago ... what can you tell that audience that will get them up to your level of understanding in a tenth or one-hundredth of the time?
+
+Paradoxically, this means that you should begin by writing an impassioned, stream-of-consciousness, extra-shitty no-filters SUPER HONEST first draft ... ABSOLUTELY NO FILTERS.  RAW.  UNEDITED. PURE TANGLED CRAP!!! 
+
+It can suck ... because the first draft is for nothing other than basic wild-ass THINKERING and a chaotic BRAIN DUMP.
+
+If the revision-upon-revision after thousands of levels of revisions ever amount to anything, after a decent final product emerges, the first draft can be THROWN AWAY ... so what if it sucks ... the point is put ideas down and START getting your head wrapped around the project ... the point is to NOT BE PARALYZED by some ridiculous need to type out a first draft of EXCELLENCE ... your draft might somehow be entirely excellent and creatively brilliant beyond words, but it doesn't have to be -- that is NOT the objective of a first draft.
 
 Start working with an outline for your books and steadily IMPROVE your outline as you refine your style. If you want, try starting with a 10-chapter outline format ... make yours better than this; this can be copied to be your starting point for an extra extra-shitty first draft.
 
