@@ -17,11 +17,11 @@ Start working with an outline for your books and steadily IMPROVE your outline a
 
 # Preface
 
-Write this AFTER the entire book is in final form.
+Write this AFTER the entire book is in final form. Nobody will probably read this ... except for those who really want to understand the book, understand your motivations, doubts, thought processes ... AND your view from the mountain top.
 
 # Grand Introduction
 
-Write this AFTER the other chapters are pretty close to being in final form.
+For the most part, you will write this AFTER the other chapters are pretty close to being in final form, but don't get carried away with your excitement about different details in subsequent chapters.  Start off by remembering your aim to write an INSANELY useful book for your reader ... introduce the book in the context of the customer NEED.
 
 # Getting Started, Reading Lists, Interviews, Acquiring Expertise, Understand Ultimate Root Cause
 
