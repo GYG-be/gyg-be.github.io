@@ -31,7 +31,7 @@ BEFORE anyone starts doing anything, they really have to LEARN a lot the lay of 
 
 Of course, doing interesting things is going to be dangerous, tricky, uncharted and HARD ... that is what life is for human beings.
 
-# Brainstorm a PDCA Plan for Basic Practice, Building Discipline, Achieving Awareness
+# Understand the problem in order efficiently brainstorm a PDCA Plan for bests practices and discipline for rapidly achieving a better awareness of the solution space
 
 Almost every problem has been solved before; almost everything has been invented before.  Since an analogous solution has been invented for a problem with analogous circumstances, before you waste a lot of time throwing mud at the wall to see what sticks, consider the [40 principles of TRIZ](http://www.triz40.com/aff_Principles_TRIZ.php) and the [TRIZ contradiction matrix](https://triz-journal.com/contradiction-matrix-40-principles-innovative-problem-solving/) to guide your search for the solution.
 
