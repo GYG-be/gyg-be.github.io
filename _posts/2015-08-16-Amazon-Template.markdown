@@ -33,7 +33,9 @@ Of course, it is dangerous, tricky and HARD ... so is life.
 
 # Brainstorm a PDCA Plan for Basic Practice, Building Discipline, Achieving Awareness
 
-# After you think you know what you are doing, LEARN by experimenting in a knowledgable manner
+# Designed experiments efficiently in a knowledgable manner
+
+Do NOT experiment for the point of experimenting or demonstrating your "skill" as a data scientist or some sort of precocious idiot who understands a trick or two using statistical inference.  Do not waste time experimenting to prove Ohm's Law or other experiments that are tantamount to reinventing the wheel. Use orthogonal arrays and similar methods that provide the most information in the shortest time possible. 
 
 # Push past the point of comfort, but within a zone of comparative strength not to the breaking point -- develop a practical and safe 3-step plan for eustress leading to hormesis
 
