@@ -45,4 +45,4 @@ Of course, fasting is dangerous ... so is crossing a street, so is driving a car
 
 # 5 + 2 Introductory Prolonged Fasting
 
-# Prolonged Fasting 
+# Master Prolonged Fasting 
