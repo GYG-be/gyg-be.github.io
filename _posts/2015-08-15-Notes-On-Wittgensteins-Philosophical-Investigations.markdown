@@ -1,23 +1,20 @@
 ---
 layout: post
-title:  "Amazon Kindle Template"
-date:   2013-04-02 8:30:00
-categories: Writing
+title:  "Notes on Wittgenstein's Philosophical Investigations"
+date:   2013-08-15 8:30:00
+categories: Philosophy
 ---
 
-Aim to write an INSANELY useful book for a reader who was at your level before you have learned what you have learned the HARD way ... think of your audience as you, five or ten or twenty years ago ... what can you tell that audience that will get them up to your level of understanding in a tenth or one-hundredth of the time?
+You are probably already aware of [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein), Wittgenstein's [impact upon consequential students such as Alan Turing (as well as Turing's influence on Wittgenstein)](https://mdetlefsen.nd.edu/assets/201037/jf.turing.pdf), and the importance of his [Philosophical Investigations](https://en.wikipedia.org/wiki/Philosophical_Investigations) (translated by Wittgenstein's most distinguished student [Elizabeth Anscombe](https://en.wikipedia.org/wiki/Elizabeth_Anscombe)) ... or otherwise you would not have even bothered reading this except for the most idle curiosity.
 
-Paradoxically, this means that you should begin by writing an impassioned, stream-of-consciousness, extra-shitty no-filters SUPER HONEST first draft ... ABSOLUTELY NO FILTERS.  RAW.  UNEDITED. PURE TANGLED CRAP!!!
+My take on the book [and Wittgenstein, Turing, Anscombe and others who thinking has been shaped by Wittgenstein] is that it is important for thinkers to read [and re-read and re-read again] Wittgenstein's Philosophical Investigations as a conversation with someone who was exceptionally good at thinking and who was in immediate daily intellectual contact with some of the most brilliant thinkers of the 20th century. In Philosophical Investigations, Wittgenstein describes his very business-like process of doing philosophy; he had a very serious, no-nonsense approach to the processes of thinking in order to "get somewhere" or "make progress" in the activity.
 
-It can suck ... because the first draft is for nothing other than basic wild-ass THINKERING and a chaotic BRAIN DUMP.
-
-If the revision-upon-revision after thousands of levels of revisions ever amount to anything, after a decent final product emerges, the first draft can be THROWN AWAY ... so what if it sucks ... the point is put ideas down and START getting your head wrapped around the project ... the point is to NOT BE PARALYZED by some ridiculous need to type out a first draft of EXCELLENCE ... your draft might somehow be entirely excellent and creatively brilliant beyond words, but it doesn't have to be -- that is NOT the objective of a first draft.
-
-Start working with an outline for your books and steadily IMPROVE your outline as you refine your style. If you want, try starting with a 10-chapter outline format ... make yours better than this; this can be copied to be your starting point for an extra extra-shitty first draft.
+Philosophical Investigations is not particularly easy reading ... it was intended to make people think deeply about thinking deeply and communicating deep thoughts ... but it is not as [difficult to read](https://redd.it/3opkzt) as [Heidegger](https://www.youtube.com/watch?v=A04RhtR0imY) who is famously *untranslatable into any language, including German*.
 
 # Preface
 
-Write this AFTER the entire book is in final form. Nobody will probably read this ... except for those who really want to understand the book, understand your motivations, doubts, thought processes ... AND your view from the mountain top.
+Wittgenstein describes what the book is, a collection of thoughts written as remarks, short paragraphs. This sometimes amounts to a fairly long chain about the same subject, but he also does
+make sudden changes, jumping from one topic to another.
 
 # Grand Introduction
 
