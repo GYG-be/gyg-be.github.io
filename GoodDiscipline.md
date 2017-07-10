@@ -1,9 +1,9 @@
 ---
 layout: page
-title: GOOD DISCIPLINE
+title: GoodDiscipline.PRO
 permalink: /GoodDiscipline/
 ---
-I believe that one's response to EVERY POSSIBLE THING that happens should be "GOOD!" ... that especially should be true when things didn't go the way one hoped.  
+I believe that one's response to EVERY POSSIBLE THING that happens should be "GOOD!" ... a ultra-realistic "that gives us new opportunities" can-do DISCIPLINE is especially necessary in times when things have gotten tougher or didn't go the way one hoped ... and this discipline must be PROFESSIONAL, measured, determined with "do what it takes" resolve ... there's no room for false bravodo. 
 
 Failure and rebuilding is one of the most essential ways to build discipline.  I LOVE, LOVE, LOVE failure!  Even though I love failure in own life, sometimes it still tears me up when I see others fail ... especially when I have not been hard enough or clear enough in my admonitions ... for example, when I have given them the indication that they are entitled to ME doing the work or making the investment for them.  I believe that ALL of the good, ALL of the growth that happens in an economy comes from startups -- others live on the backs of startups.  And yet most new startups fail ... the failure rate of new business projects, ventures, starts is far higher than the "five nines" rate or 99.999% reliability that utilities aspire to and often achieve -- and THAT's not the failure rate of ideas that never receive an hour of effort or even a penny of investment ... the OVER 99.999% FAILURE rate is for ideas-with-demonstrated-intent that actually drive a concrete investment or effort, eg registering several related domain URLs, buying some manuals or tools, spending 100 hrs hacking a prototype.  
 
