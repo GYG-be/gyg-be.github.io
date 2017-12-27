@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Git is a bigger thing than anyone imagined it would be"
+title:  "It time to really get after it on Git"
 date:   2018-01-18 4:30:00
 categories: Networking
 ---
+
+It WAS time to really get after it on Git a decade ago, now it REALLY is.
 
 Git keeps surpassing expectations and changing how creative people collaborate.  Git is an EVEN bigger deal than Linus Torvalds imagined when it would be when he first developed Git ... bigger than the founders of Github imagined it would ever be when they founded Github ... bigger than pundits imagined when they reported on how almost all software developers were moving to Git.
 
