@@ -9,9 +9,9 @@ It WAS time to really get after it on Git a decade ago, now it REALLY is.
 
 Git keeps surpassing expectations and changing how creative people collaborate.  Git is an EVEN bigger deal than Linus Torvalds imagined when it would be when he first developed Git ... bigger than the founders of Github imagined it would ever be when they founded Github ... bigger than pundits imagined when they reported on how almost all software developers were moving to Git.
 
-# Git is not just for code
+# Git is not just for code, Git is distributed version control for ALL collaborative creative content
 
-Git works well for distributed version control for ALL collaborative creative content.
+Git does not care whether it is being used for managing human-readable code or managing large binaries, its support for large files means that it does not discriminate between types of files.
 
 # Git is secure, not perfectly secure but probably secure enough
 
@@ -31,4 +31,4 @@ Fully leveraging Git's full functionality means going beyond integrating Git in 
 
 # WHY hasn't mastering Git been one of the priorities of anyone involved in the creation of creative content?
 
-Good question. As another person who's behind the curve on Git, I have absolutely NO good answer on that one ... it happens. It is like the answer for why I don't get up at 4:30 every single morning to do calisthenics to build my fitness and self-discipline. I dunno why I don't do it. I should. I know that I should. But I haven't. I just know that I should and need to. I cannot fix or redo the last decade, year, month or days -- I can only fix today and work on it again tomorrow. I cannot fix or help other people, I can only work on myself and my example will matter. That is why consistency matters going forward matters so much. It is important to just stay at it.
+Good question. As another person who's behind the curve on Git, I have absolutely NO good answer on that one ... it happens. It is like the answer for why I don't get up at 4:30 every single morning to do calisthenics to build my fitness and self-discipline. I dunno why I don't do it. I should. I know that I should. But I haven't. I just know that I should and need to. I cannot fix or redo the last decade, year, month or days -- I can only fix today and work on it again tomorrow. I cannot fix or help other people, I can only work on myself and my example might matter to some but it won't matter to most. But consistency matters going forward matters so much. It is important to just stay at it.
