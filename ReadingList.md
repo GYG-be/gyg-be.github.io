@@ -12,17 +12,29 @@ The point of reading for me is learn how to learn better than I currently know h
 
 The following reading list is far from perfect ... there's certainly nothing magic about it.
 
-1. I try to look at [what is trending on Github this month](https://github.com/trending?since=monthly) and maybe understand the general motivation of the repository enough to get a sense of WHY it is trending.
+1. I try to look at [what is trending on Github this month](https://github.com/trending?since=monthly) and maybe understand the general motivation of the repository and the emerging community around that repository enough to get a sense of WHY the repository is trending.
 
-   Specifically,
+   Of particular interest to me at this time:
 
-   1. This list is nested and does not require explicit item continuation.
+   1. A curated repository of a complete [computer science study plan](A complete computer science study plan to become a software engineer. ) to become a software engineer ... I am especially fond of self-paced learning lists like this; I would like so see even more in other topics, eg [data science](https://github.com/datasciencemasters/go).
 
-       This paragraph is part of the sub-list item one.
+       The list of [optional topics in JWasham's list](https://github.com/jwasham/coding-interview-university#additional-books) is especially compelling and interesting for me as a reliability engineer ... it is very well-done for a general audience, but I am motivated to expand/enlarge that list to reflect my own interests.
 
-   2. List item b.
+   2. The [Github profile summary app](https://github.com/tipsy/github-profile-summary).
 
-       This paragraph belongs to sub-list item two.
+       This repo reminds us that there are tons of compelling [tools to improve workflow and other integrations](https://developer.github.com/apps/building-integrations/) being produced by [different developers utilizing the Github ecosystem](https://github.com/marketplace) with [Github API](https://developer.github.com/)
+
+   3.  [TensorFlow](https://github.com/tensorflow/tensorflow/) is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
+
+       As more and more people find ways to use Tensorflow, the numbers of those [contributing ](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md) to the repo keeps increasing ... so [the growth of Tensorflow community](https://research.googleblog.com/search/label/TensorFlow), not just the code in the repo [but that, too], has interesting lessons for us.
+
+   4. [Vue.JS](https://github.com/vuejs/vue) is a JavaScript framework for building UI on the web that are arguably more maintainable and more testable than UI built with other JavaScript alternatives such as the popular Angular or React. Vue was designed from the ground up to be incrementally adoptable and to progressively scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications.
+
+       The [Vue.JS roadmap](https://github.com/vuejs/roadmap) provides an indication of why the future of Vue.JS is even more compelling, if the existing ecosystem of [AWESOME vue applications](https://github.com/vuejs/awesome-vue) were not enough to suggest what is possible.
+
+   5. [Sindre Sorhus's curated list of curated AWESOME lists](https://github.com/sindresorhus/awesome) is great example crowdsourced community content.
+
+       Curators try to only include actual awesome stuff in their lists. Curating, rather than just collecting means being selective and annotating the list with descriptions about why it's on the list and how a reader will benefit from it.
 
 2. I find that words matter, especially for what our words say about us. This means that I read about linguistics, the psychology of word usage, about writing well, about writing persuasively. One of the most interesting things that I have found is something like [selfauthoring](https://www.reddit.com/r/JordanPeterson/comments/6xbhq6/self_authoring_review_is_the_program_worthwhile/). I think that other people would find this interesting, not only because the most consequential things that you can read are going to be the things that you have thought deeply about and have written for yourself, but also in a meta-sense for what data that this project provides for serious research about psychology and computational linguistics. I am experiementing with different writing and publishing platforms, beyond microblogging and messaging but probably more focused on that because many of the most important things that people write are short messages (eg a proper commit message in Git). I am also very interested in things like ASCIIdoctor(http://asciidoctor.org/), Amazon or O'Reilly Atlas publishing platforms, Jupyter, Electron.
 
