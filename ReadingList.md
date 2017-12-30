@@ -18,7 +18,7 @@ The following reading list is far from perfect ... there's certainly nothing mag
 
    1. A curated repository of a complete [computer science study plan](A complete computer science study plan to become a software engineer. ) to become a software engineer ... I am especially fond of self-paced learning lists like this; I would like so see even more in other topics, eg [data science](https://github.com/datasciencemasters/go).
 
-       The list of [optional topics in JWasham's list](https://github.com/jwasham/coding-interview-university#additional-books) is especially compelling and interesting for me as a reliability engineer ... it is very well-done for a general audience, but I am motivated to expand/enlarge that list to reflect my own interests.
+       The list of [optional topics in John Washam's list](https://github.com/jwasham/coding-interview-university#additional-books) is especially compelling and interesting for me as a reliability engineer ... it is very well-done for a general audience, but I am motivated to expand/enlarge that list to reflect my own interests.
 
    2. The [Github profile summary app](https://github.com/tipsy/github-profile-summary).
 
