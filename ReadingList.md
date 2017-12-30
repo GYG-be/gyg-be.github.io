@@ -16,25 +16,15 @@ The following reading list is far from perfect ... there's certainly nothing mag
 
    Of particular interest to me, not exactly in this order of priority:
 
-   1. A curated repository of a complete [computer science study plan](A complete computer science study plan to become a software engineer. ) to become a software engineer ... I am especially fond of self-paced learning lists like this; I would like so see even more in other topics, eg [data science](https://github.com/datasciencemasters/go).
+   * A curated repository of a complete [computer science study plan](A complete computer science study plan to become a software engineer. ) to become a software engineer ... I am especially fond of self-paced learning lists like this; I would like so see even more in other topics, eg [data science](https://github.com/datasciencemasters/go). The list of [optional topics in John Washam's list](https://github.com/jwasham/coding-interview-university#additional-books) is especially compelling and interesting for me as a reliability engineer ... it is very well-done for a general audience, but I am motivated to expand/enlarge that list to reflect my own interests.
 
-       The list of [optional topics in John Washam's list](https://github.com/jwasham/coding-interview-university#additional-books) is especially compelling and interesting for me as a reliability engineer ... it is very well-done for a general audience, but I am motivated to expand/enlarge that list to reflect my own interests.
+   * The [Github profile summary app](https://github.com/tipsy/github-profile-summary) is a handy little tool for visualizing Github profiles that utilizes [personal access tokens](https://github.com/settings/tokens)... not that [rate limiting](https://developer.github.com/v3/#rate-limiting) of unauthenticated requests at up to 60 requests per hour would be that much of constraint, but authenticated requests associated with a [Basic Github Authenitication](https://developer.github.com/v3/auth/#basic-authentication) or [personal OAuth authentication](https://github.com/blog/1509-personal-api-tokens) get up to 5000 requests per hour. The methodology of this repo reminds us that there are tons of compelling [tools to improve workflow and other integrations](https://developer.github.com/apps/building-integrations/) being produced by [different developers utilizing the Github ecosystem](https://github.com/marketplace) with [Github API](https://developer.github.com/)
 
-   2. The [Github profile summary app](https://github.com/tipsy/github-profile-summary) is a handy little tool for visualizing Github profiles that utilizes [personal access tokens](https://github.com/settings/tokens)... not that [rate limiting](https://developer.github.com/v3/#rate-limiting) of unauthenticated requests at up to 60 requests per hour would be that much of constraint, but authenticated requests associated with a [Basic Github Authenitication](https://developer.github.com/v3/auth/#basic-authentication) or [personal OAuth authentication](https://github.com/blog/1509-personal-api-tokens) get up to 5000 requests per hour.
+   *  [TensorFlow](https://github.com/tensorflow/tensorflow/) is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well. As more and more people find ways to use Tensorflow, the numbers of those [contributing ](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md) to the repo keeps increasing ... so [the growth of Tensorflow community](https://research.googleblog.com/search/label/TensorFlow), not just the code in the repo [but that, too], has interesting lessons for us.
 
-       The methodology of this repo reminds us that there are tons of compelling [tools to improve workflow and other integrations](https://developer.github.com/apps/building-integrations/) being produced by [different developers utilizing the Github ecosystem](https://github.com/marketplace) with [Github API](https://developer.github.com/)
+   * [Vue.JS](https://github.com/vuejs/vue) is a JavaScript framework for building UI on the web that are arguably more maintainable and more testable than UI built with other JavaScript alternatives such as the popular Angular or React. Vue was designed from the ground up to be incrementally adoptable and to progressively scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications. The [Vue.JS roadmap](https://github.com/vuejs/roadmap) provides an indication of why the future of Vue.JS is even more compelling, if the existing ecosystem of [AWESOME vue applications](https://github.com/vuejs/awesome-vue) were not enough to suggest what is possible.
 
-   3.  [TensorFlow](https://github.com/tensorflow/tensorflow/) is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
-
-       As more and more people find ways to use Tensorflow, the numbers of those [contributing ](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md) to the repo keeps increasing ... so [the growth of Tensorflow community](https://research.googleblog.com/search/label/TensorFlow), not just the code in the repo [but that, too], has interesting lessons for us.
-
-   4. [Vue.JS](https://github.com/vuejs/vue) is a JavaScript framework for building UI on the web that are arguably more maintainable and more testable than UI built with other JavaScript alternatives such as the popular Angular or React. Vue was designed from the ground up to be incrementally adoptable and to progressively scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications.
-
-       The [Vue.JS roadmap](https://github.com/vuejs/roadmap) provides an indication of why the future of Vue.JS is even more compelling, if the existing ecosystem of [AWESOME vue applications](https://github.com/vuejs/awesome-vue) were not enough to suggest what is possible.
-
-   5. [Sindre Sorhus's curated list of curated AWESOME lists](https://github.com/sindresorhus/awesome) is great example crowdsourced community content.
-
-       Curators try to only include actual awesome stuff in their lists. Curating, rather than just collecting means being selective and annotating the list with descriptions about why it's on the list and how a reader will benefit from it.
+   * [Sindre Sorhus's curated list of curated AWESOME lists](https://github.com/sindresorhus/awesome) is great example crowdsourced community content. Curators try to only include actual awesome stuff in their lists. Curating, rather than just collecting means being selective and annotating the list with descriptions about why it's on the list and how a reader will benefit from it.
 
 2. I find that words matter, especially for what our words say about us. This means that I read about linguistics, the psychology of word usage, about writing well, about writing persuasively. One of the most interesting things that I have found is something like [selfauthoring](https://www.reddit.com/r/JordanPeterson/comments/6xbhq6/self_authoring_review_is_the_program_worthwhile/). I think that other people would find this interesting, not only because the most consequential things that you can read are going to be the things that you have thought deeply about and have written for yourself, but also in a meta-sense for what data that this project provides for serious research about psychology and computational linguistics. I am experiementing with different writing and publishing platforms, beyond microblogging and messaging but probably more focused on that because many of the most important things that people write are short messages (eg a proper commit message in Git). I am also very interested in things like ASCIIdoctor(http://asciidoctor.org/), Amazon or O'Reilly Atlas publishing platforms, Jupyter, Electron.
 
@@ -46,18 +36,15 @@ The following reading list is far from perfect ... there's certainly nothing mag
 
 6. Fintech, smart contracts, trust networks, [digital crytpocurrency](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/), [bitcoin](https://www.safaribooksonline.com/library/view/mastering-bitcoin/9781491902639/) technological stack and how it has driven culture and cryptocurrencies; study the distributed, decentralized architecture of [blockchain](https://www.youtube.com/playlist?list=PLb68nxJHvj10JvS-lebOb-FHHeWUMpwKO) database technology
 
-
 7. Biochemistry, biophysics, endocrinology especially neuroendocrinology are essential topics -- it's a shame that more effort is not devoted to these topics. It's important to understand why the importance of basic practices matter so much. Things like sleep hygiene, subconscious, rest, neurotransmitters, brain wave measurement are fascinating.
 
 8. Read theology and ancient texts to understand how people have contemplated much larger things for thousands of years. Read scripture and Stoics, Seneca, ancient texts of different writers from different cultures
 
 9. Political economics and social choice theory, Dunbar number, network effects, cultures, information, market-based management, [the law](http://bastiat.org/en/the_law.html#SECTION_G004)
 
-
 10. I am intrigued by [really high-quality audio podcasting](https://gimletmedia.com/about/) as well as photograhy and video content. Part of this includes understanding web services like [Audible/Amazon Audiobook Creation Exchange(ACX)](https://blog.acx.com/) and how people use them well.
 
 11. Architecture, design, landscaping, sculpture, jazz and [art that really matters](https://www.youtube.com/playlist?list=PLElrASo3VHBxt9zg3oRoKSqmyiCHct4Ai) when it comes to inspiring thinking and collaboration.
-
 
 12. Most people are fooled by randomness or really lack a solid understanding of the assumptions underlying most of the statistical evaluation used in data science. Data skepticism [or understanding underlying assumptions of measurement systems, data collection and data analysis] is much more important than understanding the mechanics of how to rapidly produce impressive sciencey conclusions. Survival depends upon [antifragility](https://youtu.be/iEnmjMgP_Jo?list=PLElrASo3VHBxw7L5XhYxv8xagaZUkQYmy) and not being a sucker -- this is not a matter of playing defense, seeking comfort or avoiding new things ... it is a matter of shrewdness.
 
@@ -67,15 +54,11 @@ The following reading list is far from perfect ... there's certainly nothing mag
 
 15. Reliability engineering, SSBB, robustness, tolerance engineering, ToC, LEAN, fault tolerance, FMEA, systems thinking
 
-
 16. Nanotechnology, seeing problems at entire different levels of scale, scope, time-dependency ... contrasted with geography, astronomy.
-
 
 17. Pine64, RaspberryPi, Arduino and similar open-source hardware IoT projects, SMART grid/power, data-driven HVAC and buildings
 
-
 18. Ham radio, software-defined radio, RFID, wireless communication infrastructure
-
 
 19. Distributed defense and security, crime, more creative ways to solve addiction and different societal problems
 
