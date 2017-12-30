@@ -14,7 +14,7 @@ The following reading list is far from perfect ... there's certainly nothing mag
 
 1. I try to look at [what is trending on Github this month](https://github.com/trending?since=monthly) and maybe understand the general motivation of the repository and the emerging community around that repository enough to get a sense of WHY the repository is trending.
 
-   Of particular interest to me at this time:
+   Of particular interest to me, not exactly in this order of priority:
 
    1. A curated repository of a complete [computer science study plan](A complete computer science study plan to become a software engineer. ) to become a software engineer ... I am especially fond of self-paced learning lists like this; I would like so see even more in other topics, eg [data science](https://github.com/datasciencemasters/go).
 
