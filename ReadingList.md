@@ -67,7 +67,7 @@ The following reading list is far from perfect ... there's certainly nothing mag
 
 19. Distributed defense and security, crime, more creative ways to solve addiction and different societal problems
 
-20. Home repair, decks, painting, maintenance
+20. [Fine homebuilding](http://www.finehomebuilding.com/members), household repair, decks, conservatories, spas, painting, maintenance
 
 21. Avionics, UAVs, robotics
 

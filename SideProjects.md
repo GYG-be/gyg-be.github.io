@@ -23,7 +23,7 @@ There's certainly nothing magic or particularly methodical about my approach ...
 
 6. Farming
 
-7. Home repair, decks, painting, maintenance
+7. [Homebuilding](http://www.finehomebuilding.com/members), household repairs, plumbing, conservatories, spas, painting, maintenance
 
 8. Martial arts, physical fitness, weightlifting
 
@@ -39,15 +39,15 @@ There's certainly nothing magic or particularly methodical about my approach ...
 
 14. Languages
 
-15. Travel
+15. Travel, camping, mobility, recreational vehicles, trailers, vehicle maintenance
 
 16. Photography
 
-17. Wood stoves, HVAC, utilities
+17. Wood stoves, HVAC, energy conservation, off-grid power, water, information and other utilities
 
 18. Ham radio, software-defined radio
 
-19. More entrepreneurs to stop slavery, boost efforts to stop human trafficking
+19. Encouraging more startup formation, more entrepreneurs are the key to stopping slavery and boosting efforts to stop human trafficking
 
 20. Cooking, nutrition, fasting
 
