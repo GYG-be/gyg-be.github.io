@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MarkBruns</title>
-    <description>Every so often I realize that I am a collection of bad habits that I work very hard to maintain; I'm trying to knock that off ... https://xkcd.com/1579/</description>
+    <description>A convoluted collection of bad habits which I indulge as they strangle me per XKCD 1579</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Dec 2017 16:52:16 -0600</pubDate>
-    <lastBuildDate>Sun, 31 Dec 2017 16:52:16 -0600</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2018 18:02:00 -0600</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2018 18:02:00 -0600</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
   </channel>

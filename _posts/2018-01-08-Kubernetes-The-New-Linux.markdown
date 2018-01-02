@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is Kubernetes the new Linux?"
-date:   2018-01-18 4:30:00
+date:   2018-01-08 4:30:00
 categories: Networking
 ---
 
