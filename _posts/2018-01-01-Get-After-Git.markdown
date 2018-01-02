@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "It time to really get after it on Git"
-date:   2018-01-18 4:30:00
+date:   2018-01-01 4:30:00
 categories: Networking
 ---
 

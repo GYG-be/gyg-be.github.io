@@ -5,9 +5,48 @@
     <description>A convoluted collection of bad habits which I indulge as they strangle me per XKCD 1579</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jan 2018 18:02:00 -0600</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2018 18:02:00 -0600</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2018 18:46:25 -0600</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2018 18:46:25 -0600</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>It time to really get after it on Git</title>
+        <description>&lt;p&gt;It WAS time to really get after it on Git a decade ago, now it REALLY is.&lt;/p&gt;
+
+&lt;p&gt;Git keeps surpassing expectations and changing how creative people collaborate.  Git is an EVEN bigger deal than Linus Torvalds imagined when it would be when he first developed Git … bigger than the founders of Github imagined it would ever be when they founded Github … bigger than pundits imagined when they reported on how almost all software developers were moving to Git.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-is-not-just-for-code-git-is-distributed-version-control-for-all-collaborative-creative-content&quot;&gt;Git is not just for code, Git is distributed version control for ALL collaborative creative content&lt;/h1&gt;
+
+&lt;p&gt;Git does not care whether it is being used for managing human-readable code or managing large binaries, its support for large files means that it does not discriminate between types of files.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-is-secure-not-perfectly-secure-but-probably-secure-enough&quot;&gt;Git is secure, not perfectly secure but probably secure enough&lt;/h1&gt;
+
+&lt;p&gt;SHA 1 and paying close attention to Git logs is not absolutely perfect, but it’s pretty damned good. The Git community is making Git more secure. Most importantly, it is important to use good practices and tools are available … no system of security is perfectly secure; even the best system of security is worthless if people do not actually use the tools and best practices that are available.&lt;/p&gt;
+
+&lt;h1 id=&quot;git-is-not-just-for-managing-collaboration-its-for-optimizing-collaboration&quot;&gt;Git is not just for managing collaboration, it’s for optimizing collaboration&lt;/h1&gt;
+
+&lt;p&gt;As far as one looks on the horizon, there’s no end to the better and better tools for better visibility into the details of collaboration, better optimization and tracking of code reviews, better code quality and all kinds of different metrics of effectiveness.&lt;/p&gt;
+
+&lt;h1 id=&quot;capable-mature-managed-and-optimized-professional-git&quot;&gt;Capable, mature, managed and optimized professional Git&lt;/h1&gt;
+
+&lt;p&gt;About half … maybe it’s still slightly less, maybe it’s slightly more … of the professional software development being done now uses Git. The adoption of Git is growing so it some might argue that the percentage is higher, but many still use Git because they have to, not because they understand why they really NEED to. Therefore, the biggest difficulty in using Git is cultural just as the biggest difficulty in writing well is not the problem with word processing tools but with use of the words and idioms in the language.  Thus, the main problem with Git is not a really technological problem or lack of features.&lt;/p&gt;
+
+&lt;p&gt;When everyone is more or less on the page Git-wise, Git immensely simplifies and improves the software development cycle, not just in enabling users to create, use, and switch between versions easily, but also to provide metrics and quantitatively improve processes. That is why it is so essential for a creative professional to really understand the basic Git model and overall Git workflow. That means developing a familiarity with the Git management concepts and commands to avoid the trip-ups and missteps that put off people from really using Git to track changes and work with branches in teams.&lt;/p&gt;
+
+&lt;p&gt;Fully leveraging Git’s full functionality means going beyond integrating Git in the workflow used by developers in popular software development toolchains&lt;/p&gt;
+
+&lt;h1 id=&quot;why-hasnt-mastering-git-been-one-of-the-priorities-of-anyone-involved-in-the-creation-of-creative-content&quot;&gt;WHY hasn’t mastering Git been one of the priorities of anyone involved in the creation of creative content?&lt;/h1&gt;
+
+&lt;p&gt;Good question. As another person who’s behind the curve on Git, I have absolutely NO good answer on that one … it happens. It is like the answer for why I don’t get up at 4:30 every single morning to do calisthenics to build my fitness and self-discipline. I dunno why I don’t do it. I should. I know that I should. But I haven’t. I just know that I should and need to. I cannot fix or redo the last decade, year, month or days – I can only fix today and work on it again tomorrow. I cannot fix or help other people, I can only work on myself and my example might matter to some but it won’t matter to most. But consistency matters going forward matters so much. It is important to just stay at it.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2017 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/networking/2017/12/31/Get-After-Git.html</link>
+        <guid isPermaLink="true">http://localhost:4000/networking/2017/12/31/Get-After-Git.html</guid>
+        
+        
+        <category>Networking</category>
+        
+      </item>
     
   </channel>
 </rss>
