@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Git Deep"
+date:   2018-01-15 4:30:00
+categories: Networking
+---
+
+I have been contemplating various opportunities in the study, experimentation and application of deep learning. Of course, most of these opportunities are currently disguised as [still] persistent difficulties. Perhaps these difficulties are not entirely insurmountable, but there are costs and uncertainties involved. In most cases, it is just a matter of thinking *there ought to be a better, easier, cheaper way.*
+
+Here are some different things that I am thinking about ... I will not claim that this is complete, coherent, well-articulated logical progression ... it's simply a collection of thoughts that drive my thinking on the business of offering data science as a service. I will not YET claim that this business would offer the highest and best use of the resources involved OR that data science as a service would offer a compelling value proposition to demanding customers ... these are just some things that I am thinking about.
+
+
+1.  Measurement systems analysis and accuracy of data
+
+    Just because a sensor is providing a stream of data, very little work is ordinarily done to address the repeatability, reproducibility, bias, stability and linearity of the data ... essentially, most deep learning practcioners simply rely on more data gathered over a longer period of time. This sort of works ... the results might appear impressive [and generally are] ... but but we still have the old garbage in, garbage out problem.
+
+2.  Data wrangling, munging and preparation.
+
+    Roughly 80% of the work involved in data science is getting the data to be free from obviously bad data and outliars and formatted in a way that makes the data amenable to analysis.
+
+3.  Setting up systems, getting past dependency problems and being able to share the data in a collaborative, intereactive environment.
+
+    An immense amount of work has been done here ... but there's not really any end to the opportunities to make it even simpler, more reliable and robust ... essentially, it's still a matter of re-architecting and re-factoring      
+
+4.  Data literacy is abysmal; this is the true digital divide.  
+
+    Parasitic companies exploit this astounding level of ignorance. Most of the employment opportunities in data science and deep learning are still ultimately about convincing people to do something that is *almost* in their best interest, but isn't really exactly about what is in their interest, but instead in the interest of someone behind the scenes of leading the audience to a conclusion that the someone wants. For example, ad recommendation engines.
+
+    The answer, of course, is MUCH, MUCH, MUCH more competition.
+
+5.  Human life and the economic ecosystems that sustain human life in the 21st century is more about data and the transformation of data into productive knowledge and business intelligence.
+
+    Politicians, policymakers and journalists don't really get this, but criminals, terrorists and enemies of freedom certainly understand this in detail ... probably better than most other people, even law enforcement and security professionals do. The overall state of information security is ***maybe*** getting worse or not keeping up and [teams of hackers are getting enormously more sophisticated at exploiting the typical careless nonchalance or semi-disregard for information security that most have](https://www.wired.com/story/worst-hacks-2017/). Which is another reason why the popular, reported, traditional news topics are a complete DISTRACTION ... just as much as NFL football and Netflix are not much more than escapism [although, in certain realms of human existence, the need for escapism might be real enough]. The tracking that matters in the digital realm is not really the stuff the NSA or some other government agency Big Brother does ... what really matters is everything ELSE that is tracked by the most shrewd digital hunter-gatherers who employ the best minds of our generation ... everything about our assumptions, perceptions, behaviors, choices, attitudes, psychological precursors that show up in our economic lives or tendencies to purchase.
+
+6.  Collaborative data science as a service [including related skills like security and reliability engineering] on a JIT basis has the the potential to radically accelerate the negotiation or speed the convergence of best practices.
+
+     The collaboration possible in open source communities makes some very exciting and productive alternatives possible. It is possible to involve several different resources which are the very best in the world for relatively small assignments ... and those resources can be involved simultaneous in different projects. Better communication and collaboration technologies mean that it isn't necessary to settle on who is physically available. Additionally, criminals, terrorists and enemies of freedom have one distinct disadvantage ... they MUST hide what they are doing; significant energy must be expended to ensure their privacy; they absolutely must operate at very high levels of secrecy ... most of the work in the open source realm does not depend upon these levels of secrecy or privacy.
+
+     **It is not necessary to trust an open source developer -- or someone collaborating on Git repository ... it is only necessary to trust the soundness of the ideas put forth.**  That is significant because it should significantly lowers the barriers and uncertainties of the recruitment process. Moreover, it should be possible to recruit more talent than might seem to be needed in order to get more ideas, to optimize team interaction and team productivity.
+
+7.  Tools that allow managers or project leaders to see who has contributed and how make it possible to determine the productivity of a developer ... and ultimately, productivity should sufficient to determine compensation.      
