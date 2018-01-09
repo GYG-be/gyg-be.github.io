@@ -20,13 +20,13 @@ Here are some different things that I am thinking about ... I will not claim tha
 
 3.  Setting up systems, getting past dependency problems and being able to share the data in a collaborative, intereactive environment.
 
-    An immense amount of work has been done here ... but there's not really any end to the opportunities to make it even simpler, more reliable and robust ... essentially, it's still a matter of re-architecting and re-factoring      
+    An immense amount of work has been done here ... but there's not really any end to the opportunities to make it even simpler, more reliable and robust ... essentially, it's still a matter of disruption ... but continous improvement also matters -- it's important to complete reinvent the architecture as well as generally simplify and re-factor the code base to make the end experience more reliable and robust.      
 
-4.  Data literacy is abysmal; this is the true digital divide.  
+4.  Data literacy is almost necessarily abysmal; this is the true digital divide.  
 
-    Parasitic companies exploit this astounding level of ignorance. Most of the employment opportunities in data science and deep learning are still ultimately about convincing people to do something that is *almost* in their best interest, but isn't really exactly about what is in their interest, but instead in the interest of someone behind the scenes of leading the audience to a conclusion that the someone wants. For example, ad recommendation engines.
+    The fix for ignorance is ignorance.  That might not make sense immediately.
 
-    The answer, of course, is MUCH, MUCH, MUCH more competition.
+    Companies will always exploit ignorance to sell things to people that are not exactly what they need. Most of the employment opportunities in data science and deep learning are still ultimately about convincing people to do something that is *almost* in their best interest, but isn't really exactly about what is in their interest. Instead in the interest of behind the scenes work with an aim of leading the audience to a conclusion that the someone behinds the scenes wants. Consider the example of ad/product recommendation engines that feed on data like browser cookies and other tracking data ... data [and selling data] is what pays the bills for companies like Google, Apple, Facebook and Amazon. Many services or utilities that people rely upon would not be monetizable and would likely not exist without this exploitation. But, generally over the very long pull of time, people migrate to those things where the exploitation tends to be more symbiotic, less intrusive or disruptive and less [overtly] manipulative.  In other words, we will not change data literacy significantly; people are not data literate because they have other things going on in their lives and the *view is not worth the climb*. What will change over time is how many options people have. Ultimately, the world benefits by everyone having more alternative to make better choices ... that comes about as competition drives out the communication channels that are more problematic, more exploitative.
 
 5.  Human life and the economic ecosystems that sustain human life in the 21st century is more about data and the transformation of data into productive knowledge and business intelligence.
 
