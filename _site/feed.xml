@@ -5,9 +5,74 @@
     <description>A convoluted collection of bad habits which I indulge as they strangle me per XKCD 1579</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jan 2018 12:47:38 -0600</pubDate>
-    <lastBuildDate>Tue, 09 Jan 2018 12:47:38 -0600</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
+    <pubDate>Mon, 29 Jan 2018 09:40:38 -0600</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2018 09:40:38 -0600</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Git Deep</title>
+        <description>&lt;p&gt;I have been contemplating various educational opportunities in the study, experimentation and application of deep learning and data engineering.  One thing is certainly apparent – I will never have a deep enough understanding of what might be possible with Git … even if I knew all of the commands, backwards, forwards, in/out and upside down … even if was intimately familiar with all of the code – I still would not have a deep enough understanding of what might be possible with Git … because it is impossible to understand how people will use it and how it will shape their communication and collaboration as groups of people use Git … it is always possible to go deeper.&lt;/p&gt;
+
+&lt;p&gt;As one should guess, whenever there’s a solid proven NEED for something, the free market provides it. And that could not be more true than in the realm of education, particularly advanced technical education. The field is competitive and getting much better.  As a result, there’s no real shortage of very affordable, extremely high-quality, highly accessible low-cost “nanodegree” programs with excellent instructors, solid curricula and good opportunities for mentorship and all kinds of opportunities for comradeship and collaborative hackery with other students. Udacity, Fast.AI, Dataquest.IO are some examples in the data science and ML/AI realm; there are others and there will be more and even better ones – but since most of serious work with data involves all kinds of sysadmin tasks to accomplish the real work of data in data wrangling, munging and the time-honored chore of &lt;em&gt;getting the boss’s computer set up so that he can figure out how to play along with the analysis in his office on his machine&lt;/em&gt; … so devops and sysadmin courses are maybe even more necessary than the data science or ML stuff, but there are things like O’Reilly’s SafariOnline and Cloud Academy and a plethora of outstanding choices for that.&lt;/p&gt;
+
+&lt;p&gt;Of course, the very best of these opportunities are completely free … but difficult and challenging, as REAL education is supposed to be … they come in the build-your-own-with-what-you-find-and-hack flavor … for centuries, this has been what the best technical programs have been about. People who are really serious and passionate about learning something ultimately have to go to this school, too … even if they go to an extremely expensive university to hold their hand and assure them while they are struggling to learn. Learning, REAL learning, is tough and can be a real chore because it necessarily involves rewiring your brain … if you are not uncomfortable, maybe even filled with angst and frustration at times, you are not actually learning – you’re just being entertained and more subtly indoctrinated as you are soothed with the false comfort that you are in a safe place of higher learning, surrounded by people pursuing knowledge.&lt;/p&gt;
+
+&lt;p&gt;I have gone from thinking [about education] that &lt;em&gt;there ought to be a better, easier, cheaper way&lt;/em&gt; to &lt;em&gt;That’s flat out wrong! Lousy, difficult and expensive DRIVES innovation and innovative thinking and stimulates people who can actually learn to REALLY learn.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some of the other different things that I am thinking about … I will not claim that this is complete, coherent, well-articulated logical progression … it’s simply a collection of thoughts that drive my thinking on the business of offering data science as a service.  These are just some things that I am thinking about.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Measurement systems analysis and accuracy of data&lt;/p&gt;
+
+    &lt;p&gt;Just because a sensor is providing a stream of data, very little work is ordinarily done to address the repeatability, reproducibility, bias, stability and linearity of the data … essentially, most deep learning practcioners simply rely on more data gathered over a longer period of time. This sort of works … the results might appear impressive [and generally are] … but but we still have the old garbage in, garbage out problem.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data wrangling, munging and preparation.&lt;/p&gt;
+
+    &lt;p&gt;Roughly 80% of the work involved in data science is getting the data to be free from obviously bad data and outliars and formatted in a way that makes the data amenable to analysis.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Setting up systems, getting past dependency problems and being able to share the data in a collaborative, intereactive environment.&lt;/p&gt;
+
+    &lt;p&gt;An immense amount of work has been done here … but there’s not really any end to the opportunities to make it even simpler, more reliable and robust … essentially, it’s still a matter of disruption … but continous improvement also matters – it’s important to complete reinvent the architecture as well as generally simplify and re-factor the code base to make the end experience more reliable and robust.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data literacy is almost necessarily abysmal; this is the true digital divide.&lt;/p&gt;
+
+    &lt;p&gt;The fix for ignorance is ignorance.  That might not make sense immediately.&lt;/p&gt;
+
+    &lt;p&gt;Companies will always exploit ignorance to sell things to people that are not exactly what they need. Most of the employment opportunities in data science and deep learning are still ultimately about convincing people to do something that is &lt;em&gt;almost&lt;/em&gt; in their best interest, but isn’t really exactly about what is in their interest. Instead in the interest of behind the scenes work with an aim of leading the audience to a conclusion that the someone behinds the scenes wants. Consider the example of ad/product recommendation engines that feed on data like browser cookies and other tracking data … data [and selling data] is what pays the bills for companies like Google, Apple, Facebook and Amazon. Many services or utilities that people rely upon would not be monetizable and would likely not exist without this exploitation. But, generally over the very long pull of time, people migrate to those things where the exploitation tends to be more symbiotic, less intrusive or disruptive and less [overtly] manipulative.  In other words, we will not change data literacy significantly; people are not data literate because they have other things going on in their lives and the &lt;em&gt;view is not worth the climb&lt;/em&gt;. What will change over time is how many options people have. Ultimately, the world benefits by everyone having more alternative to make better choices … that comes about as competition drives out the communication channels that are more problematic, more exploitative.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Human life and the economic ecosystems that sustain human life in the 21st century is more about data and the transformation of data into productive knowledge and business intelligence.&lt;/p&gt;
+
+    &lt;p&gt;Politicians, policymakers and journalists don’t really get this, but criminals, terrorists and enemies of freedom certainly understand this in detail … probably better than most other people, even law enforcement and security professionals do. The overall state of information security is &lt;strong&gt;&lt;em&gt;maybe&lt;/em&gt;&lt;/strong&gt; getting worse or not keeping up and &lt;a href=&quot;https://www.wired.com/story/worst-hacks-2017/&quot;&gt;teams of hackers are getting enormously more sophisticated at exploiting the typical careless nonchalance or semi-disregard for information security that most have&lt;/a&gt;. Which is another reason why the popular, reported, traditional news topics are a complete DISTRACTION … just as much as NFL football and Netflix are not much more than escapism [although, in certain realms of human existence, the need for escapism might be real enough]. The tracking that matters in the digital realm is not really the stuff the NSA or some other government agency Big Brother does … what really matters is everything ELSE that is tracked by the most shrewd digital hunter-gatherers who employ the best minds of our generation … everything about our assumptions, perceptions, behaviors, choices, attitudes, psychological precursors that show up in our economic lives or tendencies to purchase.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Collaborative data science as a service [including related skills like security and reliability engineering] on a JIT basis has the  potential to radically accelerate the negotiation or speed the convergence of best practices.&lt;/p&gt;
+
+    &lt;p&gt;The collaboration possible in open source communities makes some very exciting and productive alternatives possible. It is possible to involve several different resources which are the very best in the world for relatively small assignments … and those resources can be involved simultaneous in different projects. Better communication and collaboration technologies mean that it isn’t necessary to settle on who is physically available. Additionally, criminals, terrorists and enemies of freedom have one distinct disadvantage … they MUST hide what they are doing; significant energy must be expended to ensure their privacy; they absolutely must operate at very high levels of secrecy … most of the work in the open source realm does not depend upon these levels of secrecy or privacy.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;It is not necessary to trust an open source developer – or someone collaborating on Git repository … it is only necessary to trust the soundness of the ideas put forth.&lt;/strong&gt;  That is significant because it should significantly lowers the barriers and uncertainties of the recruitment process. Moreover, it should be possible to recruit more talent than might seem to be needed in order to get more ideas, to optimize team interaction and team productivity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tools that allow managers or project leaders to see who has contributed and how make it possible to determine the productivity of a developer … and ultimately, productivity determines compensation.&lt;/p&gt;
+
+    &lt;p&gt;Marx was somewhat right in his critique of capitalism. He was definitely right that capitalists will compete to sell the revolutionaries the rope that the revolutionaries use to hang the capitalists … even Schumpeter recognized that capitalists, particularly monopolists, have a fundamental blind spot when it comes to how they accelerate the creative destruction that leads to their demise. Nobody should ever worry too much about the creative destruction of monopolies … humans are inventive, even if only WHEN they NEED to be. But Marx was right [at his point in time] about how capitalists exploit cheap labor. But that is only because there’s ALWAYS a huge surplus of cheap, unskilled, inattentive, hate-addled labor … when there is a shortage of capital, as there generally is, capital gets to call the shots. That doesn’t change under communism – the authoritarian dictators that control the capital are even more brutal at calling the shots than capitalists. Regardless of the economic system, the benefits will tend to flow to the resources that are most productive … but we should remember that the world is completely ruled by violence, especially the firmly-entrenched, institutional violence of the state.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;It is NECESSARY to always remember that productivity drives compensation to talent or return on any asset.&lt;/strong&gt; This is a matter of thinking, &lt;em&gt;“How can I make my talents, skills, capital and other resources the most productive in the highest and best uses of those resources?”&lt;/em&gt;  In a violent, cruel and nasty world, it is particularly necessary to be more creative and optimistic, to look harder for better opportunities and to work more diligently on those things that will make what you have more productive. Of course, that means not quitting or getting some sort of nihilistic death spiral, but it also involves doing something that is scarce because it is HARD to do, but doing something that is really needed and what is really needed most is always changing, even if it doesn’t change that fast. There are no easy answers, but it is clear that it is always necessary to resist following the herd too much and becoming part of the oversupply of unneeded resources. Of course, it is even more necessary to resist being filled with hatred or jealousy because when you are blinded by those emotions, you become a tool of those who depend upon the hate-filled, covetous, jealous mob to build the institutional violence of the state.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 14 Jan 2018 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/networking/2018/01/14/Git-Deep.html</link>
+        <guid isPermaLink="true">http://localhost:4000/networking/2018/01/14/Git-Deep.html</guid>
+        
+        
+        <category>Networking</category>
+        
+      </item>
     
       <item>
         <title>Is Kubernetes the new Linux?</title>
@@ -62,6 +127,114 @@
         
         
         <category>Networking</category>
+        
+      </item>
+    
+      <item>
+        <title>Collaborative AI</title>
+        <description>&lt;p&gt;I am a venture philanthropist in that I focus on ideas for new self-sustaining, self-financing disruptive ventures that are not exactly geared to making an individual, ie either me or any investors, wealthy, but instead produce the highest possible return on the private resources of a wide population of the public. My venture philathropy is an effort to short-circuit the process of developing lean minimal viable products to demonstrate prototypes that others can expand upon. One of the inspirations for this endeavore is the &lt;a href=&quot;https://en.wikipedia.org/wiki/Carnegie_library&quot;&gt;Carnegie public libraries&lt;/a&gt; distributed across small communities provided a means for wide segments of the population to learn and enrich lives and the general level of public discourse. These privately-founded libraries involved a minimal level of investment in books and the bricks and mortar of the building housing the books.  They were founded without having to resort to the coercive violence of the state to tax citizens. The also were strictly voluntary educational centers, ie parents were not required to ensure that their children showed up in a library for eight hours a day throughout the year to be indoctrinated in use the of the library.  Instead, these not only became genuine highly distributed centers of lifelong learning and voluntary education, but they also became meeting places and community assets that became sustainable entities as beneficiaries of these libraries in turn donated their time, their own books and even their own fortunes in order to sustain and expand the appreciation of books, learning and reading. The INITIAL Carnegie&lt;/p&gt;
+
+&lt;p&gt;Collaborative artificial intelligence has emerged as one of my most intriguing and interesting philanthropic venture  areas … I believe that collaboration on HARD projects is necessarily about the physics of people or, more practically, about the physics of bringing people together, getting them “on the same page.” To some extent, this is about messaging systems and utilities like git repositories – in other words, it’s not necessarily about real time immediate messaging, although things like videoconferences can be part of it. Perhaps, the biggest need in Collaborative AI is just findability or search … to bring people together who are working on similar things, similar snippets of code, similar problems.&lt;/p&gt;
+
+&lt;p&gt;In other words, collaborative AI is not about people people collaborating on doing machine learning, deep learning, neural nets or other forms of artificial intelligence – it’s about using AI to facilitate qualifying collaborators and bringing people together to collaborate and providing the interface that gets out of the way so that people can collaborate … as if they are sitting next to one another, without requiring them to be sitting next to one another.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Dec 2017 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/collaborativeai/2017/12/14/Collaborative-AI.html</link>
+        <guid isPermaLink="true">http://localhost:4000/collaborativeai/2017/12/14/Collaborative-AI.html</guid>
+        
+        
+        <category>CollaborativeAI</category>
+        
+      </item>
+    
+      <item>
+        <title>Distributed Security</title>
+        <description>&lt;p&gt;Distributed security is one of my philanthropic venture areas …&lt;/p&gt;
+
+&lt;p&gt;Providing food, water, shelter, utilities and very basic and fundamental needs is one aspect of that cannot be overlooked.&lt;/p&gt;
+
+&lt;p&gt;Self-defense&lt;/p&gt;
+
+&lt;p&gt;Information security&lt;/p&gt;
+
+&lt;p&gt;Communication, software-defined radio&lt;/p&gt;
+
+&lt;p&gt;Heinlein … a man should be able to&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Nov 2017 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/distsec/2017/11/14/Distributed-Security.html</link>
+        <guid isPermaLink="true">http://localhost:4000/distsec/2017/11/14/Distributed-Security.html</guid>
+        
+        
+        <category>DistSec</category>
+        
+      </item>
+    
+      <item>
+        <title>Financial Technology</title>
+        <description>&lt;p&gt;Financial technology, or the technology of full, complete, quality-assured transactions is one of my philanthropic venture  areas …&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Oct 2017 23:30:00 -0500</pubDate>
+        <link>http://localhost:4000/fintech/2017/10/14/Financial-Technology.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fintech/2017/10/14/Financial-Technology.html</guid>
+        
+        
+        <category>FinTech</category>
+        
+      </item>
+    
+      <item>
+        <title>Lean Quality</title>
+        <description>&lt;p&gt;LEAN Quality, or the technology of the most efficient, highest possible quality and continuous improvement is one of my philanthropic venture  areas …&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Sep 2017 23:30:00 -0500</pubDate>
+        <link>http://localhost:4000/leanquality/2017/09/14/Lean-Quality.html</link>
+        <guid isPermaLink="true">http://localhost:4000/leanquality/2017/09/14/Lean-Quality.html</guid>
+        
+        
+        <category>LeanQuality</category>
+        
+      </item>
+    
+      <item>
+        <title>Education Technology</title>
+        <description>&lt;p&gt;Education technology, or the technology of assisting students in developing their skills in learning how to learn and continually improving their ability to learn how to learn is one of my philanthropic venture areas …&lt;/p&gt;
+
+&lt;p&gt;growing literature harnessing the power of ERPs to study language learning and development.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Sep 2017 23:30:00 -0500</pubDate>
+        <link>http://localhost:4000/edtech/2017/09/14/Education-Technology.html</link>
+        <guid isPermaLink="true">http://localhost:4000/edtech/2017/09/14/Education-Technology.html</guid>
+        
+        
+        <category>EdTech</category>
+        
+      </item>
+    
+      <item>
+        <title>Venture Philanthropy and Open Sourcism</title>
+        <description>&lt;p&gt;I am a venture philanthropist in that I focus on ideas for new self-sustaining, self-financing disruptive ventures that are not exactly geared to making an individual, ie either me or any investors, wealthy, but instead produce the highest possible return on the private resources of a wide population of the public. My venture philathropy is an effort to short-circuit the process of developing lean minimal viable products to demonstrate prototypes that others can expand upon. One of the inspirations for this endeavor is the &lt;a href=&quot;https://en.wikipedia.org/wiki/Carnegie_library&quot;&gt;Carnegie public libraries&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As great as Carnegie’s industrial efforts were and they were almost incalcuable, the impact of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Carnegie_library&quot;&gt;Carnegie public libraries&lt;/a&gt; upon American ingenuity and distributed knowledge and education is far greater … and yet, the PRIVATE nature of the Carnegie endowment as well as the voluntary nature of reading and lifelong education available from a Carnegie library is still consistent with &lt;a href=&quot;https://en.wikipedia.org/wiki/Herbert_Spencer&quot;&gt;Spencerian political philosophy&lt;/a&gt; which guided Carnegie in all of his efforts.&lt;/p&gt;
+
+&lt;p&gt;The Carnegie libaries were highly distributed, especially across small communities of the United States, and that distribution [as opposed to the centralization, government control and taxpayer-financing of institutions like land grant colleges] provided a means for wide segments of the population to learn and enrich lives and the general level of public discourse. These privately-funded libraries involved a minimal level of investment in books and the bricks and mortar of the building housing the books.  They were founded without having to resort to the coercive violence of the state to tax citizens. The also were strictly voluntary educational centers, ie parents were not required to ensure that their children showed up in a library for eight hours a day throughout the year to be indoctrinated in use the of the library.  Instead, these not only became genuine highly distributed centers of lifelong learning and voluntary education, but they also became meeting places and community assets that became sustainable entities as beneficiaries of these libraries in turn donated their time, their own books and even their own fortunes in order to sustain and expand the appreciation of books, learning and reading.&lt;/p&gt;
+
+&lt;p&gt;In order to better understand the model, we should not merely replicate libraries … that model is already out there and has more than enough [and perhaps even too much] support and imitation. Instead, we should look at the genesis of the  INITIAL &lt;a href=&quot;https://en.wikipedia.org/wiki/Carnegie_library&quot;&gt;Carnegie public library&lt;/a&gt; idea and see if we can improve upon it and make the genesis of that kind of idea even more prevalent, more likely, more highly distributed. In other words, the question that I ponder in my venture philanthropy is how can we get to establishment of the things like libraries faster without the distraction of &lt;a href=&quot;https://en.wikipedia.org/wiki/Andrew_Carnegie&quot;&gt;wealth and power accumulation&lt;/a&gt; … do we really need to have iconic institutions such as Carnegie Hall or the Carnegie libraries in order to provide the motivation to the next generations of philanthropists.&lt;/p&gt;
+
+&lt;p&gt;I might be incredibly wrong about my decision to eschew wealth, power and fame but I do not believe that fame and recognition is absolutely necessary for genuine philanthropy … it MIGHT be; it’s vitally important for someone like me to recognize that he might be DEAD wrong but still to go forward with a working hypothesis.  My working hypothesis is that anonymity trumps fame – thus making a difference without carrying or maintaining the burdens of wealth, power or fame is what my venture philanthropy is about.  This means that believe that distributed [anonymous, open source] good ideas can matter much more than the centralized concentration of capital, prestige and status.  There are more than enough open source technologies such as those in the LAMP stack and Git that lead me to believe that we can achieve far more with open source technologies in far less time than we can ever hope to achieve with proprietary monopolies and the establishment of industrial empires and concentrated wealth.&lt;/p&gt;
+
+&lt;p&gt;But I might be wrong … and that uncertainty is why I choose to use the Apache license rather than the other more restrictive &lt;em&gt;copyleft&lt;/em&gt; open source licenses which place unnecessary restrictions on the future use of anything developed. Genuine altruism is about &lt;em&gt;LETTING GO&lt;/em&gt; of an idea. It is important to recognize that there might be another Andrew Carnegie out there that needs to use patents and other forms of proprietary technology in order to temporarily have sufficient control in order achieve the critical mass or economies of scale and scope that make it possible to build things such as economically-viable railroads or steel mills that provide the capital for something like the Carnegie libraries. Some of us, like me, would hope that such concentration of power and wealth is unnecessary – but we should be smart enough to recognize that we might be wrong. People who are not smart enough to recognize that they might be wrong always FIRST seek to control others or to force others to think as they do … and that demand for control, such as the control in the copyleft licenses, is a good indication of why their ideas are not good enough to stand on their own.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Jul 2017 23:30:00 -0500</pubDate>
+        <link>http://localhost:4000/philanthropy/mvp/opensource/2017/07/14/Venture-Philanthropy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/philanthropy/mvp/opensource/2017/07/14/Venture-Philanthropy.html</guid>
+        
+        
+        <category>Philanthropy</category>
+        
+        <category>MVP</category>
+        
+        <category>OpenSource</category>
         
       </item>
     
