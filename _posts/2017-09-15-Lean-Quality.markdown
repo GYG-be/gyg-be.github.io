@@ -5,7 +5,9 @@ date:   2017-09-15 4:30:00
 categories: LeanQuality
 ---
 
-LEAN Quality, or the technology of the most efficient, highest possible quality and continuous improvement is one of [my philanthropic venture](http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html) areas ... removing waste is about higher quality, lower maintenance, more sublime, more natural existence ... ideally, it is about an independent, creative way of life that costs nothing to maintain. The ideal may be unattainable, but we should work at making living and the maintenance of life rewarding and fun in of themselves.
+LEAN Quality, or the technology of the most efficient, highest possible quality and continuous improvement is one of [my philanthropic venture](http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html) areas ... removing waste is about higher quality, lower maintenance, more sublime, more natural existence ... ideally, it is about an independent, creative way of life that costs nothing to maintain.
+
+Obviously, that ideal may be unattainable, but it should not stop us from keeping our eyes on the goal, on what quality is and from LEANING up our processes as we work toward the goal. We should work at making our ways of life simpler, more creative and more in tune with natural processes, eg recreation through potager gardens with composted household waste to minimize the amount of packaging and extraneous processes necessary to sustain waste. The maintenance of our ways of life should be rewarding and fun in and of themselves.
 
 Learning to see waste is a matter of thinking serious about the eight wastes of the D.O.W.N.T.I.M.E. acronym during our downtime ... we should not think of waste as a crime or moral failure -- instead we should look at it as an opportunity for improvement. Focusing on LEAN quality is a way to polish something that we are justifiable already proud of.  
 
