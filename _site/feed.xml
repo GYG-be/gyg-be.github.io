@@ -5,8 +5,8 @@
     <description>A convoluted collection of bad habits which I indulge as they strangle me per XKCD 1579</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jan 2018 13:10:57 -0600</pubDate>
-    <lastBuildDate>Mon, 29 Jan 2018 13:10:57 -0600</lastBuildDate>
+    <pubDate>Wed, 31 Jan 2018 21:24:12 -0600</pubDate>
+    <lastBuildDate>Wed, 31 Jan 2018 21:24:12 -0600</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
     
       <item>
@@ -132,9 +132,7 @@
     
       <item>
         <title>Collaborative AI</title>
-        <description>&lt;p&gt;I am a venture philanthropist in that I focus on ideas for new self-sustaining, self-financing disruptive ventures that are not exactly geared to making an individual, ie either me or any investors, wealthy, but instead produce the highest possible return on the private resources of a wide population of the public. My venture philathropy is an effort to short-circuit the process of developing lean minimal viable products to demonstrate prototypes that others can expand upon. One of the inspirations for this endeavore is the &lt;a href=&quot;https://en.wikipedia.org/wiki/Carnegie_library&quot;&gt;Carnegie public libraries&lt;/a&gt; distributed across small communities provided a means for wide segments of the population to learn and enrich lives and the general level of public discourse. These privately-founded libraries involved a minimal level of investment in books and the bricks and mortar of the building housing the books.  They were founded without having to resort to the coercive violence of the state to tax citizens. The also were strictly voluntary educational centers, ie parents were not required to ensure that their children showed up in a library for eight hours a day throughout the year to be indoctrinated in use the of the library.  Instead, these not only became genuine highly distributed centers of lifelong learning and voluntary education, but they also became meeting places and community assets that became sustainable entities as beneficiaries of these libraries in turn donated their time, their own books and even their own fortunes in order to sustain and expand the appreciation of books, learning and reading. The INITIAL Carnegie&lt;/p&gt;
-
-&lt;p&gt;Collaborative artificial intelligence has emerged as one of my most intriguing and interesting philanthropic venture  areas … I believe that collaboration on HARD projects is necessarily about the physics of people or, more practically, about the physics of bringing people together, getting them “on the same page.” To some extent, this is about messaging systems and utilities like git repositories – in other words, it’s not necessarily about real time immediate messaging, although things like videoconferences can be part of it. Perhaps, the biggest need in Collaborative AI is just findability or search … to bring people together who are working on similar things, similar snippets of code, similar problems.&lt;/p&gt;
+        <description>&lt;p&gt;Collaborative artificial intelligence has emerged as one of my most intriguing and interesting &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;philanthropic venture&lt;/a&gt; areas … I believe that collaboration on HARD projects is necessarily about the physics of people or, more practically, about the physics of bringing people together, getting them “on the same page.” To some extent, this is about messaging systems and utilities like git repositories – in other words, it’s not necessarily about real time immediate messaging, although things like videoconferences can be part of it. Perhaps, the biggest need in Collaborative AI is just findability or search … to bring people together who are working on similar things, similar snippets of code, similar problems.&lt;/p&gt;
 
 &lt;p&gt;In other words, collaborative AI is not about people people collaborating on doing machine learning, deep learning, neural nets or other forms of artificial intelligence – it’s about using AI to facilitate qualifying collaborators and bringing people together to collaborate and providing the interface that gets out of the way so that people can collaborate … as if they are sitting next to one another, without requiring them to be sitting next to one another.&lt;/p&gt;
 </description>
@@ -149,17 +147,7 @@
     
       <item>
         <title>Distributed Security</title>
-        <description>&lt;p&gt;Distributed security is one of my philanthropic venture areas …&lt;/p&gt;
-
-&lt;p&gt;Providing food, water, shelter, utilities and very basic and fundamental needs is one aspect of that cannot be overlooked.&lt;/p&gt;
-
-&lt;p&gt;Self-defense&lt;/p&gt;
-
-&lt;p&gt;Information security&lt;/p&gt;
-
-&lt;p&gt;Communication, software-defined radio&lt;/p&gt;
-
-&lt;p&gt;Heinlein … a man should be able to&lt;/p&gt;
+        <description>&lt;p&gt;Distributed security is one of my &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;philanthropic venture&lt;/a&gt; areas … it involves a number of very, very basic things which people might not even regard as security issues, because they take them for granted … things like providing food, water, shelter, utilities and very basic and fundamental needs … communication phyical layers, software-defined radio, computing architecture and infrastructure, information security.  It also includes things like health, basic medical care, fitness, self-defense and very basic self-defense weapons manufacture. My thoughts on the distribution of security is inspired by Robert Heinlein who is rather famous for his views about how and why a human being should be able to some very fundamental and basic things.&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Nov 2017 22:30:00 -0600</pubDate>
         <link>http://localhost:4000/distsec/2017/11/14/Distributed-Security.html</link>
@@ -172,7 +160,9 @@
     
       <item>
         <title>Financial Technology</title>
-        <description>&lt;p&gt;Financial technology, or the technology of full, complete, quality-assured transactions is one of my philanthropic venture  areas …&lt;/p&gt;
+        <description>&lt;p&gt;Financial technology, or the technology of full, complete, quality-assured transactions is one of my &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;philanthropic venture&lt;/a&gt; areas … I am not especially interested in the dark voodoo world untraceable cryptocurrency … in fact, I think that much of the desire for products in that realm will never really be realized, except as elaborate traps to sucker criminals and those who wish to evade the law … I also am not convinced that cryptocurrencies will ever really replace the financial traffic handled by the likes of Visa, Mastercard, American Express and PayPal … if cryptocurrencies replace these dominant and entrenched mediums of exchange, it will be because cryptocurrencies offer something that is more convenient or somehow offers more utlity than simply paying with a credit card. In other words, credit cards will not be replaced because they are not hip or trendy – they will be replaced when something more convenient comes along … in the same way that credit/debit cards replaced paying for things with either wads of cash or checks – it was not because the cool kids were using credit cards.&lt;/p&gt;
+
+&lt;p&gt;Blockchain represents a opportunity to do more to capture more information and assure the quality of a transaction … it’s not about anonymity, it’s about everybody involved being assured that EVERYTHING about the transaction is &lt;em&gt;on the up and up&lt;/em&gt; while also assuring that people who are not involved in the transaction do not readily have access to specific details about detailed information of the transaction that are none of their business.&lt;/p&gt;
 </description>
         <pubDate>Sat, 14 Oct 2017 23:30:00 -0500</pubDate>
         <link>http://localhost:4000/fintech/2017/10/14/Financial-Technology.html</link>
@@ -198,7 +188,7 @@
     
       <item>
         <title>Education Technology</title>
-        <description>&lt;p&gt;Education technology, or the technology of assisting students in developing their skills in learning how to learn and continually improving their ability to learn how to learn is one of &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;my philanthropic venture&lt;/a&gt;  areas … some of this is not really much more than in the formats for sharing ideas or executable notebooks to analyze data or various ways to improve channels for messaging and collaboration. A different facet of this involes natural language processing and computational forensics … for example, the work on the analysis of writing, not just for assessing comprehension but even what the choice of simple words like the choice of pronouns says about an author’s view of the world.&lt;/p&gt;
+        <description>&lt;p&gt;Education technology, or the technology of assisting students in developing their skills in learning how to learn and continually improving their ability to learn how to learn is one of &lt;a href=&quot;http://markbruns.github.io/philanthropy/mvp/opensource/2017/07/15/Venture-Philanthropy.html&quot;&gt;my philanthropic venture&lt;/a&gt; areas … some of this is not really much more than in the formats for sharing ideas or executable notebooks to analyze data or various ways to improve channels for messaging and collaboration. A different facet of this involes natural language processing and computational forensics … for example, the work on the analysis of writing, not just for assessing comprehension but even what the choice of simple words like the choice of pronouns says about an author’s view of the world.&lt;/p&gt;
 
 &lt;p&gt;As a measurement engineer, one of my particular areas of technological interest involves assistive technologies and measurement technologies … I am referring to sensors and systems of sensours or things like virtual reality or augmented reality as well as EEG neuroheadsets, MRIs and various neuroimaging technologies. I really don’t know if these are really game-changing technologies or not – but they certainly are intriguing and they will be more interesting as they are rolled out to a much wider audience of early adopters and more people play with the technologies and find new uses for them. This takes time, or perhaps more accurately, it takes a lot of use and experimentation and crowd-driven inspiration of better use, but eventually we might see some really compelling uses for how people learn, share ideas, collaborate and how these uses change with aging, injuries or the use of different substances that change neurochemistry. For example, it has taken awhile to develop but there is now a robust and growing scientific literature about &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4052444/&quot;&gt;harnessing the power of event related [brain] potential (ERP) to study language, learning and development of the brain&lt;/a&gt;.&lt;/p&gt;
 
