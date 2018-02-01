@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meltdown, Spectre, Windows, iOS, FireOS, Chromium, Facebook and other viruses"
-date:   2018-01-08 4:30:00
+date:   2018-02-01 4:30:00
 categories: Networking
 ---
 
