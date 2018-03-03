@@ -322,36 +322,3 @@ DomainName,TLD,CreateDate,ExpirationDate,Status,Privacy,Locked,AutoRenew,Nameser
 "wellended.life",".life","06/07/2017","06/07/2018","Active","Public","Locked","On","ns15.domaincontrol.com(), ns16.domaincontrol.com()","","","EFne]1/T%947%D8a","","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","","0","0","0","0","0","0"
 "wellended.net",".net","06/07/2017","06/07/2018","Active","Public","Locked","On","ns15.domaincontrol.com(), ns16.domaincontrol.com()","","","9T5^3IN{F%104D59","","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","","0","0","4","0","0","0"
 "wellended.org",".org","06/07/2017","06/07/2018","Active","Public","Locked","On","ns15.domaincontrol.com(), ns16.domaincontrol.com()","","","T852633D0D9A4A35","","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","Mark","Bruns","","3823 160th Street","","George","Iowa","51237","United States","+1.7126310004","","salebarn@gmail.com","","0","0","5","0","0","0"
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head id="Head1"><title>
-	Download Now
-</title></head>
-<body>
-  <form method="post" action="./DownloadNow.aspx?DownloadId=XjkISqc4d61d40P%2fm%2bGhNBogRcLTMVFOP7RbRxNA3xf9bj50PtRSmwqJJMV4UWWD&amp;" id="form1" style="text-align: left; width: 100%">
-<div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI4MTQyNDY3MWRk7DbskMJKXfPXGZx4xTGfDdwZb0U=" />
-</div>
-
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="582D747B" />
-</div>
-  <div>
-
-    The download should start automtically...
-    <br />
-    <br />
-    <span id="lblErrorMessage"></span>
-  </div>
-  <div style="text-align: center; width: 100%">
-    <a id="imgCloseWindow" href="" onmouseover="window.status='Close Window'; return true;"
-      onmousedown="window.status='Close Window'; return true;" onmouseout="window.status='';"
-      onclick="window.status='Close Window'; window.close(); return false;"
-      class="filterSearch-button orange-dcc-button rounded5">Close Window</a>
-  </div>
-  </form>
-</body>
-</html>
