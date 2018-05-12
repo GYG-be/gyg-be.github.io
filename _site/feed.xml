@@ -5,9 +5,32 @@
     <description>A convoluted collection of bad habits which I indulge as they strangle me per XKCD 1579</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Fri, 09 Feb 2018 22:52:35 -0600</pubDate>
     <lastBuildDate>Fri, 09 Feb 2018 22:52:35 -0600</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+=======
+    <pubDate>Tue, 06 Mar 2018 12:16:24 -0600</pubDate>
+    <lastBuildDate>Tue, 06 Mar 2018 12:16:24 -0600</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
+>>>>>>> master
+    
+      <item>
+        <title>Mere Movements</title>
+        <description>&lt;p&gt;Whether we want to admit it or not, we are members of different movements.  Just as “no man is an island” or we all have circles of old friends, close family members, key co-workers, professional colleagues and next-door neighbors who have an undue influence on our thinking. And, in turn, we have an undue influence on those people.  It does not stop there, of course, there are also movements that we pay attention to and participate in (e.g., attend conferences, read/comment upon contribute to peer[-reviewed] publications/blogs/social media groups) that involve similar impacts upon our worldview. Of course, we might not behave like zealots – we might be very subtle in our approach … we probably try to avoid “drinking the koolaid” when it comes to extreme or dangerous views … but there are still “churches” we regular attend, either physically or increasingly virtually.  Human beings are gregarious animals – we cannot NOT have human connections and this includes movements.&lt;/p&gt;
+
+&lt;p&gt;Any population of groupthinkers can imagine that they have created a lasting movement, because many mere movements are pretty good at listening to and believing in their own propaganda. Many so-called “movements” are FAR from genuine movements or legit movements, but instead are moderately-orchestrated PR, fabricated campaigns or even fashionable groupthink emanating from the world’s echo chambers such as Silicon Valley, Wall Street or Washington DC … this is done because many advertising/PR professionals and propagandists misunderstand the lessons (eg that Rome, or the Roman Empire or the population of Romans, was responsible for the spread of Christianity) from the most successful movement in history, Christianity … without understanding anything about the success of populations who adopted Christianity, if only because of Christianty’s secular values, eg living according to the Golden Rule or trying to think Win-Win in all dealings with other people … rather than those cultures that did not, eg continued to take slaves, exploit others or venerate those lived according to a strictly or myopically selfish &lt;em&gt;me first&lt;/em&gt; or &lt;em&gt;I-win-You-lose&lt;/em&gt; morality. In other words, legitimate movements grow and gain momentum because those movements have a positive impact upon the participants.&lt;/p&gt;
+
+&lt;p&gt;People might be “converted” being believers, but they remain believers and attract more converts because those people are more successful than their contemporaries and the most successful movements are long-term selfish or greedy in the sense that Win-Win thinking “expands the pie” and benefits everyone. Whether you’ve ever read / listened to C.S. Lewis’s Mere Christianity or not … and you should, just to understand the movement. It’s not just because C.S. Lewis is easily at least 100X a better writer than you will ever be, but because you should understand exactly what Christianity or the Christian movement actually is, rather than what you imagine the movement is about.  Spending a few hours reading or listening to Mere Christianity will not convert you into a Christian – it is MERELY about clearing up your misperceptions about what participants in the Christian movement actually [claim to] believe and do not believe. Christianity succeeded as a movement because its cultural values tended to make Christian cultures more successful. Of course, there are pathological movements that extremely jealous of the success of other movements.  This is why, Christianity is often attacked because individual Christians are rather obviously imperfect and particularly imperfect in actually consistently able to follow the teachings of Christ and thus are far from free from sin and very un-Christ-like.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Feb 2018 22:30:00 -0600</pubDate>
+        <link>http://localhost:4000/networking/2018/02/28/Mere-Movements.html</link>
+        <guid isPermaLink="true">http://localhost:4000/networking/2018/02/28/Mere-Movements.html</guid>
+        
+        
+        <category>Networking</category>
+        
+      </item>
     
       <item>
         <title>Meltdown, Spectre and other viruses</title>
@@ -320,33 +343,6 @@
         
         
         <category>EdTech</category>
-        
-      </item>
-    
-      <item>
-        <title>Venture Philanthropy and Open Sourcism</title>
-        <description>&lt;p&gt;I am a venture philanthropist in that I focus on ideas for new self-sustaining, self-financing disruptive ventures that are not exactly geared to making an individual, ie either me or any investors, wealthy, but instead produce the highest possible return on the private resources of a wide population of the public. My venture philathropy is an effort to short-circuit the process of developing lean minimal viable products to demonstrate prototypes that others can expand upon. One of the inspirations for this endeavor is the &lt;a href=&quot;https://en.wikipedia.org/wiki/Carnegie_library&quot;&gt;Carnegie public libraries&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;As great as Carnegie’s industrial efforts were and they were almost incalcuable, the impact of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Carnegie_library&quot;&gt;Carnegie public libraries&lt;/a&gt; upon American ingenuity and distributed knowledge and education is far greater … and yet, the PRIVATE nature of the Carnegie endowment as well as the voluntary nature of reading and lifelong education available from a Carnegie library is still consistent with &lt;a href=&quot;https://en.wikipedia.org/wiki/Herbert_Spencer&quot;&gt;Spencerian political philosophy&lt;/a&gt; which guided Carnegie in all of his efforts.&lt;/p&gt;
-
-&lt;p&gt;The Carnegie libaries were highly distributed, especially across small communities of the United States, and that distribution [as opposed to the centralization, government control and taxpayer-financing of institutions like land grant colleges] provided a means for wide segments of the population to learn and enrich lives and the general level of public discourse. These privately-funded libraries involved a minimal level of investment in books and the bricks and mortar of the building housing the books.  They were founded without having to resort to the coercive violence of the state to tax citizens. The also were strictly voluntary educational centers, ie parents were not required to ensure that their children showed up in a library for eight hours a day throughout the year to be indoctrinated in use the of the library.  Instead, these not only became genuine highly distributed centers of lifelong learning and voluntary education, but they also became meeting places and community assets that became sustainable entities as beneficiaries of these libraries in turn donated their time, their own books and even their own fortunes in order to sustain and expand the appreciation of books, learning and reading.&lt;/p&gt;
-
-&lt;p&gt;In order to better understand the model, we should not merely replicate libraries … that model is already out there and has more than enough [and perhaps even too much] support and imitation. Instead, we should look at the genesis of the  INITIAL &lt;a href=&quot;https://en.wikipedia.org/wiki/Carnegie_library&quot;&gt;Carnegie public library&lt;/a&gt; idea and see if we can improve upon it and make the genesis of that kind of idea even more prevalent, more likely, more highly distributed. In other words, the question that I ponder in my venture philanthropy is how can we get to establishment of the things like libraries faster without the distraction of &lt;a href=&quot;https://en.wikipedia.org/wiki/Andrew_Carnegie&quot;&gt;wealth and power accumulation&lt;/a&gt; … do we really need to have iconic institutions such as Carnegie Hall or the Carnegie libraries in order to provide the motivation to the next generations of philanthropists.&lt;/p&gt;
-
-&lt;p&gt;I might be incredibly wrong about my decision to eschew wealth, power and fame but I do not believe that fame and recognition is absolutely necessary for genuine philanthropy … it MIGHT be; it’s vitally important for someone like me to recognize that he might be DEAD wrong but still to go forward with a working hypothesis.  My working hypothesis is that anonymity trumps fame – thus making a difference without carrying or maintaining the burdens of wealth, power or fame is what my venture philanthropy is about.  This means that believe that distributed [anonymous, open source] good ideas can matter much more than the centralized concentration of capital, prestige and status.  There are more than enough open source technologies such as those in the LAMP stack and Git that lead me to believe that we can achieve far more with open source technologies in far less time than we can ever hope to achieve with proprietary monopolies and the establishment of industrial empires and concentrated wealth.&lt;/p&gt;
-
-&lt;p&gt;But I might be wrong … and that uncertainty is why I choose to use the Apache license rather than the other more restrictive &lt;em&gt;copyleft&lt;/em&gt; open source licenses which place unnecessary restrictions on the future use of anything developed. Genuine altruism is about &lt;em&gt;LETTING GO&lt;/em&gt; of an idea. It is important to recognize that there might be another Andrew Carnegie out there that needs to use patents and other forms of proprietary technology in order to temporarily have sufficient control in order achieve the critical mass or economies of scale and scope that make it possible to build things such as economically-viable railroads or steel mills that provide the capital for something like the Carnegie libraries. Some of us, like me, would hope that such concentration of power and wealth is unnecessary – but we should be smart enough to recognize that we might be wrong. People who are not smart enough to recognize that they might be wrong always FIRST seek to control others or to force others to think as they do … and that demand for control, such as the control in the copyleft licenses, is a good indication of why their ideas are not good enough to stand on their own.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 14 Jul 2017 23:30:00 -0500</pubDate>
-        <link>http://localhost:4000/philanthropy/mvp/opensource/2017/07/14/Venture-Philanthropy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/philanthropy/mvp/opensource/2017/07/14/Venture-Philanthropy.html</guid>
-        
-        
-        <category>Philanthropy</category>
-        
-        <category>MVP</category>
-        
-        <category>OpenSource</category>
         
       </item>
     
