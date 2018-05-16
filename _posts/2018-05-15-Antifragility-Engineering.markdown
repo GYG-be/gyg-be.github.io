@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Design Sprints"
-date:   2018-03-15 4:30:00
+title:  "Antifragility Engineering"
+date:   2018-05-15 4:30:00
 categories: Networking
 ---
 You've read NNT's books, you follow his social media presence, you know that Antifragile is about doing things that set you up to benefit from uncertainty and chaos rather than being a victim of it ... but you might be somewhat uncertain about how you can proactively engineer antifragility or develop the disciplined mindset to approach things from an antifragile "Don't Be A Sucker" perspective.
