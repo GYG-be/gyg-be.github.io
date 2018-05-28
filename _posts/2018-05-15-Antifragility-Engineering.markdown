@@ -6,11 +6,23 @@ categories: Networking
 ---
 
 
-I will assume that you've read NNT's books [maybe a couple times], you follow his social media presence, you probobly have your own ideas about Antifragility [or you would not have bothered to click on the link to this article] and you already know that Antifragile is about doing things that set you up to benefit from uncertainty and chaos rather than being a victim of it ... but you might want to get other ideas. Perhaps you get what Antifragile is, but are are somewhat uncertain about how you can proactively engineer antifragility or develop the disciplined mindset to approach things from an antifragile "Don't Be A Sucker" perspective. Antifragility Engineering is akin to Reliability Engineering and definitely builds on top of the Reliability Engineering Body of Knowledge. 
+I will assume that you've read NNT's books [maybe a couple times], you follow his social media presence, you probobly have your own ideas about Antifragility [or you would not have bothered to click on the link to this article] and you already know that Antifragile is about doing things that set you up to benefit from uncertainty and chaos rather than being a victim of it ... but you might want to get other ideas. Perhaps you get what Antifragile is, but are are somewhat uncertain about how you can proactively engineer antifragility or develop the disciplined mindset to approach things from an antifragile "Don't Be A Sucker" perspective. Antifragility Engineering is akin to Reliability Engineering and definitely builds on top of the Reliability Engineering Body of Knowledge.
+
+Just as FMEAs are a KEY tool for Reliability Engineers, SMEAs or Success Management Effects Analysis is key to Antifragility Engineering. The SMEA is is an inversion of the FMEA, Failure Mode and Effects Analysis ... the work breakdown structure looks at managing drivers of success rather than failure modes and effects. The SMEA is a LIVING tool, not an artifact of a planning process, but a continually evolving plan that is PUT TO WORK in order to prioritize and drive efforts to build success.  The SMEA process is composed of the following eight steps:
+
+1) Initiation -- definition of the project, setting boundaries, scope management
+2) Identification -- identifying drivers of success, brainstorming ways to better track or add key drivers
+3) Assessment -- looking at how things are working, ideally managing with quantified measurements for optimization
+4) Response Planning -- on bigger strategic things, it will be necessary to pivot or radically change base
+5) Reporting -- this is about sharing info via Slack or social media; SMEA is not document-intensive but communication still matters 
+6) Implementation
+7) Review
+8) Post-Project Review -- doing the TGW-TGR analysis, archiving lessons for next time.
+
 
 # Develop your own SMEA approach
 
-SMEA, or Success Management Effects Analysis, is an inversion of the FMEA, Failure Mode and Effects Analysis ... except that the SMEA work breakdown structure looks at managing drivers of success rather than failure modes and effects.  Instead of worrying about what is going to attack you or derail your production plan, the SMEA is about priortizing your actions to develop the resources to that allow you to be aware of disruptive changes that are emerge so that you can use those opportunities to profit or to be of better service to your customers and clients. Thus, the SMEA is fundamentally about Readiness and ensuring that you OWN readiness and do not just treat it as something that just happens.  
+Instead of worrying about what is going to attack you or derail your production plan, the SMEA is about priortizing your actions to develop the resources to that allow you to be aware of disruptive changes that are emerge so that you can use those opportunities to profit or to be of better service to your customers and clients. Thus, the SMEA is fundamentally about Readiness and ensuring that you OWN readiness and do not just treat it as something that just happens.  
 
 The SMEA is about your stretching your awareness; doing this will takes discipline and effort -- but it also demands being cognizant of the human tendency to overfocus on what is in front of our eyes and ignore or dismiss our peripheral vision. Most people who have trained in the martial arts for any length of time are aware of the tendency to develop tunnel vision -- but most significant battles are generally won by flanking maneuvers, not by confronting an enemy head-on, not by using overwhelming force to going up against an enemy's strength. Success is not a matter of amassing wealth, power or fame -- success is about transcending these burdens and not needing to rely upon them. Success is independence ... "fuck you money" is okay, but it's MOSTLY about the "fuck you" of it and not so much about the money, which requires defense or maintenance. But you cannot achieve independence without developing and strengthening readiness.
 
