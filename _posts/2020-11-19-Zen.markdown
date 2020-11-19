@@ -11,4 +11,4 @@ Containers
 
 Cloud Native Go
 
-Understand ZEN architecture ... EPYC
+Understand ZEN architecture ... EPYC ... because the MINI-PC works
