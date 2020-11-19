@@ -10,3 +10,5 @@ AMD
 Containers
 
 Cloud Native Go
+
+Understand ZEN architecture ... EPYC
