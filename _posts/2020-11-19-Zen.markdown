@@ -1,14 +1,22 @@
 ---
 layout: post
-title:  "Zen"
-date:   2020-11-19 4:30:00
-categories: Networking
+title:  "New Professions, New Ventures, New Languages"
+date:   2021-06-26 4:30:00
+categories: Zen
 ---
 
-AMD
+This post could be about meditation and controlling one's mind, but meditative awareness is more practical and down to earth than that ... it is about the eustress of thinking differently in order to LISTEN to how other people think.
 
-Containers
+People can have different reasons for learning new languages but, I guess that my reason for doing so, is that I want to go somewhere [maybe virtually, not necessarily in meatspace] and be able to *think somewhat natively* in that NEW language ... not because I have something to SAY, but because I want to LISTEN in someone else's native tongue.  After all, if not for the part about *thinking somewhat natively* or to carry on a reasonably meaningful conversation, the utility of translate.google.com is a little too handy, ie why bother with a new language if one just wants to babble in a new language. ***It's all about the LISTENING!***
 
-Cloud Native Go
+Of course, it is not just good, but probably essential, for a any senior citizen, ie someone over 30 or so (Dylan was spot-on correct about generally NEVER trusting people over 30 because most people stop thinking differently or learning new professions in their late twenties), to put one's old subconsious through the trauma and aggravation of learning to think differently in a different language, to reach that point where one finally really *gets it* and thinks conceptually using the constructs of the language. 
 
-Understand ZEN architecture ... EPYC ... because the MINI-PC works
+But we should understand that this attribute of different thinking in the *new language* could also pertain to something like a new profession OR new set of friends from a new job or hobby OR new set of computer languages and frameworks. 
+
+The IMPORTANT part, for cognitive health/fitness and the level of health/fitness to even be able to exercise in the future, is the eustress of thinking radically differently that comes from thinking natively, in the idioms, jargon and common vernacular of an entirely different language ... or otherwise, people over 50 really do think like crotchety old senior citizens who can't understand why other people don't care for their dandelion-free lawn and mow in exactly the same way they do, cannot start new careers or launch brand new business ventues and really do think that something that happened 30 or 40 years ago seems like just yesterday.
+
+Without the ability to engage in the MENTAL eustress of doing DIFFERENT things and thinking in new languages, new idioms, new professional realms ... the brain hardens and thought patterns calcify -- **minds die first, THEN the ability to workout physically or do things like martial arts goes, and FINALLY, even the heart in the dead, inactive, lifeless zombie corpse stops pumping blood and the death which happened years ago becomes obvious to more people.  
+
+Success comes in different forms for different people. When one is a success, one might generally be financially independent [or capable of paying one's bill, in perpetuity] and thus able to get up in the morning and work at exactly what one REALLY WANTS TO work on all day long ... and this situation is dangerous in that it can lead to a situation where one stops going after new things, starting new ventures, putting oneself in any kind of danger or risk.
+
+Humans, who do not die mentally in their late 20s, are built for new risks, new challenges, new adversities ... but early mental death, just like obesity and lack of fitness/toughness in the physical realm, is a choice that many people gladly choose ... because it is just too scary and painful to have to deal with the still fluid, chaotic, creative mind of a twentysomthing.
