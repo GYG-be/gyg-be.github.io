@@ -5,11 +5,15 @@ permalink: /ReadingList/
 ---
 
 
-I think I will try to follow along with Tommy Collison's [Great Books Program](https://tommycollison.com/greatbooks) ... even though, I will not exactly keep up with Tommy ... as an old guy, I have my ways to cheat -- actually my ways involve looking at what others think, ie start with the Wikipedia entry ... but actually I will try to read these works, particularly since I am really quite taken with the ludicrously ambitious goal of the four year program [for anyone who is also working hard on other things] ... *which includes just starting off, with the impossible goal of having the first year's list finished by December 31, 2021.*
+I think I will try to follow along with Tommy Collison's [Great Books Program](https://tommycollison.com/greatbooks) ... even though, I will not exactly promise to even try keeping up with Tommy. 
+
+As an old guy, I have my ways to cheat ... well, actually my ways of *cheating* on the reading assignments now involves looking over what others have thought, ie I might start with the Wikipedia entry and then google certain keywords to read others' critique/commentary. Of course, I understand why there's no substitute for one's own reading BUT ... after a lifetime of ADHD, ie's not just a recent thing I picked up from the interwebs, I know some things about my attention span now. 
+
+So I will *TRY* to read these works ... particularly since I am really quite taken with the ludicrously ambitious goal of the four year program [for anyone who is also working hard, doing other BIG things] ... so, I will start with the impossible goal of having the first year's list finished by December 31, 2021 and reassess where we are on January 1, 2022.
 
 ## Year One
 * Homer: [Iliad](https://en.wikipedia.org/wiki/Iliad) and [Odyssey](https://en.wikipedia.org/wiki/Odyssey).
-* Asechylus: Agamemnon, Prometheus Bound.
+* [Asechylus](https://en.wikipedia.org/wiki/Aeschylus): The [Oresteia trilogy](https://en.wikipedia.org/wiki/Oresteia) concerning the murder of [Agamemnon](https://en.wikipedia.org/wiki/Agamemnon) by his wife [Clytemnestra](https://en.wikipedia.org/wiki/Clytemnestra) [who, incidentally, was the sister of [Helen of Troy](https://en.wikipedia.org/wiki/Helen_of_Troy)], the murder of Clytemnestra by their son, [Orestes](https://en.wikipedia.org/wiki/Orestes), the trial of Orestes, the end of the curse on the [House of Atreus](https://en.wikipedia.org/wiki/Atreus#House_of_Atreus) and the pacification of the [Erinyes](https://en.wikipedia.org/wiki/Erinyes) and [Prometheus Bound](https://en.wikipedia.org/wiki/Prometheus_Bound).
 * Sophocles: Oedipus at Colonius, Oedipus Rex, Antigone.
 * Ovid: Metamorphoses.
 * Thucydides: History of the Peloponnesian War.
