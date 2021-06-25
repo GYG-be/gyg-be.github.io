@@ -5,76 +5,186 @@ permalink: /ReadingList/
 ---
 
 
-The point of reading for me is learn how to learn better than I currently know how to learn. If you want, you can use my list as a suggestion of things for you to consider reading, but you should really develop your own list and be somewhat serious about it ... after all, reading is really about what happens in the mind and that is ultimately pretty much everything about life.
+I think I will try to follow along with Tommy Collison's Great Books Program ... even though, I will not exactly keep up with Tommy ... as an old guy, I have my ways to cheat -- actually my ways involve looking at what others think, ie start with the Wikipedia entry ... but actually I will try to read these works, particularly since I am really quite taken with the ludicrously ambitious goal of the four year program [for anyone who is also working hard on other things] ... *which includes just starting off, with the impossible goal of having the first year's list finished by December 31, 2021.*
 
-There are only 86,400 seconds in a day, so I attempt to control what goes into my mind so that I have some control over what *randomly* crosses my mind or so that I have some control over what I choose to do ... I am not at all interested in conforming to others or in merely fitting in with people in geographic proximity to me. I can be a more productive and useful anti-conformist by reading more. Thinking about what I've read and THEN doing more.
+## Year One
+Homer: [Iliad](https://en.wikipedia.org/wiki/Iliad) and [Odyssey](https://en.wikipedia.org/wiki/Odyssey).
+Asechylus: Agamemnon, Prometheus Bound.
+Sophocles: Oedipus at Colonius, Oedipus Rex, Antigone.
+Ovid: Metamorphoses.
+Thucydides: History of the Peloponnesian War.
+Hesiod: Theogony, Works and Days.
+Aristophanes: Clouds, Lysistrata.
+Euripides: Bacchae.
+Plato: Meno, Gorgias, Republic, The Last Days of Socrates (Euthyphro, Apology, Crito, Phaedo).
+Euclid: Elements.
+Lucretius: On the Nature of Things.
+Plutarch: "Lycurgus," "Solon".
+Nicomachus: Arithmetic.
+Virgil: [Aeneid](https://en.wikipedia.org/wiki/Aeneid) tells the legendary story of Aeneas, a Trojan who travelled to Italy, where he became the ancestor of the Romans. The poem comprises 9,896 lines in [dactylic hexameter](https://en.wikipedia.org/wiki/Dactylic_hexameter).
+Lavoisier: Elements of Chemistry.
+Harvey: Motion of the Heart and Blood.
+Enchiridion of Epictetus.
+Seneca’s Letters from a Stoic.
+Aurelius: Meditations.
+Confucius: Analects, #1–14 (Translation: Slingerland).
+Chuang Tzu: The Book of Chuang Tzu.
+The Bhagavadgītā in the Mahābhārata (Translation: van Buitenen)
+Mo Tzu: Basic Writings of Mo Tzu, Hsun Tzu, and Han Fei Tzu.
+Lao Tzu: The Way of Lao Tzu.
 
-I try to read more with a critical perspective rather than just passively watching videos or merely accepting what I read. I try do more or to implement what I have read, eg run snippets of code to PLAY with an algorithm I've read about. I try to experiment beyond what I read in order to test hypotheses, to get my understanding of a topic on firmer ground. Most importantly, I read actively trying to listen more to the author, to interrupt less with my own thoughts while remaining skeptical, to understand better rather than immediately respond. But I also seek out distinctions or differences. When I do this in conversation, some might find me to be argumentative or somehow imagine that I cannot focus or need to overthink ... reading a LOT has given me the ability to jump ahead or to make logical leaps that others don't make.
 
-So the point of reading for me is not comfort, but to learn how others think, to learn how to learn differently, to learn other facets, to learn better than I currently know how to learn.
+## Year Two
+The New Testament. (I'm familiar with the Torah -also known as the Old Testament- but if you aren't, you should read Genesis, Exodus, Deuteronomy, the Book of Job, and maybe Lamentations.)
+Plato: Symposium, Parmenides, Theaetetus, Sophists, Timaeus, Phaedrus.
+Aristotle: Nicomachean Ethics, Eudemian Ethics, Rhetoric.
+Apollonius: Conics.
+Beowulf
+Plutarch: “Caesar,” “Cato the Younger.”
+Epictetus: Discourses, Manual.
+Tacitus: Annals.
+Ptolemy: Almagest.
+Augustine: Confessions.
+St. Anselm: Proslogium.
+Aquinas: Summa Theologica, Summa Contra Gentiles.
+Dante: Inferno, Purgatorio, Paradiso.
+Des Prez: Mass.
+Boswell: Life of Johnson
+Machiavelli: The Prince, Discourses.
+Copernicus: On the Revolution of the Spheres.
+Luther: The Freedom of a Christian, “Preface to Romans,” “Concerning Governmental Authority,” “The Twelve Articles of the Swabian Peasants,” "Friendly Admonition to Peace Concerning the Twelve Articles of the Swabian Peasants."
+Rabelais: Gargantua and Pantagruel.
+Palestrina: Missa Papae Marcelli.
+Montaigne: Essays (Of Custom, and That We Should Not Easily Change a Law Received; Of Pedantry; Of the Education of Children; That It Is Folly to Measure Truth and Error by Our Own Capacity; Of Cannibals; That the Relish of Good and Evil Depends in a Great Measure upon the Opinion We Have of Them; Upon Some Verses of Virgil).
+Viete: “Introduction on the Analytical Art.”
+Bacon: Novum Organum.
+Shakespeare: Richard II, Henry IV, Henry V, The Tempest, As You Like It, Hamlet, Othello, Macbeth, King Lear, Coriolanus, Sonnets, Antony and Cleopatra, The Winter's Tale, Much Ado About Nothing, Twelfth Night, The Merchant of Venice.
+Confucius: Analects #14–20 (Translation: Slingerland).
+The Rigveda.
+Swift: Gulliver’s Travels, A Modest Proposal.
+Austen: Pride and Prejudice.
+Eliot: Middlemarch.
+Chaucer: Canterbury Tales.
+Mill: Autobiography.
+Extras:
 
-#### Please suggest things that I should read; I will trust that you know how [use a pull request](https://github.com/MarkBruns/MarkBruns.github.io/pulls)
+Fitzgerald: The Great Gatsby.
+Marquez: One Hundred Years of Solitude.
+Brontë: Jane Eyre, Wuthering Heights.
+Woolf: To the Lighthouse.
+Heller: Catch-22.
 
-The following reading list is far from perfect ... there's certainly nothing magic or particularly methodical about it.
+## Year Three
+Cervantes: Don Quixote.
+Hobbes: Leviathan.
+Galileo: Two New Sciences.
+Descartes: Meditations, Rules for the Direction of the Mind.
+Milton: Paradise Lost.
+La Rochefoucauld: Maxims.
+La Fontaine: Fables.
+Pascal: Pensées (Numbers 72, 82-83, 100, 128, 131, 139, 142-143, 171, 194- 195, 219, 229, 233-234, 242, 273, 277, 282, 289, 298, 303, 320, 323, 325, 330-331, 374, 385, 392, 395-397, 409, 412-413, 416, 418, 425, 430, 434-435, 463, 491, 525- 531, 538, 543, 547, 553, 556, 564, 571, 586, 598, 607-610, 613, 619-620, 631, 640, 644, 673, 675, 684, 692-693, 737, 760, 768, 792-793).
+Huygens: Treatise on Light, On the Movement of Bodies by Impact.
+Spinoza: Theological-Political Treatise.
+Locke: Second Treatise on Government.
+Racine: Phaedra.
+Newton: Principia Mathematica.
+Kepler: Epitome IV.
+Leibniz: Monadology, Discourse on Metaphysics, Essay on Dynamics, Philosophical Essays, Principles of Nature and Grace.
+Frederick Douglass: Autobiography.
+Hume: Treatise on Human Nature, Enquiry, Dialogues on Natural Religion, Essays.
+Rousseau: The Social Contract, On the Origin of Inequality, Confessions.
+Molière: The Misanthrope.
+Adam Smith: Wealth of Nations.
+Kant: Critique of Pure Reason, Foundations of the Metaphysics of Morals.
+Mozart: Don Giovanni.
+Francis Bacon: Essays, Civil and Moral.
+Dedekind: Essays on the Theory of Numbers.
+Kālidāsa, Kumārasaṃbhava: in The Origin of the Young God (Translation: Hifetz).
+“Discourses on the Noble Quest,” “Discourse to Kālāmas,” and “The Greater Discourse on Cause” from Early Buddhist Discourses, edited and translated by John Holder.
+Vimalakīrti Sūtra, The Holy Teaching of Vimalakīrti (Translation: Thurman).
+The Tale of the Heike (Translation: McCullough).
+Kūkai: "The Difference Between Exoteric and Esoteric Buddhism," "Attaining Enlightenment in This Very Existence," "The Meanings of Sound, Word, and Reality."
+Shōnagon: The Pillow Book.
+Extras:
 
-1. I try to look at [what is trending on Github this month](https://github.com/trending?since=monthly) and maybe understand the general motivation of the repository and the emerging community around that repository enough to get a sense of WHY the repository is trending.
+Morrison: Beloved, Song of Solomon.
+Hemingway: The Sun Also Rises, The Old Man and the Sea.
+Rand: Atlas Shrugged.
+Hesse: Siddartha.
 
-   Of particular interest to me, not exactly in this order of priority:
+## Year Four
+Articles of Confederation.
+Declaration of Independence.
+Constitution of the United States.
+Supreme Court Opinions.
+Voltaire: Candide.
+Hamilton, Jay, and Madison: The Federalist Papers.
+Darwin: Origin of Species.
+Hegel: Phenomenology of Mind, “Logic” (from the Encyclopedia).
+Lobachevsky: Theory of Parallels.
+De Tocqueville: Democracy in America.
+Kierkegaard: Philosophical Fragments, Fear and Trembling.
+Wagner: Tristan and Isolde.
+Marx: Capital, Political and Economic Manuscripts of 1844, The German Ideology.
+Dostoyevsky: Brothers Karamazov.
+Tolstoy: War and Peace, Anna Karenina.
+Twain: Adventures of Huckleberry Finn.
+O’Connor: Selected Stories.
+William James: Psychology: Briefer Course.
+Nietzsche: Birth of Tragedy, Thus Spake Zarathustra, Beyond Good and Evil.
+Freud: General Introduction to Psychoanalysis, The Interpretation of Dreams, Civilization and its Discontents, Mass Pyschology and Other Writings.
+Valery: Poems.
+Booker T. Washington: Selected Writings.
+Du Bois: The Souls of Black Folk.
+Heidegger: What Is Philosophy?
+Heisenberg: The Physical Principles of the Quantum Theory.
+Einstein: Selected Papers.
+Millikan: The Electron.
+Dickens: David Copperfield, A Tale of Two Cities, Great Expectations.
+Conrad: Heart of Darkness.
+Faulkner: The Sound and the Fury, The Bear, Go Down, Moses.
+Melville: Benito Cereno, Moby Dick.
+Jayadeva: "The Gītagovinda" in Love Song of the Dark Lord, edited and translated by Barbara Stoler Miller.
+Kundera: The Book of Laughter and Forgetting, The Unbearable Lightness of Being.
+Roth: American Pastoral, Sabbath's Theater.
+Gaskell: North and South.
+Steinbeck: In Dubious Battle, Of Mice and Men, East of Eden, Cannery Row.
+Questions
+Can I suggest a book you should include?
 
-   * A curated repository of a complete [computer science study plan](A complete computer science study plan to become a software engineer. ) to become a software engineer ... I am especially fond of self-paced learning lists like this; I would like so see even more in other topics, eg [data science](https://github.com/datasciencemasters/go) or maybe [certification in IT security](https://www.giac.org/certifications/get-certified/roadmap). The list of [optional topics in John Washam's list](https://github.com/jwasham/coding-interview-university#additional-books) is especially compelling and interesting for me as a reliability engineer ... it is very well-done for a general audience, but I am motivated to expand/enlarge that list to reflect my own interests.
+Please do! You can send me an email or find me on Twitter.
 
-   * The [Github profile summary app](https://github.com/tipsy/github-profile-summary) is a handy little tool for visualizing Github profiles that utilizes [personal access tokens](https://github.com/settings/tokens)... not that [rate limiting](https://developer.github.com/v3/#rate-limiting) of unauthenticated requests at up to 60 requests per hour would be that much of constraint, but authenticated requests associated with a [Basic Github Authenitication](https://developer.github.com/v3/auth/#basic-authentication) or [personal OAuth authentication](https://github.com/blog/1509-personal-api-tokens) get up to 5000 requests per hour. The methodology of this repo reminds us that there are tons of compelling [tools to improve workflow and other integrations](https://developer.github.com/apps/building-integrations/) being produced by [different developers utilizing the Github ecosystem](https://github.com/marketplace) with [Github API](https://developer.github.com/)
+Can I join for a book or two?
 
-   *  [TensorFlow](https://github.com/tensorflow/tensorflow/) is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well. As more and more people find ways to use Tensorflow, the numbers of those [contributing ](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md) to the repo keeps increasing ... so [the growth of Tensorflow community](https://research.googleblog.com/search/label/TensorFlow), not just the code in the repo [but that, too], has interesting lessons for us.
+Yes, with the caveat that I don't know what a group reading session looks like. I have a couple of ideas though -- stay tuned.
 
-   * [Vue.JS](https://github.com/vuejs/vue) is a JavaScript framework for building UI on the web that are arguably more maintainable and more testable than UI built with other JavaScript alternatives such as the popular Angular or React. Vue was designed from the ground up to be incrementally adoptable and to progressively scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications. The [Vue.JS roadmap](https://github.com/vuejs/roadmap) provides an indication of why the future of Vue.JS is even more compelling, if the existing ecosystem of [AWESOME vue applications](https://github.com/vuejs/awesome-vue) were not enough to suggest what is possible.
+Are you going to write about the books as you go?
 
-   * [Sindre Sorhus's curated list of curated AWESOME lists](https://github.com/sindresorhus/awesome) is great example crowdsourced community content. Curators try to only include actual awesome stuff in their lists. Curating, rather than just collecting means being selective and annotating the list with descriptions about why it's on the list and how a reader will benefit from it.
+Yes! Check out the blog.
 
-2. I find that words matter, especially for what our words say about us. This means that I read about linguistics, the psychology of word usage, about writing well, about writing persuasively. One of the most interesting things that I have found is something like [selfauthoring](https://www.reddit.com/r/JordanPeterson/comments/6xbhq6/self_authoring_review_is_the_program_worthwhile/). I think that other people would find this interesting, not only because the most consequential things that you can read are going to be the things that you have thought deeply about and have written for yourself, but also in a meta-sense for what data that this project provides for serious research about psychology and computational linguistics. I am experiementing with different writing and publishing platforms, beyond microblogging and messaging but probably more focused on that because many of the most important things that people write are short messages (eg a proper commit message in Git). I have been very interested in things like [ASCIIdoctor](http://asciidoctor.org/) as well as the publishing platforms that Kindle authors use or the O'Reilly Atlas publishing platforms but I find that I am even more interested in developer ecosystems that have grown around communities that use Jupyter notebooks or [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/) for serving data science notebooks to a class of students, a corporate data science group, or a scientific research group. Of course, that interest also extends to the [wide and growing variety of different cross-platform desktop apps](https://electronjs.org/apps) (such as the [GitBook Editor](https://www.gitbook.com/editor) that run on Windows, Mac, Linux [on almost any *old* machine] all built using the [Electron framework](https://electronjs.org/apps) as a common starting point. These tools not only provide an exerience for the people writing and developing code, but they also provide for a rich metaverse analytics and metrics platforms for measuring, analyzing and *really* optimizing participation. 
+How did you choose which books to include?
 
-3. As a farmer, I am interested in agriculture for a variety of obvious business reasons, but mostly because life sciences require a perspective that is different from thinking about digital information. My most serious interests are in human nutrition, peak fitness, evidence-based health and that takes me into a variety of topics such as permaculture, Korean natural farming, soil quality and soil building, microbiome optimization, beekeeping and biochemistry of things like  [melittin](https://en.wikipedia.org/wiki/Melittin), vermiculture, viticulture [and winemaking], pickles, kimchi, fermented preservation methods, probiotics, prebiotics.
+I started with the St John's College list as a base, and then made a handful of additions and subtractions. I also moved around the order a lot -- a year full of Ancient Greeks might be a little dry. For the non-Western great books, I used the list offered by the St. John's graduate program in Eastern Classics.
 
-4. As an engineer, I am very interesting in applied physics but theoretical physics is also something worthy of attention, especially the methods of thinking and thinking together that led to the rapid development of the technology necessary to produce and deliver a functional atomic bomb [and to do it in a nation that we would now consider a least of all lesser-developed nations where there were no examples to follow, the nation was under severe economic and cultural stress and most people lived without indoor plumbing, basic utilities, communication networks or ANY computational facilities]
+I also used The Long Now's Manual for Civilization, Stewart Brand's list, Dan Becker's ten year reading plan, Columbia's humanities syllabus, and the programs at Yale Directed Studies, the University of Chicago and the University of British Columbia.
 
-5. As an entreprenur I am an advocate of LEAN thinking in ventures. That means paying attention to the thinking on things like minimum viable product, Conway's Law and its implication for team communication and startup team's workflow. I also think about larger economic ecosystems; to some degree, I think about investor motivation, but mostly I think about how ventures are acquired and produce value as part of larger organizations. Macroeconomic theory is really not that useful, it is more necessary to understand [market-based Mgmt](https://www.charleskochinstitute.org/about-us/market-based-management/) CFA [Body of Knowledge](https://www.cfainstitute.org/programs/cfaprogram/courseofstudy/Pages/cbok.aspx), Seth Klarman [Margin of Safety](https://files.leopolds.com/books/Margin.of.Safety.1st.Edition.1991.Klarman.pdf), Graham and Dodd [Security Analysis](https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539)
+Thanks to Dallen Allred, Tyler Cowen, David McDougall, Rowan Morrison, Eleanor O'Mahony, Vince Passaro, David Perell, Simon Sarris, Mitchell Stephens, and Lindsey Talley for suggesting individual books for this list. Thanks also to Jack Ambrose for sharing Teddy Roosevelt's reading list with me and to Steve McGinnis for pointing me to the Eastern classics.
 
-6. Fintech, smart contracts, trust networks, [digital crytpocurrency](http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/), [bitcoin](https://www.safaribooksonline.com/library/view/mastering-bitcoin/9781491902639/) technological stack and how it has driven culture and cryptocurrencies; study the distributed, decentralized architecture of [blockchain](https://www.youtube.com/playlist?list=PLb68nxJHvj10JvS-lebOb-FHHeWUMpwKO) database technology
+Notes on Translations and Editions
+I'm occasionally asked which version of a book I read. I'll note those here.
 
-7. Biochemistry, biophysics, endocrinology especially neuroendocrinology are essential topics -- it's a shame that more effort is not devoted to these topics. It's important to understand why the importance of basic practices matter so much. Things like sleep hygiene, subconscious, rest, neurotransmitters, brain wave measurement are fascinating.
-
-8. Read theology and ancient texts to understand how people have contemplated much larger things for thousands of years. Read scripture and Stoics, Seneca, ancient texts of different writers from different cultures
-
-9. Political economics and social choice theory, Dunbar number, network effects, cultures, information, market-based management, [the law](http://bastiat.org/en/the_law.html#SECTION_G004)
-
-10. I am intrigued by [really high-quality audio podcasting](https://gimletmedia.com/about/) as well as photograhy and video content. Part of this includes understanding web services like [Audible/Amazon Audiobook Creation Exchange(ACX)](https://blog.acx.com/) and how people use them well.
-
-11. Architecture, design, landscaping, sculpture, jazz and [art that really matters](https://www.youtube.com/playlist?list=PLElrASo3VHBxt9zg3oRoKSqmyiCHct4Ai) when it comes to inspiring thinking and collaboration.
-
-12. Most people are fooled by randomness or really lack a solid understanding of the assumptions underlying most of the statistical evaluation used in data science. Data skepticism [or understanding underlying assumptions of measurement systems, data collection and data analysis] is much more important than understanding the mechanics of how to rapidly produce impressive sciencey conclusions. Survival depends upon [antifragility](https://youtu.be/iEnmjMgP_Jo?list=PLElrASo3VHBxw7L5XhYxv8xagaZUkQYmy) and not being a sucker -- this is not a matter of playing defense, seeking comfort or avoiding new things ... it is a matter of shrewdness.
-
-13. Working in the virtual realm is essential for productivity. It's important to understand things like CAD, GDT, automating the tedious but demanding work of tolerancing and dimensioning. It's not that important for me to understand things like 3D printing or additive mfg since more than enough energy and effort is already devoted to these topics ... it's more interesting to me to look at thinks like craft and workmanship in things like gunsmithing or [pipemaking and pipe restoration](http://www.pipemakersforum.com/forum/).
-
-14. Israel, Mossad, IDF (understand intelligence collection)... Russia, sambo ... China, Middle east, ancient history of intelligence collection
-
-15. Reliability engineering, SSBB, robustness, tolerance engineering, ToC, LEAN, fault tolerance, FMEA, systems thinking
-
-16. Nanotechnology, seeing problems at entire different levels of scale, scope, time-dependency ... contrasted with geography, astronomy.
-
-17. Pine64, RaspberryPi, Arduino and similar open-source hardware IoT projects, SMART grid/power, data-driven HVAC and buildings
-
-18. Ham radio, software-defined radio, RFID, wireless communication infrastructure
-
-19. Distributed defense and security, crime, more creative ways to solve addiction and different societal problems
-
-20. [Fine homebuilding](http://www.finehomebuilding.com/members), household repair, decks, conservatories, spas, painting, maintenance
-
-21. Avionics, UAVs, robotics
-
-22. Wikipedia ... especially in the processes used for collaborative editing and revision of Wikipedia entries.
-
-23. Jokes and what makes things funny
-
-24. Math
-
-25. Algorithms
+The Odyssey: I read and thoroughly enjoyed Emily Wilson's excellent new translation. ISBN 978-0393356250.
+Antigone: On Lindsey's recommendation, I read the Fitts/Fitzgerald translation. I need to go back and read the other two works in the Oedipus Cycle. ISBN 978-0156027649.
+The Last Days of Socrates: I read the Penguin edition, which Amazon tells me is translated by Harold Tarrant and Hugh Tredennick. ISBN 978-0140449280.
+The Old Man and the Sea: I can't actually put a hand to my copy of this, but given its comparative recency, you'll be fine with any edition!
+The Iliad: Continuing my bias for more recent translations, I read Caroline Alexander's. ISBN 978-0062046277.
+Don Quixote: Edith Grossman's translation on book and occasionally audiobook. The back of the paperback edition compares a couple of the translations, which was interesting. Grossman also has an excellent quote on translation, that "Any time I could, I chose a longer word instead of a shorter word, as if Hemingway had never lived." ISBN 978-0060934347.
+Agamemnon: The Fagles translation. ISBN 978-0140443332.
+Prometheus Bound: I read the Joel Agee translation, which I seem to remember from discussions is an uncommon one. I enjoyed it, and found the introduction quite good, but then again, I don't know any better. :) ISBN 978-1590178607.
+Meditations: Playing it safe again with the Penguin Classics edition, translated by Martin Hammond. ISBN 978-0140449334. The Daily Stoic, Ryan Holiday's thing, appears to recommend the Hays edition, ISBN 978-0812968255.
+Elements: I bought three editions of this book, and so I feel I can say with some authority that you want Dana Densmore's edition, with discussion questions. Densmore is a professor at St. John's College! ISBN 978-1888009460.
+Metamorphoses: I didn't enjoy this book, but people whose opinion I trust love it, so I suspect I didn't get the optimal translation. I read Lombardo's, ISBN 978-1603843072.
+Beowulf: Heaney. How could I not? ISBN 978-0393320978.
+Canterbury Tales: A translation by David Wright, which was eminently readable. ISBN 978-0307743534.
+Inferno: Robin Kirkpatrick's mediculously footnoted version did the job nicely. "When in doubt, go with the Penguin Classics edition" isn't bad advice. ISBN 978-0141197494.
+The Prince: This one's a doozy. St. John's seems to recommend the Mansfield translation, which I read and enjoyed (978-0226500447). Twitter pushed hard for the George Bull, whose introduction I read and liked (978-0140441079), and David McDougall, my Interintellect cohost, recommends the footnotes/supplementary info included with the Norton edition (978-0393962208).
