@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New Professions, New Ventures, New Languages"
-date:   2021-06-26 4:30:00
-categories: Zen
+title:  "Many did not consider JetBrains Pycharm or Datalore until THE laughable outrageous smear campaign by NY Times and Microsoft ... but WOW!!!"
+date:   2021-01-07 4:30:00
+categories: propaganda
 ---
 
 On January 6, 2021 ... in an absolutely brazen and criminal flurry of unsubstantiated propaganda and misinformation and outright lies, the New York Times claimed, BASED ON UNNAMED SOURCES, that UNKNOWN parties MIGHT HAVE embedded malware in JetBrains' software that led to the [SolarWinds hack](https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach) and other widespread security compromises.
