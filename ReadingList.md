@@ -5,33 +5,33 @@ permalink: /ReadingList/
 ---
 
 
-I think I will try to follow along with Tommy Collison's Great Books Program ... even though, I will not exactly keep up with Tommy ... as an old guy, I have my ways to cheat -- actually my ways involve looking at what others think, ie start with the Wikipedia entry ... but actually I will try to read these works, particularly since I am really quite taken with the ludicrously ambitious goal of the four year program [for anyone who is also working hard on other things] ... *which includes just starting off, with the impossible goal of having the first year's list finished by December 31, 2021.*
+I think I will try to follow along with Tommy Collison's [Great Books Program](https://tommycollison.com/greatbooks) ... even though, I will not exactly keep up with Tommy ... as an old guy, I have my ways to cheat -- actually my ways involve looking at what others think, ie start with the Wikipedia entry ... but actually I will try to read these works, particularly since I am really quite taken with the ludicrously ambitious goal of the four year program [for anyone who is also working hard on other things] ... *which includes just starting off, with the impossible goal of having the first year's list finished by December 31, 2021.*
 
 ## Year One
-Homer: [Iliad](https://en.wikipedia.org/wiki/Iliad) and [Odyssey](https://en.wikipedia.org/wiki/Odyssey).
-Asechylus: Agamemnon, Prometheus Bound.
-Sophocles: Oedipus at Colonius, Oedipus Rex, Antigone.
-Ovid: Metamorphoses.
-Thucydides: History of the Peloponnesian War.
-Hesiod: Theogony, Works and Days.
-Aristophanes: Clouds, Lysistrata.
-Euripides: Bacchae.
-Plato: Meno, Gorgias, Republic, The Last Days of Socrates (Euthyphro, Apology, Crito, Phaedo).
-Euclid: Elements.
-Lucretius: On the Nature of Things.
-Plutarch: "Lycurgus," "Solon".
-Nicomachus: Arithmetic.
-Virgil: [Aeneid](https://en.wikipedia.org/wiki/Aeneid) tells the legendary story of Aeneas, a Trojan who travelled to Italy, where he became the ancestor of the Romans. The poem comprises 9,896 lines in [dactylic hexameter](https://en.wikipedia.org/wiki/Dactylic_hexameter).
-Lavoisier: Elements of Chemistry.
-Harvey: Motion of the Heart and Blood.
-Enchiridion of Epictetus.
-Seneca’s Letters from a Stoic.
-Aurelius: Meditations.
-Confucius: Analects, #1–14 (Translation: Slingerland).
-Chuang Tzu: The Book of Chuang Tzu.
-The Bhagavadgītā in the Mahābhārata (Translation: van Buitenen)
-Mo Tzu: Basic Writings of Mo Tzu, Hsun Tzu, and Han Fei Tzu.
-Lao Tzu: The Way of Lao Tzu.
+* Homer: [Iliad](https://en.wikipedia.org/wiki/Iliad) and [Odyssey](https://en.wikipedia.org/wiki/Odyssey).
+* Asechylus: Agamemnon, Prometheus Bound.
+* Sophocles: Oedipus at Colonius, Oedipus Rex, Antigone.
+* Ovid: Metamorphoses.
+* Thucydides: History of the Peloponnesian War.
+* Hesiod: Theogony, Works and Days.
+* Aristophanes: Clouds, Lysistrata.
+* Euripides: Bacchae.
+* Plato: Meno, Gorgias, Republic, The Last Days of Socrates (Euthyphro, Apology, Crito, Phaedo).
+* Euclid: Elements.
+* Lucretius: On the Nature of Things.
+* Plutarch: "Lycurgus," "Solon".
+* Nicomachus: Arithmetic.
+* Virgil: [Aeneid](https://en.wikipedia.org/wiki/Aeneid) tells the legendary story of Aeneas, a Trojan who travelled to Italy, where he became the ancestor of the Romans. The poem comprises 9,896 lines in [dactylic hexameter](https://en.wikipedia.org/wiki/Dactylic_hexameter).
+* Lavoisier: Elements of Chemistry.
+* Harvey: Motion of the Heart and Blood.
+* Enchiridion of Epictetus.
+* Seneca’s Letters from a Stoic.
+* Aurelius: Meditations.
+* Confucius: Analects, #1–14 (Translation: Slingerland).
+* Chuang Tzu: The Book of Chuang Tzu.
+* The Bhagavadgītā in the Mahābhārata (Translation: van Buitenen)
+* Mo Tzu: Basic Writings of Mo Tzu, Hsun Tzu, and Han Fei Tzu.
+* Lao Tzu: The Way of Lao Tzu.
 
 
 ## Year Two
