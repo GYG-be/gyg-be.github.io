@@ -15,7 +15,7 @@ So I will *TRY* to read these works ... particularly since I am really quite tak
 * Homer: [Iliad](https://en.wikipedia.org/wiki/Iliad) and [Odyssey](https://en.wikipedia.org/wiki/Odyssey).
 * [Asechylus](https://en.wikipedia.org/wiki/Aeschylus): The [Oresteia trilogy](https://en.wikipedia.org/wiki/Oresteia) concerning the murder of [Agamemnon](https://en.wikipedia.org/wiki/Agamemnon) by his wife [Clytemnestra](https://en.wikipedia.org/wiki/Clytemnestra) [who, incidentally, was the sister of [Helen of Troy](https://en.wikipedia.org/wiki/Helen_of_Troy)], the murder of Clytemnestra by their son, [Orestes](https://en.wikipedia.org/wiki/Orestes), the trial of Orestes, the end of the curse on the [House of Atreus](https://en.wikipedia.org/wiki/Atreus#House_of_Atreus) and the pacification of the [Erinyes](https://en.wikipedia.org/wiki/Erinyes) and [Prometheus Bound](https://en.wikipedia.org/wiki/Prometheus_Bound).
 * [Sophocles](https://en.wikipedia.org/wiki/Sophocles): The Theban plays comprise three plays: [Oedipus at Colonius](https://en.wikipedia.org/wiki/Oedipus_at_Colonus), [Oedipus Rex](https://en.wikipedia.org/wiki/Oedipus_Rex), [Antigone](https://en.wikipedia.org/wiki/Antigone_(Sophocles_play)).
-* Ovid: Metamorphoses.
+* [Ovid](https://en.wikipedia.org/wiki/Ovid): [Metamorphoses](https://en.wikipedia.org/wiki/Metamorphoses) Comprising 11,995 lines, 15 books and over 250 myths, the poem chronicles the history of the world from its creation to the deification of Julius Caesar within a loose mythico-historical framework.
 * Thucydides: History of the Peloponnesian War.
 * Hesiod: Theogony, Works and Days.
 * Aristophanes: Clouds, Lysistrata.
