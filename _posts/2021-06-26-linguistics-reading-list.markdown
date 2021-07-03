@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Learn How To Learn"
+title:  "Computational Linguistics Reading List"
 date:   2021-06-26 4:30:00
-categories: Zen
+categories: learning
 ---
 
-Especially if you someone who is old, ie past 25 or so ... you are going to need to learn how to learn ... if you think that you know how to learn, you are going to have to break the bad habits of being yourself, unlearn what you thought you knew and then learn how to learn ... and you are going to have to do this for the rest of your life ... because, unless you missed it, we have completely turned a corner in how human communities learn/test/adapt now in crowds AND this human community learning is now also machine-augmented.  
+Computational linguistics is really about learn how to do machine-assisted or artificially-intelligent reading ... it's really about how to use machine learning, artificial intelligence, crowdsourcing, data APIs and other little skills in the structure of information, ontology and knowledge engineering to accelerate one's speed reading.
+
+To put this another way, everything that learned about reading and learning already is or soon will completely out of date. This is especially true if you are someone who is old, ie past 25 or so ... you are going to need to learn how to learn ... if you think that you know how to learn, you are going to have to break the bad habits of being yourself, unlearn what you thought you knew and then learn how to learn ... and you are going to have to do this for the rest of your life ... because, unless you missed it, we have completely turned a corner in how human communities learn/test/adapt now in crowds AND this human community learning is now also machine-augmented.  
 
 To put this another way ... the language of 2026 will be different from the language of 2021 ... this is not terribly new ... 2021 is definitely NOT 2016; but the pace of change in communication / information / knowledge has increased.  Words might still sound the same and thus trick people into thinking that the same terms/idioms still apply. Now obviously, some things don't really ever change, eg a dozen of eggs is still / probably always will be a very affordable way to obtain grams of protein -- although the dietary impact IS the same, the hysterical nature of the biased, untruthful nutrition reportage has not always been as well recognized  as it is now. 
 
