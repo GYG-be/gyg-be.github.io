@@ -5,9 +5,17 @@ date:   2021-03-16 4:30:00
 categories: open source
 ---
 
+
+# This list does not include proprietary packages. 
+
+Of course, you might decide read/use proprietary material after looking at this list -- that's fine; it's your choice. It's easy enough for anyone to locate those materials. 
+
+We are exclusively interested in OPEN SOUCE materials ... because those material which allow people to freely participate in the extension and development of resources and sharing in that learning activity with others who appreciate the freedom of information. When you have experience with free, open source communities, you understand why there is never as much to be learned from reading/using proprietary materials as there is to be learned from reading / using / reviewing / discussing / forking / revising / refactoring / extending open source knowledge ... as more people participate, the arguments for the justification for proprietary, closed-source become more obvious to everyone. *Using* open source implies that you will assist in some small way in ***extending*** open source.
+
+
 # Open Educational Resources In Biology
 
-E.O. Wilson's Life on Earth
+
 Life on Earth is an iBooks Textbook consisting of 41 chapters in 7 separate units and can be downloaded for free from the iBooks Store.
 Lumen Learning - Biology
 Lumen Learning provides a Biology text with various chapters such as The Chemical Foundation of Life and Osmotic Regulation and the Excretory System.
@@ -91,7 +99,9 @@ Take me Fishing Organization - Fishing Techniques
 Wiley Online Library
 World Ocean Review
 
+
 # Molecular Mechanics Modeling
+
 [Orac](https://en.wikipedia.org/wiki/Orac_(MD_program)) ... initial release 1990
 
 
