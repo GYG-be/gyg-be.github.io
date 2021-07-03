@@ -1,15 +1,17 @@
 ---
 layout: page
-title: ASYNCH
+title: Asynch
 permalink: /asynch/
 ---
 
 
-# I have a STRONG preference for ASYNCHRONOUS communications.
+# WARNING: I have a STRONG preference for ASYNCHRONOUS communications.
 
-*NOTE: This might not be normal for others ... asynch means NOT in synch. I am not suggesting thay make asynch normal for you; realize that asynch is normal for some of us. This page is an explanation.*
+*NOTE: This preference might not be at all normal for others ... asynch means NOT in synch ... the asynch preference, like left-handedness is what is normal for some people. I am not suggesting that others make asynch normal for them; I am only stating the fact that you must realize why the preference asynch communication is normal for some of us. This page is an explanation.*
 
-With a very, very, very few exceptions, ***synchronous conversations/gatherings tend to bore me*** ... and this is significant, not just some little thing I can accomodate without a damned good reason. The frustration with attention to either the sheer nothingness or the effort of thinking of some response in sychronous communication usually builds and leaves me feeling extremely angry ... and certainly tremendously relieved to get away when the meeting is over, ie I would prefer a root canal.  I am always bored to the point of being stressed and in physical pain in meetings, social events, parties with friends or family gatherings. Always.
+With a very, very, very few exceptions, ***synchronous conversations/gatherings tend to BORE me*** ... and this boredom is significant, not just some little thing I can accomodate without a damned good reason -- it is the ONLY time that I am bored. 
+
+The frustration with attention to either the sheer nothingness or the effort of thinking of some response in sychronous communication usually builds and leaves me feeling extremely angry ... and certainly tremendously relieved to get away when the meeting is over, ie I would prefer a root canal.  I am always bored to the point of being stressed and in physical pain in meetings, social events, parties with friends or family gatherings. Always.
 
 Conversely, I never feel alone because there billions of humans to interact personally [but not necessarily immediately] with via messages, emails, exchanges on issues or dev channels, through the review of git repositories or papers with code/data ... also, as a Christian, I ALWAYS feel the distinct presence of my Creator. ALWAYS ... so I am never ever ever LONELY -- but I generally tend to prefer ending a conversation, even when I have initiated that conversation.
 
