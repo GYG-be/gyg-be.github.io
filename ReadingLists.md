@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Reading List
-permalink: /ReadingList/
+title: Reading Lists
+permalink: /ReadingLists/
 ---
 
 
-I think I will try to follow along with Tommy Collison's [Great Books Program](https://tommycollison.com/greatbooks) ... even though, I will not exactly promise to even try keeping up with Tommy. 
+I believe that curating annotated reading lists ... not only helps one keep reading and re-reading interesting materials ... but the process of curating such a lists publicly helps one to think about the context of what one has read and what it's impact is ... doing this publicly, as with the forkable AWESOME repositories of list on Github helps people to learn how others learn, to learn how others express context.
 
-As an old guy, I have my ways to *cheat* ... well, actually my ways of *cheating* on the reading assignments now involve spending a lot more time looking over what others have thought and how it has effected others, ie I care about the impact more than the idea itself. So I will start with the Wikipedia entries and then google certain keywords and keep following where the references and links lead me to read others' critique/commentary. Of course, I understand why there's no substitute for one's own reading BUT ... after a lifetime of ADHD, ie's not just a recent thing I picked up from the interwebs, I know some things about my attention span now. 
+In addition to the AWESOME pattern, as another EXAMPLE of a public reading list, I think I will try to follow along with Tommy Collison's [Great Books Program](https://tommycollison.com/greatbooks) ... even though, I will not exactly promise to even try keeping up with Tommy. 
+
+As an old guy, I have my ways to *cheat* at reading and grokking not just the material, but the context ... my old ways of *cheating* on the reading assignments have evolved over my life to now involve spending a lot more time looking over what others have thought and how it has effected others, ie I care a lot more about the impact upon others now, much more than the idea itself. So I will start with the Wikipedia entries and then google certain keywords and keep following where the references and links lead me to read others' critique/commentary. Of course, I understand why there's no substitute for one's own reading BUT ... after a lifetime of ADHD, ie's not just a recent thing I picked up from the interwebs, I know some things about my attention span now. 
 
 So I will *TRY* to read these works ... particularly since I am really quite taken with the ludicrously ambitious goal of the four year program [for anyone who is also working hard, doing other BIG things] ... so, I will start with the impossible goal of having the first year's list finished by December 31, 2021 and reassess where we are on January 1, 2022.
 

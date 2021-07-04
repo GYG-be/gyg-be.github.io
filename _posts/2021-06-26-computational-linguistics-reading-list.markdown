@@ -5,6 +5,16 @@ date:   2021-06-26 4:30:00
 categories: learning
 ---
 
+# This annotated reading list does not include proprietary packages. 
+
+We learn from living open source knowledge communities ... learning is not exactly about a factoid we come across in Wikipedia entry, but as the community processes of Wikipedia show, we must learn about how communities are learning and what resources those communities are developing. 
+
+As open sourceists, we are concerned with studying and maybe improving open source learning projects. We look at how it works ... how participants read / review / discuss before they fork / revise / refactor / extend.ing open source knowledge ... as more people participate, the lack of any justification for proprietary, closed-source should either become more obvious to everyone OR otherwise, those associated with proprietary materials will have to add something other than the cachet of overcharging. 
+
+Of course, smarter people now realize that the cost to purchase something has nothing to do with its value ... in educational knowledge resources most of the value comes from being involved some small way in something larger, something that ***extends*** open source for others.
+
+# Introduction
+
 Computational linguistics is really about learn how to do machine-assisted or artificially-intelligent reading ... it's really about how to use machine learning, artificial intelligence, crowdsourcing, data APIs and other little skills in the structure of information, ontology and knowledge engineering to accelerate one's speed reading.
 
 To put this another way, everything that learned about reading and learning already is or soon will completely out of date. This is especially true if you are someone who is old, ie past 25 or so ... you are going to need to learn how to learn ... if you think that you know how to learn, you are going to have to break the bad habits of being yourself, unlearn what you thought you knew and then learn how to learn ... and you are going to have to do this for the rest of your life ... because, unless you missed it, we have completely turned a corner in how human communities learn/test/adapt now in crowds AND this human community learning is now also machine-augmented.  

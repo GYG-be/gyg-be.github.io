@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Computational biology Reading List"
+title:  "Computational Biology Reading List"
 date:   2021-03-16 4:30:00
 categories: open source
 ---
@@ -8,9 +8,11 @@ categories: open source
 
 # This list does not include proprietary packages. 
 
-Of course, you might decide read/use proprietary material after looking at this list -- that's fine; it's your choice. It's easy enough for anyone to locate those materials. 
+We learn from living open source knowledge communities ... learning is not exactly about a factoid we come across in Wikipedia entry, but as the community processes of Wikipedia show, we must learn about how communities are learning and what resources those communities are developing. 
 
-We are exclusively interested in OPEN SOUCE materials ... because those material which allow people to freely participate in the extension and development of resources and sharing in that learning activity with others who appreciate the freedom of information. When you have experience with free, open source communities, you understand why there is never as much to be learned from reading/using proprietary materials as there is to be learned from reading / using / reviewing / discussing / forking / revising / refactoring / extending open source knowledge ... as more people participate, the arguments for the justification for proprietary, closed-source become more obvious to everyone. *Using* open source implies that you will assist in some small way in ***extending*** open source.
+As open sourceists, we are concerned with studying and maybe improving open source learning projects. We look at how it works ... how participants read / review / discuss before they fork / revise / refactor / extend.ing open source knowledge ... as more people participate, the lack of any justification for proprietary, closed-source should either become more obvious to everyone OR otherwise, those associated with proprietary materials will have to add something other than the cachet of overcharging. 
+
+Of course, smarter people now realize that the cost to purchase something has nothing to do with its value ... in educational knowledge resources most of the value comes from being involved some small way in something larger, something that ***extends*** open source for others.
 
 
 # Open Educational Resources In Biology
