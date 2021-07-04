@@ -5,13 +5,13 @@ date:   2021-06-26 4:30:00
 categories: learning
 ---
 
-# This annotated reading list does not include proprietary packages. 
+# These annotated reading lists will not include proprietary packages. 
 
 We learn from living open source knowledge communities ... learning is not exactly about a factoid we come across in Wikipedia entry, but as the community processes of Wikipedia show, we must learn about how communities are learning and what resources those communities are developing. 
 
 As open sourceists, we are concerned with studying and maybe improving open source learning projects. We look at how it works ... how participants read / review / discuss before they fork / revise / refactor / extend.ing open source knowledge ... as more people participate, the lack of any justification for proprietary, closed-source should either become more obvious to everyone OR otherwise, those associated with proprietary materials will have to add something other than the cachet of overcharging. 
 
-Of course, smarter people now realize that the cost to purchase something has nothing to do with its value ... in educational knowledge resources most of the value comes from being involved some small way in something larger, something that ***extends*** open source for others.
+Of course, smarter people now realize why the cost to purchase something has nothing to do with its value or that higher prices are used to trick people who do not bother to research purchases into rationalizing their faulty, unknowledgable evalations of status-driven purchases ... in educational knowledge resources, most of the value does not come from the quality of the printing or the stately campus, but instead comes from being involved some small way with others in building something larger, something that ***extends*** open source for others.
 
 # Introduction
 

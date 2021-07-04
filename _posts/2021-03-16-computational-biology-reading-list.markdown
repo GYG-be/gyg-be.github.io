@@ -5,20 +5,24 @@ date:   2021-03-16 4:30:00
 categories: open source
 ---
 
-
-# This list does not include proprietary packages. 
+# These annotated reading lists will not include proprietary packages. 
 
 We learn from living open source knowledge communities ... learning is not exactly about a factoid we come across in Wikipedia entry, but as the community processes of Wikipedia show, we must learn about how communities are learning and what resources those communities are developing. 
 
 As open sourceists, we are concerned with studying and maybe improving open source learning projects. We look at how it works ... how participants read / review / discuss before they fork / revise / refactor / extend.ing open source knowledge ... as more people participate, the lack of any justification for proprietary, closed-source should either become more obvious to everyone OR otherwise, those associated with proprietary materials will have to add something other than the cachet of overcharging. 
 
-Of course, smarter people now realize that the cost to purchase something has nothing to do with its value ... in educational knowledge resources most of the value comes from being involved some small way in something larger, something that ***extends*** open source for others.
+Of course, smarter people now realize why the cost to purchase something has nothing to do with its value or that higher prices are used to trick people who do not bother to research purchases into rationalizing their faulty, unknowledgable evalations of status-driven purchases ... in educational knowledge resources, most of the value does not come from the quality of the printing or the stately campus, but instead comes from being involved some small way with others in building something larger, something that ***extends*** open source for others.
 
+# Introduction / Background
+
+Our interest in Biology is driven by our interest in being healthier and more productive and fit -- not so much for the sake of health and fitness itself, but actually for generally making every moment of life more enjoyable, more satisfying.
+
+We are NOT particularly interested in Biology as a means of landing a job or making profitable investments -- our interest is much more immediately practical and important to our lives. The truth of something in the realm of biological is therefore likely to be somehow directly testable, ie a matter of something that we can confirm with our own experience or the experiences of those who we are / have been close to. 
+
+In other words, our interest in Biology is not at all esoteric or about what has been proven somewhere in some magical lab -- our interest in Bioloty is about the "n of 1" Science that we will do in our own lab, our own life.
 
 # Open Educational Resources In Biology
 
-
-Life on Earth is an iBooks Textbook consisting of 41 chapters in 7 separate units and can be downloaded for free from the iBooks Store.
 Lumen Learning - Biology
 Lumen Learning provides a Biology text with various chapters such as The Chemical Foundation of Life and Osmotic Regulation and the Excretory System.
 Lumen Learning - Microbiology
