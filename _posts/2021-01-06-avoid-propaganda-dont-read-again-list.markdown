@@ -5,6 +5,12 @@ date:   2021-01-07 4:30:00
 categories: propaganda
 ---
 
+In order to have time to do important things ... you must refrain from doing STUPID things ... for example, you should generally avoid drugs and alcohol ... perhaps a cup of coffee in the morning and perhaps a drink with dinner are not going to cost you ... but if you use drugs/alchol to excess OR to deal with stress, you will greatly reduce the time that you have to THINK or to do the important things that you should do with your life. Hopefully, the point of your life is NOT about swallowing your way to a comfortable bliss ... but **some people are defined by their swallowing.**
+
+You definitely should never swallow anything from a news organization ... if you need to swallow something every day, you should realize that you have a problem and are powerless over your addiction ... until you stop swallowing.
+
+There are ONLY 86,400 seconds/day ... you're probably not going to live past 125 or so ... you have a very finite stock of time to use optimally each day ... you simply do not have ANY time to waste on anything coming from a news organization, ie it's ALL hate-spawning us-vs-them propaganda from the last-to-know, behind-the-curve, PR regurgitator journous and their editors ... you also should know better than to watch something as ineffiecient as delivering ideas as a video ... finally, it's ok to take-the-pulse of friends/family or to see-where-their-heads-are-at on social media, but don't waste time trying to be liked.
+
 # Propaganda
 
 The only valid, sustainable response anything coming from a news organization is to IGNORE the shitstorm ... not just the NY Times or Drudge or Brietbart or Townhall ...  but ignore every last ORGANIZED purveyor of schlock ... avoid the entire climate and atmosphere producing all shitstorms and responses to shitstorms ... from ALL news organizations and ALL political journos ... **you ain't gonna need any of it.**

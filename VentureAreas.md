@@ -1,8 +1,19 @@
 ---
 layout: page
-title: Venture Areas
-permalink: /VentureAreas/
+title: OpenSourcist
+permalink: /OpenSourcit/
 ---
+
+DIRECT PARTICIPATION in open source communities is the very best way to practice venture philanthropy that can benefit billions of humans ... there are perhaps too many different ways to participate and there are so many open source developers who are doing things that are beyond remarkable, definitely beyond the achievements of celebrities and maybe, in some cases, beyond even the achievements of Olympic athletes, ie its not that open source developers are better, rather this is an assertion that their efforts have more positive impact upon the lives of more people. There is no higher calling for me than the world of open source ... not just open source software, bot especially open source education and open source knowledge engineering.
+
+The most important work in open source is probably in areas such as kernel development/maintenance and distributed open source version control systems. Because of [the open sourcedness of Gitlab](https://about.gitlab.com/), I **slightly** favor Gitlab over Github ... but, of course, I have to adore EACH, for different reasons. I attempt to participate in or follow the action on both GitLab and GitHub, but one has to pick one's battles, ie this is WHY [one should ignore all news orgs, all video, almost all social media](http://markbruns.github.io/propaganda/2021/01/07/avoid-propaganda-dont-read-again-list.html) -- there's far more important, impactful material.
+
+I try, to the best of my abilities to write C, to participate in [Git development community](https://git.github.io/) and recieve a lot of emails from the listserv every day to follow the action.  Of course, Ruby on Rails is *bit* easier to follow than than a conversation in C about Git internals, so I find the [GitLab development repository](https://gitlab.com/gitlab-com/www-gitlab-com), particular the [Issues Boards](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards), as REQUIRED READING
+
+Of course, one can always work at being a better example of fitness/health, self-reliance and creative minimalism ... sustainable long-term examples are more directly powerful when it comes to building awareness that goes beyond the idiot compassion of checkbook charity and the kind of virtue-signalling compassion ... sustainable improvements in lifestyles for populations are necessarily going to come from the long-term, stable examples of severely minimalist artists/developers.
+
+
+
 
 I have five Venture Areas ... I am probably looking at pruning/consolidating to three ... but, so far, that sort of framework just does not work because pruning and elimination seems to involve giving up on important themes.
 
