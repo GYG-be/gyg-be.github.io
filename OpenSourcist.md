@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenSourcist
-permalink: /OpenSourcit/
+permalink: /OpenSourcist/
 ---
 
 DIRECT PARTICIPATION in open source communities is the very best way to practice venture philanthropy that can benefit billions of humans ... there are perhaps too many different ways to participate and there are so many open source developers who are doing things that are beyond remarkable, definitely beyond the achievements of celebrities and maybe, in some cases, beyond even the achievements of Olympic athletes, ie its not that open source developers are better, rather this is an assertion that their efforts have more positive impact upon the lives of more people. There is no higher calling for me than the world of open source ... not just open source software, bot especially open source education and open source knowledge engineering.
