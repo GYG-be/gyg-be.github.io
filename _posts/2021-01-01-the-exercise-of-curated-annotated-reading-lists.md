@@ -7,7 +7,11 @@ categories: Science
 ---
 
 
-The process of curation, like an exercise regimen, is intended to be never complete, to always be evolving, always being extended, refactored, refined ... but the repititions prevent atrophy ... and it is atrophy of our abilities rather than the acts of outsiders or aliens which we must fear most. The process of engaging in the ongoing scholarship of curation of knowledge development communities deepens, refines, sharpens, improves our knowledge and our ability to reason, think, express ourselves coherently over time.
+The process of curation, like an exercise regimen, is intended to be never complete, to always be evolving, always being extended, refactored, refined ... thus, it is really about building STRONG, LIVING, MUSCULAR, FIT open source knowledge development communities through the regular exercise of knowledge development *muscles.*  There's nothing complicated about the process of curating an annotated reading list as a mental exercise -- it is an exercise that anyone can/should do, like a pushup or a burpee in the realm of physical exercise.
+
+A list compiled last month or last year is like a pushup or burpee done lasy month, last year. Do an exercise once does mean that you advance to the Olympic podium, but there are also reasons why a man in his 90s might still find satifaction in doing a good set of pushups or burpees. Nobody cares about how many pushups you did once, decades ago, back when you were still in school, before you had gone to seed. 
+
+It is the repititions of the exercise that you will do later today, tomorrow, next week, next month that will prevent atrophy ... and it is atrophy of our abilities rather than the acts of outsiders or aliens which we must fear most. The process of engaging in the ongoing scholarship of curation of knowledge development communities deepens, refines, sharpens, improves our knowledge and our ability to reason, think, express ourselves coherently over time.
 
 # Building LIVING open source knowledge development communities
 
