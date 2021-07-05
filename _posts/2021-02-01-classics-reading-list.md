@@ -6,15 +6,15 @@ categories: classics
 ---
 
 
-I believe that curating annotated reading lists ... not only helps one keep reading and re-reading interesting materials ... but the process of curating such a lists publicly helps one to think about the context of what one has read and what it's impact is ... doing this publicly ... with OPEN forkable lists following the AWESOME pattern of list repositories [as seen on Github] helps people to learn how others learn, to learn how others express context.
+# These annotated reading lists will not include proprietary packages or papers from journals with a pay wall 
 
-# These annotated reading lists which are posted will not include proprietary packages. 
+We learn best from living OPEN source ***knowledge development communities*** ... it's not just the end product that we learn from -- it's not just about what it is, we learn from everything that explains how and why it is what it is. Thus, EVERYTHING must be open ... this includes the code/algorithms/data behind the product, the issues discussions that went into bugs/feature requests, the devstats and commitgraphs, the developers making up the special interest groups working on the product ... we learn from every last piece of how the end product came to be ... if we genuinely care about knowledge, boundless curiosity is essential -- the entire process of knowledge development cannot ever be OPEN or transparent enough ... and transparency with robust curiosty is the going to be best way of obtaining the truth. The process has to be OPEN.
 
-We learn from living open source knowledge communities ... learning is not exactly about a factoid we come across in Wikipedia entry, but as the community processes of Wikipedia show, we must learn about how communities are learning and what resources those communities are developing. 
+Curating annotated reading lists is not just about reading something, but it is really about ceasely crawling over everything about the process ... we can see the value of this in how the Classics shaped the thinking of generations after generations of people affected by the Classics, ie Shakespear's library and literary influences shape Shakespeare's writing--those plays did not spring from thin air or some sort of drug-induced haze ... but the process of ruminating on topics, finding new information, running the analysis of the data again and everything we do when we are serious about curating such OPEN lists publicly ... helps one to think about the context of what one has read, what it's impact is, whether it applies going forward. 
 
-As open sourceists, we are concerned with studying and maybe improving open source learning projects. We look at how it works ... how participants read / review / discuss before they fork / revise / refactor / extend.ing open source knowledge ... as more people participate, the lack of any justification for proprietary, closed-source should either become more obvious to everyone OR otherwise, those associated with proprietary materials will have to add something other than the cachet of overcharging. 
+It's important to do this rumination or curation publicly, transparently ... with OPEN forkable lists building upon the AWESOME pattern of list repositories [as seen on Github]. It is the process of curation that goes beyond immersive reading to help people begin to learn how others learn, to learn how others express ideas, context, meaning.
 
-Of course, smarter people now realize why the cost to purchase something has nothing to do with its value or that higher prices are used to trick people who do not bother to research purchases into rationalizing their faulty, unknowledgable evalations of status-driven purchases ... in educational knowledge resources, most of the value does not come from the quality of the printing or the stately campus, but instead comes from being involved some small way with others in building something larger, something that ***extends*** open source for others.
+
 
 # Listing of Classics
 
