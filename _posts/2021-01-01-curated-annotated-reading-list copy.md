@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  Curating Annotated Reading Lists
+title:  Building LIVING open source knowledge development communities
+subtitle:  The fundamental task of curating annotated reading lists
 date:   2021-01-01 4:30:00
 categories: Science
 ---
 
 
-## The currated annotated reading lists will not include ANY proprietary material
-
-There might be references to things such as papers from peer-reviewed journals with a pay wall ... but that reference will be limited to a discussion of the title, abstract and authors -- the reference will not be ignored, but proprietary materials will not the *suggested* reading list ... and that's not primarily because not everyone can afford to obtain access, but because propriety restrictions restrict FULL discovery of background for knowledge development ... we need full, open, transparent access for anyone OR otherwise, the process of knowledge development is impaired.  
+The process of curation, like an exercise regimen, is intended to be never complete, to always be evolving, always being extended, refactored, refined ... but the repititions prevent atrophy ... and it is atrophy of our abilities rather than the acts of outsiders or aliens which we must fear most. The process of engaging in the ongoing scholarship of curation of knowledge development communities deepens, refines, sharpens, improves our knowledge and our ability to reason, think, express ourselves coherently over time.
 
 # Building LIVING open source knowledge development communities
 
@@ -31,3 +30,6 @@ Curating annotated reading lists is not just about reading something, but it is 
 
 It's important to do this rumination or curation publicly, transparently ... with OPEN forkable lists building upon the AWESOME pattern of list repositories [as seen on Github]. It is the process of curation that goes beyond immersive reading to help people begin to learn how others learn, to learn how others express ideas, context, meaning.
 
+## The currated annotated reading lists will not include ANY proprietary material
+
+There might be references to things such as papers from peer-reviewed journals with a pay wall ... but that reference will be limited to a discussion of the title, abstract and authors -- the reference will not be ignored, but proprietary materials will not the *suggested* reading list ... and that's not primarily because not everyone can afford to obtain access, but because propriety restrictions restrict FULL discovery of background for knowledge development ... we need full, open, transparent access for anyone OR otherwise, the process of knowledge development is impaired.  
