@@ -9,9 +9,13 @@ permalink: /ReadingLists/
 
 Classics Reading List
 
+Quantum Cloud Kernel Reading List
+
 Computational Biology Reading List
 
-Computational Linguistis Reading List
+Asynchronous Workflow Reading List
+
+Computational Linguistics Reading List
 
 # The Importance of Curating Annotated Reading Lists
 
