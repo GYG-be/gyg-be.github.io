@@ -8,17 +8,11 @@ categories: classics
 
 # These annotated reading lists will not include proprietary packages or papers from journals with a pay wall 
 
-We learn best from living OPEN source ***knowledge development communities*** ... it's not just the end product that we learn from -- it's not just about what it is, we learn from everything that explains how and why it is what it is. Thus, EVERYTHING must be open ... this includes the code/algorithms/data behind the product, the issues discussions that went into bugs/feature requests, the devstats and commitgraphs, the developers making up the special interest groups working on the product ... we learn from every last piece of how the end product came to be ... if we genuinely care about knowledge, boundless curiosity is essential -- the entire process of knowledge development cannot ever be OPEN or transparent enough ... and transparency with robust curiosty is the going to be best way of obtaining the truth. The process has to be OPEN.
-
-Curating annotated reading lists is not just about reading something, but it is really about ceasely crawling over everything about the process ... we can see the value of this in how the Classics shaped the thinking of generations after generations of people affected by the Classics, ie Shakespear's library and literary influences shape Shakespeare's writing--those plays did not spring from thin air or some sort of drug-induced haze ... but the process of ruminating on topics, finding new information, running the analysis of the data again and everything we do when we are serious about curating such OPEN lists publicly ... helps one to think about the context of what one has read, what it's impact is, whether it applies going forward. 
-
-It's important to do this rumination or curation publicly, transparently ... with OPEN forkable lists building upon the AWESOME pattern of list repositories [as seen on Github]. It is the process of curation that goes beyond immersive reading to help people begin to learn how others learn, to learn how others express ideas, context, meaning.
-
-
-
 # Listing of Classics
 
-People have been compiling reading lists for at least 500 years ... arguably a few have been doing this for thousands of years ... and, as with today's modern AWESOME pattern for code repositories, book clubs and reading lists show us that a PUBLIC reading list becomes much more than just a list of things to read ... people become INVOLVED in the process or sharing ideas with others and THINKING about ideas, rather than just turning on the television and swallowing content.
+Studying the Classics is really about studying how networks of scholars work asynchronously over generations to think and build knowledge. A large populations of scholars have been compiling reading lists of the Classics for at least 500 years ... even before the advent of the printing press, a few scholars with access to the hand-copied materials have been doing the same for thousands and thousands of years ... and, as with the rabbinical study of the Torah, the annotated curation of the reading list itself adds insight to the study of the classics ... so when we study the Classics, it's really a meta-thing.  
+
+As with today's modern AWESOME pattern for code repositories, book clubs and reading lists show us that a PUBLIC reading list becomes much more than just a list of things to read ... people become INVOLVED in the process or sharing ideas with others and THINKING about ideas, rather than just turning on the television and swallowing content.
 
 ## Readers think; readers who discuss what they think are the leaders who friends look to.
 

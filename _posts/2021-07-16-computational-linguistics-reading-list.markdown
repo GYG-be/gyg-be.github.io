@@ -8,17 +8,13 @@ categories: learning
 
 # These annotated reading lists will not include proprietary packages or papers from journals with a pay wall 
 
-We learn best from living OPEN source ***knowledge development communities*** ... it's not just the end product that we learn from -- it's not just about what it is, we learn from everything that explains how and why it is what it is. Thus, EVERYTHING must be open ... this includes the code/algorithms/data behind the product, the issues discussions that went into bugs/feature requests, the devstats and commitgraphs, the developers making up the special interest groups working on the product ... we learn from every last piece of how the end product came to be ... if we genuinely care about knowledge, boundless curiosity is essential -- the entire process of knowledge development cannot ever be OPEN or transparent enough ... and transparency with robust curiosty is the going to be best way of obtaining the truth. The process has to be OPEN.
-
-Curating annotated reading lists is not just about reading something, but it is really about ceasely crawling over everything about the process ... we can see the value of this in how the Classics shaped the thinking of generations after generations of people affected by the Classics, ie Shakespear's library and literary influences shape Shakespeare's writing--those plays did not spring from thin air or some sort of drug-induced haze ... but the process of ruminating on topics, finding new information, running the analysis of the data again and everything we do when we are serious about curating such OPEN lists publicly ... helps one to think about the context of what one has read, what it's impact is, whether it applies going forward. 
-
-It's important to do this rumination or curation publicly, transparently ... with OPEN forkable lists building upon the AWESOME pattern of list repositories [as seen on Github]. It is the process of curation that goes beyond immersive reading to help people begin to learn how others learn, to learn how others express ideas, context, meaning.
-
 # Introduction
 
-Computational linguistics is really about learn how to do machine-assisted or artificially-intelligent reading ... it's really about how to use machine learning, artificial intelligence, crowdsourcing, data APIs and other little skills in the structure of information, ontology and knowledge engineering to accelerate one's speed reading.
+Computational linguistics is really about learn how to do machine-assisted or artificially-intelligent reading ... it's about building upon the semantic web and thinking in graphys. That's how it's done; why it's done is about using a machine to do something, ie make human lists machine readable and transforming into a graph, which is mildly tedious but really adds little, if any value compared to the cost of computing power. 
 
-Everything that learned about reading and learning already is or soon will completely out-of-date ... still useful for insight, understanding -- but not current. 
+The computational reading listing is mostly about about papers with code or repositories of data/notebooks which provide forkable examples for us to learn about using machine learning, artificial intelligence, crowdsourcing, data APIs and other little skills in the structure of information, ontology and knowledge engineering to radically broaden, deepen and accelerate one's speed reading.
+
+As you might guess, this is a particularly rapidly changing field. Everything that learned about reading and learning already is or soon will completely out-of-date ... still useful for insight, understanding -- but not current. 
 
 Hopefully, you love learning new things ... you are going to need to learn how to learn on a JIT basis; it won't be a formal classroom sort of vacation from the daily grind -- it will be "learn while you grind" ... if you think that you know how to learn, you are going to have to break the bad habits of being yourself, unlearn what you thought you knew and then learn how to learn ... and you are going to have to do this for the rest of your life ... because, unless you missed it, we have completely turned a corner in how human communities learn/test/adapt now in crowds AND this human community learning is now also machine-augmented.  
 

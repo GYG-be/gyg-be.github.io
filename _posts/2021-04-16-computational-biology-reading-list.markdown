@@ -8,15 +8,10 @@ categories: open source
 
 # These annotated reading lists will not include proprietary packages or papers from journals with a pay wall 
 
-We learn best from living OPEN source ***knowledge development communities*** ... it's not just the end product that we learn from -- it's not just about what it is, we learn from everything that explains how and why it is what it is. Thus, EVERYTHING must be open ... this includes the code/algorithms/data behind the product, the issues discussions that went into bugs/feature requests, the devstats and commitgraphs, the developers making up the special interest groups working on the product ... we learn from every last piece of how the end product came to be ... if we genuinely care about knowledge, boundless curiosity is essential -- the entire process of knowledge development cannot ever be OPEN or transparent enough ... and transparency with robust curiosty is the going to be best way of obtaining the truth. The process has to be OPEN.
-
-Curating annotated reading lists is not just about reading something, but it is really about ceasely crawling over everything about the process ... we can see the value of this in how the Classics shaped the thinking of generations after generations of people affected by the Classics, ie Shakespear's library and literary influences shape Shakespeare's writing--those plays did not spring from thin air or some sort of drug-induced haze ... but the process of ruminating on topics, finding new information, running the analysis of the data again and everything we do when we are serious about curating such OPEN lists publicly ... helps one to think about the context of what one has read, what it's impact is, whether it applies going forward. 
-
-It's important to do this rumination or curation publicly, transparently ... with OPEN forkable lists building upon the AWESOME pattern of list repositories [as seen on Github]. It is the process of curation that goes beyond immersive reading to help people begin to learn how others learn, to learn how others express ideas, context, meaning.
 
 # Introduction / Background
 
-Our interest in Biology is driven by our interest in being healthier and more productive and fit -- not so much for the sake of health and fitness itself, but actually for generally making every moment of life more enjoyable, more satisfying.
+Our interest in Biology itself, not just computational biology, is driven by our interest in being healthier and more productive and fit -- not so much for the sake of health and fitness itself, but actually for generally making every moment of life more enjoyable, more satisfying.
 
 We are NOT particularly interested in Biology as a means of landing a job or making profitable investments -- our interest is much more immediately practical and important to our lives. The truth of something in the realm of biological is therefore likely to be somehow directly testable, ie a matter of something that we can confirm with our own experience or the experiences of those who we are / have been close to. 
 
