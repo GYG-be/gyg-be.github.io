@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computational Linguistics Reading List"
-date:   2021-06-26 4:30:00
+date:   2021-07-06 4:30:00
 categories: learning
 ---
 
