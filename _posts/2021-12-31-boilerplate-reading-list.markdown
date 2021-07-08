@@ -8,17 +8,17 @@ categories: template
 
 **These annotated reading lists will not include proprietary packages or papers from journals with a pay wall.**
 
-## Introduction
+#Introduction
 
-## Topic1
-## Topic2
-## Topic3
-## Topic4
-## Topic5
-## Topic6
-## Topic7
-## Topic8
-## Topic9
+#Topic1
+#Topic2
+#Topic3
+#Topic4
+#Topic5
+#Topic6
+#Topic7
+#Topic8
+#Topic9
 
 - [Introduction](#introduction)
 
