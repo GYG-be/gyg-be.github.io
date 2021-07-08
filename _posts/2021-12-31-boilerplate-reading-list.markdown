@@ -8,53 +8,20 @@ categories: template
 
 **These annotated reading lists will not include proprietary packages or papers from journals with a pay wall.**
 
-#Introduction
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
 
-#Topic1
-#Topic2
-#Topic3
-#Topic4
-#Topic5
-#Topic6
-#Topic7
-#Topic8
-#Topic9
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
 
-- [Introduction](#introduction)
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
 
-*What's different, unique, special about this Reading list?*
-- [Topic1](#topic1)
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
 
-*What's different, unique, special about this Topic?*
-
-- [Topic2](#topic2)
-  
-*What's different, unique, special about this Topic?*
-
-- [Topic3](#topic3)
-
-*What's different, unique, special about this Topic?*
-
-- [Topic4](#topic4)
-  
-*What's different, unique, special about this Topic?*
-
-- [Topic5](#topic5)
-
-*What's different, unique, special about this Topic?*
-
-- [Topic6](#topic6)
-
-*What's different, unique, special about this Topic?*
-
-- [Topic7](#topic7)
-
-*What's different, unique, special about this Topic?*
-
-- [Topic8](#topic8)
-  
-*What's different, unique, special about this Topic?*
-
-- [Topic9](#topic9)
-
-*What's different, unique, special about this Topic?*
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
