@@ -11,7 +11,7 @@ categories: template
 # Table of contents
 - [Table of contents](#table-of-contents)
   - [Background <a name="background"></a>](#background-)
-  - [Job Listings <a name="paragraph1"></a>](#job-listings-)
+  - [Remote Work Job Listing Sites <a name="paragraph1"></a>](#remote-work-job-listing-sites-)
     - [META job listings -- blogs/articles about job listings <a name="subparagraph1"></a>](#meta-job-listings----blogsarticles-about-job-listings-)
   - [Entrepreneurial Business Development -- Prospecting, Development, Sales, Service For Your Profession<a name="paragraph2"></a>](#entrepreneurial-business-development----prospecting-development-sales-service-for-your-profession)
 
@@ -23,7 +23,7 @@ We noticed GIGANTIC positives that arose from covid that completely unintentiona
 The huge jump in interest of [#RemoteJobs](https://twitter.com/search?q=%23remotejobs&src=typeahead_click&f=live) and [#RemoteWork](https://twitter.com/search?q=%23remotework&src=typed_query&f=live) was simply too large, too positive, to0 significant to ignore ... but it is a rapidly evolving landscape, ie the maps that anyone had for understanding the talent acquisition landscape in the first half of 2020 are quite simply completely irrelevant now ... the landscape is still changing and it does not particularly care what anyone's map says it is supposed to be.
 
 
-## Job Listings <a name="paragraph1"></a>
+## Remote Work Job Listing Sites <a name="paragraph1"></a>
 
 *If you read just one thing, it should probably be the material from this category.*
 
