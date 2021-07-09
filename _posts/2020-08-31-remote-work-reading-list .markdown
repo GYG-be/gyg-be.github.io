@@ -12,7 +12,7 @@ categories: template
 - [Table of contents](#table-of-contents)
   - [Background <a name="background"></a>](#background-)
   - [Remote Work Job Listing Sites <a name="paragraph1"></a>](#remote-work-job-listing-sites-)
-    - [META job listings -- blogs/articles about job listings <a name="subparagraph1"></a>](#meta-job-listings----blogsarticles-about-job-listings-)
+    - [META job search -- blogs/articles about job search <a name="subparagraph1"></a>](#meta-job-search----blogsarticles-about-job-search-)
   - [Entrepreneurial Business Development -- Prospecting, Development, Sales, Service For Your Profession<a name="paragraph2"></a>](#entrepreneurial-business-development----prospecting-development-sales-service-for-your-profession)
 
 ## Background <a name="background"></a>
@@ -27,9 +27,12 @@ The huge jump in interest of [#RemoteJobs](https://twitter.com/search?q=%23remot
 
 *If you read just one thing, it should probably be the material from this category.*
 
-### META job listings -- blogs/articles about job listings <a name="subparagraph1"></a>
+[JobTripper](https://jobtripper.com/All-jobs) ... *over 3950 active jobs*
+[JustRemoteCo](https://justremote.co/) ... *discover 3000+ remote jobs*
 
-*If you are really pressed for time read just this.*
+### META job search -- blogs/articles about job search <a name="subparagraph1"></a>
+
+[Job-Hunt.ORG](https://www.job-hunt.org/) ... *helping job seekers succeed since 1994* 
 
 ## Entrepreneurial Business Development -- Prospecting, Development, Sales, Service For Your Profession<a name="paragraph2"></a>
 
