@@ -31,6 +31,8 @@ The huge jump in interest of [#RemoteJobs](https://twitter.com/search?q=%23remot
 
 [WeWorkRemotely](https://weworkremotely.com/) ...  *the largest remote work community in the world.*
 
+[WFH.team](https://wfh.team/) ... *300+ resources for remote work*
+
 ### META job search -- blogs/articles about job search <a name="subparagraph1"></a>
 
 [Job-Hunt.ORG](https://www.job-hunt.org/) ... *helping job seekers succeed since 1994* 
