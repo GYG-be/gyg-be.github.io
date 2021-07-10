@@ -8,12 +8,10 @@ categories: template
 
 **These annotated reading lists will not include proprietary packages or papers from journals with a pay wall.**
 
-# Table of contents
-- [Table of contents](#table-of-contents)
-  - [Background <a name="background"></a>](#background-)
-  - [Remote Work Job Listing Sites <a name="paragraph1"></a>](#remote-work-job-listing-sites-)
-    - [META job search -- blogs/articles about job search <a name="subparagraph1"></a>](#meta-job-search----blogsarticles-about-job-search-)
-  - [Inbound Marketing For Your Skills<a name="paragraph2"></a>](#inbound-marketing-for-your-skills)
+- [Background <a name="background"></a>](#background-)
+- [Remote Work Job Listing Sites <a name="paragraph1"></a>](#remote-work-job-listing-sites-)
+  - [META job search -- blogs/articles about job search <a name="subparagraph1"></a>](#meta-job-search----blogsarticles-about-job-search-)
+- [Inbound Marketing For Your Skills<a name="paragraph2"></a>](#inbound-marketing-for-your-skills)
 
 ## Background <a name="background"></a>
 
