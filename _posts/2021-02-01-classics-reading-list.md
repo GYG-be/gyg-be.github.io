@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "Classics Reading List"
-date:   2021-02-01 4:30:00
+date:   2022-01-01 4:30:00
 categories: classics
 ---
 
-
-# These annotated reading lists will not include proprietary packages or papers from journals with a pay wall 
 
 # Listing of Classics
 
