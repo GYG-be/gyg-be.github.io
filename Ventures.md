@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 125Ventures
+title: Ventures
 permalink: /Ventures/
 ---
 

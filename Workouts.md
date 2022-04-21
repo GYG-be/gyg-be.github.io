@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 125Workouts
+title: Workouts
 permalink: /Workouts/
 ---
 
