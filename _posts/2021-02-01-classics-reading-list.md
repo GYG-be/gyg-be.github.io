@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Classics Reading List"
+title:  "Studying The Classics Is The Pattern for Listification"
 date:   2022-01-01 4:30:00
 categories: classics
 ---
