@@ -85,6 +85,8 @@ sktch.org/us
 
 15) NOSE.life
 
+Nanofabricated omni sensing electrochemistry (NOSE) is about nanobiochemical sensing and the metrology of nanobiochemical sensing ... smell, taste, carbon monoxide, hydrogen sulfide, soil quality, water quality, air quality, etc.
+
 * IowaBreeze.org
 
 * Stinxjet.com
