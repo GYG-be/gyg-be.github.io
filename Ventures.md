@@ -5,269 +5,128 @@ permalink: /Ventures/
 ---
 
 
-***Venturing*** is the process of engaging the world by exploring possible business (ie, self-sustaining ventures with products), creative or scientific research or different open source venture philantropies.
+***Venturing*** is our process of ***engaging*** the world economically, culturally, thematically.  
 
-# Listing of ventures
+We try to do this in an intensely practical manner ... by exploring possible business enterprise ideas (ie, self-sustaining ventures with products that offer customers something they need and will pay for or what is generally referred to as *the MVP with a compelling value proposition*) ... but we also look at creative or scientific research or different open source venture philantropies that could really move the needle.  We strongly favor open source.
 
-Our aim is to have roughly 125 ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main venture that we are focusing on.
+# Listing of ventures 
 
-1) SQL.ag
+Our aim is to read and use curated lists and AI to read faster, more broadly, more deeply, to discern patterns better ... we dogfood our reading in order to assist us in gathering intelligence ... our goal is to have roughly 125 ideas in the hopper, but we actually only focus on about 25 venture themes each a month, approximately one per day.
 
-2) DIFFversity
+There are five venture themes that our weekly focus ... they do not necessarily rotate; we could focus on the same five next week. 
 
-3) ENGRco
+Of course, there might be only ONE main venture that we are *sorta really* focusing on, every single day, at this time.
 
-4) NOSE.life
+1) Annotify.APP
 
-5) AncientGuy
+* RSSistant
+* SheepDewg.py
+* Listify.wtf
 
-6) 86400.guru
+2) 86400.guru
 
-7) Greenspace.GROUP
+3) Funnier.Be
 
-8) CloudKernel
+* Clichesaur.us
 
-9) WhoresRadish
+* BabylonMurderHornet.org
 
-10) Botanical 
+* Doynk.me
 
-11)
+4) CloudKernel.org
 
-12) 
+OS ... CoreOS riff ... decentralized, but not really for massive hubs
 
-13)
+Moby
 
-14) 
+Buildah
 
-15)
+MySQL ... LAMP stack, but more layer-ey as in containers ... tighter, more observable ... more htop-ey or bpf-ey without the stackiness
 
-16)
+5) BRUNO.science
 
-17)
+8) gitRxiv.com
 
-18)
+* gitDEEP.com/org
 
-19)
+* exiv.xyz
 
-20)
+7) creVass.org
 
-21)
+* DRAIN.tips
 
-22) 
+8) Salebarn LLC
 
-23)
+* Bidm.AT
 
-24) 
+9) SQL.ag
 
-25)
+* soilrXiv.org
 
-26)
+10) WhoresRadish
 
-27)
+* CoffeeRxiv.org/wtf/com
 
-28)
+11) TWFTR.org
 
-29)
+12) ENGRco
 
-30)
+* QualityFellow
 
-31)
+* Mr.RootCause
 
-32) 
+* PWR.fm
 
-33)
+13) ASYNCH.work
 
-34) 
+sktch.org/us
 
-35)
+14) Nanotoolworks.com
 
-36)
+15) NOSE.life
 
-37)
+* IowaBreeze.org
 
-38)
+* Stinxjet.com
 
-39)
+16 GYG.be
 
-40)
+17) BRUNO.solutions
 
-41)
+* LuckSurface.com/org/net
 
-42) 
+* LyonCountyRepublicans.com ... what's so Lyon about them?
 
-43)
+* MZB.me
 
-44) 
+18) Crowdliness.ORG
 
-45)
+* AUCT.us
 
-46)
+19) AncientGuy.Fitness
 
-47)
+* ViolenceInterrupt.us
 
-48)
+* tougher.be
 
-49)
+20) TRIZ.tips
 
-50)
+* AccidentalInvention.com
 
-51)
+21) DIFFversity
 
-52) 
+* Diff.wtf
 
-53)
+* diffgraph.org
 
-54) 
+* diffversity.com/net/org/wtf
 
-55)
+22) AdvancedPyrolytics.com
 
-56)
+23) SustainFund.org
 
-57)
+* StartupCookbook.US
 
-58)
+24) Greenspace.GROUP
 
-59)
-
-60)
-
-61)
-
-62) 
-
-63)
-
-64) 
-
-65)
-
-66)
-
-67)
-
-68)
-
-69)
-
-70)
-
-71)
-
-72) 
-
-73)
-
-74) 
-
-75)
-
-76)
-
-77)
-
-78)
-
-79)
-
-80)
-
-81)
-
-82) 
-
-83)
-
-84) 
-
-85)
-
-86)
-
-87)
-
-88)
-
-89)
-
-90)
-
-91)
-
-92) 
-
-93)
-
-94) 
-
-95)
-
-96)
-
-97)
-
-98)
-
-99)
-
-100)
-
-101)
-
-102) 
-
-103)
-
-104) 
-
-105)
-
-106)
-
-107)
-
-108)
-
-109)
-
-110)
-
-111)
-
-112) 
-
-113)
-
-114) 
-
-115)
-
-116)
-
-117)
-
-118)
-
-119)
-
-120)
-
-121)
-
-122)
-
-123)
-
-124)
-
-125)
-
-# Exploratory / Wild Idea Lists ... *which might become ventures*
-
-
-* Quantum Cloud Kernel Reading List
-
-* Computational Biology Reading List
-
-* Asynchronous Workflow Reading List
-
-* Computational Linguistics Reading List
+25) PrairieNative.com
