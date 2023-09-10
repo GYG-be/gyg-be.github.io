@@ -1,4 +1,4 @@
-## PLYP.US is a spin-off of 86400.GURU
+## GYG.be is another spin-off of 86400.GURU
 
 86400.GURU is primarily about simple disciplines that we all can use in order to build stronger habits to optimize each one of the 86400 seconds in each day.
 
