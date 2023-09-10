@@ -1,12 +1,18 @@
 ---
 layout: post
-title:  "Practice Like You Play"
-title:  "Continously ELEVATE your discipline"
+title:  "Git Your GYG"
+title:  "Continously ELEVATE your  Gitflow discipline"
 date:   2023-09-02 4:30:00
 categories: template
 ---
 
-***Show Up So Damned Ready That You Don't Have To Get Ready***
+***Use [Git Workflows](https://git-scm.com/docs/gitworkflows) for your own GYG discipline***
+
+# Eat Your Own Dogfood
+
+Practice Like You Play
+
+Develop a Getting Things Done GYG Intell Workstyle
 
 # Continuously ELEVATE your discipline
 
