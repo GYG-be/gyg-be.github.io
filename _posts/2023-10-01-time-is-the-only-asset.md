@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Time is the ONLY asset we have"
-date:   2023-01-01 4:30:00
+date:   2023-10-01 4:30:00
 categories: template
 ---
 
 
-# You get 86400 secs/day, 30 or 31 days/month.
+# You get 86400 seconds every day, 30 or 31 days/month every year.
 
-We use EVERY second.
+Use EVERY second.
 
 *We train* ***constantly***, *but we don't JUST train ... WE TRAIN WITH CONSTANCY OF INTENTION ... and that SECOND-by-SECOND habit, or the discipline of constant focus on increasing freedom, occupies our mind in each second of the 86400 second day.*
 

@@ -1,20 +1,27 @@
 ---
 layout: post
-title:  "Plan With Reverence"
-date:   2023-06-01 4:30:00
+title:  "Plan With The Intention To Continuously Elevate"
+subtitle: "Improve Your Approach to Planning With Reverence For What Works"
+date:   2023-12-01 4:30:00
 categories: template
 ---
 
 
-# Sharpen the axe
+There are no shortcuts ... if you are working for yourself, you need to work harder ON yourself ... you won't get by just showing up and asking the boss what you need to do today.
 
-Plan each day in order to optimize each of the other time blocks.
+It will seem that *ALL of the time management and "getting things done* lifehack stuff that actually works is going to filled with tons of cliches.* That's how it works -- cliches and the kinds of classic sayings that winning coaches paint on their locker room walls get to become cliches because those "old saws can really cut the wood* when it comes to how people think. How you think is everything. So go back and grind on the basics, reverently study what works, take out the parts of your routine that just give you comfort, amp up the parts that push you to be better.
 
-When we FAIL to set our agenda, something else will. When we're addicted to material SHIT or someother kind of fritterware, we might as well be a junkie or crack addict.
+There are no shortcuts, but it is not that complicated.  If you are working for yourself, you need to work harder ON yourself. Nobody else will do it for you -- it's up to you to constantly work at sharpening your focus and eliminating lazy or unproductive habits.
+
+# Sharpen the axe by always improving the axe sharpening discipline
+
+Of course, you should have some daily routine to prioritize and plan each day in order to optimize each of the other time blocks ... but you really also need to devote a small amount of effort, energy and resources [as you work through your day] to continually improving this daily routine and especially to keep it from becoming a rut.  Obviously, if it's generally working for you, you don't really need or want to tinker with what is working, if it is genuinely working. But if you have "hit a dry spell" or somehow sense that you've gotten bit stale, you will want to improve your daily routine. Obviously, if you have turned lazy, maybe stopped exercising or somehow moved away from what was working, you will need to go back to what works ASAP after you notice the shortfall.
+
+**If you are working for yourself, you need to work harder ON yourself.** Whenever we have a lapse in focus and FAIL to set our agenda or FAIL to work on the discipline of continually elevating our discipline, something else will occupy space in our minds and live there rent-free. We have to be extremely cognizant of how desire shapes our focus ... exactly what do we desire?  Do we desire to continually elevate our discipline? Do we desire to continually become more creative, to become a better servant of our Creator? Where is our focus? When we're addicted to cheap material SHIT or someother kind of worldly fritterware, we might as well be a junkie or crack addict.
 
 # Optimize means embrace the daily grind
 
-How Do We Overcome Tedium?
+How Do We Overcome Tedium?  How do we avoid complacency?
 
 It's a VERY SERIOUS question ... we might even say that it is a *deadly* serious question. There *might* not be ANY question that is more important.
 
@@ -24,7 +31,7 @@ As much as people want to strenuously deny this, most and maybe ALL people have 
 
 People are actually plent SMART already about these things; they know ALL about good intentions ... just like other good, gung ho souls, they are more than familiar with the endless array of [different mnemonic devices for goalsetting](https://www.developgoodhabits.com/mnemonic-devices/) ... they have been to more self-development seminars, bootcamps, retreats than they can count ... they have listened to decades worth of self-help audiobooks as they commute ... as they go for their daily run or walk they listen even more podcasts to augment their storehouse of time-proven, old reliable ideas from DaleCarnigie, NapoleonHill, TonyRobbins, StephenCovey, JohnMaxwell, Eckhart Tolle, RobertGreene, JoeDispenza ... people are more than SMART when it comes to double-down on their attempts to mentally program themselves to have better habits or to break the bad habits of being themselves.
 
-There's no problem with goalsetting ... it's fine ... it's not bad for you.
+There's no problem with goalsetting ... SMART goals, goalsetting, development of actions plans with the actual follow-through part of the PDCA cycle is fine and dandy ... it's a free mental model; it's not at all sexy, but it's not one bit bad for you ... what's bad is when we allow tedium or complacency to make us bored, such that we allow advertisers or traveling salesguy's pitching their magic elixirs to shape our desires.
 
 ## But the TEDIUM of the daily grind will persist
 

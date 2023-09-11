@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Avoid Self-Deception; OWN Your Practice"
-date:   2023-02-01 4:30:00
+date:   2023-11-01 4:30:00
 categories: template
 ---
 
