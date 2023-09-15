@@ -7,7 +7,7 @@ categories: template
 ---
 
 
-When you are work for yourself, you must work harder ON yourself ... every second, every day.
+When you are work for yourself, you must work harder ON your time, your discipline, your mindset, yourself ... every second, every day.
 
 You will not get by just showing up and asking the boss what you need to do today.
 
