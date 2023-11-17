@@ -46,7 +46,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 17) Ollam.ai and alternatives for natural language processing tasks such as: spaCY, NLTK, TextBlob, TensorFlow, HuggingFace Transformers, Amazon Comprehend, Google Cloud Natural Language API
 
-18)
+18) Mark builds, uses and refines [his new AI applications which are built with AI](https://partyrock.aws/u/MarkBruns/IKKJt96W8/Daily-Wellness-Guide)
 
 19)
 
