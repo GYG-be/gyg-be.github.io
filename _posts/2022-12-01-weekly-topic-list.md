@@ -44,7 +44,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 16) Music, Music AI, Music Metadata
 
-17) 
+17) Ollam.ai and alternatives for natural language processing tasks such as: spaCY, NLTK, TextBlob, TensorFlow, HuggingFace Transformers, Amazon Comprehend, Google Cloud Natural Language API
 
 18)
 
