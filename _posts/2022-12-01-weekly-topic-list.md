@@ -40,7 +40,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 14) Meta Open Access, beyond Wikipedia, peer review and wikiculture
 
-15) Philosophy
+15) TRIZ, ARIZ, technical knowledge-graph problem-solving, invention suggestions based on corpus of patents
 
 16) Music, Music AI, Music Metadata
 
