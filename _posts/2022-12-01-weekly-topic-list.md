@@ -48,9 +48,9 @@ Our aim with this listing is to never have to think about our next list of items
 
 18) Mark builds, uses and refines [his new AI applications which are built with AI](https://partyrock.aws/u/MarkBruns/IKKJt96W8/Daily-Wellness-Guide)
 
-19) Future HEDT sandbox configuration: HBM3 GPU memory, DDR5 memory, NVME flash drives for High-Throughput Generative Inference for LLMs with Multiples GPUs
+19) Future HEDT sandbox configuration: HBM3 GPU memory, DDR5 memory, NVME flash drives for High-Throughput Generative Inference for LLMs with Multiples GPUs ... the [secret sauce is PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
 
-20)
+20) 
 
 21)
 
