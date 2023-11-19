@@ -50,9 +50,9 @@ Our aim with this listing is to never have to think about our next list of items
 
 19) Future HEDT sandbox configuration: HBM3 GPU memory, DDR5 memory, NVME flash drives for High-Throughput Generative Inference for LLMs with Multiples GPUs ... the [secret sauce is PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
 
-20) 
+20) [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) is NumPy on the CPU, GPU, and TPU, with great automatic differentiation for high-performance machine learning research. What’s new is that JAX uses [XLA(the Accelerated Linear Algebra compiler)](https://www.tensorflow.org/xla) to compile and run your NumPy code on accelerators, like GPUs and TPUs.
 
-21)
+21) [WasmEdge](https://wasmedge.org/docs/) and [TinyLlama](https://github.com/jzhang38/TinyLlama)
 
 22) 
 
