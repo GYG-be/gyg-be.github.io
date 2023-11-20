@@ -54,9 +54,9 @@ Our aim with this listing is to never have to think about our next list of items
 
 21) [WasmEdge](https://wasmedge.org/docs/) and [TinyLlama](https://github.com/jzhang38/TinyLlama)
 
-22) 
+22) [The last week or so's worth of Arxiv pre-print papers in machine learning](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.LG&terms-0-field=all&terms-1-operator=AND&terms-1-term=&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=past_12&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first) ... the current rate of new papers is about 42,000 per year or 800 per week.
 
-23)
+23) [Methods of information geometry](https://www.ams.org/books/mmono/191/mmono191-endmatter.pdf) including things lie the [Fisher information](https://en.wikipedia.org/wiki/Fisher_information) carried in an observable random variable about an unknown parameter and how the [Cramér–Rao bound(CRB)](https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound) used to bound the variance of biased estimators of a given biased.
 
 24) 
 
