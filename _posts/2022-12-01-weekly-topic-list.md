@@ -60,7 +60,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 24) [The last week or so's worth of Arxiv preprint abstracts on Condensed Matter Physics](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=phase+transitions&terms-0-field=title&classification-physics=y&classification-physics_archives=cond-mat&classification-include_cross_list=include&date-filter_by=past_12&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first) with an emphasis on [phase transitions](https://en.wikipedia.org/wiki/Phase_transition) and a particular emphasis on [geometric frustration](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=geometrical+frustration&terms-0-field=title&classification-physics=y&classification-physics_archives=cond-mat&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first)
 
-25)
+25) The [pattern of frustration formation in the functional brain network](https://direct.mit.edu/netn/article/6/4/1334/112207/Pattern-of-frustration-formation-in-the-functional) and our [requirement to change of functional brain network across the lifespan](https://pubmed.ncbi.nlm.nih.gov/34793536/) and the [dynamics of the process of cognitive dissonance removal](https://www.connectedpapers.com/main/40acbf791850dc0fc1a2ff04670ef86e20ee95a8/Lifetime-of-links-influences-the-evolution-towards-structural-balance/graph), ie "How can we learn faster?".
 
 26)
 
