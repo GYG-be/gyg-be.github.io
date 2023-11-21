@@ -24,13 +24,13 @@ Our aim with this listing is to never have to think about our next list of items
 
 6) Sculpture, particularly optimal landsculpting, particularly parks and green spaces
 
-7) Prayer, lojong meditation 
+7) Prayer, lojong meditation, eliminating cognitive dissonance, improving neurocapacities 
 
 8) Podcastering, DAWs, audio engineering, Canva, GIMP, Inkscape, Blender
 
-9) Python, python community, developer ecosystems
+9) Python, python community, developer ecosystems, optimizing the CI/CD process, improving code review, encouraging interaction even frustration
 
-10) Unix, Linux, Containers, Virtual Machines, Operating Systems
+10) Unix, Linux, Containers, Virtual Machines, Operating Systems, CloudKernel
 
 11) Physics, quantum physics, quantum computing
 
@@ -38,7 +38,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 13) Chemistry, computational chemistry, computational materials science
 
-14) Meta Open Access, beyond Wikipedia, peer review and wikiculture
+14) Meta Open Access, beyond Wikipedia, peer review and wikiculture, [Zenodo](https://zenodo.org/) and research data repositories as well as ML repositories like HuggingFace 
 
 15) TRIZ, ARIZ, technical knowledge-graph problem-solving, invention suggestions based on corpus of patents
 
@@ -64,7 +64,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 26) Develop an "end-of-motherboard" design tool architecture for going beyond simply [integrating GPU & memory semiconductors into a single package](https://wccftech-com.cdn.ampproject.org/c/s/wccftech.com/sk-hynix-plans-on-integrating-gpu-memory-semiconductors-into-a-single-package-defying-industry-trends/amp/) which would involve looking at [how GPUs are made](https://www.techradar.com/news/computing-components/graphics-cards/how-gpus-are-made-1000923) including an iterative design process which would include cycling through several layers which might be something like: 1) high level design, 2) floorplan and netlist, 3) circuit verification and emulation, 4) mask making, 5) photolithography, 6) several different processes to deposit and etch which produces the patterned oxide layers for the foundation, 7) several different chemical and plasma vapor deposition sub-processes to create the n-channel MOSFETs, p-channel MOSFETs and any other transistor-like components, 8) connecting everything in several sub-processes of deposition, etching, electoplating and chemical-mechanical polishing 9) design for testing including optical image recognition for proper registration to complete wafer probing as well as he potential for minor rework for yield improvement, 10) packaging and thermal optimization
 
-27)
+27) [Generic Mapping Tools(GMT)](https://docs.generic-mapping-tools.org/latest/)
 
 28)
 
