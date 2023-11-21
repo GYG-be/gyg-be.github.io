@@ -66,7 +66,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 27) [Generic Mapping Tools(GMT)](https://docs.generic-mapping-tools.org/latest/)
 
-28) [Amaranth](https://amaranth-lang.org/docs/amaranth/latest/intro.html)
+28) [Amaranth](https://amaranth-lang.org/docs/amaranth/latest/intro.html) vs the universe of alternatives for producing/documenting a SoC high level design product requirement specification
 
 29)
 
