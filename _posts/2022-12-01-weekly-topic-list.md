@@ -66,7 +66,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 27) [Generic Mapping Tools(GMT)](https://docs.generic-mapping-tools.org/latest/)
 
-28)
+28) [Amaranth](https://amaranth-lang.org/docs/amaranth/latest/intro.html)
 
 29)
 
