@@ -46,7 +46,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 17) Ollam.ai and alternatives for natural language processing tasks such as: spaCY, NLTK, TextBlob, TensorFlow, HuggingFace Transformers, Amazon Comprehend, Google Cloud Natural Language API
 
-18) Mark builds, uses and refines [his new AI applications which are built with AI](https://partyrock.aws/u/MarkBruns/IKKJt96W8/Daily-Wellness-Guide)
+18) Our hero builds, uses and refines [his new AI applications which are built with AI](https://partyrock.aws/u/MarkBruns/IKKJt96W8/Daily-Wellness-Guide)
 
 19) Future HEDT sandbox configuration: HBM3 GPU memory, DDR5 memory, NVME flash drives for High-Throughput Generative Inference for LLMs with Multiples GPUs ... the [secret sauce is PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
 
@@ -62,7 +62,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 25) The [pattern of frustration formation in the functional brain network](https://direct.mit.edu/netn/article/6/4/1334/112207/Pattern-of-frustration-formation-in-the-functional) and our [requirement to change of functional brain network across the lifespan](https://pubmed.ncbi.nlm.nih.gov/34793536/) and the [dynamics of the process of cognitive dissonance removal](https://www.connectedpapers.com/main/40acbf791850dc0fc1a2ff04670ef86e20ee95a8/Lifetime-of-links-influences-the-evolution-towards-structural-balance/graph), ie "How can we learn faster?".
 
-26)
+26) Develop an "end-of-motherboard" design tool architecture for going beyond simply [integrating GPU & memory semiconductors into a single package](https://wccftech-com.cdn.ampproject.org/c/s/wccftech.com/sk-hynix-plans-on-integrating-gpu-memory-semiconductors-into-a-single-package-defying-industry-trends/amp/)
 
 27)
 
