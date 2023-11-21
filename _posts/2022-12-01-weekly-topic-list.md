@@ -26,9 +26,9 @@ Our aim with this listing is to never have to think about our next list of items
 
 7) Prayer, lojong meditation, eliminating cognitive dissonance, improving neurocapacities 
 
-8) Podcastering, [REAPER.fm](https://dlz.reaper.fm/userguide/ReaperUserGuide703c.pdf) and others DAWs for audio engineering ... as well as Canva, GIMP, Inkscape, Blender, [Manim](https://docs.manim.community/en/stable/)
+8) Podcastering ... Revoicer, MURF.ai and other AI-generated audio from text ... [REAPER.fm](https://dlz.reaper.fm/userguide/ReaperUserGuide703c.pdf) and others DAWs for audio engineering ... as well as ***monkeying around*** with Canva, GIMP, Inkscape, [Blender 4.0](https://youtu.be/B0J27sf9N1Y?si=686gsE74veOZ1vx_), [Manim](https://docs.manim.community/en/stable/)
 
-9) Python, python community, developer ecosystems, optimizing the CI/CD process, improving code review, encouraging interaction even frustration
+9) Python, python community, developer ecosystems, optimizing the CI/CD process, improving code review, encouraging interaction even geometric frustration
 
 10) Unix, Linux, Containers, Virtual Machines, Operating Systems, CloudKernel
 
@@ -68,7 +68,7 @@ Our aim with this listing is to never have to think about our next list of items
 
 28) [Alliance/Coriolis](https://github.com/lip6/coriolis) vs the [universe of alternatives](https://www.engineersgarage.com/top-eda-tools-vlsi-design/) for producing/documenting a SoC high level design product requirement specification
 
-29)
+29) Key benefits of advanced nuclear reactors ... I'm not convinced that [advanced small modular nukes](https://www.energy.gov/ne/articles/4-key-benefits-advanced-small-modular-reactors) are a good thing; economies of scale are a very huge and real thing in power generation ... decentralized power generation is not good just because people are too excited about decentralized things ... sometimes, as with power generation in particular, centralization is a VERY VERY positive attribute.
 
 30)
 
