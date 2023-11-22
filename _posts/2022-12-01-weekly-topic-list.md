@@ -71,9 +71,9 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 29) Key benefits of advanced nuclear reactors ... I'm not convinced that [advanced small modular nukes](https://www.energy.gov/ne/articles/4-key-benefits-advanced-small-modular-reactors) are a good thing; economies of scale are a very huge and real thing in power generation ... decentralized power generation is not good just because people are too excited about decentralized things ... sometimes, as with power generation in particular, centralization is a VERY VERY positive attribute.
 
-30) Preevy, Ngrok + Prometheus ... previewing containers
+30) [Preevy](https://preevy.dev/) and [Lifecycle](https://docs.livecycle.io/Livecycle%20Overview) ... or [Vercel](https://vercel.com/docs/deployments/preview-deployments) or [Netlify](https://docs.netlify.com/site-deploys/deploy-previews/) or [Ngrok](https://ngrok.com/docs/what-is-ngrok/) ... along with [Prometheus](https://prometheus.io/docs/introduction/overview/) ... preview and product test environments for observability of containers and CI/CD workflow
 
-31)
+31) [Xilinx design tools](https://www.xilinx.com/products/design-tools.html) ... along with AMD's [ROCm open-source stack for graphics processing unit (GPU) computation](https://rocm.docs.amd.com/en/latest/rocm.html) ... and especially understanding the lower-level [HIP: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm-Developer-Tools/HIP)
 
 32) 
 
