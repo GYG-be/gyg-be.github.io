@@ -67,7 +67,7 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 27) [Generic Mapping Tools(GMT)](https://docs.generic-mapping-tools.org/latest/)
 
-28) [Alliance/Coriolis](https://github.com/lip6/coriolis) vs the [universe of alternatives](https://www.engineersgarage.com/top-eda-tools-vlsi-design/) for producing/documenting a SoC high level design product requirement specification
+28) [Alliance/Coriolis](https://github.com/lip6/coriolis),[Electric](https://www.gnu.org/software/electric/), [Glade (Gds, Lef And Def Editor)](https://peardrop.co.uk/) vs the [universe of alternatives](https://www.engineersgarage.com/top-eda-tools-vlsi-design/) for producing/documenting a manufacturable heterogeneous SoC high level design or at least an outline of a product requirement specification ... to be fleshed out with tools like ... [Synopsis Cloud](https://www.synopsys.com/cloud.html), [Cadence Virtuso Heterogeneous Integration](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/virtuoso-studio/heterogeneous-integration.html), [Siemens EDA [Mentor Graphics]](https://eda.sw.siemens.com/en-US/ic/), [Silvaco TCAD](https://silvaco.com/tcad/)
 
 29) Key benefits of advanced nuclear reactors ... I'm not convinced that [advanced small modular nukes](https://www.energy.gov/ne/articles/4-key-benefits-advanced-small-modular-reactors) are a good thing; economies of scale are a very huge and real thing in power generation ... decentralized power generation is not good just because people are too excited about decentralized things ... sometimes, as with power generation in particular, centralization is a VERY VERY positive attribute.
 
