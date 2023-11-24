@@ -48,9 +48,9 @@ Our aim with this listing is to never have to think about our next list of items
 
 18) Our hero builds, uses and refines [his new AI applications which are built with AI](https://partyrock.aws/u/MarkBruns/IKKJt96W8/Daily-Wellness-Guide)
 
-19) Future HEDT sandbox configuration: HBM3 GPU memory, DDR5 memory, NVME flash drives for High-Throughput Generative Inference for LLMs with Multiples GPUs ... the [secret sauce is PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
+19) Future HEDT sandbox configuration: [directly integrated HBM4 GPU memory](https://www.tomshardware.com/news/sk-hynix-plans-to-stack-hbm4-directly-on-logic-processors), [double data rate synchronoous dynamic random-access memory (DDR SDRAM)](https://en.wikipedia.org/wiki/DDR_SDRAM) and the [JEDEC memory specifications](https://www.jedec.org/category/technology-focus-area/main-memory-ddr3-ddr4-sdram), NVME flash drives for High-Throughput Generative Inference for LLMs with Multiples GPUs ... the [secret sauce is PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
 
-20) [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) is NumPy on the CPU, GPU, and TPU, with great automatic differentiation for high-performance machine learning research. What’s new is that JAX uses [XLA(the Accelerated Linear Algebra compiler)](https://www.tensorflow.org/xla) to compile and run your NumPy code on accelerators, like GPUs and TPUs.
+20) [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) is NumPy on the CPU, GPU, and TPU, with great automatic differentiation for high-performance machine learning research. What’s new is that JAX uses [XLA, the TF Accelerated Linear Algebra compiler](https://www.tensorflow.org/xla) to compile and run your NumPy code on accelerators, like GPUs and TPUs.
 
 21) [WasmEdge](https://wasmedge.org/docs/) and [TinyLlama](https://github.com/jzhang38/TinyLlama) ... including the use of [crun](https://github.com/containers/crun), [youki](https://github.com/containers/youki), [gVisor](https://gvisor.dev/), [Kata Containers](https://katacontainers.io/) and similar approaches to achieve faster, more secure, smaller footprint, lower-memory requirement [OCI Runtime](https://opencontainers.org/posts/blog/2023-07-21-oci-runtime-spec-v1-1/) containerized resources for edge computing.
 
@@ -75,7 +75,7 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 31) [Xilinx design tools](https://www.xilinx.com/products/design-tools.html) ... along with AMD's RadeonOpenCompute  [ROCm open-source stack for graphics processing unit (GPU) computation](https://rocm.docs.amd.com/en/latest/rocm.html) ... and, not just hardware, but also understanding the [ROCm [Software] Developer Tools](https://github.com/ROCm-Developer-Tools) especially the lower-level [kernel language [of C++ functions] and conceptual programming model of HIP: C++ Heterogeneous-Compute Interface for Portability](https://rocm.docs.amd.com/projects/HIP/en/latest/reference/kernel_language.html) which is intended to be analogous to the [CUDA® C++ general purpose parallel computing platform and program model](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#cuda-a-general-purpose-parallel-computing-platform-and-programming-model) to exploit [Unified Memory Programming](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#unified-memory-programming) in order to be able to tap the massively parallel nature of GPUs and achieve far higher performance than what is even theoretically possible on an advanced CPU.
 
-32) 
+32) [JEDEC Committees](https://www.jedec.org/committees)
 
 33)
 
