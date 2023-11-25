@@ -85,7 +85,7 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 36) [Keep up with the PyTorch blog](https://pytorch.org/blog/), follow the [best curated PyTorch list](https://github.com/ritchieng/the-incredible-pytorch) and personally [annotate your own PyTorch list](https://github.com/BrunoScience/the-incredible-pytorch)
 
-37)
+37) Github ... commitgraph ... actions ... copilot ... discussions ... issues ... better commit messages ... Github everything
 
 38)
 
