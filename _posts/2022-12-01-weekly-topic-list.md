@@ -6,7 +6,13 @@ categories: template
 ---
 
 
-We mostly read as a break from work ... but we try to speedread *with serious, critical intention.* 
+# Reading is a lifelong JOURNEY.
+
+We mostly read as a break from work or to changeup the workday ... as we go along, we try to speedread and improve our ability read better *with serious, critical intention* and using all the tools at our disposal, such as AI listification -- the point of reading is to gather intelligence about the road ahead. 
+
+We can stress enough that [**using AI tools, curating and annotating reading and the disicplined upgrading of the whole reading skillstack is in itself a lifelong JOURNEY**](https://markbruns.github.io/Listify/) ... but the whole point of reading and listification is about leadership and not just better understanding the road ahead, but working at getting better at reading.
+
+There's a reason why readers become better leaders when they understand why and how leaderships is about intelligence gathering and skills in reading or gathering the necessary background for future situations.
 
 # Topic Lists
 

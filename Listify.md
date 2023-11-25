@@ -7,6 +7,12 @@ permalink: /Listify/
 
 #### Listification is **HYBRID intelligence
 
+Using AI tools, curating and annotating reading and the disicplined upgrading of the whole reading skillstack is in itself a lifelong JOURNEY.** 
+
+ That is what ***listification*** is about. It's about reading with a purpose and that purpose is about varying the content, but constantly improving the highly disciplined *listification* process to always read with an intention to be better able to apply knowledge and to DO things, to not just DO things for the sake of keeping busy, but to be able to DO the right thing, to DO the necessary thing rather than causing collateral damage by just doing stuff because it's there. 
+ 
+ *Listification* is about improvement of the discipline of gathering intelligence.
+
 # Listifying of Classics
 
 Listification of Classics is not exactly so much about individual original Classics but rather it's about the Classics process ... that means looking at writing about writing about writing, over the ages, about how an orginal work becomes influentials to generations of really smart people with unique takes on not just the original Classic, but their take on the generations of scholarship that happened before ... it is impossible for anything become a truly legitimate Classic within an author's lifetime, because of how the process of becoming part of the Classic canon REQUIRES generations upon generations upon generations of asynchronous, longitudinal commentary and commentary about commentary.
