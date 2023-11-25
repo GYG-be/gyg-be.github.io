@@ -77,13 +77,13 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 32) [JEDEC Committees](https://www.jedec.org/committees)
 
-33) DRAIN.tips
+33) DRAIN.tips for practical plumbering ... TRIZ.tips for the full ishikawa of problem-solving and product improvement ... AIify the tips ... AIify the THEORY of INVENTIVE PROBLEM SOLVING
 
-34) AUCT.us prediction markets / insurance brokerage / microinsurance
+34) AUCT.us ... not just prediction markets ... but risk mgmt and microinsurance ... what's the best probabalistic outcome and how can we eliminate or mitigate the failure modes that threaten achievement of that outcome 
 
-35) AncientGuy.Fitness
+35) AncientGuy.Fitness ... how should an old man go about the process of trying stay fit? It's primarily a MENTAL exercise ... but serious mental exercise inevitably has a physical component. 
 
-36) 
+36) [Keep up with the PyTorch blog](https://pytorch.org/blog/), follow the [best curated PyTorch list](https://github.com/ritchieng/the-incredible-pytorch) and personally [annotate your own PyTorch list](https://github.com/BrunoScience/the-incredible-pytorch)
 
 37)
 
