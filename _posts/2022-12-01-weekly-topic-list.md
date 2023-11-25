@@ -97,13 +97,13 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 37) Remote work, asynch.work, ENGR.co client services, API data access connection, manipulators, system integration, project management, verification/validation ... get your assets ready ... attracting and outreach is huge part of it, but you need to think with the end in mind, ie how do you close deals and monetize?
 
-38) Universal Scene Description, Omniverse, Revit, Canva, Blender ... 
+38) Universal Scene Description, [Blender 4.0 with Omniverse Connect](https://docs.omniverse.nvidia.com/connect/latest/blender/release-notes.html#usd-201-1), [Revit with Omniverse Connect](https://docs.omniverse.nvidia.com/connect/latest/revit.html) or maybe even [Autodesk Architecture, Engineering and Construction Collection](https://www.autodesk.com/collections/architecture-engineering-construction/overview?term=1&tab=subscription&plc=AECCOL) ... 
 
 39) Tailscale and VPN workflows, DNS, Bind 
 
 40) LIDAR scan data, using smartphone video to develop digital twins
 
-41)
+41) [Oculus Quest 2](https://www.amazon.com/Oculus-Quest-Advanced-All-One-Virtual/dp/B09B8DQ26F/) for martial arts, yoga, tai chi and flexibility training ... practicing martial arts moves, visualizing an opponent, shadow boxing strikes, kicks, and footwork ... maybe boxing games like “Thrill of the Fight” or “Creed: Rise to Glory” to provide a virtual sparring experience and help improve your reflexes and stamina ... fitness apps and guided yoga sessions with virtual instructors to focus on proper form and technique in immersive environments ... emphasizing balance, alignment, breathing exercises with Quest 2 to work on balance poses (e.g., tree pose, warrior pose) while maintaining proper form.... slow, flowing movement in old school martial arts like tai chi, using Quest 2 to practice fluid motions ... warm up/cool down with dynamic stretches in VR ... explore VR experiences that align with goals, practicing katas, holding a warrior pose, enhancing the mind-body connection.
 
 42) 
 
