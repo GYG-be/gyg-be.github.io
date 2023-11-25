@@ -10,7 +10,11 @@ We mostly read as a break from work ... but we try to speedread *with serious, c
 
 # Topic Lists
 
-Our aim with this listing is to never have to think about our next list of items to read/annotate ... we want to have at least 125 good topic ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main one that we are focusing on getting right.
+READING / curating / annotating listings of topics is a lifelong JOURNEY in intelligence gathering and exploration ... this reading JOURNEY is not a substitute for actually DOING things; instead it's about the preparation for maximizing the productivity in doing things and not just doing things for the sake of keeping busy or appearing to have done something.
+
+READING is about gathering intell to working much smarter on a precise target ... rather than just blowing shit up and causing a lot of collateral damage by doing stuff or driving around and gawking.
+
+Our aim with this listing is to have a GOTO lists for any downtime, to never have to think about our next list of items to read/annotate ... we want to have at least 125 good topic ideas in the hopper ... we might to have 25 or so [VENTURES](https://markbruns.github.io/Ventures/) which we work on at least once a month ... to have five key projects that we touch once a week ... and to have ONE main one that is operational now ... and that we are focusing on getting right.
 
 1) Microscopy, lithography, computational lithography
 
@@ -75,23 +79,23 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 31) [Xilinx design tools](https://www.xilinx.com/products/design-tools.html) ... along with AMD's RadeonOpenCompute  [ROCm open-source stack for graphics processing unit (GPU) computation](https://rocm.docs.amd.com/en/latest/rocm.html) ... and, not just hardware, but also understanding the [ROCm [Software] Developer Tools](https://github.com/ROCm-Developer-Tools) especially the lower-level [kernel language [of C++ functions] and conceptual programming model of HIP: C++ Heterogeneous-Compute Interface for Portability](https://rocm.docs.amd.com/projects/HIP/en/latest/reference/kernel_language.html) which is intended to be analogous to the [CUDA® C++ general purpose parallel computing platform and program model](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#cuda-a-general-purpose-parallel-computing-platform-and-programming-model) to exploit [Unified Memory Programming](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#unified-memory-programming) in order to be able to tap the massively parallel nature of GPUs and achieve far higher performance than what is even theoretically possible on an advanced CPU.
 
-32) [JEDEC Committees](https://www.jedec.org/committees)
+32) [JEDEC Committees](https://www.jedec.org/committees) and other means of engaging with professional communities
 
-33) DRAIN.tips for practical plumbering ... TRIZ.tips for the full ishikawa of problem-solving and product improvement ... AIify the tips ... AIify the THEORY of INVENTIVE PROBLEM SOLVING
+33) [Keep up with the PyTorch blog](https://pytorch.org/blog/), follow the [best curated PyTorch list](https://github.com/ritchieng/the-incredible-pytorch) and personally [annotate your own PyTorch list](https://github.com/BrunoScience/the-incredible-pytorch)
 
-34) AUCT.us ... not just prediction markets ... but risk mgmt and microinsurance ... what's the best probabalistic outcome and how can we eliminate or mitigate the failure modes that threaten achievement of that outcome 
+34) Not just prediction markets for politics ... but risk mgmt and microinsurance ... what's the best probabalistic outcome and how can we eliminate or mitigate the failure modes that threaten achievement of that outcome 
 
-35) AncientGuy.Fitness ... how should an old man go about the process of trying stay fit? It's primarily a MENTAL exercise ... but serious mental exercise inevitably has a physical component. 
+35) How should anyone go about the process of trying stay fit? It's primarily a MENTAL exercise augmented with AI for the tedious processes of keeping up with the literature ... but, realistically, it has to be much more practical, much more immediate and an exercise in serious moment-by-moment mindfulness which inevitably involves a physical exercise component and as well as a nutritional component. 
 
-36) [Keep up with the PyTorch blog](https://pytorch.org/blog/), follow the [best curated PyTorch list](https://github.com/ritchieng/the-incredible-pytorch) and personally [annotate your own PyTorch list](https://github.com/BrunoScience/the-incredible-pytorch)
+36) How can one optimize one's Github engagement? ... beyond just commitgraph ... actions for build/review/test during dev ... copilot ... discussions ... issues-driven CI/CD ... better commit messages and Git discipline... become the best Github advertisement for everything Github
 
-37) Github ... commitgraph ... actions ... copilot ... discussions ... issues ... better commit messages ... Github everything
+37) Remote work, asynch.work, ENGR.co client services, API data access connection, manipulators, system integration, project management, verification/validation ... get your assets ready ... attracting and outreach is huge part of it, but you need to think with the end in mind, ie how do you close deals and monetize?
 
-38)
+38) Universal Scene Description, Omniverse, Revit, Canva, Blender ... 
 
-39)
+39) Tailscale and VPN workflows, DNS, Bind 
 
-40)
+40) LIDAR scan data, using smartphone video to develop digital twins
 
 41)
 
@@ -265,7 +269,7 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 # Exploratory / Wild Brainstorm Lists ... *which might become reading lists*
 
-
+In addition to [VENTURES](https://markbruns.github.io/Ventures/) ... which are all really just curated reading lists.
 * 
 
 * 
