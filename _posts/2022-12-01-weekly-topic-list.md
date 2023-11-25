@@ -77,13 +77,13 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 32) [JEDEC Committees](https://www.jedec.org/committees)
 
-33)
+33) DRAIN.tips
 
-34) 
+34) AUCT.us prediction markets / insurance brokerage / microinsurance
 
-35)
+35) AncientGuy.Fitness
 
-36)
+36) 
 
 37)
 
