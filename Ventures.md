@@ -11,40 +11,70 @@ We try to do this in an intensely practical manner ... by exploring possible bus
 
 # Listing of ventures 
 
-Our aim is to read and use curated lists and AI to read faster, more broadly, more deeply, to discern patterns better ... we dogfood our reading in order to assist us in gathering intelligence ... our goal is to have roughly 125 ideas in the hopper, but we actually only focus on about 25 venture themes each a month, approximately one per day.
+Our aim is to read and use curated lists and AI to read faster, more broadly, more deeply, to discern patterns better ... we dogfood our reading in order to assist us in gathering intelligence ... our goal is to have roughly 100-200 brainstormed in the hopper, that's what our annotified curating reading lists are for  ... we actually only focus on about 10-20 venture themes each a month ... but, in practice, we try to *only one FOCUS on damned thing at a time.*
 
-There are five venture themes that our weekly focus ... they do not necessarily rotate; we could focus on the same five next week. 
 
-Of course, there might be only ONE main venture that we are *sorta really* focusing on, every single day, at this time.
-
-0) * MZB.me
+0) MZB.me ... the strictly personal overhead, necessary for balance and direction, mostly about enjoying life while getting older
 
 * MarkBruns.com
 * MarkBruns.github.io
+* AncientGuy.Fitness / ancientguy.com/org ... why we read the classics and listen to history/biography audio books for entertainment and balance for the AI and engineering work we do in our ventures
 
 1) Annotify.APP
 
 * Listify.wtf
-* RSSistant
+* Rrssistant.com/org
 * SheepDewg.py
 * annotify.net
 * annotify.org
 * annotifyapp.com
+* TWFTR.org
 
-2) azyn.ch
+2) azyn.ch ... time mgmt and productivity improvement
 
 * asynch.work
 * azynch.app
 * azynch.com
-* sktch.org/us
-
-3) 86400.guru
-
+* reviewable parametric design ... sktch.org/us (see ENGR.co)
+* 86400.guru
 * 86400.co
 * 86400.work
 * plyp.us
+* kweex.cc ... making others into 10X-ers
+* kweex.cloud
+* kweex.org
 
-3) Funnier.Be
+3) ENGR.co ... parametric engineering validation/verification and code review
+
+* sktch.org
+* sktch.us
+* QualityFellow
+* Mr.RootCause
+* PWR.fm
+* Join FREECad dev community
+* Nanotoolworks.com
+* startupcookbook.us ... productify your skills, beyond open source dev, work at developing a product
+* crnc.work ... branding your professional skills, vs becoming a w2-slave
+* GYG.be
+
+4) Salebarn LLC ... free markets and competition
+
+* Bidm.AT
+* auct.us
+* crowdliness.com/net/org
+* salebarn.org
+* salebarn.us
+
+5) SQL.ag ... resource recovery and optimization
+
+* soilrXiv.org
+* soilqualitylab.com
+* soilqualitylaboratory.com
+* AdvancedPyrolytics.com ... resource recovery
+* WhoresRadish
+* CoffeeRxiv.org/wtf/com
+
+6) Funnier.Be ... there's just too much stupid shit; when life gives you lemons 
 
 * BabylonMurderHornet.org
 * Doynk.me
@@ -53,161 +83,53 @@ Of course, there might be only ONE main venture that we are *sorta really* focus
 * clichesaurus.net
 * clichesaurus.org
 
-4) CloudKernel.org
+7) CloudKernel.org ... practical exploitation of IT and scalable compute resources
 
 OS ... CoreOS riff ... decentralized, but not really for massive hubs
-
 cloudkernel.com
 cloudkernel.net
 cloudkernel.org
-
 Moby
-
 Buildah
-
 MySQL ... LAMP stack, but more layer-ey as in containers ... tighter, more observable ... more htop-ey or bpf-ey without the stackiness
+using VAST.ai, Lambda cloud, Paperspace, et al
 
-5) BRUNO.science
+8) BRUNO.science ... pre-print machine learning and Git distributed VCS
 
-8) gitRxiv.com
-
-* gitDEEP.com/org
-* exiv.xyz
-
-7) creVass.org
-
-* DRAIN.tips
-
-8) Salebarn LLC
-
-* Bidm.AT
-
-9) SQL.ag
-
-* soilrXiv.org
-
-10) WhoresRadish
-
-* CoffeeRxiv.org/wtf/com
-
-11) TWFTR.org
-
-12) ENGRco
-
-* QualityFellow
-* Mr.RootCause
-* PWR.fm
-
-14) Nanotoolworks.com
-
-15) NOSE.life
-
-Nanofabricated omni sensing electrochemistry (NOSE) is about nanobiochemical sensing and the metrology of nanobiochemical sensing ... smell, taste, carbon monoxide, hydrogen sulfide, soil quality, water quality, air quality, etc.
-
-* IowaBreeze.org
-
-* Stinxjet.com
-
-16) GYG.be
-* startupcookbook.us
-
-17) BRUNO.solutions
-
-* LuckSurface.com/org/net
-* LyonCountyRepublicans.com ... what's so Lyon about them?
-
-18) Crowdliness.ORG
-
-* AUCT.us
-
-19) AncientGuy.Fitness
-
-* ViolenceInterrupt.us
-* tougher.be
-* ancientguy.com
-* ancientguy.org
-
-20) TRIZ.tips
-
-* AccidentalInvention.com
-
-21) DIFFversity
-
-* Diff.wtf
-* diffgraph.org
-* diffversity.com/net/org/wtf
-
-22) AdvancedPyrolytics.com ... resource recovery
-
-23) SustainFund.org
-
-24) Greenspace.GROUP
-
-25) PrairieNative.com
-
-
-
-
-
-
-
-auct.us
-
-
-bidm.at
-bruno.science
-
-
-
-coffeerxiv.com
-coffeerxiv.wtf
-crnc.work
-crowdliness.com
-crowdliness.net
-crowdliness.org
-
-doynk.me
-drain.tips
+Git, Git, Git and more Git ... eg co-pilot
 e-xiv.org
-engr.co
 exiv.org
-frgl.be
-funnier.be
+exiv.xyz
 gitdeep.com
 gitdeep.net
 gitdeep.org
 gitrxiv.com
 gitrxiv.net
 gitrxiv.org
-greenspace.group
-gyg.be
-kweex.cc
-kweex.cloud
-kweex.org
-listify.wtf
-lucksurface.com
-lucksurface.net
-lucksurface.org
-lyoncountyrepublicans.com
-lyoncountyrepublicans.net
-lyoncountyrepublicans.org
+Ollam.ai
+HuggingFace
 
-nose.life
-rssistant.com
-rssistant.org
-salebarn.org
-salebarn.us
-sktch.org
-sktch.us
-soilqualitylab.com
-soilqualitylaboratory.com
-sql.ag
 
-stinxjet.com
-sustainfund.net
-sustainfund.org
-tougher.be
-triz.tips
-twftr.org
-violenceinterrupt.us
-whoresradish.com
+9) creVass.org ... optimizing resource recovery
+
+* frgl.be ... resource recovery ... fxrz
+* nanotoolworks ... makering ... scientists blow their own glass
+* NOSE.life ... nanofabricated omni sensing electrochemistry (NOSE) is about nanobiochemical sensing and the metrology of nanobiochemical sensing ... 
+* DRAIN.tips
+* IowaBreeze.org
+* Stinxjet.com ... reproducing samples for smell, taste, carbon monoxide, hydrogen sulfide, soil quality, water quality, air quality, etc.
+* TRIZ.tips
+* accidentalinvention.com
+
+10) BRUNO.solutions
+
+* LuckSurface.com/org/net
+* LyonCountyRepublicans.com/org/net ... what's so Lyon about them?
+* SustainFund.org/net
+* violenceinterrupt.us
+* tougher.be
+* Greenspace.GROUP
+* PrairieNative.com
+* Diff.wtf
+* diffgraph.org
+* diffversity.com/net/org/wtf

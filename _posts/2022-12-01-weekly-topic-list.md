@@ -105,7 +105,7 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 41) [Oculus Quest 2](https://www.amazon.com/Oculus-Quest-Advanced-All-One-Virtual/dp/B09B8DQ26F/) for martial arts, yoga, tai chi and flexibility training ... practicing martial arts moves, visualizing an opponent, shadow boxing strikes, kicks, and footwork ... maybe boxing games like “Thrill of the Fight” or “Creed: Rise to Glory” to provide a virtual sparring experience and help improve your reflexes and stamina ... fitness apps and guided yoga sessions with virtual instructors to focus on proper form and technique in immersive environments ... emphasizing balance, alignment, breathing exercises with Quest 2 to work on balance poses (e.g., tree pose, warrior pose) while maintaining proper form.... slow, flowing movement in old school martial arts like tai chi, using Quest 2 to practice fluid motions ... warm up/cool down with dynamic stretches in VR ... explore VR experiences that align with goals, practicing katas, holding a warrior pose, enhancing the mind-body connection.
 
-42) 
+42) Help FreeCAD ... ENGR.co/sktch.us ... in order to develop a Python scripting library [which probably depends upon CUDA/ROCm and C++ geometric primitives for coding the function sciptlets] ... the ultimate point is about an add-on to Blender which furnishes the constraints and parametric entities for actually converting a sketch into simulatable Universal Scene Description for CFM/FEA modeling or manufacturable dimensioned and toleranced 3D model with material properties.
 
 43)
 
