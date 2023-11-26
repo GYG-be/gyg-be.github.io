@@ -17,25 +17,49 @@ There are five venture themes that our weekly focus ... they do not necessarily 
 
 Of course, there might be only ONE main venture that we are *sorta really* focusing on, every single day, at this time.
 
+0) * MZB.me
+
+* MarkBruns.com
+* MarkBruns.github.io
+
 1) Annotify.APP
 
+* Listify.wtf
 * RSSistant
 * SheepDewg.py
-* Listify.wtf
+* annotify.net
+* annotify.org
+* annotifyapp.com
 
-2) 86400.guru
+2) azyn.ch
+
+* asynch.work
+* azynch.app
+* azynch.com
+* sktch.org/us
+
+3) 86400.guru
+
+* 86400.co
+* 86400.work
+* plyp.us
 
 3) Funnier.Be
 
-* Clichesaur.us
-
 * BabylonMurderHornet.org
-
 * Doynk.me
+* clichesaur.us
+* clichesaurus.com
+* clichesaurus.net
+* clichesaurus.org
 
 4) CloudKernel.org
 
 OS ... CoreOS riff ... decentralized, but not really for massive hubs
+
+cloudkernel.com
+cloudkernel.net
+cloudkernel.org
 
 Moby
 
@@ -48,7 +72,6 @@ MySQL ... LAMP stack, but more layer-ey as in containers ... tighter, more obser
 8) gitRxiv.com
 
 * gitDEEP.com/org
-
 * exiv.xyz
 
 7) creVass.org
@@ -72,14 +95,8 @@ MySQL ... LAMP stack, but more layer-ey as in containers ... tighter, more obser
 12) ENGRco
 
 * QualityFellow
-
 * Mr.RootCause
-
 * PWR.fm
-
-13) ASYNCH.work
-
-sktch.org/us
 
 14) Nanotoolworks.com
 
@@ -91,15 +108,13 @@ Nanofabricated omni sensing electrochemistry (NOSE) is about nanobiochemical sen
 
 * Stinxjet.com
 
-16 GYG.be
+16) GYG.be
+* startupcookbook.us
 
 17) BRUNO.solutions
 
 * LuckSurface.com/org/net
-
 * LyonCountyRepublicans.com ... what's so Lyon about them?
-
-* MZB.me
 
 18) Crowdliness.ORG
 
@@ -108,8 +123,9 @@ Nanofabricated omni sensing electrochemistry (NOSE) is about nanobiochemical sen
 19) AncientGuy.Fitness
 
 * ViolenceInterrupt.us
-
 * tougher.be
+* ancientguy.com
+* ancientguy.org
 
 20) TRIZ.tips
 
@@ -118,62 +134,38 @@ Nanofabricated omni sensing electrochemistry (NOSE) is about nanobiochemical sen
 21) DIFFversity
 
 * Diff.wtf
-
 * diffgraph.org
-
 * diffversity.com/net/org/wtf
 
-22) AdvancedPyrolytics.com
+22) AdvancedPyrolytics.com ... resource recovery
 
 23) SustainFund.org
-
-* StartupCookbook.US
 
 24) Greenspace.GROUP
 
 25) PrairieNative.com
 
-86400.co
-86400.guru
-86400.work
-accidentalinvention.com
-advancedpyrolytics.com
-ancientguy.com
-ancientguy.fitness
-ancientguy.org
-annotify.app
-annotify.net
-annotify.org
-annotifyapp.com
-asynch.work
+
+
+
+
+
+
 auct.us
-azyn.ch
-azynch.app
-azynch.com
-babylonmurderhornet.org
+
+
 bidm.at
 bruno.science
-bruno.solutions
-clichesaur.us
-clichesaurus.com
-clichesaurus.net
-clichesaurus.org
-cloudkernel.com
-cloudkernel.net
-cloudkernel.org
+
+
+
 coffeerxiv.com
 coffeerxiv.wtf
-crevass.org
 crnc.work
 crowdliness.com
 crowdliness.net
 crowdliness.org
-diff.wtf
-diffgraph.org
-diffversity.com
-diffversity.net
-diffversity.org
-diffversity.wtf
+
 doynk.me
 drain.tips
 e-xiv.org
@@ -199,10 +191,8 @@ lucksurface.org
 lyoncountyrepublicans.com
 lyoncountyrepublicans.net
 lyoncountyrepublicans.org
-mzb.me
+
 nose.life
-plyp.us
-pwr.fm
 rssistant.com
 rssistant.org
 salebarn.org
@@ -212,7 +202,7 @@ sktch.us
 soilqualitylab.com
 soilqualitylaboratory.com
 sql.ag
-startupcookbook.us
+
 stinxjet.com
 sustainfund.net
 sustainfund.org
