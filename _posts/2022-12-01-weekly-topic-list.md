@@ -117,53 +117,53 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 47) [i7-12650H](https://www.intel.com/content/www/us/en/products/sku/226066/intel-core-i712650h-processor-24m-cache-up-to-4-70-ghz/specifications.html?wapkw=i7-12650H), [12th Generation Intel® Core™ Processor documents](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/682436/) and [manuals describing the architecture and programming environment of the Intel® 64 and IA-32 architectures.](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
-48)
+48) Google Compute  
 
-49)
+49) Microsoft Azure
 
-50)
+50) Amazon Web Services
 
-51)
+51) CoreWeave
 
-52) 
+52) Gradient
 
-53)
+53) Lambda Labs
 
-54) 
+54) VAST.ai
 
-55)
+55) IBM Cloud: IBM Cloud offers a range of cloud computing services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called IBM Cloud Functions.
 
-56)
+56) Oracle Cloud: Oracle Cloud offers a range of cloud computing services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Oracle Cloud Functions.
 
-57)
+57) Rackspace: Rackspace is a managed cloud services provider that offers a range of cloud computing services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Rackspace Cloud Functions.
 
-58)
+58) Salesforce: Salesforce is a cloud-based customer relationship management (CRM) platform that also offers a range of other cloud computing services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Salesforce Cloud Functions.
 
-59)
+59) Alibaba Cloud: Alibaba Cloud is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Alibaba Cloud Functions.
 
-60)
+60) Hewlett Packard Enterprise (HPE) Cloud: HPE Cloud is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called HPE Cloud Functions.
 
-61)
+61) Nutanix: Nutanix is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Nutanix Cloud Functions.
 
-62) 
+62) VMware: VMware is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called VMware Cloud Functions.
 
-63)
+63) DigitalOcean: DigitalOcean is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called DigitalOcean Cloud Functions.
 
-64) 
+64) Linode: Linode is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Linode Cloud Functions.
 
-65)
+65) OVHcloud: OVHcloud is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called OVHcloud Cloud Functions.
 
-66)
+66) Vultr: Vultr is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Vultr Cloud Functions.
 
-67)
+67) Scaleway: Scaleway is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Scaleway Cloud Functions.
 
-68)
+68) cloud.ca: cloud.ca is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called cloud.ca Cloud Functions.
 
-69)
+69) UpCloud: UpCloud is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called UpCloud Cloud Functions.
 
-70)
+70) Hetzner Cloud: Hetzner Cloud is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Hetzner Cloud Functions.
 
-71)
+71) Contabo: Contabo is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Contabo Cloud Functions.
 
 72) 
 
