@@ -115,7 +115,7 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 46) [Retrieval Augmented Generation (RAG)](https://docs.nvidia.com/ai-enterprise/workflows-generative-ai/0.1.0/technical-brief.html) and [accelerating ML vector search](https://developer.nvidia.com/blog/accelerating-vector-search-using-gpu-powered-indexes-with-rapids-raft/) with [RAPIDS RAFT](https://docs.rapids.ai/api/raft/nightly/) using using [an ANN algorithm based upon an inverted file index (IVF) with unmodified flat vectors](https://developer.nvidia.com/blog/accelerated-vector-search-approximating-with-rapids-raft-ivf-flat/). 
 
-47)
+47) [i7-12650H](https://www.intel.com/content/www/us/en/products/sku/226066/intel-core-i712650h-processor-24m-cache-up-to-4-70-ghz/specifications.html?wapkw=i7-12650H), [12th Generation Intel® Core™ Processor documents](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/682436/) and [manuals describing the architecture and programming environment of the Intel® 64 and IA-32 architectures.](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
 48)
 
