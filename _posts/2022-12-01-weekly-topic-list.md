@@ -165,7 +165,7 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 71) Contabo: Contabo is a cloud computing platform that offers a range of services, including computing, storage, and networking. It also provides AI and machine learning services, as well as a serverless computing platform called Contabo Cloud Functions.
 
-72) 
+72) [Qflow open circuit EDA design tools](http://opencircuitdesign.com/qflow/) and the [qflow open source ASIC EDA dev community](https://github.com/RTimothyEdwards/qflow), OpenLane(https://github.com/The-OpenROAD-Project/OpenLane) and the [OpenROAD open source EDA project](https://theopenroadproject.org/), as well as the [Caravel harness SOC](https://caravel-harness.readthedocs.io/en/latest/) and [efabless](https://efabless.com/)
 
 73)
 
