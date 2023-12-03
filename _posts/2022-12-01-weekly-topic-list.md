@@ -255,29 +255,29 @@ Evaluate each of your own riffs/brainstorms of idea based on its feasibility, po
 * Secure deployment: Ensuring that software and systems are deployed securely, including using secure hosting environments, configuring firewalls and access controls, and implementing encryption.
 * Continuous monitoring: Monitoring software and systems for security vulnerabilities and weaknesses, and addressing any issues that are identified.
 
-83) Read more books ... perlego ... scribd ... kindle ...
+83) Read more books ... thriftbooks ... perlego ... scribd ... Kindle, especially Kindle Unlimited ...
 
-84) Read more preprints
+84) Read more preprints ... not just arxiv, but biorxiv, medrxiv, chemrxiv, bioarxiv, chemarxiv, medarxiv, preprints.org,
 
-85) Follow more people on different professionally-focused Twitter accounts
+85) Follow more people on different PROFESSIONALLY-focused Twitter and LinkedIn accounts ... more = better, but avoid politics like the plague it is ...
 
-86) Follow more Github, Gitlab accounts
+86) Follow BETTER Github, Gitlab accounts ... explore more open source projects, more open source foundations, more open source communities
 
-87) Follow more Substacks, Mediums, blogs, newsletters
+87) Follow BETTER Substacks, Mediums, blogs, newsletters
 
-88) Follow more Youtube channels, but AVOID any sort of political content
+88) Follow BETTER Youtube channels, but AVOID any sort of political content
 
-89) Follow more blogs
+89) Explore the realm of serious, ie edited/reviewed/promoted electronic publishing ... [BioOne](bioone.org), bioonecomplete.org, bioonepublishing.org ... https://en.wikipedia.org/wiki/BioOne
 
-90) Follow more RSS feeds
+90) Follow more RSS feeds, master Thunderbird ... but don't stop looking for a better [AI-ified] RSS reader, eg NewsBlur, Feedly, Inoreader, The Old Reader, Netvibes, Feedreader, Flowreader, Feeder, Feedbin, Feedspot, Feedreader Online, Feeds Pub, QuiteRSS, RSS Bandit, NewsFox
 
-91) Listen to more podcasts and audiobooks
+91) Listen to more podcasts and audiobooks ... more audio, less video
 
-92) Connectedpapers, pubmed, arxiv, biorxiv, medrxiv, chemrxiv, bioarxiv, chemarxiv, medarxiv, preprints.org, bioone, bioone.org, bioonecomplete.org, bioonepublishing.org, bioonepublis
+92) Connectedpapers, pubmed, knowledgegraphs and [reference management software](https://en.wikipedia.org/wiki/Reference_management_software)
 
-93)
+93) https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines
 
-94) 
+94) Become an Amazon Kindle Unlimited author for syllabi and reading lists ... not exactly Goodreads, but more about education and professional skills levelling-up learning 
 
 95)
 
