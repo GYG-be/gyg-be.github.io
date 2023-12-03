@@ -335,7 +335,28 @@ Evaluate each of your own riffs/brainstorms of idea based on its feasibility, po
 
 122)
 
-123)
+123) AUCT.us is accelerated negotiation business development ... a pre-CRM campaign management tool ... look for ways that it compares with and complements Hubspot as well as the top alternatives to HubSpot:
+
+* Marketo
+* Pardot
+* Salesforce Marketing Cloud
+* Oracle Marketing Cloud
+* Adobe Marketing Cloud
+* Microsoft Dynamics 365 Marketing
+* SAP Marketing Cloud
+* SharpSpring
+* Infusionsoft
+* Mailchimp
+* Constant Contact
+* AWeber
+* GetResponse
+* Campaign Monitor
+* Marketing Automation Platform (MAP)
+* SalesforceIQ
+* Zoho Marketing Automation
+* Freshsales
+* PipeDrive
+* Bitrix24
 
 124) Become an Amazon Kindle Unlimited author for syllabi and reading lists ... not exactly like Goodreads, but more about practical education for career self-improvement and professional skills levelling-up learning ... Explore alternatives to [Amazon Kindle Direct [SELF-]Publishing](https://kdp.amazon.com/en_US/bookshelf) such as:
 
