@@ -357,6 +357,16 @@ Evaluate each of your own riffs/brainstorms of idea based on its feasibility, po
 * [Freshsales](https://www.freshworks.com/crm/pricing-compare/)
 * [PipeDrive](https://www.pipedrive.com/en/pricing)
 * Bitrix24
+* CloudCampaign
+* Hootsuite: Hootsuite is a popular SMM platform that allows you to manage multiple social media accounts, schedule posts, track engagement, and analyze performance. It also offers features like social listening, influencer identification, and content curation.
+* Sprout Social: Sprout Social is an all-in-one SMM platform that offers features like social media management, content creation, scheduling, and analytics. It also offers a suite of tools for social listening, influencer identification, and content curation.
+* Agorapulse: Agorapulse is a comprehensive SMM platform that offers features like social media management, content creation, scheduling, and analytics. It also offers features like social listening, influencer identification, and content curation.
+* Sendible: Sendible is a SMM platform that allows you to manage multiple social media accounts, schedule posts, track engagement, and analyze performance. It also offers features like social listening, influencer identification, and content curation.
+* SocialPilot: SocialPilot is a SMM platform that offers features like social media management, content creation, scheduling, and analytics. It also offers features like social listening, influencer identification, and content curation.
+* Buffer: Buffer is a popular SMM platform that allows you to manage multiple social media accounts, schedule posts, track engagement, and analyze performance. It also offers features like social listening, influencer identification, and content curation.
+* Mavrck: Mavrck is a SMM platform that offers features like social media management, content creation, scheduling, and analytics. It also offers features like social listening, influencer identification, and content curation.
+* Influencer.co: Influencer.co is a SMM platform that offers features like social media management, content creation, scheduling, and analytics. It also offers features like social listening, influencer identification, and content curation.
+* Upfluence: Upfluence is a SMM platform that offers features like social media management, content creation, scheduling, and analytics. It also offers features like social listening, influencer identification, and content curation.
 
 124) Become an Amazon Kindle Unlimited author for syllabi and reading lists ... not exactly like Goodreads, but more about practical education for career self-improvement and professional skills levelling-up learning ... Explore alternatives to [Amazon Kindle Direct [SELF-]Publishing](https://kdp.amazon.com/en_US/bookshelf) such as:
 
