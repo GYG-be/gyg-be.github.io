@@ -247,7 +247,13 @@ integrated circuit fabrication technology](https://arxiv.org/ftp/arxiv/papers/19
 
 Evaluate each of your own riffs/brainstorms of idea based on its feasibility, potential revenue, and alignment with your startup's mission and values. The essence of a warrior is never quitting on the mission ... as an entrepreneur, you will not know your mission until after you create something and start listening to it's crowd -- it's total up to you as the leader to define and refine that mission!
 
-82) 
+82) Security adjacent programming and infoSec AI ... [NVIDIA Morpheus](https://developer.nvidia.com/morpheus) ... [NVIDIA Launchpad:Build AI-Based Cybersecurity Solutions](https://www.nvidia.com/en-us/launchpad/ai/build-ai-based-cybersecurity-solutions/) ... DevSecOps ... try [Gitlab Ultimate for a month or maybe a YEAR](https://about.gitlab.com/pricing/feature-comparison/) ... [Prompt Inject is a security vulnerability](https://simonwillison.net/2023/Nov/27/prompt-injection-explained/) ... security adjacent programming involves a number of practices, including:
+
+* Secure coding practices: Following best practices for secure coding, such as using secure libraries, validating user input, and using secure protocols for communication.
+* Security testing: Testing software and systems for vulnerabilities and weaknesses, and addressing any issues that are identified.
+* Secure design: Designing software and systems with security in mind, including using secure architecture, design patterns, and principles.
+* Secure deployment: Ensuring that software and systems are deployed securely, including using secure hosting environments, configuring firewalls and access controls, and implementing encryption.
+* Continuous monitoring: Monitoring software and systems for security vulnerabilities and weaknesses, and addressing any issues that are identified.
 
 83)
 
