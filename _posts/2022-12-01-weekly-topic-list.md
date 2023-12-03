@@ -277,7 +277,7 @@ Evaluate each of your own riffs/brainstorms of idea based on its feasibility, po
 
 93) https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines
 
-94) Become an Amazon Kindle Unlimited author for syllabi and reading lists ... not exactly Goodreads, but more about education and professional skills levelling-up learning 
+94)  
 
 95)
 
@@ -337,17 +337,33 @@ Evaluate each of your own riffs/brainstorms of idea based on its feasibility, po
 
 123)
 
-124)
+124) Become an Amazon Kindle Unlimited author for syllabi and reading lists ... not exactly like Goodreads, but more about practical education for career self-improvement and professional skills levelling-up learning ... Explore alternatives to [Amazon Kindle Direct [SELF-]Publishing](https://kdp.amazon.com/en_US/bookshelf) such as:
 
-125)
+* CreateSpace - Amazon's self-publishing platform for print books.
+* Smashwords - A self-publishing platform that distributes e-books to major retailers.
+* Lulu - A self-publishing platform that offers print, e-book, and audiobook distribution.
+* IngramSpark - A self-publishing platform that offers print and digital distribution to major retailers.
+* Blurb - A self-publishing platform that offers print, e-book, and audiobook distribution.
+* BookBaby - A self-publishing platform that offers print, e-book, and audiobook distribution, as well as marketing and promotional services.
+* Author Solutions - A self-publishing platform that offers print, e-book, and audiobook distribution, as well as marketing and promotional services.
+* Trafford Publishing - A self-publishing platform that offers print and e-book distribution.
+* Xlibris - A self-publishing platform that offers print and e-book distribution.
+* iUniverse - A self-publishing platform that offers print and e-book distribution.
+* AuthorHouse - A self-publishing platform that offers print and e-book distribution.
+* Booklocker - A self-publishing platform that offers print and e-book distribution.
+* PublishAmerica - A self-publishing platform that offers print and e-book distribution.
+* Infinity Publishing - A self-publishing platform that offers print and e-book distribution.
+* Dog Ear Publishing - A self-publishing platform that offers print and e-book distribution.
+* Outskirts Press - A self-publishing platform that offers print and e-book distribution.
+* BookWhirl - A self-publishing platform that offers print and e-book distribution.
+* Ingram Content Group - A self-publishing platform that offers print and digital distribution to major retailers.
+* Baker & Taylor - A self-publishing platform that offers print and digital distribution to libraries and retailers.
+* Follett - A self-publishing platform that offers print and digital distribution to libraries and retailers.
 
-# Exploratory / Wild Brainstorm Lists ... *which might become reading lists*
+Of course, this list, like [Wikipedia's entry on self-publishing](https://en.wikipedia.org/wiki/Self-publishing) is far from being exhaustive and there will always be other alternatives that are being developed. If you want to be serious about content, you will need to ALWAYS BE LOOKING FOR A BETTER GIG ... you need to develop your intelligence gathering operation to research and compare different new self-publishing platforms to find a better one that you are currently aware of and still best suits your needs and goals.
 
-In addition to [VENTURES](https://markbruns.github.io/Ventures/) ... which are all really just curated reading lists.
-* 
 
-* 
+Clear history
 
-* 
 
-* 
+125) Develop more exploratory / even wilder Brainstorms of Lists ... *which might become reading lists* ... in addition to [VENTURES](https://markbruns.github.io/Ventures/) ... which are all really just curated reading lists ... it's all about intelligence gathering.
