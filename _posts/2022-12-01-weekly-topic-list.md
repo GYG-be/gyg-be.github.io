@@ -362,8 +362,4 @@ Evaluate each of your own riffs/brainstorms of idea based on its feasibility, po
 
 Of course, this list, like [Wikipedia's entry on self-publishing](https://en.wikipedia.org/wiki/Self-publishing) is far from being exhaustive and there will always be other alternatives that are being developed. If you want to be serious about content, you will need to ALWAYS BE LOOKING FOR A BETTER GIG ... you need to develop your intelligence gathering operation to research and compare different new self-publishing platforms to find a better one that you are currently aware of and still best suits your needs and goals.
 
-
-Clear history
-
-
-125) Develop more exploratory / even wilder Brainstorms of Lists ... *which might become reading lists* ... in addition to [VENTURES](https://markbruns.github.io/Ventures/) ... which are all really just curated reading lists ... it's all about intelligence gathering.
+125) ***REFACTOR AND PACK THIS LIST***  ... to create room for better lists ... because you are going to develop more exploratory / even wilder Brainstorms of Lists ... *which will become packed, dense reading lists* ... in addition to [VENTURES](https://markbruns.github.io/Ventures/) ... which are all really just curated, packed reading lists ... it's all about *IMPROVING* the intelligence gathering of intelligence gathering.
