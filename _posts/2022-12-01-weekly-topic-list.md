@@ -255,25 +255,25 @@ Evaluate each of your own riffs/brainstorms of idea based on its feasibility, po
 * Secure deployment: Ensuring that software and systems are deployed securely, including using secure hosting environments, configuring firewalls and access controls, and implementing encryption.
 * Continuous monitoring: Monitoring software and systems for security vulnerabilities and weaknesses, and addressing any issues that are identified.
 
-83) Read more books
+83) Read more books ... perlego ... scribd ... kindle ...
 
-84) 
+84) Read more preprints
 
-85)
+85) Follow more people on different professionally-focused Twitter accounts
 
-86)
+86) Follow more Github, Gitlab accounts
 
-87)
+87) Follow more Substacks, Mediums, blogs, newsletters
 
-88)
+88) Follow more Youtube channels, but AVOID any sort of political content
 
-89)
+89) Follow more blogs
 
-90)
+90) Follow more RSS feeds
 
-91)
+91) Listen to more podcasts and audiobooks
 
-92) 
+92) Connectedpapers, pubmed, arxiv, biorxiv, medrxiv, chemrxiv, bioarxiv, chemarxiv, medarxiv, preprints.org, bioone, bioone.org, bioonecomplete.org, bioonepublishing.org, bioonepublis
 
 93)
 
