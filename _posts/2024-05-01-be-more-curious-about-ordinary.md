@@ -2,7 +2,7 @@
 layout: post
 title:  "Polish ordinary greatness. NEVER just take it for granted"
 subtitle: "Respect QUALITY. Stop being a clueless, entitled twit."
-date:   2023-05-01 4:30:00
+date:   2024-05-01 4:30:00
 categories: template
 ---
 

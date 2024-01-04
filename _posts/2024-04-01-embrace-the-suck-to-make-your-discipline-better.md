@@ -2,7 +2,7 @@
 layout: post
 title:  "Embrace the suck to improve your discipline"
 subtitle: "You are paying the full cost for the lesson, so getting the most out of every second of it."
-date:   2023-04-01 4:30:00
+date:   2024-04-01 4:30:00
 categories: template
 ---
 

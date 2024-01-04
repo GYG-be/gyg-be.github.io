@@ -2,7 +2,7 @@
 layout: post
 title:  "Do not look back; we are not going that way"
 subtitle: "Change the culture by changing yourself -- let the dead bury the dead."
-date:   2023-03-01 4:30:00
+date:   2024-03-01 4:30:00
 categories: template
 ---
 

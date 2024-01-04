@@ -2,7 +2,7 @@
 layout: post
 title:  "Question Your Unquestioned Assumptions"
 subtitle: "It's not self-doubt; it's about looking more closely at the stuff you missed."
-date:   2023-06-01 4:30:00
+date:   2024-06-01 4:30:00
 categories: template
 ---
 

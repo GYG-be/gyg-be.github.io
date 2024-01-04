@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Work On Your Own GYG"
-subtitle: "There are no shortcuts, except that every second has to be about you working on you."
-date:   2023-01-01 4:30:00
+title:  "Plan With The Intention To Continuously Elevate"
+subtitle: "Improve Your Approach to Planning With Reverence For What Works"
+date:   2024-12-01 4:30:00
 categories: template
 ---
 
 
-When you are work for yourself, you must work harder ON your time, your discipline, your mindset, yourself ... every second, every day.
-
-You will not get by just showing up and asking the boss what you need to do today.
+There are no shortcuts ... if you are working for yourself, you need to work harder ON yourself ... you won't get by just showing up and asking the boss what you need to do today.
 
 It will seem that *ALL of the time management and "getting things done* lifehack stuff that actually works is going to filled with tons of cliches.* That's how it works -- cliches and the kinds of classic sayings that winning coaches paint on their locker room walls get to become cliches because those "old saws can really cut the wood* when it comes to how people think. How you think is everything. So go back and grind on the basics, reverently study what works, take out the parts of your routine that just give you comfort, amp up the parts that push you to be better.
 

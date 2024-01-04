@@ -2,7 +2,7 @@
 layout: post
 title:  "Humility, humility, humility"
 subtitle: "The arts of self-defense are about HUMILITY."
-date:   2023-07-01 4:30:00
+date:   2024-07-01 4:30:00
 categories: template
 ---
 

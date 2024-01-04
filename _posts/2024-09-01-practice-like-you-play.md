@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Eat Your Own Dogfood"
-subtitle:  "Continously ELEVATE your  Gitflow discipline"
-date:   2023-08-01 4:30:00
+title:  "Git Your GYG"
+title:  "Continously ELEVATE your  Gitflow discipline"
+date:   2024-09-01 4:30:00
 categories: template
 ---
 

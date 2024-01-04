@@ -2,7 +2,7 @@
 layout: post
 title:  "Minimalize, Refactor, Share, Improve, Extend"
 subtitle: "Disrupt affluent cultures which encourage fear, predation and dependence."
-date:   2023-02-01 4:30:00
+date:   2024-02-01 4:30:00
 categories: template
 ---
 

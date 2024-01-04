@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Avoid Self-Deception; OWN Your Practice"
-date:   2023-11-01 4:30:00
+title:  "Avoid Self-Deception; Extreme OWN Your Practice"
+date:   2024-11-01 4:30:00
 categories: template
 ---
 
-Of course, you should use automation ... and you should steal good ideas that work ... but you must OWN your practice. Improving YOUR discipline is about the meta-programming skill of how you go about internalizing through repitition and improving everything in the execution of everything in the discipline of your practice, including anything you do every day to tinker with, critique, self-coach and refactor the automation you OWN and use to support your time management discipline.
+
+Don't just OWN ... EXTREMIFY your OWNERSHIP of your practice.  Use every trick, every tool out there and adapt new ones, like AI ... it's not exactly about following the hype, AFTER the intial hype waves, when those hype waves have become a laughingstock bullshit bingo of buzzwords -- there's probably some pretty useful tech in the discard bin that you can OWN on the cheap ... because the most important thing is to OWN your practice and to always be adding to the arsenal to EXTREMIFY your OWNERSHIP of your practice. 
+
+So, of course, you should use automation ... and you should steal good ideas that work ... but you must OWN your practice. Improving YOUR discipline is about the meta-programming skill of how you go about internalizing through repitition and improving everything in the execution of everything in the discipline of your practice, including anything you do every day to tinker with, critique, self-coach and refactor the automation you OWN and use to support your time management discipline.
 
 # Not just practicing with intention, but you must OWN the DAILY improvement of your discipline
  
