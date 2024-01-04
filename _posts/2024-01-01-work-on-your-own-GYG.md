@@ -9,11 +9,13 @@ categories: template
 
 # Discipline equals FREEDOM
 
-Git Your Own Gyg is another spin on the "Practice Like You Want To Play" coaching mantra ... if you are not in the big game today, you can practice [and work on yourself] like the way that you want to play in that big game.
+Git Your Own Gyg is another spin on the "Practice Like You Want To Play" coaching mantra ... just because you are not in a big game today, you still have to practice [and extreme own discipline] like the way that you will want to play in that big game.
 
-Then we don't set our agenda, something else will ... when we're addicted to material SHIT or someother kind of fritterware, we might as well be a junkie or crack addict. We are neurologically hardwired to seek the comfort of pleasure or things that reliably provide a boost.
+When we own our own GYG, **we have to set our agenda.** When we don't set our agenda, something else will ... when we're addicted to material SHIT or some other kind of fritterware like sports or political news, we might as well be a junkie or crack addict. 
 
-Your fundamental neurological nature is why your Big Why has to be like a crack addiction that won't let go.
+*As human animals, we are neurologically hardwired to seek the comfort of pleasure of things that reliably provide a neurological or mental boost.* 
+
+You cannot overcome your fundamental nature ... but you can ***use*** it. USING Your fundamental neurological nature is the driving forces behind why your Big Why has to be like a crack addiction that won't let go. Your Creator made you this way for a reason ... USE that reason. ***EMBRACE the fact that the Universe was created just for you.*** *OWN IT!*
 
 Your daily discipline has to become like something that you'd crawl through shards of broken glass to get ... something that once the addiction is set results in a drive that deepens with each fix ... this is NOT a rational thing -- your cognitive powers and reasoning ability will play the role of The Serpent telling you that you're better/smarter than that, that you don't have to work on your discipline ... but that does not change the fact that when you are working for yourself, you will need to work harder ON yourself and on the DISCIPLINE of becoming the YOU that you need to be. Nobody else can do it for you. 
 
