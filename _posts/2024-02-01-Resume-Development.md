@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "You Do Not Understand Your Own Job Search"
+title:  "You Do Not Understand Your Own Job Search. Or LinkedIn Profile."
 date:   2024-02-01 4:30:00
 categories: template
 ---
@@ -13,7 +13,11 @@ A big part of the problem, is that I had looked at the jobs that were available 
 
 I could NEVER find my ideal job ... because I had settled for what I thought was available ... I settled because I had not bothered to REALLY, REALLY, REALLY refine my goals and objectives ... **I had settled for the ideas of what total dumbfucks were offering me.**
 
-*I had become the dumbfuck who settled for the best available option.*  I did not CREATE my options. I DID Not Understand MY Own Job Search
+*I had become the dumbfuck who settled for the best available option.*  
+
+I did not CREATE my options. 
+
+I thought that I did ... but, if I am serious with myself, I have to admit that did NOT ever understand my own job search in the broader context of what I was **trying to accomplish** ... I had goals, career plans, things that I wanted to do ... but mostly, I showed up for work and pretty much saved almost every nickel of my paycheck to invest OR pay down debts of business entities that I had an interest in ... but I was MENTALLY lazy, in that I was comfortable just working at the same old thing ... RATHER THAN CONTINUALLY THINKING ABOUT MY GOALS AND REINVENTING MYSELF.
 
 
 
