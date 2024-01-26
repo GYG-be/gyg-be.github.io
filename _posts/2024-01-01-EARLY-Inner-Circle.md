@@ -8,7 +8,9 @@ categories: template
 
 ## Stronger, more courageous, less afraid
 
-Content is for better, more informed planning ... a more informed plan is all about more reliable EXECUTION, with more dependable results and less collateral damage or negative side-effects and less wasted time. 
+*HOPEFULLY, the value of my time in this exercise is worth a million times or 1000X or at least a few times more than what I spend on content, but if it isn't, then I need to use every trick, every cheat, every advantage that I can buy to be better at planning ...  so that I can become stronger, more courageous, less afraid.*
+
+Maybe I should spend more ... I don't know if I can actually put MORE to use, but I do know that my content spend is strictly for better, more informed planning ... a more informed plan is all about more reliable EXECUTION, with more dependable results and less collateral damage or negative side-effects and less wasted time. 
 
 *The point of content is NOT for relaxing, edification or any sort of entertainment value -- it's not just the ideas, but how the ideas translate into what ones DOES with the content ... how does the content result in a better plan and better means more effectively implemented? Knowledge is completely USELESS, even dangerous or delusional if it does not DRIVE implementation of a BETTER PLAN.*
 
