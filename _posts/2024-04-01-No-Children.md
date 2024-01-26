@@ -6,13 +6,21 @@ categories: template
 ---
 
 
+The ONLY thing that I work at trying to understand is my Creator's will.
+
 **This is a dead serious topic.** It's one of the most serious. *I am different from and probably even TRY a bit too hard some times to be different than other people -- so April 1 is the ONE day of the year that I am NOT fooling around.  THIS IS NOT A JOKE.*  
 
 # It was not my Creator's will that I NOT have kids.
 
 **The SHORT answer to the question of this title ... and 100% correct answer is that it was my Creator's will that I NOT have kids.**
 
-The ONLY thing that I work at trying to understand is my Creator's will ... I could not care less about the other stuff.  The degree to which I care about anything else is a derivative of my desire to know and understand my Creator's will.  I do not care about my species ... EXCEPT for the fact that my Creator brought me and my species into existence for some reason, that I accept but don't really understand.
+The ONLY thing that I work at trying to understand is my Creator's will.
+
+It's worth REPEATING for extra emphasis: **The ONLY thing that I work at trying to understand is my Creator's will.**
+
+That means that I could not really care less about the other stuff ... EXCEPT to the extent anything else maps into to understanding the meaning of MY life ... the meaning of MY life is to understand Reality as Reality really is AND the point of everything that I can percieve in this existence is about understanding my Creator's will.
+
+The degree to which I care about anything else is a derivative of my desire to know and understand my Creator's will.  I do not care about my species ... EXCEPT for the fact that my Creator brought me and my species into existence for some reason ... and our Creator clearly intended for us to be thinking beings that shape our destiny ... our Creator did not exactly intend for us to be exclusively social beings, but there's certain no shortage of exclusively, primarily social beings ... just as there is no shortage of cockroaches, rats or viruses ... but I guess I don't believe that our species *calling* is just to be a more human-like form of a social cockroach, rat or invasive virus ... some of us are THINKERS who were created to THINK ... those who cannot think CONFORM or worse, ie try to force others to conform.
 
 I certainly do not understand my Creator's will completely ... but I pay more attention to my Creator's will than anything else in the world and I certainly accept the reasons behind the outcomes of my Creator's will, ie I respect and completely LOVE Reality as really is -- I regard wishes for Reality to be different than Reality really is as being stupid and worse than wrong.  I don't second-guess my Creator's will -- I pray more fervently than anything else that my Creator's will be done, ie being forgiven for my sins or not led astray or recieving enough calories for the day ahead or being free from discomfort is not close to as important to me as the priority of my prayer that my Creator's will be done.
 

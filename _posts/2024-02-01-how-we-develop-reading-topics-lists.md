@@ -1,26 +1,54 @@
 ---
 layout: post
-title:  "Future Topics List"
-date:   2022-12-01 4:30:00
+title:  "Early Topics List and FUTURE Topics List"
+date:   2024-02-01 4:30:00
 categories: template
 ---
 
 
-# Reading is a lifelong JOURNEY.
+This future topics list is a reflection of my participation in [Peter Attia's EarlyMedical program](https://earlymedical.com/lessons/welcome-to-early/#1-5-our-core-frameworks) ... the MAIN EARLY TOPICS topics on our reading list are about the Four Horsemen of Longevity™: COGNITION and neurodegenerative disease, EXERCISE and atherosclerosis leading to cardiovascular and cerebrovascular disease, NUTRITION and improving immunometabolism to overcome metabolic disease and DETOXIFICATION to reduce cancers, viruses and other poisoning facets of our environments.
 
-We mostly read as a break from work or to changeup the workday ... as we go along, we try to speedread and improve our ability read better *with serious, critical intention* and using all the tools at our disposal, such as AI listification -- the point of reading is to gather intelligence about the road ahead. 
+As we go along, we can identify other FUTURE TOPICS that might emerge as being of interest or focus for FUTURE reading ... the point of this EARLY Medical journey is to FIRST focus on being informed about the kinds of things that make it more possible that we somehow are able to survive and get further down our Reading Lists. 
 
-We can stress enough that [**using AI tools, curating and annotating reading and the disicplined upgrading of the whole reading skillstack is in itself a lifelong JOURNEY**](https://markbruns.github.io/Listify/) ... but the whole point of reading and listification is about leadership and not just better understanding the road ahead, but working at getting better at reading.
+# COGNITION ... neurodegenerative diseases such as feeblethink, pessimism, Parkinsons, Alzheimers
+
+Reading is a cognitive strengthening exercise ... AND it gives us the tools to get further down the list ... the next item our reading list is about EXERCISE, which gives us the health to be able to get to NUTRITION ... so READING, EXERCISE and NUTRITION are first because we have to survive long enough to care about DETOXIFICATION, although it's pretty important too ... but the main PRIORITY [for the Ancient Guy] is on COGNITION and that means READING to inform our exercise and nutrition ... to be healthy enough to have the luxury of worrying about something like cancer.
+
+We mostly read as a break from work or to changeup the workday -- **we try really hard to DO THINGS based on what our reading has prepared us to do.**
+
+We might read in the morning, before the sun comes up if we get up early ... which is all about planning our EXERCISE regimen for the day ... and mapping out our NUTRITION or FASTING regimen. **We do not PRIMARILY read for entertainment or relaxation** but we might do that ... for the most part *we read WITH A POINT of working on strengthening our cognitive abilities and to develop new reading methods and AI skillsets.*
+
+As we go along developing our reading skill set, we aggressively try to level up the skills ... to speedread and to use various technologies and AI tools to improve our ability to curate better lists of content to revisit and to generally read smarter *with serious, critical intention* to improve the tools. Developing the tools of reading is all about cognitive exercise and improving our mental discipline [especially as we age]. Developing new proficiencies with all the tools at our disposal, such as AI listification and annotification means that our whole point of reading shifts from being just about relaxation and traditional study, to being about cognitive health strengthening as we deploy better reading technologies to gathering intelligence about the road ahead. 
+
+We can stress enough that [**using AI tools, curating and annotating reading and the disicplined upgrading of the whole reading skillstack HAS TO BE a lifelong JOURNEY**](https://markbruns.github.io/Listify/) ... the whole point of reading and listification is about improving cognitive health as one ages ... MAYBE it didn't matter when we were younger and just flopped down in the recliner to watch tv rather than think any more about the workday's aggravations, but we really cannot afford to be dipstick teevee watching zombies after we have retired.
 
 There's a reason why readers become better leaders when they understand why and how leaderships is about intelligence gathering and skills in reading or gathering the necessary background for future situations.
 
-# Topic Lists [otherwise known as *rabbitholes*]
+# EXERCISE
 
-READING / curating / annotating listings of topics is a lifelong JOURNEY in intelligence gathering and exploration ... there are a lot of  rabbitholes to explore, but one almost always finds that exploring one rabbithole informs the journey or gives things from other rabbitholes some coherency ... this reading JOURNEY is not a substitute for actually DOING things; instead it's about the preparation for maximizing the productivity in doing things and not just doing things for the sake of keeping busy or appearing to have done something.
+How do we make exercise NECESSARY?  Seriously, HOW?
 
-READING is about gathering intell to working much smarter on a precise target ... rather than just blowing shit up and causing a lot of collateral damage by doing stuff or driving around and gawking.
+No amount of reading about atherosclerosis leading to cardiovascular and cerebrovascular disease is going to change the fact that we need to find a SUSTAINING WHY that drives our desire to exercise.  The SUSTAINING WHY is not just innate ... being scared of heart disease is not going to be sufficient to make people exercise. Pretending that it's not necessary to think about the WHY is basically a matter of ignoring the 8 bajillion pound gorilla in the room ... the culture of affluence is largely the culture of cultivate apathy AND suckering people into watching the teevee [or YouTube videos] and making them depressed enough so that they think they can be fulfilled by a new a vehicle or a home or some new gadget.
 
-Our aim with this listing is to have a GOTO lists for any downtime, to never have to think about our next list of items to read/annotate ... we want to have at least 125 good topic ideas in the hopper ... we might to have 25 or so [VENTURES](https://markbruns.github.io/Ventures/) which we work on at least once a month ... to have five key projects that we touch once a week ... and to have ONE main one that is operational now ... and that we are focusing on getting right.
+A gym or a dojo membership simply will not do it for an Ancient Guy ... we have to find exercise regimens that can sustain themselves ... that's why we look at things like edible landscape architecture, perenniel foodscaping and soil building ... the POINT is not cheap food, the point of edible landscape architecture is exercise.
+
+How do we make exercise NECESSARY? 
+
+# NUTRITION
+
+Including fasting/caloric restriction and ketosis but mainly about optimizing diet to enjoy food while building immunometabolism to prevent metabolic diseases that make us less able to fight off infections and other diseases
+
+Fasting and caloric restriction is PROBABLY our main focus [right now]... this would not need to be everybody's main focus, but more than anything else ... we NEED TO find ways to fast and to do fast-mimicking diets, like OMAD Warrior Diets ... but the big problem with any kind of dietary regimen is that it gets boring and tedious intellectually ... and since human beings are absolute masters when it comes to rationalizing excuses not to stick with plans ... we [retired folk] need to make caloric restriction *interesting* or to find other things that distract us from thinking that there might be something in the refrigerator that we might want to eat.
+
+# DETOXIFICATION
+
+Cancer, viruses, parasites, dumbasses, toxins, heavy metals, radiation
+
+# FUTURE Topic Lists [otherwise known as *rabbitholes*]
+
+***NOTE: This LIST is NOT EarlyMedical reading stuff ... that's above this in our Four Horsemen of Longevity™ ... atherosclerosis leading to cardiovascular and cerebrovascular disease, cancer, neurodegenerative disease, and metabolic disease ... this is a place for putting all of those things that cross our mind ... and things that we might go back to later.***
+
+Our aim with this **FUTURE TOPICS listing*** is to have a GOTO lists for any downtime, or morning-before-we-wakeup, or times-when-we-just-want-relax and to never want have to think about our next list of items to read/annotate ... generally we want to have 250 items on this list, with at least 125 higher ranked more useful topic ideas in the FUTURE TOPICS hopper ... twenty-five or so of this topics will relate to the startups and philanthropic [VENTURES](https://markbruns.github.io/Ventures/) that we curently are tinkering with -- and in that pool of projects, the point is to have five key projects that we touch once a week ... and to have ONE main one that is operational now and that we are most focused on getting right.
 
 1) Microscopy, lithography, computational lithography
 
