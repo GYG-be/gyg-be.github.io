@@ -6,7 +6,9 @@ categories: template
 ---
 
 
-*It's not about content for entertainment sake -- it's ALL about what ones DOES with the content ... knowledge is USELESS if it does not drive implementation of a BETTER PLAN.*
+## Stronger, more courageous, less afraid
+
+Content is for better planning. *The point of content is not for relaxing, edification or entertainment sake -- it's ALL about what ones DOES with the content ... how does the content result in a better plan and better means more effectively implemented ... knowledge is completely USELESS if it does not DRIVE implementation of a BETTER PLAN.*  This kind of content is not contents for idiots and zombies, eg Netflix or NFL or some form of news or movie channel. The point of this content is to advance the general plan of making me stronger, more courageous, less afraid ... the content for this year is like any years plan that has been about investing in my WHY and increasingly targeting what kinds of things have worked best for me healthwise and financially. 
 
 # I spend $5000/year on fitness/health CONTENT
 
@@ -18,7 +20,7 @@ Other my age might spend north of $25,000 or $50,000 on health insurance, doctor
 
 I spend $5000/year on fitness/health CONTENT.  I used to spend it on physical seminars, martial arts trainers ... sometimes a little bit on gym memberships ... but, NOW, I spend it on content.
 
-In order to be more efficient with my time, I have to sharpen the axe before I wonder off into the forest of content ... so THIS YEAR, I spent $2500/year on [Peter Attia's EarlyMedical program] which entail three major areas: (1) RE-identifying my goals, (2) better understanding your risks, and (3) using PA's strategic framework to better formulate my tactics to get healthier. 
+In order to be more efficient with my time, I have to sharpen the axe before I wonder off into the forest of content ... so THIS YEAR, I spent $2500/year on [Peter Attia's EarlyMedical program](https://earlymedical.com/lessons/welcome-to-early/#1-5-our-core-frameworks) which entail three major areas: (1) RE-identifying my WHY; realigning my goals with that WHY, (2) more precisely and accurately understanding my health risks, and (3) using PA's strategic framework to better re-formulate my lifestyle tactics to get stronger. 
 
 I am not now sick ... I am significantly healthier than I was five years ago in 2019 ... and I was SIGNIFICANTLY more healthy in 2019 than I was 2014 ... and even that low level was SIGNIFICANTLY better than in 2009 when I retired to focus on my health, since I knew then that I was very likely to relapse into early 2007 when I was given hours or days, but not weeks to live.
 
