@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "WHY I spend $5000 per year on FITNESS/HEALTH content"
+date:   2024-01-01 4:30:00
+categories: template
+---
+
+# I spend $5000/year on fitness/health CONTENT.
+
+I do not spend a dime on healthcare insurance or doctors visits.  NOT ONE DIME.
+
+Other my age might spend north of $25,000 or $50,000 on health insurance, doctor's appointments/treatments, prescription medicines ... they might not realize the FULL cost of everything ... but there are big hidden expenses of being a healthcare patient, such as the cost of the vehicle which is a healthcare NEED because it might be unnecessary for other things, people are convinced they NEED a decent vehicle to get reliably to and from the doctor's office ... but the REAL biggie of healthcare expense is cost of making room in schedules for appointments, including for the time that will be necessary commuting to visits and maybe stress-buying extra stuff at the store after/before the visit AND the multiplicative time-waste of extra stress as patients in waiting rooms are terrorized after listening to other patients like them who are scared shitless about their health and not being able to afford their healthcare insurance.
+
+I spend $5000/year on fitness/health CONTENT.  I used to spend it on physical seminars, martial arts trainers ... sometimes a little bit on gym memberships ... but, NOW, I spend it on content.
+
+In order to be more efficient with my time, I have to sharpen the axe before I wonder off into the forest of content ... so THIS YEAR, I spent $2500/year on [Peter Attia's EarlyMedical program] which entail three major areas: (1) RE-identifying my goals, (2) better understanding your risks, and (3) using PA's strategic framework to better formulate my tactics to get healthier. 
+
+I am not now sick ... I am significantly healthier than I was five years ago in 2019 ... and I was SIGNIFICANTLY more healthy in 2019 than I was 2014 ... and even that low level was SIGNIFICANTLY better than in 2009 when I retired to focus on my health, since I knew then that I was very likely to relapse into early 2007 when I was given hours or days, but not weeks to live.
+
+I am not now sick ... but I feel a need to CHANGE to become SIGNIFICANTLY more healthy and FIT ... so I expect that my PA EarlyMedical program will be a one-year bootcamp course kind of a ONE YEAR OR ELSE content spend ...  but, who knows, maybe it do some things but not others and end up being more of a two-year $5000 spend.
+
+For NOW, I just intend to use one year ... and to SEE SOME EFFING RESULTS! I will also spend about $1500/year for a VARIETY of other content, predominantly martial arts/yoga training ... things like [Rickson Gracie's Academy](https://rickson.academy/en) ... [Ryron / Rener Gracie University](https://www.gracieuniversity.com/) ... but also other items like [Dr. Joe Dispenza Unlimited Course](https://drjoedispenza.com/) or Dr William Davis's Undoctored Inner Circle ... and a great fitness app which I have taught myself to HARD IGNORE *just to show anyone reading this that this content-driven self-programming happy horseshit of mine doesn't all STICK in my brain.*  In case you have not already guessed, the PA EarlyMedical program is NEW ... and it means that I doubled my spend.  I used to spend $2500/year on content ... with the $1500 of the previous paragraph, although I have switched aggressively to DIGITAL or VIRTUAL content, because I have found that NOT DRIVING ANYWHERE gives me a HUGELY beneficial impacts on health and fitness. NOT Driving is right up there with NOT DRINKING ... I have not had any alcoholic beverages since 2020 -- my main reason for quitting was that many people talked about how much they tended to drink during the pandemic in order to cope and the thought of needing a drink to cope just flat out pisses me off as the kind of thing that I would never want to do. 
+
+The most affordable part of my content spend is the additional $1000 that I spend just READING ... on Pubmed and the pre-print archives ... but the pre-prints really require something like ConnectedPapers ($36/yr) ... and I like to have CURRENT texts, so I throw a little bit of money at Perlego ($120/yr) and OCCASIONALLY, maybe two months/year, I will opt for a month of O'Reilly at $49/month ... and I give Wikipedia some money every month ... a maybe five hundred dollars or so worth of USED books/year.  So, I READ a lot ... but the text version of my content is just less than $1000/year.
+
+{NOTE on old text and hard-copy books: I am more than well aware that electronic texts are conveninetly searchable, but I am OLD and I still enjoy relaxing by paging through an old texts, eg martial arts/yoga texts, med school texts on neuroscience, nutrition, gastrointestinal health, hepatology as well as the basics in biochem/biophys and MCAT exam guides to get familiar with keywords [to be able to ask Bard a decent question] ... old texts are like the "comfort food" of content, because I still enjoy scribbling some notes and just doodling up things like protein molecules. *I get it ... but I am old and I'm not going to apologize for the fact that I still enjoy paging through old books* ... ***and being surround by stacks of books that I could have never afforded that many books back in the day when I hung out in bookstores or University libraries because owning books was way too expensive.***}
+
+# The point of consuming content is to develop and implement A BETTER PLAN.
+
+*It's all about what you DO with the content ... knowledge is USELESS if it does not drive implementation of a BETTER PLAN.*
