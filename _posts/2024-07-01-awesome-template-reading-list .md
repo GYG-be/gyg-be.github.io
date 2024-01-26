@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Annotated Curated Listification Starts With Brainstorming"
-date:   2022-02-01 4:30:00
+date:   2024-07-01 4:30:00
 categories: template
 ---
 

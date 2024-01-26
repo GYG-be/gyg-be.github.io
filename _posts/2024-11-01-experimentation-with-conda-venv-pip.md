@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understand What Conda, VENV and PIP are ... and the differences"
-date:   2022-06-01 4:30:00
+date:   2024-11-01 4:30:00
 categories: template
 ---
 

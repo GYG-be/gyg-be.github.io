@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Annotated Curated Listification Is About Editing"
-date:   2022-03-01 4:30:00
+date:   2024-08-01 4:30:00
 categories: template
 ---
 
