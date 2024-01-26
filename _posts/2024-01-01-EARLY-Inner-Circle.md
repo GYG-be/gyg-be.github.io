@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  "WHY I spend $5000 per year on FITNESS/HEALTH content"
+title:  "WHY I will spend $5000 on FITNESS/HEALTH content in 2024"
 date:   2024-01-01 4:30:00
 categories: template
 ---
 
-# I spend $5000/year on fitness/health CONTENT.
 
-I do not spend a dime on healthcare insurance or doctors visits.  NOT ONE DIME.
+*It's not about content for entertainment sake -- it's ALL about what ones DOES with the content ... knowledge is USELESS if it does not drive implementation of a BETTER PLAN.*
+
+# I spend $5000/year on fitness/health CONTENT
+
+It's all about Joshua 1.9 ... I am commanded to make myself stronger, more courageous, to be less afraid ... I look forward to dying, but I worry about ever becoming worried about my health and healthcare ... I am not now sick ... I have gotten significantly healthier ever since retiring when I was 49 in 2009 ... I'm healthier now than I was five years ago in 2019 ... and I was SIGNIFICANTLY more healthy in 2019 than I was 2014 ... but I need make myself stronger, more courageous, to be less afraid.
+
+**I do not spend a dime on healthcare insurance or doctors visits.  NOT ONE DIME.** *Because I am stronger, more courageous, less afraid than the typical 64 year old.* But I need to get tougher ... so I will spend $5000/year on fitness/health CONTENT in 2024.
 
 Other my age might spend north of $25,000 or $50,000 on health insurance, doctor's appointments/treatments, prescription medicines ... they might not realize the FULL cost of everything ... but there are big hidden expenses of being a healthcare patient, such as the cost of the vehicle which is a healthcare NEED because it might be unnecessary for other things, people are convinced they NEED a decent vehicle to get reliably to and from the doctor's office ... but the REAL biggie of healthcare expense is cost of making room in schedules for appointments, including for the time that will be necessary commuting to visits and maybe stress-buying extra stuff at the store after/before the visit AND the multiplicative time-waste of extra stress as patients in waiting rooms are terrorized after listening to other patients like them who are scared shitless about their health and not being able to afford their healthcare insurance.
 
@@ -19,7 +24,9 @@ I am not now sick ... I am significantly healthier than I was five years ago in 
 
 I am not now sick ... but I feel a need to CHANGE to become SIGNIFICANTLY more healthy and FIT ... so I expect that my PA EarlyMedical program will be a one-year bootcamp course kind of a ONE YEAR OR ELSE content spend ...  but, who knows, maybe it do some things but not others and end up being more of a two-year $5000 spend.
 
-For NOW, I just intend to use one year ... and to SEE SOME EFFING RESULTS! I will also spend about $1500/year for a VARIETY of other content, predominantly martial arts/yoga training ... things like [Rickson Gracie's Academy](https://rickson.academy/en) ... [Ryron / Rener Gracie University](https://www.gracieuniversity.com/) ... but also other items like [Dr. Joe Dispenza Unlimited Course](https://drjoedispenza.com/) or Dr William Davis's Undoctored Inner Circle ... and a great fitness app which I have taught myself to HARD IGNORE *just to show anyone reading this that this content-driven self-programming happy horseshit of mine doesn't all STICK in my brain.*  In case you have not already guessed, the PA EarlyMedical program is NEW ... and it means that I doubled my spend.  I used to spend $2500/year on content ... with the $1500 of the previous paragraph, although I have switched aggressively to DIGITAL or VIRTUAL content.
+For NOW, I just intend to use one year ... and to SEE SOME EFFING RESULTS! I will also spend about $1500/year for a VARIETY of other content, predominantly martial arts/yoga training ... things like [Rickson Gracie's Academy](https://rickson.academy/en) ... [Ryron / Rener Gracie University](https://www.gracieuniversity.com/) ... but also other items like [Dr. Joe Dispenza Unlimited Course](https://drjoedispenza.com/) or [Dr William Davis's Undoctored Inner Circle](https://innercircle.drdavisinfinitehealth.com/default.aspx) ... and others. As an example of those others, I have found an absolutely a perfect fitness app ... which I have taught myself to HARD IGNORE *just to show anyone reading this that this content-driven self-programming happy horseshit of mine doesn't all STICK in my brain.*  
+
+In case you have not already guessed, the PA EarlyMedical program is the NEW part of my content spend.  It's not a departure from what has worked in the past; it mostly represents the fact that I am getting older -- SO I have doubled-down, DOUBLED my annual health/fitness content spend.  I used to spend $2500/year on content ... using mose the $1500 of the previous paragraph, although I have switched aggressively FROM any kind of physical content to DIGITAL or VIRTUAL content.
 
 My BIG reason for switching to VIRTUAL content is that I have learned that NOT DRIVING ANYWHERE furnishs me with HUGELY beneficial impacts on health and fitness, especially on my general level of FITNESS. But generally it just reinforces good aspect of my health also. It seems that NOT Driving is right up there with NOT DRINKING ... I have not had any alcoholic beverages since 2020 -- my main reason for quitting was that many people who I know were talking about how much they tended to drink during the pandemic in order to cope with the pandemic ... and that bugged me. The thought of needing a drink to cope just flat out pisses me off ... whining about the pandemic and using that as an excuse to have another drink is the kind of DISGUSTING behavior that I do not EVER want to have anything to do with -- so I stopped EVER buying any kind of beverage with any alcohol content in July 2020 ... and, it took about three years or so, but I finally can say that the neurotoxin is out of my system entirely and I don't see the upside of putting even a swallow of back. 
 
