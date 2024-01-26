@@ -10,7 +10,7 @@ categories: template
 
 # I spend $5000/year on fitness/health CONTENT
 
-It's all about Joshua 1.9 ... I am commanded to make myself stronger, more courageous, to be less afraid ... I look forward to dying, but I worry about ever becoming worried about my health and healthcare ... I am not now sick ... I have gotten significantly healthier ever since retiring when I was 49 in 2009 ... I'm healthier now than I was five years ago in 2019 ... and I was SIGNIFICANTLY more healthy in 2019 than I was 2014 ... but I need make myself stronger, more courageous, to be less afraid.
+It's all about [Joshua 1.9](https://www.biblestudytools.com/joshua/1-9-compare.html) ... I am commanded to make myself stronger, more courageous, to be less afraid ... I look forward to dying, but I worry about ever becoming worried about my health and healthcare ... I am not now sick ... I have gotten significantly healthier ever since retiring when I was 49 in 2009 ... I'm healthier now than I was five years ago in 2019 ... and I was SIGNIFICANTLY more healthy in 2019 than I was 2014 ... but I need make myself stronger, more courageous, to be less afraid.
 
 **I do not spend a dime on healthcare insurance or doctors visits.  NOT ONE DIME.** *Because I am stronger, more courageous, less afraid than the typical 64 year old.* But I need to get tougher ... so I will spend $5000/year on fitness/health CONTENT in 2024.
 
