@@ -8,7 +8,11 @@ categories: template
 
 ## Stronger, more courageous, less afraid
 
-Content is for better planning, which is about better executuion. *The point of content is not for relaxing, edification or entertainment sake -- it's ALL about what ones DOES with the content ... how does the content result in a better plan and better means more effectively implemented ... knowledge is completely USELESS if it does not DRIVE implementation of a BETTER PLAN.*  This kind of content is not contents for idiots and zombies, eg Netflix or NFL or some form of news or movie channel. The point of this content is to advance the general plan of making me stronger, more courageous, less afraid ... the content for this year is like any years plan that has been about investing in my WHY and increasingly targeting what kinds of things have worked best for me healthwise and financially. 
+Content is for better, more informed planning ... a more informed plan is all about more reliable EXECUTION, with more dependable results and less collateral damage or negative side-effects and less wasted time. 
+
+*The point of content is NOT for relaxing, edification or any sort of entertainment value -- it's not just the ideas, but how the ideas translate into what ones DOES with the content ... how does the content result in a better plan and better means more effectively implemented? Knowledge is completely USELESS, even dangerous or delusional if it does not DRIVE implementation of a BETTER PLAN.*
+
+This kind of content is not content design to soothe idiots and zombies, like Netflix or NFL or some form of news or movie channel which is about herding an audience toward an outcome. The point of this content is to advance the general plan of making me stronger, more courageous, less afraid ... the content for this year is like any years plan that has been about investing in my WHY and increasingly targeting what kinds of things have worked best for me healthwise and financially. 
 
 # I spend $5000/year on fitness/health CONTENT
 
