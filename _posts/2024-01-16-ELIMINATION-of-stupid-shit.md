@@ -8,18 +8,26 @@ categories: template
 
 In the previous post, I described my $5000 content spend for 2024 ... the flip side of that is what will remove, minimize or phase out in 2024.  
 
-This post is in some ways about offsetting what I increase ... but actually, the same strategy is driving bothe. I recognize that these things are making me weaker and maybe less able to confront things, so it is necessary for really get my mind back to ***"being a predatory killer/eater again."***  
+This post is in some ways about offsetting what I increase ... but actually, the same strategy is driving both. I no longer have ANY ROOM for any baggage ... so I HAVE TO severely minimize everything that does not make me stronger, more courageous, less afraid.
+
+I recognize that these things are making me weaker and maybe less able to confront things, so it is necessary for really get my mind back to ***"being a predatory killer/eater again."***  
 
 It might sound extreme, but it's really about being HEALTHY ... and that means being able to go hungry, able to live in discomfort, able to do HARD things ... so it really IS about getting back to ***"being a predatory killer/eater again."***  
 
 *I apologize if people find the language to be extreme ... but that's just the way it has to be.*  One simply HAS TO BE in that frame of mind if one wishes to be healthy.
 
 
-## I will try to minimize everything that does not make me stronger, more courageous, less afraid
+## I HAVE TO try to minimize everything that does not make me stronger, more courageous, less afraid
 
-Taking things away is bit like FASTING ... not exactly extended fasting ... it's actually more like eating ONE GREAT MEAL A DAY in order to restore control of one's appetites.  But there'd be nothing wrong with a few bouts of extended fasting for me right now ... I have found that extended fasts do help me to be more courageous, less afraid.
+I don't have a choice any more ... I no longer have ANY ROOM for any baggage ... I HAVE TO sort my shit out and severely minimize everything that does not make me stronger, more courageous, less afraid.  HAVE TO. HAVE TO. HAVE TO.
 
-The point is not to COMPLAIN, NEVER WHINE, NEVER MAKE EXCUSES ... of course, nobody wants to live in unbearable discomfort and pain -- but the quickest way to get into that state is actually from endulging the standard American diet or eating at restaurant ... of course, one should exercise and feel a BIT of discomfort every day ... the point is not to suffer, but to press out on one's limits ... to remove the lethargy ... it's mostly about taking away the American lifestyle of convenience and comfort, focusing first on eliminating ALL of stupid shit that makes me worse off ... the same general mentality applies thoroughout ALL of my purchases.
+Taking things away is bit like FASTING ... not exactly like extended fasting or some sort of hunger strike ... it's actually more like eating ONE GREAT MEAL A DAY in order to restore control of one's appetites ... to experience HUNGER once a day.  
+
+But, I am afraid there'd be nothing wrong with a few bouts of extended fasting for me right now ... and I have found that extended fasts do help me to be more courageous, less afraid ... SO maybe, I will think about doing some extended fasting ... but I also know from past experience that I really have to get my mind to the point where I am ready, able and CONFIDENT enough to persist through some bouts of extended fasting.
+
+The point of OMAD is not to NOT COMPLAIN, NEVER WHINE, NEVER MAKE EXCUSES ... and, being HUNGRY once a day, reminds one that we not only can survive a weensy little bit of suffering ... it actually makes us much, MUCH healthier ... especially when we focus on eating the VERY BEST things for us nutritionally [which we might otherwise, if our appetite is impaired by the standard American diet, not be hungry enough to be excited by]. 
+
+Of course, nobody wants to live in unbearable discomfort and pain -- but the quickest way to get into that state is actually from endulging the standard American diet or eating at restaurant ... of course, one should exercise and feel a BIT of discomfort every day ... the point is not to suffer, but to press out on one's limits ... to remove the lethargy ... it's mostly about taking away the American lifestyle of convenience and comfort, focusing first on eliminating ALL of stupid shit that makes me worse off ... the same general mentality applies thoroughout ALL of my purchases.
 
 That's why there's no drinking any more for me ... I not only avoid alcohol like the plague but I also find that I have to avoid friends/family members who drink ... because it's too demoralizing to have a conversation with imbeciles.
 
