@@ -1,27 +1,45 @@
 ---
 layout: post
-title:  "What I will minimize or ELIMINATE in 2024"
+title:  "Always a Matter Of DETOX and ELIMINATION"
 date:   2024-01-16 4:30:00
 categories: template
 ---
 
 
-In the previous post, I described my $5000 content spend for 2024 ... the flip side of that is what will remove, minimize or phase out in 2024.  
+In a previous post, I described my $5000 content spend for 2024 ... which brings up a PROBLEM.
 
-This post is in some ways about offsetting what I increase ... but actually, the same strategy is driving both. I no longer have ANY ROOM for any baggage ... so I HAVE TO severely minimize everything that does not make me stronger, more courageous, less afraid.
+We are always acquiring stuff, even when it's electronic content that takes up no space ... but the MORE IMPORTANT flip side of acquisition is about what we will sort through, remove, minimize, phase out, purge and eliminate from our system ... and what is our ONGOING PLAN for detoxification and elimination going to be.
 
-I recognize that these things are making me weaker and maybe less able to confront things, so it is necessary for really get my mind back to ***"being a predatory killer/eater again."***  
+The INITIAL plan might be as simple as going for a long walk EVERY DAY ... and purging anything that shows up as a problem or crosses our mind as we are walking ... a long walk has ways of making the need for purging dreadfully obvious, eg "*My knees hurt*. Well ... WHY would your knees hurt? Do you need to stop eating stupid shit again ... OR have you been sitting too much rather than going for walks?"  
 
-It might sound extreme, but it's really about being HEALTHY ... and that means being able to go hungry, able to live in discomfort, able to do HARD things ... so it really IS about getting back to ***"being a predatory killer/eater again."***  
+The NEXT phase of walking, if there are no obvious aches/pains, is to THINK ... to especially think about simplification and removal ...life is pretty much always a matter Of DETOX and ELIMINATION, but there are parasitic advertisers out there that will try to make you think that life is about acquisition ... it's NOT!
 
-*I apologize if people find the language to be extreme ... but that's just the way it has to be.*  One simply HAS TO BE in that frame of mind if one wishes to be healthy.
+## Affluent lives are PATHOLOGICALLY acquisitive
+
+HEALTHY LIVES, by contrast are is pretty much always a matter of sorting out, straightening, polishiing, standardizing, sustaining, more polishing, more optimizing and **ELIMINATING THE STUPID SHIT** ... it's the same with training for anything; the important part of training is to minimize the junk steps, but do the steps correctly and in a manner that does not impose any costs or additional work on anyone else. 
+
+Walking is HIGH VALUE activity if you make sure that it is a MENTAL activity ... and NOT the kind of thing where you are distracted by stupid music or other mind rot.  If you want to make the very most out of your walks, you have to PURGE the stupid mindless shit out of your walking method so that you focus on MINDFUL walking.
 
 
 ## I HAVE TO try to minimize everything that does not make me stronger, more courageous, less afraid
 
 I don't have a choice any more ... I no longer have ANY ROOM for any baggage ... I HAVE TO sort my shit out and severely minimize everything that does not make me stronger, more courageous, less afraid.  HAVE TO. HAVE TO. HAVE TO.
 
-Taking things away is bit like FASTING ... not exactly like extended fasting or some sort of hunger strike ... it's actually more like eating ONE GREAT MEAL A DAY in order to restore control of one's appetites ... to experience HUNGER once a day.  
+I no longer have ANY ROOM for any baggage ... so I HAVE TO severely minimize everything that does not make me stronger, more courageous, less afraid.
+
+I recognize that these things are making me weaker and maybe less able to confront things, so it is necessary for really get my mind back to ***"being a LEAN THINKING predatory killer/eater again."***  
+
+It might sound extreme, but it's really about being HEALTHY ... and that means being able to go hungry, able to live in discomfort, able to do HARD things ... so it really IS about getting back to ***"being a LEAN THINKING predatory killer/eater again."***  
+
+*I apologize if people find the language to be extreme ... but that's just the way it has to be.*  One simply HAS TO PUSH ONE's MIND in that ***LEAN frame of mind***, ie *what's the simplest possible shot that will work to reliably bring down the kill?*
+
+The LEAN frame of KILLING mind and the discipline of that mindset is necessary if one wishes to be healthy. When it comes to health ...there's NO SUBSITUTE for the LEAN KILLER mindset ... it's raw, bloody and tastes like something real ... you can't make it better by pouring ketchup on it or washing it down with some mind-altering beverage. 
+
+## Why We NEED to FAST
+
+Taking things away is like FASTING ... not exactly like extended fasting or some sort of hunger strike ... but we have to do whatever we need to do in order to FEEL hunger.
+
+Controlling our appetites for different things is not exactly like fasting and doing without -- it's about using as little as we can possibly use OR like eating ONE GREAT MEAL A DAY in order to restore control of one's appetites ... it's ESSENTIAL to periodically experience HUNGER ... we don't need to deprive ourselves to the point where we react by overconsuming.  
 
 But, I am afraid there'd be nothing wrong with a few bouts of extended fasting for me right now ... and I have found that extended fasts do help me to be more courageous, less afraid ... SO maybe, I will think about doing some extended fasting ... but I also know from past experience that I really have to get my mind to the point where I am ready, able and CONFIDENT enough to persist through some bouts of extended fasting.
 

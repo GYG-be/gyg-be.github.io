@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WHY I will spend $5000 on FITNESS/HEALTH content in 2024"
+title:  "FITNESS/HEALTH Content Agenda For 2024"
 date:   2024-01-01 4:30:00
 categories: template
 ---
