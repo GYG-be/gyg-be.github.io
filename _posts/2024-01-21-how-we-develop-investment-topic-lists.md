@@ -6,9 +6,11 @@ categories: template
 ---
 
 
-We develop VENTURES in order to INVEST.
+## We develop VENTURES in order to INVEST.
 
-***It's all about productivity, stupid!***  How do you LEARN about what actually delivers the productivity?  You DO NOT learn about it by being a victim ... or by being someone who believes in the magic of ***the next big thing*** ... you have to UNDERSTAND the WHY/HOW of why/how something will improve the productivity of masses of humans.
+***It's all about productivity, stupid!***  How do you LEARN about what actually delivers the productivity?  You DO NOT learn about it by being a practicioner of *victimthink* who indulges in conspiracy theories ... you cannot possibly learn by trusting the experts ... you deserve to fail miserably if you are the kind of lazy thinker who believes in the magic of ***the next big thing.***
+
+You cannot just trendspot ... you have to UNDERSTAND the mechanics of WHY/HOW ... you have to understand the why/how [and the why not/how not to do it] of why and how something will improve the productivity of masses of humans. You cannot just trendspot ... you need to actually get your *hands dirty.*
 
 YOU can ONLY really LEARN BY DOING SOMETHING.
 
