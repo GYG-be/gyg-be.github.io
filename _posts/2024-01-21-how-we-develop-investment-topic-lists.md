@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Investment Topics List And The MVP VENTURES List"
+title:  "Investment Topics, Minimal Viable Prototypes And Our VENTURES List"
 date:   2024-01-21 4:30:00
 categories: template
 ---
@@ -8,7 +8,13 @@ categories: template
 
 ***It's all about productivity, stupid!***  How do you LEARN about what actually delivers the productivity?  You DO NOT learn about it by being a victim ... or by being someone who believes in the magic of ***the next big thing*** ... you have to UNDERSTAND the WHY/HOW of why/how something will improve the productivity of masses of humans.
 
-There are hints ... NOBODY who thinks that vehicle technologies will make humans more productive, understands the productivity of human thought ... you cannot get there fast enough by car, by plane, by spaceship.  The productivity of human thought is all about INFORMATION and the acceleration of the growth of KNOWLEDGE ... the biggest gains in productivity will not come from transport.
+There are hints ... for example, NOBODY who thinks that vehicle technologies will make humans more productive really understands the productivity of human thought ... you cannot get thoughts, information, knowledge *shipped* fast enough by car, by plane, by spaceship.  The productivity of human thought is all about the speed of useful INFORMATION application and the acceleration of the growth of KNOWLEDGE for better resource allocation ... the biggest gains in productivity will not come from transport, although we might need to apply knowledge engineering and information technology to car companies, we don't want to invest in just another car company, ie we want to invest in the company that selling the car company the AI, information technology and knowledge engineering because *the topline growth in vehicle miles travelled per citizens per year in developed nations peaked fifteen years ago.*
+
+Our investment theme for the past fifteen years has been investing in our own health ... because we were told that we were going to die in hours/days but not months AND if we somehow did recover, we would soon relapse and then at that point we would die in hours/days but not months.  So OUR FOCUS has been on understanding our own existence and what we needed to do to be as healthy as possible WITHOUT THE ASSISTANCE OF THE EXPERTS WHO COULD NOT HELP US because they would fail us again.
+
+As we have regained our health ... we have begun to think about the kinds of things that we can do to help others ... we have re-strategized how we think about venture philanthropy and the entire topic of how humans go about creating wealth and generally improving the human condition ... KNOWLEDGE ENGINEERING is not something that one individual or one company can accomplish ... we can only accomplish COMPETITIVELY ... through globally competitive workflows ... ideally, globally competitive workflows do not deteriorate in to wars ... but unfortunately WAR has been the driver of better technologies that have generally lifted humans out of the drudgery of low-productivity subsistence and just barely getting by. In the LARGER realm of human advance, it's all about the productivity of MASSES of humans ... ***but YOUR existence is something that YOU cannot trust to experts, stupid!***
+
+If we care about other humans ... we have to find the best ventures to develop and invest in ... but we need to understand why COMFORT is an impediment to developing and investing in those ventures. 
 
 # INTELLIGENCE ... and intelligent thinking
 
