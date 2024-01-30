@@ -1,14 +1,20 @@
 ---
 layout: post
-title:  "Investment Topics, Minimal Viable Prototypes And Our VENTURES List"
+title:  "Minimal Viable Prototypes And Our VENTURES List"
 date:   2024-01-21 4:30:00
 categories: template
 ---
 
 
+We develop VENTURES in order to INVEST.
+
 ***It's all about productivity, stupid!***  How do you LEARN about what actually delivers the productivity?  You DO NOT learn about it by being a victim ... or by being someone who believes in the magic of ***the next big thing*** ... you have to UNDERSTAND the WHY/HOW of why/how something will improve the productivity of masses of humans.
 
-There are hints ... for example, NOBODY who thinks that vehicle technologies will make humans more productive really understands the productivity of human thought ... you cannot get thoughts, information, knowledge *shipped* fast enough by car, by plane, by spaceship.  The productivity of human thought is all about the speed of useful INFORMATION application and the acceleration of the growth of KNOWLEDGE for better resource allocation ... the biggest gains in productivity will not come from transport, although we might need to apply knowledge engineering and information technology to car companies, we don't want to invest in just another car company, ie we want to invest in the company that selling the car company the AI, information technology and knowledge engineering because *the topline growth in vehicle miles travelled per citizens per year in developed nations peaked fifteen years ago.*
+YOU can ONLY really LEARN BY DOING SOMETHING.
+
+You can get lots of hints by READING ... and getting better at reading more, faster, better ... but if you want to LEARN, you have to DO ... you sorta have to DO things that you totally suck at to learning anything new ... you DO things that you are pretty good at to find ways to get better ... and you build new proto-VENTURES to find out who is really doing this so well, that you want to invest in them getting even better.  The only hints in investment come from your own proficiency in building the minimal viable prototypes of the VENTURE that you believe might make people more productive ... you will FAIL in the building of these proto-ventures, so you want to preserve your capital ... and learn from other people's failures. 
+
+Other people's FAILURES are gigantic hints ... for example, NOBODY who thinks that vehicle technologies will make humans more productive really understands the productivity of human thought ... you cannot get thoughts, information, knowledge *shipped* fast enough by car, by plane, by spaceship.  The productivity of human thought is all about the speed of useful INFORMATION application and the acceleration of the growth of KNOWLEDGE for better resource allocation ... the biggest gains in productivity will not come from transport, although we might need to apply knowledge engineering and information technology to car companies, we don't want to invest in just another car company, ie we want to invest in the company that selling the car company the AI, information technology and knowledge engineering because *the topline growth in vehicle miles travelled per citizens per year in developed nations peaked fifteen years ago.*
 
 Our investment theme for the past fifteen years has been investing in our own health ... because we were told that we were going to die in hours/days but not months AND if we somehow did recover, we would soon relapse and then at that point we would die in hours/days but not months.  So OUR FOCUS has been on understanding our own existence and what we needed to do to be as healthy as possible WITHOUT THE ASSISTANCE OF THE EXPERTS WHO COULD NOT HELP US because they would fail us again.
 
