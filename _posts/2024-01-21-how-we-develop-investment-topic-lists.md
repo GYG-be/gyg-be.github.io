@@ -6,19 +6,25 @@ categories: template
 ---
 
 
+This post is about HOW/WHY we develop our [VENTURES](https://markbruns.github.io/Ventures/) list.
+
 ## We develop [VENTURES](https://markbruns.github.io/Ventures/) in order to INVEST in human productivity.
 
-***Venture philanthropy is all about advancing human productivity, stupid!***  
+**That's the WHY of it.**
 
-How do you LEARN about what actually delivers the productivity?  
+Investing drives the ***SUSTAINABILITY*** of [VENTURE PHILANTHROPY](https://markbruns.github.io/Ventures/). Actually having skin in the game helps to SUSTAINABLY advance human productivity by building more the things that most efficiently, most rapidly advance creative, productive workflows.***  
 
-We do know what does not work at all.
+[VENTURES](https://markbruns.github.io/Ventures/) are HOW we LEARN about what actually EFFICIENTLY, RAPIDLY advances productivity?  
 
-You DO NOT learn about it by being a practicioner of *victimthink* who indulges in conspiracy theories ... you cannot possibly learn by trusting the experts ... you deserve to fail miserably if you are the kind of lazy thinker who believes in the magic of ***the next big thing.***
+**That's the HOW of it.**  
 
-You cannot just trendspot ... you have to UNDERSTAND the mechanics of WHY/HOW ... you have to understand the why/how [and the why not/how not to do it] of why and how something will improve the productivity of masses of humans. You cannot just trendspot ... you need to actually get your *hands dirty* ... to learn, you have to BUILD AN ALMOST WORKING PROTOTYPE OF SOMETHING FOR NO COST.
+We have learned what does not work at all ... we see all kinds of examples of laughable failure around us in the world. You simply CANNOT learn about productivity by being a practicioner of *victimthink* who indulges in conspiracy theories ... you cannot be a hate-filled jerk ... you cannot possibly learn about productivity by trusting the experts who are even stupider than teachers who cannot do, so must teach ... you certainly deserve to fail miserably and have all of your capital taken from you if you are the kind of lazy thinker who believes in the magic of ***the Next Big Thing or NBT*** [which is usually designated as the NBT by experts and conventional wisdom.]
 
-YOU can ONLY really LEARN BY DOING SOMETHING ... and failing.
+You cannot just trendspot ... you have to dig in, roll up your sleeves, get frustrated by not being able to figure out how something works in order to *finally* really UNDERSTAND the mechanics of WHY/HOW ... with dirty hands, skinned knuckles and all kinds of frustration and failure analysis, you can ***FINALLY*** understand the why/how [and the why not/how not to do it] of why and how something will improve the productivity of masses of humans. 
+
+You cannot just trendspot without the frustration of being in the mix ... you actually have to learn things the hard way and get your *hands dirty* ... to learn things the hard way, you have to BUILD AN ALMOST WORKING PROTOTYPE OF SOMETHING FOR ALMOST NO COST.
+
+YOU can ONLY really LEARN BY DOING SOMETHING ... do [VENTURES](https://markbruns.github.io/Ventures/) is mostly about failing and being frustrated enough by the whole process to think you wanna quit ... but it is not about being a spectator or a tourist or a trendspotter ... it's about being a participant in the process of learning about what actually advances human productivity.
 
 You can get lots of hints by READING [about what other people have done; about what works, what does not work YET]... and getting better at reading more, faster, better ... but if you want to LEARN, you have to DO ... you sorta have to DO things that you totally suck at to learning anything new ... you DO things that you are pretty good at to find ways to get better ... and you build new proto-VENTURES to find out who is really doing this so well, that you want to invest in them getting even better.  The only hints in investment come from your own proficiency in building the minimal viable prototypes of the VENTURE that you believe might make people more productive ... you will FAIL in the building of these proto-ventures, so you want to preserve your capital ... and learn from other people's failures. 
 
