@@ -12,9 +12,11 @@ Most of the *active measures* or *disinformation* in the information war is abou
 
 ### You sorta HAVE TO avoid regular consumption of the news or news commentary.
 
-It's YOUR mind ... unless you are like most people who just give your control of your mind away.
+It's YOUR mind ... unless you are like most people who just give the control of their minds away for the delusion of comfort.
 
-Prayer is EXTREMELY important ... not just important, absolutely ESSENTIAL ... and some of it needs to be with HEAD BOWED, IN FULL SUPPLICATION, ON YOUR KNEES. Meditation is also necessary ... maybe just sitting ... or perhaps in the form of a long meditative walk [in which you do not listen to music or radio or anything -- but just focus on meditatively controlling your own thoughts].  In order to really THINK, you also need to scribble notes in your own journal or write your own blog or keep a journal or have some sort of mechanism for going back and looking what you were thinking.
+Mental mastery is a matter of WRESTLING with the angel of the Lord ... and getting BEATEN.
+
+Of course, prayer is EXTREMELY important ... not just important, absolutely ESSENTIAL ... and some of it needs to be with HEAD BOWED, IN FULL SUPPLICATION, ON YOUR KNEES. Meditation is also necessary ... maybe just sitting ... or perhaps in the form of a long meditative walk [in which you do not listen to music or radio or anything -- but just focus on meditatively controlling your own thoughts].  In order to really THINK, you also need to scribble notes in your own journal or write your own blog or keep a journal or have some sort of mechanism for going back and looking what you were thinking.
 
 If ... instead of doing this ... there's news or any kind of political content that you *imagine* that you need to listen to on daily basis ... if you feel that pscyhological TUG of wanting to know what _ *JohnQBlank* _'s take on the news is today or this week, well ... congratulations, then YOU are OFFICIALLY programmed.
 
