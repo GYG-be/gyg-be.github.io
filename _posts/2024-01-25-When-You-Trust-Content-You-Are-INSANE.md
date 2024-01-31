@@ -6,7 +6,23 @@ categories: template
 ---
 
 
-If there's news or any kind of political content that you *imagine* that you need to listen to on daily basis ... if you feel that pscyhological TUG of wanting to know what _______'s take on the news is today or this week, then YOU are programmed ... if you feel offended by this and you are ready to stop listening to me *because I don't fit any boxes that you need to shove people into* ... then you are FUNCTIONALLY INSANE and a form of weaponinized poision on all of the people around you.
+## Of course, we are AT WAR ... in an *information war* sense of being AT war.
+
+Most of the *active measures* or *disinformation* in the information war is about getting you to LIKE some celebrity or to implicitly trust some figure that you should not trust AT ALL ... there's way more to the information war arsensal than just that, but it's kind of safe to say that *MOST* of it is about inappropriate *like*age of celebrities or commentators ... rather than having serious conversations with yourself, about being humble, about actually being familiar enough with the guy in the mirror to be able to call him on his bullshit. 
+
+### You sorta HAVE TO avoid regular consumption of the news or news commentary.
+
+It's YOUR mind ... unless you are like most people who just give your control of your mind away.
+
+Prayer is EXTREMELY important ... not just important, absolutely ESSENTIAL ... and some of it needs to be with HEAD BOWED, IN FULL SUPPLICATION, ON YOUR KNEES. Meditation is also necessary ... maybe just sitting ... or perhaps in the form of a long meditative walk [in which you do not listen to music or radio or anything -- but just focus on meditatively controlling your own thoughts].  In order to really THINK, you also need to scribble notes in your own journal or write your own blog or keep a journal or have some sort of mechanism for going back and looking what you were thinking.
+
+If ... instead of doing this ... there's news or any kind of political content that you *imagine* that you need to listen to on daily basis ... if you feel that pscyhological TUG of wanting to know what _ *JohnQBlank* _'s take on the news is today or this week, well ... congratulations, then YOU are OFFICIALLY programmed.
+
+Moreover, if you feel offended by this and you are ready to stop listening to me *because I don't fit any boxes that you need to shove people into* ... then additional congratulations are in order ... you are FUNCTIONALLY INSANE because you are defensive about something that you know is true -- and, if that fills you with HATE, then you are going to have to suffer the results of mental self-control as you make yourself miserable and if you don't get a grip on your mental self-control, you will be weaponinized poision on all of the people around you. 
+
+*That's just the way LACK OF mental self-control works, ie that's why we as Christians pray to forgive others ... we don't need to be forgiven; it does not matter if someone hate us, haters are gonna hate -- what we REALLY NEED is to be granted, by the grace of our Creator, to be able forgive ... this power is ENTIRELY about mental self-control.I did not make up the rules*...***THAT'S JUST THE WAY IT WORKS.***
+
+The POINT of FIERCE SKEPTICISM is about being in control OF YOUR OWN MIND.
 
 # Trust NO ONE ... including the guy in the mirror
 
