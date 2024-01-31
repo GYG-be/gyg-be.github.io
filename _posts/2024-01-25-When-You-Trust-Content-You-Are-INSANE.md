@@ -1,39 +1,43 @@
 ---
 layout: post
-title:  "Have A News Program You TRUST? Congratulations! You have let yourself become FUNCTIONALLY INSANE."
+title:  "Be MORE Fiercely Skeptical"
 date:   2024-01-25 4:30:00
 categories: template
 ---
 
 
-## Of course, we are AT WAR ... in an *information war* sense of being AT war.
+## Assume that we are AT WAR ... in an *information war* sense of being AT war.
 
-Most of the *active measures* or *disinformation* in the information war is about getting you to LIKE some celebrity or to implicitly trust some figure that you should not trust AT ALL ... there's way more to the information war arsensal than just that, but it's kind of safe to say that *MOST* of it is about inappropriate *like*age of celebrities or commentators ... rather than having serious conversations with yourself, about being humble, about actually being familiar enough with the guy in the mirror to be able to call him on his bullshit. 
+It's the best starting assumption until you can prove otherwise ... when the ground beneath you is shifting, you need to develop your *sea legs* ... balance is a matter of constant adjustment and adjusting the bouyancy of adjustment ... conversely, needing to trust something solid is for calcified fossils.
+
+The best working assumption about the content that you come across is that it is supplied by your enemy.  Sure, that might too paranoid, but it is best to be fiercely skeptical ... and that includes being skeptical of your own thoughts and working assumptions.
+
+Most of the *active measures* or *disinformation* in the information war will be about getting you to LIKE some celebrity or figure that you have not met ... there's way more to the disinformation arsensal than just getting you to trust an avatar, but it's kind of safe to say that *MOST* disinformation begins with misplaced faith which starts with inappropriate *like*age of celebrities or commentators. 
 
 ### You sorta HAVE TO avoid regular consumption of the news or news commentary.
 
-It's YOUR mind ... unless you are like most people who just give the control of their minds away for the delusion of comfort.
+Mental mastery is a matter of introspective inquiry ... you can think of second-guessing your thoughts as *WRESTLING with the angel of the Lord ... and generally getting BEATEN over and over again.* In order to really THINK, you will need scribble notes in your own journal or write your own blog or keep a journal ... you really need have some sort of mechanism for getting your thoughts into some form that allows for you going back later and reconstructing your thought process.
 
-Mental mastery is a matter of WRESTLING with the angel of the Lord ... and getting BEATEN.
+*If, instead of doing this, you seek the comfort of regular programming, especially when you feel that pscyhological TUG of the comfort of being reinforced with the knowledge of what _JohnQCommentator_'s take on the news is today or this week, well ...* 
 
-Of course, prayer is EXTREMELY important ... not just important, absolutely ESSENTIAL ... and some of it needs to be with HEAD BOWED, IN FULL SUPPLICATION, ON YOUR KNEES. Meditation is also necessary ... maybe just sitting ... or perhaps in the form of a long meditative walk [in which you do not listen to music or radio or anything -- but just focus on meditatively controlling your own thoughts].  In order to really THINK, you also need to scribble notes in your own journal or write your own blog or keep a journal or have some sort of mechanism for going back and looking what you were thinking.
+***CONGRATULATIONS! If you need your daily dose of some content, then YOU are OFFICIALLY addicted, you are programmed.***
 
-If ... instead of doing this ... there's news or any kind of political content that you *imagine* that you need to listen to on daily basis ... if you feel that pscyhological TUG of wanting to know what _ *JohnQBlank* _'s take on the news is today or this week, well ... congratulations, then YOU are OFFICIALLY programmed.
+Moreover, if you feel offended by this and say to yourself something like "*That's bullshit! I'm not addicted just because I want a little mental comfort ...*" ... well, guess what, if you feel offended or irritated by something that you know is true, then you have become weaponinized poision to yourself ... and all of the people around you. 
 
-Moreover, if you feel offended by this and you are ready to stop listening to me *because I don't fit any boxes that you need to shove people into* ... then additional congratulations are in order ... you are FUNCTIONALLY INSANE because you are defensive about something that you know is true -- and, if that fills you with HATE, then you are going to have to suffer the results of mental self-control as you make yourself miserable and if you don't get a grip on your mental self-control, you will be weaponinized poision on all of the people around you. 
+*That's just the way LACK OF mental self-control works, ie that's why we as Christian warriors have pray to forgive others ... we don't need to be forgiven by others; it does not matter if someone hate us, haters are gonna hate us and should hate us -- what we, as Christian warriors REALLY NEED is to be granted, by the grace of our Creator, the ability to forgive, to let go, to move on ... this power is ENTIRELY about mental self-control. I did not make up the rules*...***THAT'S JUST THE WAY IT WORKS.***
 
-*That's just the way LACK OF mental self-control works, ie that's why we as Christians pray to forgive others ... we don't need to be forgiven; it does not matter if someone hate us, haters are gonna hate -- what we REALLY NEED is to be granted, by the grace of our Creator, to be able forgive ... this power is ENTIRELY about mental self-control.I did not make up the rules*...***THAT'S JUST THE WAY IT WORKS.***
+The POINT of FIERCE SKEPTICISM ... and the point of resisting the comfort of listening to, reading or watching your daily programming ... like the point of the essentiality of being able to forgive, without worrying about or expecting reciprocal forgiveness ... all of those points are about being in control OF YOUR OWN MIND.
 
-The POINT of FIERCE SKEPTICISM is about being in control OF YOUR OWN MIND.
 
-# Trust NO ONE ... including the guy in the mirror
+# Why the OPENNESS of OPEN SOURCE content is important
 
-Yes, of course, that has to apply to me.  You should not trust me. I don't trust me.  
 
-I come back to this content ... to edit, revise, remove ... because it's never perfect; I am in the process of perfecting it -- but I would NEVER NEVER NEVER trust me ... and I trust everyone else EVEN LESS than I trust me.
+I develop and write my OPEN SOURCE material ... in an open manner with the full commit trail available ... in order to come back to this content ... to edit, revise, remove ... it's about the process of perfecting.
 
-The point is to be FIERCELY skeptical ... and, if you have a favorite new program or favor commentator that you need to listen to every day ... it's not JUST you are not skeptical enough ... it's that you feel that emotional tug which prevents you from being skeptical [ESPECIALLY IF YOU ARE STUPID ENOUGH TO THINK THE RULES DON'T APPLY TO YOU] ... so you are functionally insane and you have let yourself become a weaponized tool.
+Other people can reconstruct it or backtrack to understand the develop by looking at the commits.
 
-You HAVE TO try to be aware of your own little emotional tugs, psychological pulls ... and not get defensive when someone points out that you have let yourself become a tool ... the whole point is self-awareness and self-correction is that there's just no substitute for being fiercely skeptical of everything and everyone ... and that HAS TO extend to the guy in the mirror, or you have become worse than POISON to everyone around you, especially if you cultivate a group of scychophatic gossips who defend you.
+The sources of what I'm working on are never perfect ... that's WHY the sources of open source content are in a repository on GitHub. The public nature of open source repositories is to allow for the possibility of someone else finding the development process as well as the work-in-process source useful.
 
-FIERCE skepticism of your own thoughts and feelings is the ONLY path to humilty ... without that, you are a weaponized tool of the worst kind. 
+The whole point of open source is we CAN look at the DEVELOPMENT what's driving whatever on the surface ... always being FIERCELY skeptical of what's behind the scenes.
+
+We should be EVEN MORE FIERCELY SKEPTICAL when something is proprietary, polished, and presented as PERFECT product that some trusted authority or celebrity stands behind ... when we can't see and reconstruct the sources, we cannot trust shit on the surface at all.
