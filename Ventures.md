@@ -110,16 +110,16 @@ Ollam.ai
 HuggingFace
 
 
-9) creVass.org ... optimizing resource recovery
+9) creVass.org ... 
 
-* frgl.be ... resource recovery ... fxrz
-* nanotoolworks ... makering ... scientists blow their own glass
-* NOSE.life ... nanofabricated omni sensing electrochemistry (NOSE) is about nanobiochemical sensing and the metrology of nanobiochemical sensing ... 
 * DRAIN.tips
 * IowaBreeze.org
 * Stinxjet.com ... reproducing samples for smell, taste, carbon monoxide, hydrogen sulfide, soil quality, water quality, air quality, etc.
 * TRIZ.tips
 * accidentalinvention.com
+* frgl.be ... resource recovery ... fxrz ...optimizing resource recovery
+* nanotoolworks ... makering ... scientists blow their own glass
+* NOSE.life ... nanofabricated omni sensing electrochemistry (NOSE) is about nanobiochemical sensing and the metrology of nanobiochemical sensing ... 
 
 10) BRUNO.solutions
 
