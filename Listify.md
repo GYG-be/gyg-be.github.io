@@ -7,9 +7,19 @@ permalink: /Listify/
 
 #### Listification is **HYBRID intelligence
 
-Using AI tools, curating and annotating reading and the disicplined upgrading of the whole reading skillstack is in itself a lifelong JOURNEY.** 
+*Listification* is about improvement of the discipline of gathering intelligence.
 
- That is what ***listification*** is about. It's about reading with a purpose and that purpose is about varying the content, but constantly improving the highly disciplined *listification* process to always read with an intention to be better able to apply knowledge and to DO things, to not just DO things for the sake of keeping busy, but to be able to DO the right thing, to DO the necessary thing rather than causing collateral damage by just doing stuff because it's there. 
+We curate lists ... and try improve the cognitive disciplines involved in the curation of lists. 
+
+Using AI tools, curating and annotating reading and the disicplined upgrading of **the whole reading skillstack is in itself a lifelong JOURNEY.**  
+
+We read to improve our ability to read ... and lists help us to read with some sort of coherent connection to previous minds, to our previous reading.
+
+The connection to previous trains of thought ... espeically classical important trains of thought ... is what ***listification*** is about. 
+
+It's about reading with intensity and focus ... and picking up our train of thought to regain or extend that purpose. 
+
+The listification purpose is about varying the content, but constantly improving the highly disciplined *listification* process to always read with an intention to be better able to apply knowledge and to DO things, to not just DO things for the sake of keeping busy, but to be able to DO the right thing, to DO the necessary thing rather than causing collateral damage by just doing stuff because it's there. 
  
  *Listification* is about improvement of the discipline of gathering intelligence.
 

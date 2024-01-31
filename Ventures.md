@@ -5,9 +5,17 @@ permalink: /Ventures/
 ---
 
 
-***Venturing*** is our process of ***engaging*** the world economically, culturally, thematically.  
+## We do ventures in order PRIMARILY to research investment themes
 
-We try to do this in an intensely practical manner ... by exploring possible business enterprise ideas (ie, self-sustaining ventures with products that offer customers something they need and will pay for or what is generally referred to as *the MVP with a compelling value proposition*) ... but we also look at creative or scientific research or different open source venture philantropies that could really move the needle.  We strongly favor open source.
+EXCEPT that ... but VENTURES must create value for their users; so the best ventures of the next decade will necessarily be about SUSTAINABLE philanthropy.
+
+There is no form of sustainable philanthropy that is better than something that can be built that will serve customers by improving customer productivity WITHOUT causing any negative externalities or pollutants and will do this EFFICIENTLY without burning up ANY [or very many] resources ... quite often, the ***very best thing that any human endeavor could possibly do is ABSOLUTELY NOTHING, ie to just sit back and watch as we let our Creators process work in the Universe.***
+
+We efficiently develop **near-zero-cost proto-ventures** in order understand an industry and understand which are the best long-term competitors in an industry and to invest in superior organizations ... if we cannot find a superior organization, we ***MIGHT*** attempt to create one from scratch, but PRIMARILY we are doing ventures to research an investment theme or thesis. 
+
+***Venturing*** is our process of ACTIVE LEARNING ... getting dirty by actually DOING THINGS and BUILDING THINGS [at zero or very low cost] ... the point is to understand the issues that impede productivity growth for masses of human beings ... thus reserching, learing, building things that might work [or finding out why the ideas don't work] is about ***engaging*** the world economically, culturally, thematically ... *rather than simply being drunken tourist sunning ourselves on a beach*.
+
+We try to do VENTURES in an intensely practical, near-zero-cost-to-launch manner ... by exploring possible business enterprise ideas (ie, self-sustaining ventures with products that offer customers something they need and will pay for or what is generally referred to as *the MVP with a compelling value proposition*) ... but we also look at creative or scientific research or different open source venture philantropies that could really move the needle.  We strongly favor open source.
 
 # Listing of ventures 
 

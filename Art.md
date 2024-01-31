@@ -5,31 +5,35 @@ permalink: /Art/
 ---
 
 
-We ONLY look at Art read as a break from work ... as opposed to reading, we try NOT TO to think about Art with *with anything like serious, critical intention.* 
+Art ... is about thinking different ... part of it is about taking a break from work ... as opposed to how we think about the disicpline of reading and reading techologies, we deliberately try NOT TO to think about Art with *with anything like serious, critical intention.* 
+
+Others can take ART seriously ... for us, it's just about trying to look at things from a different perspect ... we do take ***the ART of thinking different*** seriously ... but we don't take our attempts to do art itself seriously -- we just do it to THINK.
 
 # Art Lists
 
-Our aim with this listing is to never have to think about our next list of items to explore/annotate ... we want to have roughly 125 good art exploration ideas in the hopper, to have 25 that we visit on at least once a month, to have five that we are currently touching on once a week and to have ONE main one that we are spending too much time with right now.
+Our aim with developing listings is to never have to think about our next list of items to explore/annotate
 
-1) The podcast genre, especially the sub-genre about art
+We want to have roughly 250 to 125 good art exploration ideas in the hopper ... in order to to have 50 to 25 that we visit on at least once a month ... in order to have ten to five that we are currently touching on once a week ... and to have ONE main GOTO one that we are spending too much time with right now.
 
-2) Galleries
+1) The podcast genre, podcastering, deep listening, audio engineering
 
-3) Museums
+2) Landsculpting, include satellite views of the earth
 
-4) Photography
+3) Museums, galleries, art shows, fairs
 
-5) Parks
+4) Photography, image engineering, image processing, image recognition
+
+5) Parks, public spaces, prayer walks, hospice gardens
 
 6) Sculpture, other than landsculpting
 
-7) Mysticism, psycotropics 
+7) Mysticism, psycotropics, hypnosis, fasting, meditation, prayer, silence, solitude, hermitage
 
-8) Cartoons
+8) Cartoons, memes, comics, graphic novels
 
-9) Comedy, especially timeless, evergreen DEAD comics
+9) Comedy, especially timeless apolitical comedy
 
-10) Nature
+10) Nature, nature soundscapes, natural rhythms and sound engineering
 
 11) Physics
 
@@ -37,11 +41,11 @@ Our aim with this listing is to never have to think about our next list of items
 
 13) Chemistry
 
-14) Meta Wikipedia, Wikipedians, General wikiculture
+14) Meta Wikipedia, wikipedian culture, general wikiculture
 
-15) Philosophy
+15) Philosophy, classic and modern philosophy
 
-16) Music, Ambient music, hypnotics
+16) Music, ambient music, hypnotics
 
 17) 
 
