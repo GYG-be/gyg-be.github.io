@@ -6,15 +6,21 @@ categories: template
 ---
 
 
-## We develop [VENTURES](https://markbruns.github.io/Ventures/) in order to INVEST.
+## We develop [VENTURES](https://markbruns.github.io/Ventures/) in order to INVEST in human productivity.
 
-***It's all about productivity, stupid!***  How do you LEARN about what actually delivers the productivity?  You DO NOT learn about it by being a practicioner of *victimthink* who indulges in conspiracy theories ... you cannot possibly learn by trusting the experts ... you deserve to fail miserably if you are the kind of lazy thinker who believes in the magic of ***the next big thing.***
+***Venture philanthropy is all about advancing human productivity, stupid!***  
 
-You cannot just trendspot ... you have to UNDERSTAND the mechanics of WHY/HOW ... you have to understand the why/how [and the why not/how not to do it] of why and how something will improve the productivity of masses of humans. You cannot just trendspot ... you need to actually get your *hands dirty.*
+How do you LEARN about what actually delivers the productivity?  
 
-YOU can ONLY really LEARN BY DOING SOMETHING.
+We do know what does not work at all.
 
-You can get lots of hints by READING ... and getting better at reading more, faster, better ... but if you want to LEARN, you have to DO ... you sorta have to DO things that you totally suck at to learning anything new ... you DO things that you are pretty good at to find ways to get better ... and you build new proto-VENTURES to find out who is really doing this so well, that you want to invest in them getting even better.  The only hints in investment come from your own proficiency in building the minimal viable prototypes of the VENTURE that you believe might make people more productive ... you will FAIL in the building of these proto-ventures, so you want to preserve your capital ... and learn from other people's failures. 
+You DO NOT learn about it by being a practicioner of *victimthink* who indulges in conspiracy theories ... you cannot possibly learn by trusting the experts ... you deserve to fail miserably if you are the kind of lazy thinker who believes in the magic of ***the next big thing.***
+
+You cannot just trendspot ... you have to UNDERSTAND the mechanics of WHY/HOW ... you have to understand the why/how [and the why not/how not to do it] of why and how something will improve the productivity of masses of humans. You cannot just trendspot ... you need to actually get your *hands dirty* ... to learn, you have to BUILD AN ALMOST WORKING PROTOTYPE OF SOMETHING FOR NO COST.
+
+YOU can ONLY really LEARN BY DOING SOMETHING ... and failing.
+
+You can get lots of hints by READING [about what other people have done; about what works, what does not work YET]... and getting better at reading more, faster, better ... but if you want to LEARN, you have to DO ... you sorta have to DO things that you totally suck at to learning anything new ... you DO things that you are pretty good at to find ways to get better ... and you build new proto-VENTURES to find out who is really doing this so well, that you want to invest in them getting even better.  The only hints in investment come from your own proficiency in building the minimal viable prototypes of the VENTURE that you believe might make people more productive ... you will FAIL in the building of these proto-ventures, so you want to preserve your capital ... and learn from other people's failures. 
 
 Other people's FAILURES are gigantic hints ... for example, NOBODY who thinks that vehicle technologies will make humans more productive really understands the productivity of human thought ... you cannot get thoughts, information, knowledge *shipped* fast enough by car, by plane, by spaceship.  The productivity of human thought is all about the speed of useful INFORMATION application and the acceleration of the growth of KNOWLEDGE for better resource allocation ... the biggest gains in productivity will not come from transport, although we might need to apply knowledge engineering and information technology to car companies, we don't want to invest in just another car company, ie we want to invest in the company that selling the car company the AI, information technology and knowledge engineering because *the topline growth in vehicle miles travelled per citizens per year in developed nations peaked fifteen years ago.*
 

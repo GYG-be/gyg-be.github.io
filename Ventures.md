@@ -5,6 +5,11 @@ permalink: /Ventures/
 ---
 
 
+
+***Venturing*** is our process of ACTIVE LEARNING about endeavors that advance human productivity. 
+
+Active learning means getting our hands dirty and finding the areas of frustration and pain ... by actually DOING THINGS and BUILDING THINGS [at zero or very low cost] ... with the ***ultimate intention of making serious investments in things that actually make human beings better off. ***
+
 ## We do ventures in order PRIMARILY to research investment themes
 
 EXCEPT that ... but VENTURES must create value for their users; so the best ventures of the next decade will necessarily be about SUSTAINABLE philanthropy.
