@@ -16,7 +16,9 @@ Most of the *active measures* or *disinformation* in the information war will be
 
 ### You sorta HAVE TO avoid regular consumption of the news or news commentary.
 
-Mental mastery is a matter of introspective inquiry ... you can think of second-guessing your thoughts as *WRESTLING with the angel of the Lord ... and generally getting BEATEN over and over again.* In order to really THINK, you will need scribble notes in your own journal or write your own blog or keep a journal ... you really need have some sort of mechanism for getting your thoughts into some form that allows for you going back later and reconstructing your thought process.
+Mental mastery is a matter of introspective inquiry ... you can use different mental models think about the process second-guessing your thoughts -- you might think of it as *WRESTLING with the angel of the Lord ... and generally getting BEATEN over and over again.* The point of that metaphor is that it's impossible, completely uncomfortable ... the constant sifting and re-sifting is about triggering one's subconscious unthinking, re-wiring and re-programming.
+
+In order to really THINK, you cannot be AT EASE ... will need scribble notes in your own journal, write letters to yourself or write your own blog or keep a journal ... you almost really need have some sort of Git-like distributed version control mechanism or automated version control system to lean into as you revise ... it's all about getting your thoughts into some form that allows for you going back later and reconstructing your thought process.
 
 *If, instead of doing this, you seek the comfort of regular programming, especially when you feel that pscyhological TUG of the comfort of being reinforced with the knowledge of what _JohnQCommentator_'s take on the news is today or this week, well ...* 
 
