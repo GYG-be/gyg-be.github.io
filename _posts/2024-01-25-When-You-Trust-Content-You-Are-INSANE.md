@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Be MORE Fiercely Skeptical"
+title:  "Balance Requires More Fierce Skepticism"
 date:   2024-01-25 4:30:00
 categories: template
 ---
