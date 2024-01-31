@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Have A News Program You TRUST? You're FUNCTIONALLY INSANE."
+title:  "Have A News Program You TRUST? Congratulations! You're FUNCTIONALLY INSANE."
 date:   2024-01-25 4:30:00
 categories: template
 ---
