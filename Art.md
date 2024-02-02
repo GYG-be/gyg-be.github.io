@@ -19,7 +19,7 @@ Our aim with developing listings is to never have to think about our next list o
 
 We want to have roughly 250 to 125 good art exploration ideas in the hopper ... in order to to have 50 to 25 that we visit on at least once a month ... in order to have ten to five that we are currently touching on once a week ... and to have ONE main GOTO one that we are spending too much time with right now.
 
-1) Music, music history, music theory ... the annotated listifications developed by someone like [Ted Gioia](https://www.tedgioia.com/) is the kind of material we are aiming for in the far distance, ie "mind-expanding, deep-focus, longitudinal scholarship"
+1) Martial arts are EASILY the most important arts to us.
 
 2) Landsculpting, include satellite views of the earth
 
@@ -39,17 +39,17 @@ We want to have roughly 250 to 125 good art exploration ideas in the hopper ... 
 
 10) Nature, nature soundscapes, natural rhythms and sound engineering
 
-11) Physics
+11) Theoretical Physics, Chemistry, Mathematics are the most ARTISTIC precursors of useful hard sciences  
 
-12) Mathematics
+12) [Musicology](https://en.wikipedia.org/wiki/Musicology), [musical mathematics](https://en.wikipedia.org/wiki/Music_and_mathematics), [audio spectrograms](https://en.wikipedia.org/wiki/Spectrogram). [music informatics and metadata](https://en.wikipedia.org/wiki/Music_informatics), [musical history, especially experimental mavericks](https://archive.mpr.org/collections/programs/american-mavericks), the history of the culture surrounding a form of music, such as jazz and jazz standards by [Ted Gioia](https://www.tedgioia.com/) ... and other studies of music and cultural idioms such as [Susan McClary](https://en.wikipedia.org/wiki/Susan_McClary), [Jennifer Ward Regan](https://www.jenniferwardregan.com/), [Mark Katz](https://en.wikipedia.org/wiki/Mark_Katz), [Robin D. G. Kelley](https://en.wikipedia.org/wiki/Robin_D._G._Kelley)
 
-13) Chemistry
+13) Quantum computing, theoretical cognitive science, and the logical underpinnings of computer engineering are definitely more art than science
 
-14) Meta Wikipedia, wikipedian culture, general wikiculture
+14) Meta Wikipedia, wikipedian editing culture, general wikiculture and its origins, even extending to the history of the internet
 
-15) Philosophy, classic and modern philosophy
+15) Philosophy, both classics as well some forms of modern philosophy 
 
-16) The podcast genre, podcastering, deep listening, audio engineering, ambient music, hypnotics
+16) The podcast genre, podcastering, deep subconscious listening, audio engineering, ambient music, hypnotics, [ornithology](https://en.wikipedia.org/wiki/Ornithology)
 
 17) 
 
