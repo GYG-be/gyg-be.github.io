@@ -1,14 +1,24 @@
 ---
 layout: post
-title:  "Always a Matter Of DETOX and ELIMINATION"
+title:  "Always a Matter Of Detox and Elimination"
 date:   2024-01-16 4:30:00
 categories: template
 ---
 
 
-In a previous post, I described my $5000 content spend for 2024 ... which brings up a PROBLEM.
+In a previous post, I described my $5000 content spend for 2024 ... which brings up a bigger PROBLEM, ie what do I remove to make room for it AND for the new acquistions that hopefully better content, better ideas lead to me add.
 
-We are always acquiring stuff, even when it's electronic content that takes up no space ... but the MORE IMPORTANT flip side of acquisition is about what we will sort through, remove, minimize, phase out, purge and eliminate from our system ... and what is our ONGOING PLAN for detoxification and elimination going to be.
+*It's NEVER about what we add or acquire ... 95% or maybe more, ie who knows what the numeric percentage is,  of* ***the BENEFIT comes from the stupid shit minimize*** 
+
+In terms of content, there are only so many seconds in a day ... $5000 is cheap for what value we might get out of good content ... but we will get at least $95,000 worth of benefit from REMOVING the stupid timewasting shit we waste time on.  It's EASY for us to say that we need to get rid of any time wasted on idiotic things like HATE ... or allowing any kind of mindrot, eg like dwelling on the pain of having our feelings hurt, to live rent-free for even one second in our minds ... but we ALSO have to get rid of other forms of STUPIDTHINK such as spending too much time dwelling on memories or wishing to return to the past or hoping to see people who mattered to us again. 
+
+**We have to LIVE on the future-ish side of the present, as we prepare for the future -- we cannot waste time looking back, because we are not going that way.**
+
+*Obviously, therefore, time management HAS TO matter even more when we are trying to make room for better new habits.* YES, of course, we are serious enough about minimization to ensure that the screen time on our mobile devices stays low ... and YES, we generally HAVE TO make a practice of AVOIDING MOST SOCIAL MEDIA.  For the most part, and the ONLY reason that use social media is as a way to let people who MIGHT NEED US SOME DAY, *although they don't realize why they need us yet* ... to let people know that we're still ***out there*** and, more importantly, *we are never going to settle down and be one bit normal*.
+
+As human beings, our behavioral tendency is to always be curious about things, maybe thinking that we might need something in the future as a tool or something that helps us ... so we are pretty much always in acquistion mode ... acquiring more and more and MORE stuff, even when it's electronic content that we minimalists like because content takes up no space and is rapidly findable ... but the MORE IMPORTANT flip side of acquisition is about what we will sort through, remove, minimize, phase out, revise, edit, purge and eliminate stuff from our system.
+
+# What is our ONGOING PLAN for detoxification and elimination going to be?
 
 The INITIAL plan might be as simple as going for a long walk EVERY DAY ... and purging anything that shows up as a problem or crosses our mind as we are walking ... a long walk has ways of making the need for purging dreadfully obvious, eg "*My knees hurt*. Well ... WHY would your knees hurt? Do you need to stop eating stupid shit again ... OR have you been sitting too much rather than going for walks?"  
 
