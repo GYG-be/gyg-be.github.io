@@ -11,8 +11,4 @@ Warfighting systems dependent upon tanks, motorized artillery and different auto
 
 In keeping with the distributed defense philosophical underpinnings of the 2nd Amendment of the US Constitutions, it is necessary for citizens to explore the implications of this new technology and its potential impact on the future of warfighting and self-defense in the event of civil wars and insurrections.
 
-The best way to PREVENT war from happening is to prepare for its inevitable reality
-
-Self-organized hierarchy is a key unsolved challenge for the future of swarm robotics
-
-We can start thinking about this by reviewing materials on [Self-organizing Nervous System (SoNS) of n-multiple independent robots for coordinated swarm robotics](https://browse.arxiv.org/abs/2401.13103).
+The best way to PREVENT war from happening is to prepare for its inevitable reality. That's why we delve into the topics of RTOS and self-organized hierarchies in order to lay the groundworkd for future of swarm robotics. We can start thinking about self-organizing, but independent autonomous robots by reviewing materials on [Self-organizing Nervous Systems (SoNS) of n-multiple independent robots for coordinated swarm robotics](https://arxiv.org/pdf/2401.13103.pdf).
