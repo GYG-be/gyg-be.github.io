@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Swarm Robotics and Warfighting Obsolescence"
-date:   2024-02-04 4:30:00
+date:   2024-02-07 4:30:00
 categories: template
 ---
 
