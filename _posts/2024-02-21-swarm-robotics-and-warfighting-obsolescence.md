@@ -1,12 +1,22 @@
 ---
 layout: post
 title:  "Swarm Robotics and Warfighting Obsolescence"
-date:   2024-02-07 4:30:00
+date:   2024-02-21 4:30:00
 categories: template
 ---
 
 
-Freedom is not free ... we can kind of coast on the freedom provided for us, but we need to exercise those freedoms, especially the freedom to inform ourselves. We live in an information age and are subject to what could be described as information war. Of course, there is no substitute for being fiercely skeptical and yet generally aware enough of technological developments in warfighting and reasonably familar with how those technologies might be obtained implemented so that one can defend oneself. It is necessary for a well-informed citizenry to be able to defend against tyranny ... even if that defense would involve certain death for most of those doing the fighting. It's your duty as a citizen to kinda know what's going on and not be completely helpless in the face of those who would gladly prefer to keep you stupid or using their preferred media choices to program you to accept their form of tyranny.
+We have long known that the [use of swarm robotics or using multiple robots in a coordinated fashioin](https://web.archive.org/web/20180726044234/https://link.springer.com/content/pdf/10.1007%2F978-3-319-62533-1_15.pdf) shortens manufacturing time by performing different tasks simultaneously. This is not exactly new to robotics, we have all heard the saying: *Many hands make light work.* W can think of many tasks in an industrial environment where the collaborative coordination of multiple robots is essential to even being able to accomplish the task: 
+
+* Manipulating [large] structural elements in a coordinated fashion in environments that are hard or impossible for humans to access such as in space or underwater.
+* Performing a coordinated search or intelligence gathering task through the collaboration of different types of robots, likely in a largescale disaster or hazardous envionment, a flying drone can more rapidly locate areas where the most valuable assets are likely to be found, while a tracked robot on the ground searches in coordinated manner to refine the overall observability.
+* Performing simultaneous measurements in different locations with different instruments: measuring sound disturbances in different parts of a building while monitoring toxic pollutants or radiation after an industrial accident.
+
+It should come as no surprise that swarm robotics, as a highly coordinated logistics-enabling technology has rapidly changed warfighting and defense strategies. It is important for us to be aware of what this means ... the wars of the 2030s will not be fought with the technologies of the the 2000 or even the technologies of 2015. We might admire old warfighting technologies as museum pieces, but we should not imagine that they are not obsolete. When we say that "Freedom is not free" it increasing means that our technology and tactics that incorporate the most approapriate technologies must be part of our overall strategy.
+
+Of course, we might think that we don't want to update our skills ... we might be able to kind of coast on the freedom provided for us, but we need to exercise those freedoms, especially the **freedom to inform ourselves** and practice with applicable technology.
+
+We live in an information age and are subject to what could be described as information war. Of course, there is no substitute for being fiercely skeptical and yet generally aware enough of technological developments in warfighting and reasonably familar with how those technologies might be obtained implemented so that one can defend oneself. It is necessary for a well-informed citizenry to be able to defend against tyranny ... even if that defense would involve certain death for most of those doing the fighting. It's your duty as a citizen to kinda know what's going on and not be completely helpless in the face of those who would gladly prefer to keep you stupid or using their preferred media choices to program you to accept their form of tyranny.
 
 You are kidding yourself if you think that you can be free if you don't devote at least some mental energy to the topic of self-defense and awareness of different mechanisms of self-defense. In keeping with the distributed defense philosophical underpinnings of the 2nd Amendment of the US Constitutions, it is quite necessary for citizens to be able to procure, keep and bear arms ... and arms is certainly not limited to firearms ... it is about a robust defense and awareness of what that defense would require ... therefore it is necessary to explore the implications of new technologies and the potential impact of those technologies on the future of warfighting and self-defense in the event of civil wars and insurrections. 
 
