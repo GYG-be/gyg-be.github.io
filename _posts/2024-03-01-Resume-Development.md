@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "You Do Not Understand Your Own LinkedIn Profile For RETIREMENT"
+title:  "You Do Not Understand Your Own LinkedIn Profile"
 date:   2024-03-01 4:30:00
 categories: template
 ---
 
+
+*It's not really just LinkedIn ... not really just social media ... or various online profiles ... *it's about your IMAGE ... your NAME ... what superficial things, like your appearance or your LIKENESS ... and it's about your personal brand.*
 
 I was not really looking for a job ... but I thought that going through the typical job search exercise might give me some clues about how I should *look for work* in retirement [to work for myself, starting at the bottom, as a retiree-intern].
 
@@ -40,3 +42,4 @@ I thoroughly DETEST being a tourist ... cannot stand it AT ALL. I enjoy seeing n
 Without a business purpose, I am better off being a reclusive hermit at home ... maybe, if I want to meet interesting new people, I can visit the convicts in prison.
 
 So ... it's either prison ... or else I have to INVENT my own business purpose ... or philanthropic purpose ... or else, I can't travel, see new things firsthand or interact with new people.
+
