@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "FreeRTOS-Kernel-Book",
+			"path": "../../FreeRTOS-Kernel-Book"
+		}
+	],
+	"settings": {}
+}
