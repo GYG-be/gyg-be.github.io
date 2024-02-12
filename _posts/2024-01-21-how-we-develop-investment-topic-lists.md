@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Minimal Viable Prototypes And Our VENTURES List"
+title:  "Minimal Viable Prototypes As VENTURES"
 date:   2024-01-21 4:30:00
 categories: template
 ---
 
 
-This post is about HOW/WHY we develop our [VENTURES](https://markbruns.github.io/Ventures/) list.
+This post is about HOW/WHY we develop our [VENTURES](https://markbruns.github.io/Ventures/) list ... our point with these MVP Ventures is not really to develop the next billion-dollar unicorn ... it's not even really to develop a venture with a million-dollar valuation ... our aims are much more modest -- we simple register domain names and then develop those virtual properties [somewhat similar to how individual athletes/musiscians develop their NIL properties] by adding the general framework of a business plan with monetization ideas and technologies that might become part of million-dollar enterprise or perhaps even a unicorn, if the concept sorta *wins the lottery*.
 
 ## We develop [VENTURES](https://markbruns.github.io/Ventures/) in order to INVEST in human productivity.
 
-**That's the WHY of it.**
+**That's the WHY of it.** That's the core theme in everything we tinker with.
 
 Investing drives the ***SUSTAINABILITY*** of [VENTURE PHILANTHROPY](https://markbruns.github.io/Ventures/). Actually having skin in the game helps to SUSTAINABLY advance human productivity by building more the things that most efficiently, most rapidly advance creative, productive workflows.***  
 
