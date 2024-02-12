@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Strength, Conditioning, and Mobility Coaching"
-date:   2024-01-15 4:30:00
+date:   2024-01-14 4:30:00
 categories: template
 ---
 

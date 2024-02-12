@@ -33,15 +33,7 @@ Maybe I should spend even more ... I don't know if I can actually put MORE to us
 
 This kind of content is not content design to soothe idiots and zombies, like Netflix or NFL or some form of news or movie channel which is about herding an audience toward an outcome. The point of this content is to advance the general plan of making me stronger, more courageous, less afraid ... the content for this year is like any years plan that has been about investing in my WHY and increasingly targeting what kinds of things have worked best for me healthwise and financially. 
 
-Hopefully this explains why I will spend $5000 in 2024 on fitness/health CONTENT.  I **used to** allocate more of annual spend to physical seminars, martial arts trainers and the cost of traveling to those things ... sometimes, I would a spend little bit on gym or dojo memberships ... but, NOW, I spend it primarily on virtual content, because ... 
-
-## AUTOMOBILES and AUTOMOTIVE CULTURES ARE FUNDAMENTALLY FOR MORONS
-
-For anyone who has trouble connecting the dots ... driving the decision to switch to VIRTUAL content ... it's important understand WHY **any kind of content that demands users travel or commute will have been developed by a mindless idiot who did not understand the costs that his physical seminar or training seminar imposed IN ADDITION TO THE time at the seminar.**  Thus, the content is fundamentally before it even starts ... but agendas of physical meetings also tend to be less productive than a coherent email. 
-
-Physical content is now inherently WORTHLESS by comparison with drills and other autodiadict approaches based on virtual materials.
-
-*If there's a vehicle involved in getting to/from it, the content is just not going to be worthwhile.*  Any kind of regular automotive culture indulgence does not tend to just rather mindless in its own construction ... throughout all aspects of my life, I now feel even STUPIDER after traveling to something ... especially when that something proves to be even more worthless than my low expectations of what I expected it to be.  *It is as if people who use vehicles are not only stupid, but they develop antiquated pre-2020 agendas of stupid antiquated happy horseshit that is more endemically, inherently time-wasting, unfocused, less self-aware, meandering CRAP that is even worse than just me searching through my shelves of old books and MUCH WORSE than the efficiency of using AI, web search and knowledge engineering tools like ConnectedPapers.
+Hopefully this explains why I will spend $5000 in 2024 on fitness/health CONTENT.  I **used to** allocate more of annual spend to physical seminars, martial arts trainers and the cost of traveling to those things ... sometimes, I would a spend little bit on gym or dojo memberships ... but, NOW, I spend it primarily on virtual content, because ... Automotive cultures fundamentally WEAKEN and IMPOVERISH.
 
 ## Sharpening the axe
 
