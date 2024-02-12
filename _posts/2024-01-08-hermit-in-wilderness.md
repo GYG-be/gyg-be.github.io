@@ -8,7 +8,11 @@ categories: template
 
 *What do you DO?*
 
-***I DO hermit stuff.***  I don't impose my costs on other humans. I never ask for assistance in paying my bills or taxes, I NEVER get in a position where I need anything. I am HAPPY, HAPPY, HAPPY ... because I have chosen to a hermit.  
+***I am a [contemplative Christian](https://markbruns.github.io/Contemplation/); I DO hermit stuff.***  
+
+I don't accept donations or live off of offerings as other other contemplative religious orders do; I try to work on my venture philanthropies in free and open source science and research; I make sure that my income is sufficent so that I never have to impose my costs on other humans. I never ever EVER ask for assistance in paying my bills or taxes; it's my responsibility to responsible for my financial needs, so I generally NEVER get in a position where I need anything -- I not only enjoy being entirely self-reliant; I especially do not want to pay exorbitant fees to any service *professional*. 
+
+I am HAPPY, HAPPY, HAPPY ... because I have chosen to be a [contemplative Christian](https://markbruns.github.io/Contemplation/) living according to my own hermit lifestyle.  
 
 I chose to live in the wilderness *SORT OF*... except I am not really allowed to ***legally*** just go out and live in the physical wilderness. Since the span of this physical existence happens in something called the Information Age, I choose to leave the civilized environment of my peer professionals and the wealthiest 1/10 of 1% ... I have given everything away in my life three times. I have deliberated chosen to live in something of a cultural backwater or what might be thought of as a bit of a technological resource-deprived, economically-depressed third-world backward wilderness.
 
