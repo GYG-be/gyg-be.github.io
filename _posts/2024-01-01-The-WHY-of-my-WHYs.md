@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The WHY of my WHYS"
+title:  "The Full Ishikawa of WHYS Driving My WHY"
 date:   2024-01-01 4:30:00
 categories: template
 ---
 
 This post is like a preface to a book ... you can safely skip it ... of course, you can safely skip the rest of my autobiographical content also.
+
+***TBD Editing/Revision*** *I need to ADD/SIMPLIFY with a FULL ISHIKAWA OUTLINE of the WHYS driving my WHY ... this needs to be solidified into coherent five whys bullet-pointed outline of every WHY driving the MAIN WHY.* 
 
 ## Stronger, more courageous, less afraid
 
