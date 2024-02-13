@@ -15,9 +15,11 @@ It's pretty easy FOR SOBER, CRITICALLY-THINKING, INDEPENDENTLY-MINDED to underst
 
 Of course, the answer is, particularly for the products of Super Bowl advertisers, is that that the products are TERRIBLE and even bad for you to consume, that the cannot begin to sell themselves on their merits.
 
-## LOOK at the trends ... NOTICE the pattern.
+## UNDERSTAND why advertisement works to harvest ALL of the ADDICTS availalble money.
 
-These industries traditionally ALWAYS HAVE TO shell out the most during the Super Bowl:
+LOOK at the trends ... NOTICE the pattern ... it's not hard to connect the dots when you are actually paying attention.
+
+These following industries traditionally ALWAYS HAVE TO shell out the most during the Super Bowl ... poison vendors HAVE TO do it this way... because their POISON advertisments live rent-free in the brains of POISON ADDICTS passively watching entertainment:
 
 * Empty-calorie, pathologically ADDICTIVE beverages: Anheuser-Busch InBev (Bud Light, Budweiser, Michelob Ultra, etc.), PepsiCo, Coca-Cola
 
