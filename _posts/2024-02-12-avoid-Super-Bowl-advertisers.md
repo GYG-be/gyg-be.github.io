@@ -25,7 +25,7 @@ These following industries traditionally ALWAYS HAVE TO shell out the most durin
 
 * IMPOVERSISHING automotive products that make people both poorer and generally less fit: General Motors, Toyota, Stellantis (formerly Fiat Chrysler), Kia 
 
-* RECURRENT SUBSCRIPTIONS that people tend to forget about OR over-use in tech and streaming services: Amazon Prime, Google, Netflix, Disney+/ESPN, etc.
+* RECURRENT SUBSCRIPTIONS that people tend to forget about OR over-use in tech and streaming services: Amazon Prime, Google YouTube Premium, Netflix, Disney+/ESPN, etc.
 
 * SUBSTANDARD, SECOND-RATED movies and entertainment that suck ... the kind of stuff that people will not particulary remember and just generally would be better off never watching, especially from major movie studios hyper-promoting upcoming releases and entertainment from the likes Universal, Warner Bros, etc that tend to UNDERWHELM and DISAPPOINT, rather than the kinds of content that spreads by word-of-mouth directly from individual REAL PEOPLE who actually were MOVED to make a recommendation TO HELP THEIR FRIENDS.
 
