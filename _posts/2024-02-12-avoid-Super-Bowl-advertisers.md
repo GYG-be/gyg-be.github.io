@@ -27,7 +27,7 @@ These following industries traditionally ALWAYS HAVE TO shell out the most durin
 
 * RECURRENT SUBSCRIPTIONS that people tend to forget about OR over-use in tech and streaming services: Amazon Prime, Google YouTube Premium, Netflix, Disney+/ESPN, etc.
 
-* SUBSTANDARD, SECOND-RATED movies and entertainment that suck ... the kind of stuff that people will not particulary remember and just generally would be better off never watching, especially from major movie studios hyper-promoting upcoming releases and entertainment from the likes Universal, Warner Bros, etc that tend to UNDERWHELM and DISAPPOINT, rather than the kinds of content that spreads by word-of-mouth directly from individual REAL PEOPLE who actually were MOVED to make a recommendation TO HELP THEIR FRIENDS.
+* SECOND-RATE, SUBSTANDARD movies and entertainment that just sucks on the material's own [lack of] merit ... advertisers need to hype the kind of stuff that people will not particulary remember and just generally would be better off never watching ... especially bigger-budget, celebrity content from top-heavy, high overhead movie studios who rely on things like Super Bowl advertisements to hyper-promoting upcoming releases and entertainment ... the likes of Disney, Universal, Warner Bros, Paramount, et al that tend to produce MAJOR disappointments and BRAZENLY open mainstream "active measures" propaganda advocating irresponsible lifestyle choices that degrade cultures... rather than the kinds of indie content that spreads by word-of-mouth directly from individual REAL PEOPLE who actually were MOVED to make a recommendation TO HELP THEIR FRIENDS.
 
 * ENGINEERED-TO-BE-ADDICTIVE snacks and ulta-processed quasi-edible garbage : Doritos, M&Ms, and other snack giants.
 
