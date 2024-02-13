@@ -19,7 +19,9 @@ In spite of all the problems, the pathetic AI answer is still good enough ... be
 
 # *BUT WHY DON'T THESE PRODUCTS JUST SELL THEMSELVES?*
 
-Of course, the answer to that question ...  particularly for the products of Super Bowl advertisers ... is that that the products really rely upon CLEVER advertisement ... as opposed to key-words-based ads that comes with search engines or recommendation engines ... are not something that you trying to find ...
+Of course, the answer to that question ...  particularly for the products of Super Bowl advertisers ... is that that the products really rely upon CLEVER advertisement ... to CAPTIVE, possibly BORED audiences [trapped at SuperBowl parties people wish they'd stay away from] ... as opposed to JIT key-words-based ads that comes with search engines or the ads that are fed from recommendation engines based on interests/trends in activies.  
+
+SuperBowl ad products are NEVER for something that you were already interested in or trying to find ... those ads are for CAPTIVE, bored, PASSIVE audiences ... not for people ACTIVE searching for something they need.
 
 The products that rely on clever SuperBowl mega-media advertisement are absolutely TERRIBLE for you to consume ... they are POISONS that cannot begin to sell themselves on their own merits or a careful cost/benefit analysis.
 
