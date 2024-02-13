@@ -31,9 +31,9 @@ LOOK at the trends ... NOTICE the pattern ... it's not hard to connect the dots 
 
 These following industries traditionally ALWAYS HAVE TO shell out the most during the Super Bowl ... poison vendors HAVE TO do it this way... because their POISON advertisments live rent-free in the brains of POISON ADDICTS passively watching entertainment:
 
-* Empty-calorie, pathologically ADDICTIVE beverages: Anheuser-Busch InBev (Bud Light, Budweiser, Michelob Ultra, etc.), PepsiCo, Coca-Cola
+* Empty-calorie, pathologically ADDICTIVE beverages: Anheuser-Busch InBev (Bud Light, Budweiser, Michelob Ultra, etc.), PepsiCo, Coca-Cola, GatorAde, other beverage products that you should AVOID ... it's not really that the products are over-priced, although they are ... it's that ***you should not swallow this crap even if you were paid to drink it!***
 
-* IMPOVERSISHING automotive products that make people both poorer and generally less fit: General Motors, Toyota, Stellantis (formerly Fiat Chrysler), Kia 
+* IMPOVERSISHING automotive products that make people both poorer and generally less fit: General Motors, Toyota, Stellantis (formerly Fiat Chrysler), Kia ... ask anyone who retired before they were 50 if they are happy about the capital that they COMPLETELY SQUANDERED on unnecessary automotive purchases; successful investors take risks and lose money, but no investment EVER is worse than money squandered on a new car ... [automotive culture WEAKENS and IMPOVERISHES](https://markbruns.github.io/template/2024/01/18/automotive-culture-is-for-idiots.html) because modern automotive products are designed to be horrendously bad investments and necessarily over-advertised because they are nothing but the phony ILLUSION of STATUS that comes from ostentacious display of superficial wealth.. 
 
 * RECURRENT SUBSCRIPTIONS that people tend to forget about OR worse, end up over-using to justify the big annual subscription ... in tech and streaming services: AmazonPrime, YouTubePremium, Netflix, Disney+/ESPN, etc.
 
