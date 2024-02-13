@@ -34,4 +34,10 @@ The companies selling stuff that you are stupid for consuming are not idiots ...
 
 If you consume ANYTHING from a company that advertises during the Super Bowl, you really need to RETHINK your consumption habits.  
 
-But ... just in case, you needed any clarification ... the list of Super Bowl advertisers should confirm your list of what kinds of POISONS TO AVOID AT ALL COST ... and for what it's worth, **you should probably avoid or minimize your time with any POISON ADDICT who consumes any of these kinds of POISONS.**
+But ... just in case, you needed any clarification ... the list of Super Bowl advertisers should confirm your list of what kinds of POISONS TO AVOID AT ALL COST.
+
+## It's not JUST the POISONs, but the POISON ADDICTS
+
+It's not JUST that we don't watch Super Bowl advertisements ... it's not JUST that we avoid Super Bowl advertisers like the plague they are ... **WE minimize the time we spend with any POISON ADDICTS who consumes any of these kinds of POISONS** ... you cannot get ADDICTS away from defensive over-consumption of their POISONS ... you don't exactly need to shun them or give up on them, but you can cease to stop EVER giving them any affirmation their decision to poison themselves is OK with you ... 
+
+You can just ***politely*** tell them something like, *"Nah, thanks for the invitation and I do appreciate the invitation, but I've totally tapered off my consumption of X and if you have me there while you're swallowing X, I'll be reminding you of the fact that you're a LOSER ADDICT who is poisoning yourself and everyone around you."*
