@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "Automotive Cultures Fundamentally WEAKEN and IMPOVERISH"
-date:   2024-01-14 4:30:00
+title:  "Automotive Cultures WEAKEN and IMPOVERISH"
+date:   2024-01-18 4:30:00
 categories: template
 ---
 
-## Automotive Cultures Fundamentally WEAKEN and IMPOVERISH
+## Automotive Cultures FUNDAMENTALLY Weaken and Impoverish
 
-I regret every time I spent any money on an automotive upgrade ... when I had a MINIMALLY acceptable car, eg a $500 beater for commuting or anything better than what I needed to get me from point A to point B.
+*It's almost a matter of DESIGN * ... but actually, **the weakening and IMPOVERISHMENT is a side-effect of design that is 100% about LUXURIOUS COMFORT and UNNECESSARY CONVENIENCE as well as being 110% about the ILLUSION of STATUS which accrues to the ostentacious display of superficial wealth.**
 
-To really twist the knife ... my stock investments have generally done extremely well, even though I did not really have much to start with  ... for example, when I consider how much my $25,000 investment in Amazon in May, 1997 returned before I exited 20 years later, I am even more pissed off that I ever participated in the automotive circus ... I realize that I really wasted a lot of money on better cars than I needed ... ***but then again, the typical American citizen participating in our automotive culture was 5X maybe even 10X worse than I was*** ... the REASON that we cannot have nice things is the amount of resources that we have SQUANDERED on our automobiles and every thing that our automotive culture *provides* to us.
+I regret every time I spent any money on an automotive upgrade ... when I had a MINIMALLY acceptable car, eg a $250 or $500 beater for commuting or anything better than what I ABSOLUTELY needed to get me from point A to point B.
+
+To really twist the knife ... my stock investments have generally done extremely well, better than the S&P500 or NASDAQ indices, even though I did not really have much capital AT ALL to start with  ... for example, when I consider how much my $25,000 investment in Amazon in May, 1997 returned before I exited 20 years later, I am even more pissed off that I ever participated in the automotive circus ... I realize that I really wasted a lot of money on better cars than I needed ... ***but then again, the typical American citizen participating in our automotive culture was 5X maybe even 10X worse than I was*** ... the REASON that we cannot have nice things is the amount of resources that we have SQUANDERED on our automobiles and every thing that our automotive culture *provides* to us.
 
 For anyone who has trouble connecting the dots ... because it is part of what is DRIVING my decision to make a hard, full, complete switch away from travelling to content and to instead invest more heavily in autodidactic training, eg just DOING drills and internalizing VIRTUAL content until it becomes my own.  
 
