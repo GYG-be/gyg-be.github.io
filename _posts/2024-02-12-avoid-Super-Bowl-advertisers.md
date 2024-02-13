@@ -15,7 +15,7 @@ It's pretty easy FOR SOBER, CRITICALLY-THINKING, INDEPENDENTLY-MINDED to underst
 
 Of course, the answer is, particularly for the products of Super Bowl advertisers, is that that the products are TERRIBLE and even bad for you to consume, that the cannot begin to sell themselves on their merits.
 
-## UNDERSTAND why advertisement works to harvest ALL of the ADDICTS availalble money.
+## UNDERSTAND why advertisement works to harvest ALL of the ADDICT population's availalble money.
 
 LOOK at the trends ... NOTICE the pattern ... it's not hard to connect the dots when you are actually paying attention.
 
