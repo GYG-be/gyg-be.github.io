@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Name-Image-Likeness and PERSONAL Branding"
-date:   2024-03-01 4:30:00
+date:   2024-02-18 4:30:00
 categories: template
 ---
 
