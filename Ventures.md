@@ -5,10 +5,11 @@ permalink: /Ventures/
 ---
 
 
-
 ***Venturing*** is our process of ACTIVE LEARNING about endeavors that advance human productivity. 
 
-Active learning means getting our hands dirty and finding the areas of frustration and pain ... by actually DOING THINGS and BUILDING THINGS [at zero or very low cost] ... with the ***ultimate intention of making serious investments in things that actually make human beings better off. ***
+We can and do look at better intelligence gathering systems so we can better [study the common factors driving the 1200 or so billion-dollar startup unicorns that have come into existence in the last ten to twenty years](https://g.co/gemini/share/44bceab7d627) ... but MOSTLY we are interested in the kinds of ventures that can grow into being million-dollar startups that will grow into ten-million and hundred-million dollar startups on their way to being unicorns.
+
+Active intelligence gathering and learning means getting our hands dirty and finding the areas of frustration and pain ... by actually DOING THINGS and BUILDING THINGS [at zero or very low cost] ... with the ***ultimate intention of making serious investments in things that actually make human beings better off. ***
 
 ## We do ventures in order PRIMARILY to research investment themes
 
