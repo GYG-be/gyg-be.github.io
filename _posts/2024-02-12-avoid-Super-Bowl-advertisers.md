@@ -6,10 +6,23 @@ categories: template
 ---
 
 
+Super Bowl ads are designed to keep POWERLESS people POWERLESS.
+
+The clever ads are designed to keep STUPID ADDICTS addicted to their POISONOUS levels of STUPID consumption ... it's not just that you would be better off spending NO money on any SuperBowl-advertised product ... you would also be better off, if you somehow recieved them, GIVING THE PRODUCTS COMPLETELY AWAY.
+
+In the case of HYPED new vehicles, maybe you could give the vehicle to a charity OR otherwise give it to a needy friend and help him to find the local auto auction or use something like eBay to selling that brand new HYPED vehicle to someone else IMMEDIATELY ... *and then you could keep getting by with your old $1000 pickup or using Uber/Lyft, for those few times when you thought you needed a vehicle* 
+
+The products that need to be HYPED by SuperBowl ads are designed to keep POWERLESS people POWERLESS and ADDICTED to the STUPID that propels them into powerlessness.
 
 # Avoid Super Bowl Advertisers Like the Plague They Are
 
-LOOK at the trends ... NOTICE the patterns ... it's not hard to connect the dots or understand the tendencies that advertisers are attempting to foster when you start actually paying attention to what is happening and WHY these POISON consumption patterns have to be reinforced with clever advertising.  Do your own homework. PAY ATTENTION to how it works!
+I did not understand this until AFTER I started looking at how well my enterprises and investments had performed throughout my life ... I got it pretty early that buying snackfoods or beer was a MORONIC waste of money, ie the products would be better off TRASHED than consumed ... but the vehicle thing was tougher for me to get, maybe because I was such a complete sucker for hot vehicles, especially in my youth -- but I still had okish, but CHEAP cadillacs and lincolns that I bought after they had taken that 70% depreciation hit in the first couple years ... but EVEN THEN, I still was affected by the advertisements -- so it was not until I was OVER 60 until I really understood the NASTINESS of wasting money on vehicles.
+
+I SHOULD HAVE noticed it earlier ... I could see that crap like a bag of Doritos was POISON ... I knew that alcohol was better poured out rather than consumed ... EVEN when I was only 50 or so, I kinda knew that I should generally not hang out very long AT ALL with snack-eaters OR beer-drinkers, ie I felt there was no reason to be impolite, but I keep the conversation kinda short [because having another chip or drinking another beer furnishes an ADDICTING sense of stimulation/pleasure/buzz] but ...
+
+**NOW, I understand why I have to AVOID THE POISON ADDICTS with the same kind of intensity that I would avoid getting together with a bunch of heroin addicts to shoot up.**
+
+The addiction might be hard to spot because it has been SO INCREDIBLY normalized by our culture. But, once you see it, you will not UNSEE it.LOOK at the trends ... NOTICE the patterns ... it's not hard to connect the dots or understand the tendencies that advertisers are attempting to foster when you start actually paying attention to what is happening and WHY these POISON consumption patterns have to be reinforced with clever advertising.  Do your own homework. PAY ATTENTION to how it works!
 
 If you wanted to start diving into this topic, you might start with a question of Google Gemini Advanced or a request to [give you a listing of the top 100 advertisers in the most recent Super Bowl ranked by amount of money spent advertising during the game or halftime](https://gemini.google.com/app/2489055275224dfe).
 
