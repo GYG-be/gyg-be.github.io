@@ -1,12 +1,41 @@
 ---
 layout: post
-title:  "Balance Requires More Fierce Skepticism"
-date:   2024-01-25 4:30:00
+title:  "The Dharma Is Totarry A Chinese Weather Baroon"
+date:   2024-02-02 4:30:00
 categories: template
 ---
 
 
-## Assume that we are AT WAR ... in an *information war* sense of being AT war.
+
+## Regard ALL of the dharma as a dream
+
+ཆོས་རྣམས་རྨི་ལམ་ལྟ་བུ་བསམ། ། ... **Begin by considering all things and events as dreamlike** ... stop relying on fact checkers and stop basing your arguments on supposed facts ... when ALL of the *facts* out there should be regarded dreams.
+
+There's a good reason why the "***regard ALL of the dharma as a dream***" slogan is the first of the *[Seven Points of Mind Training](https://www.rigpawiki.org/index.php?title=Seven_Points_of_Mind_Training)* ... it's the VERY FIRST because it's the most important.  As you know, the *[Seven Points of Mind Training](https://www.rigpawiki.org/index.php?title=Seven_Points_of_Mind_Training)* is a set of teachings in Tibetan Buddhism, brought to Tibet by Lord Atisha and written down by Geshe Chekawa. 
+
+The first main point in this training is often referred to as "The Preliminaries" ... so, technically, the fact-checkers might tell you that the FIRST slogan under this main point is the repetition to **"First, train in the preliminaries**" ... but the NEXT slogan to OR the first one under the main point, is to **begin by considering all things and events as dreamlike** is *kinda right up there with the first.*
+
+However, it is of course important to note this stuff is just like canonization of scripture that we find in any ancient text ... in other words, Chekawa’s original text was [to the best of our knowledge on the topic] not arranged into these seven points. This was done later by his disciple, Sechilphuwa Özer Shyönnu1. Therefore, the order of the slogans and their categorization under the “Seven Points” was a later development, not originally designated by Geshe Chekawa. This might be why there could be some confusion or debate over which slogan is technically the “first” ... but ***WHY IN THE LIVING FUCK DOES IT REALLY MATTER?*** ... SERIOUSLY, why does the order matter, unless someone's kinda *just fuckin with ya, man?* 
+
+Hopefully, you can you why it's important to never take anything at face value, TO NEVER EVER EVER EVER need to rely on fact checkers or to need to base your arguments on supposed facts ... *when ALL of the facts sorta hafta to be regarded dreams* if you're doing this shit right?
+
+If you can't be *fiercely skeptical* of interwebs content ... then ... AT LEAST TREAT IT AS A BAD SARCASTIC JOKE ... from the most twisted friend you have.
+
+STOP expecting ANYTHING to be truth ... stop expecting to be entertained.
+
+NOBODY can give you the truth ... because YOUR life is too much built on LIES and FAKERY; you have no balance and no sense of larger perspective, your reference points are fucked as hell and you can't tell what's TRUTH ... and expecting someone else to give you the truth is like expecting someone else to walk for you on the shifting deck of a ship on a stormy sea -- you have to develop your own sea legs. 
+
+*NOBODY can give you the truth.* 
+
+Discerning the nature of an idea you come across is TOTALLY on YOU ... and nobody else ... the reason that you can tell what's REAL any more is that your whole existense is FAKE AS SHIT ...***Stop being a little whiny crab-ass little baby and thinking anyone owes you the truth.***
+
+If you want the TRUTH ... shut off all of your devices, keep them turned off -- AVOID all your books and papers ... then do a water fast for a good five or six week VACATION from the stupid shiny shit you pick up; any time that you feel like consuming something do some serious high intensity interval training until the desire for consuming anything goes away.
+
+***Stop being a little whiny crab-ass little baby and thinking anyone owes you the truth.***
+
+STOP expecting ANYTHING to be truth ... stop expecting to be entertained.
+
+## You sort HAVE TO assume that we are AT WAR ... in an *information war* sense of being AT war.
 
 It's the best starting assumption until you can prove otherwise ... when the ground beneath you is shifting, you need to develop your *sea legs* ... balance is a matter of constant adjustment and adjusting the bouyancy of adjustment ... conversely, needing to trust something solid is for calcified fossils.
 
