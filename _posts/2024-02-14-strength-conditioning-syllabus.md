@@ -44,22 +44,27 @@ The following outline was developed by CoPilot, Gemini ... with my own input and
 ## Week 2: Spiritual Considerations
 - The role of prayer during Lent
 - Fasting and its spiritual significance
-- Almsgiving and service
+- Almsgiving or generally service-oriented approach to life
+
 ## Week 3: Mental Considerations
 - Developing positive habits
 - Cultivating gratitude, joy, and openness
 - Overcoming challenges and temptations
+
 ## Week 4: Physical Considerations
 - The physical benefits of fasting
 - Balancing physical and spiritual health
 - Understanding the connection between physical actions and spiritual growth
+
 ## Week 5: Becoming Like Christ
 - Understanding the call to Christlikeness
 - Emulating Christ's attributes
 - The role of the Holy Spirit in transformation
+
 ## Week 6: Modern-Day Examples
 - Learning from modern-day examples of Christ-like living
 - Applying lessons from these examples to your own life
+
 ## Week 7: Reflection and Preparation for Easter
 - Reflecting on the journey of Lent
 - Preparing your heart for the celebration of Easter
