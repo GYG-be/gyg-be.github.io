@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strength, Conditioning, and Mobility Coaching"
+title:  "Strength, Conditioning, and Mobility Self-Coaching"
 date:   2024-01-14 4:30:00
 categories: template
 ---
