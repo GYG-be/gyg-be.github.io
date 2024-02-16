@@ -6,9 +6,11 @@ categories: template
 ---
 
 
-*And then it hit me ... first, I realized that do not understand my own LinkedIn profile For RETIREMENT ... and then, it really hit me that it's not just retirement ... I realized that I had been approaching job search COMPLETELY WRONG for my entire career, but what REALLY floored me is that general approach thoughout industry, throughout our education system, thoroughout our entire economy is* ***completely wrong and BACKWARD.***
+*And then it hit me* ... ***Doynk!*** First of all, I realized that did not really bother to understand what LinkedIn WILL BE used for in two or three or five years -- so accordingly, I have not bothered at at all to build my own LinkedIn profile For RETIREMENT ... and then, it REALLY hit me ***DOYNK!***  It's not just retirement ... I realized that, throughout my life, I had been approaching job search COMPLETELY WRONG for my entire career and it's not hardly just me ... in other words, what REALLY floored me is that the general approach thoughout industry, throughout our education system, thoroughout our entire economy is* ***completely wrong and BACKWARD.***
 
-We should be SERVING FIRST ... and thinking about how we can indefinitely sustain our ability to serve first.
+The opportunity to completely disrupt the whole business of how people go about: 1) the process of making themselves available for hire [and also assuring that they can actually DO the job] and 2) how projects and ventures can staff up with the talent required to get a project completed ... is the basis of my GYG.be venture. It comes down to a LEGIT, verified version of NIL reputation mgmt [except that it's about VERIFIED skills, not poses or imagery]. 
+
+The GYG.be venture is about MANAGING one's reputation and that means thinking with the END IN MIND. In other words, if we want to be remotely close to being successful and happy in life, we really need to work a lot harder at *practicing like we play* ... or SERVING FIRST ... and thinking about how we can indefinitely sustain our ability to serve first.
 
 We have all always kind of known that we need to try to make ourselves so useful that we are indispensable to others.
 
