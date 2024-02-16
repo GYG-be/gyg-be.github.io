@@ -47,7 +47,7 @@ When we look at fitness regimes, we tend to get confronted by tsunamis of cliche
 
 You can't just skip to the cliche answer that it's all about CONSISTENCY ... of course, it is Consistency, Intensity and Development ... but your first assignment is to remove whatever is not working ... so STOP BEING A CONSISTENT IDIOT!
 
-You have have the RIGHT consistency. 
+You have DEVELOPED the RIGHT approach to bringing the INTENSITY to your daily CONSISTENCY. 
 
 Your stupid old way of doing things DID NOT WORK, because you CONSISTENTLY short-cutted your thinking on just not bothering with the details being CONSISTENTLY WRONG in CONSISTENTLY getting the MINIMAL AMOUNT done ... so that you could CONSISTENTLY go right back to your old habits, maybe not right away but within a couple week or a month you FORGOT all about that undeveloped, mediocre, not thought through intensity ... like you CONSISTENTLY do every time you start and exercise program. 
 
