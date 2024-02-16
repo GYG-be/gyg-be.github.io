@@ -6,9 +6,9 @@ categories: template
 ---
 
 
-Super Bowl ads are designed to keep POWERLESS people POWERLESS.
+**Super Bowl ads are designed to keep POWERLESS people POWERLESS.** Addictions to those products keep people stupid, helpless and defensive about their addictions.  This is another way of saying, if you want a hint about what you should give up for Lent, it's VERY SIMPLE. You should give up any product that relys upon Super Bowl advertisements; you may also want to give up spending too much time with anyone who is defensive about their addiction to consuming ANYTHING from a company that advertises during the Super Bowl.
 
-The clever ads are designed to keep STUPID ADDICTS addicted to their POISONOUS levels of STUPID consumption ... it's not just that you would be better off spending NO money on any SuperBowl-advertised product ... you would also be better off, if you somehow recieved them, GIVING THE PRODUCTS COMPLETELY AWAY.
+The clever ads are designed to keep STUPID ADDICTS addicted to their POISONOUS levels of STUPID consumption ... it's not just that you would be better off spending NO money on any SuperBowl-advertised product ... you would also be better off, if you somehow recieved them, GIVING THE PRODUCTS COMPLETELY AWAY or even throwing the stuff in the trash.
 
 In the case of HYPED new vehicles, maybe you could give the vehicle to a charity OR otherwise give it to a needy friend and help him to find the local auto auction or use something like eBay to selling that brand new HYPED vehicle to someone else IMMEDIATELY ... *and then you could keep getting by with your old $1000 pickup or using Uber/Lyft, for those few times when you thought you needed a vehicle* 
 

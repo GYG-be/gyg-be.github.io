@@ -40,7 +40,12 @@ The following outline was developed by CoPilot, Gemini ... with my own input and
 
 What's behind this CLASSICAL tradition of Lent?  Read and review the basic story and the theological basis behind the origination of the tradition. Focus on the Biblical basis of Lent. The first week is just about ***getting our head in the game*** and looking forward at the additional weeks as far as the reflections and preparations for Easter that we can make during Lent.
 
-- **Introduction to Lent** ... https://heidelblog.net/2018/02/resources-on-lent/
+- **Introduction to Lent** ... Lent is entirely about SIMPLIFICATION and stripping away all of the bullshit that we humans tend to add on something. We SIMPLIFY at Lent in order to focus upon what we are commanded to do as Christians.  Christ laid out the ENTIRE SET OF REQUIREMENTS for what we must do as Christians in just four verses ... never forget these four verses, but if you can only remember one verse, remember the first one and it will help you remember the others.
+
+    * [Matthew 22:37](https://www.biblestudytools.com/matthew/22-37-compare.html): You shall love the Lord your God with all your heart and with all your soul, and with all your mind, and with all your strength.
+    * [Matthew 22:38](https://www.biblestudytools.com/matthew/22-38-compare.html): This is the first and greatest commandment. *{HINT: Focus on this one first and foremost. Yes, it will help you when you struggle with the second one; but it's the most important one. Do not blow this one. As Christians, we believe that the only path to God the Father is through Christ the Son.}*
+    * [Matthew 22:39](https://www.biblestudytools.com/matthew/22-39-compare.html): And the second is like it, you shall love your neighbor as yourself.
+    * [Matthew 22:40](https://www.biblestudytools.com/matthew/22-40-compare.html): On these two commandments hang all the law and the prophets. EVERTYTHING ELSE in scripture is is just commentary on these two commandments; don't complicate Christianity.
 
 - **The Biblical basis for Lent**
 
