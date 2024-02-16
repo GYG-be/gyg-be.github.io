@@ -5,39 +5,39 @@ permalink: /Art/
 ---
 
 
-Art ... is about thinking different.
+Art ... is partly about skills development ... but mostly it might be about about thinking different, looking at things from different perspectives ... I might try things, but am not particularly interested in really developing new skills.
 
-Part of it is about relaxing, just taking a break from what we are *working* on.
+Part of that is maybe about relaxing, just taking a break from what we are *working* on.
 
-For us, ART is supposed to be FUN ... as opposed to how we think about the serious disicpline of reading technologies, [library and information science](https://en.wikipedia.org/wiki/Library_and_information_science) and knowledge engineering, we deliberately try NOT TO to think about our ART interests with *with anything like serious, critical intention.* 
+For us, ART is supposed to be FUN ... as opposed to how we think about the serious disicpline of observability and listening engineering, intelligence gathering and reading technologies, [library and information science](https://en.wikipedia.org/wiki/Library_and_information_science) and the whole sport of knowledge engineering ... I deliberately try NOT TO to think about my ART interests with *with anything like serious, critical intention* that I do with observability and listening engineering. 
 
-Others can/should take ART seriously ... for us, it's just about trying to look at things from a different perspect ... we do take ***the ART of thinking different*** seriously ... but we don't take our attempts to do art itself seriously -- we just do it to relax, to ***just*** dream, explore and mentally wander along path, but in an unstructured fashion.
+Others can/should take ART seriously ... for me, it's just about trying to look at things from a different perspect ... I do take ***the ART of thinking different*** seriously -- it bugs the living fuck out of me to discover that I think like other people, although sometimes I do ... but I don't take our attempts to do art itself seriously -- I just do it to exercise, to relax, to ***just*** dream, explore and mentally wander along path, with some forethought but often in a totally unstructured fashion.
 
 # Art Lists
 
 Our aim with developing listings is to never have to think about our next list of items to explore/annotate
 
-We want to have roughly 250 to 125 good art exploration ideas in the hopper ... in order to to have 50 to 25 that we visit on at least once a month ... in order to have ten to five that we are currently touching on once a week ... and to have ONE main GOTO one that we are spending too much time with right now.
+I want to have roughly 250 to 125 good art exploration ideas in the hopper ... in order to to have 50 to 25 that we visit on at least once a month ... in order to have ten to five that we are currently touching on once a week ... and to have ONE main GOTO one that we are spending too much time with right now.
 
-1) Martial arts are EASILY the most important arts to us.
+1) The various martial arts are EASILY the most important arts for me right now.
 
-2) Landsculpting, include satellite views of the earth
+2) Culinary exploration of flavors as well nutritional aspects of food
 
-3) Museums, galleries, art shows, fairs
+3) Gardening, soil ecosystems, mushrooms, landsculpting, permaculture for edible landscapes
 
 4) Photography, image engineering, image processing, image recognition
 
-5) Parks, public spaces, prayer walks, hospice gardens
+5) Parks, especially contemplative public spaces, prayer walks, hospice gardens
 
-6) Sculpture, other than landsculpting
+6) Museums, galleries, art shows, maker fairs, sculpture gardens
 
 7) Mysticism, psycotropics, hypnosis, fasting, meditation, prayer, silence, solitude, hermitage
 
-8) Cartoons, memes, comics, graphic novels
+8) Cartoons, trolling, memes, comics ... maybe graphic novels, but I will confess that I have not exactly warmed up to any sort of visual material ... I am a bigger fan of audiobooks and podcasts
 
-9) Comedy, especially timeless apolitical comedy
+9) Standup spoken word performances and comedy, but I am an especially huge fan of trolling and inane commentary and the absurdity of verbalized [or TYPED] confusion and misunderstanding.
 
-10) Nature, nature soundscapes, natural rhythms and sound engineering
+10) The podcast genre, podcastering as a way of thinking and listening again to thinking ... it has to involve deep subconscious listening as well as audio engineering, but I sort of skip the ambient music bullshit or any cheesy background hypnotics ... Twitter has me think of the best of the best one-liner introductions to podcast episodes as a form of [ornithology](https://en.wikipedia.org/wiki/Ornithology) ... humans are not terribly different than the other sounds of Nature, nature soundscapes and natural rhythms ... but human sound engineering is significant cruder and less artistic than birdsong
 
 11) Theoretical Physics, Chemistry, Mathematics are the most ARTISTIC precursors of useful hard sciences  
 
@@ -47,9 +47,9 @@ We want to have roughly 250 to 125 good art exploration ideas in the hopper ... 
 
 14) Meta Wikipedia, wikipedian editing culture, general wikiculture and its origins, even extending to the history of the internet
 
-15) Philosophy, both classics as well some forms of modern philosophy 
+15) Philosophy, both Classics as well some modern philosophical literature such as literary impressionism ... it's really about thinking different ... we might consider something like *subversive* philsophical critiques such as Josesph Conrad's anti-heroic characters ... or Karl Marx's Das Kapital critique of capitalism ... or the Unibomber's Manifesto [Industrial Society and Its Future](https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future) or [The Technological Society](https://en.wikipedia.org/wiki/The_Technological_Society) by Jacques Ellul
 
-16) The podcast genre, podcastering, deep subconscious listening, audio engineering, ambient music, hypnotics, [ornithology](https://en.wikipedia.org/wiki/Ornithology)
+16) 
 
 17) 
 

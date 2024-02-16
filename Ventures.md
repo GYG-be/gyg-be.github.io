@@ -5,7 +5,11 @@ permalink: /Ventures/
 ---
 
 
-***Venturing*** is our process of ACTIVE LEARNING about endeavors that advance human productivity. 
+***Venturing*** is primarily PHILANTHROPIC.
+
+We do things, like contributing to free and open source software/hardware ... but the *money-making* ventures that we contemplate building are not really about throwing off continual income ... instead, they about SELF-SUSTAINING ventures that continously invest in research to develop more innovative and useful new products/services [which cannibalize old product/services], as well as throw off information externalities ... our IDEAL venture would be one that sustained itself infinitely because it provide such awesome value that it paid employees, rewarded investors but never made much of an annual profit because it was continually re-investing its income into future growth of better *philanthropically profitable* venture in the future.
+
+Our process of ACTIVE LEARNING is about WIN-WIN endeavors that expand the pie and advance human productivity ... we have practically no interest in crop farming, for example, because it is a zero-sum game ... it does not expand the pie, it just divides it up differently. 
 
 We can and do look at better intelligence gathering systems so we can better [study the common factors driving the 1200 or so billion-dollar startup unicorns that have come into existence in the last ten to twenty years](https://g.co/gemini/share/44bceab7d627) ... but MOSTLY we are interested in the kinds of ventures that can grow into being million-dollar startups that will grow into ten-million and hundred-million dollar startups on their way to being unicorns.
 
