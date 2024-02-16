@@ -9,6 +9,8 @@ This post is like a preface to a book ... you can safely skip it ... of course, 
 
 ***TBD Editing/Revision*** *I need to ADD/SIMPLIFY with a FULL ISHIKAWA OUTLINE of the WHYS driving my WHY ... this needs to be solidified into coherent five whys bullet-pointed outline of every WHY driving the MAIN WHY.* 
 
+***I will be editing and revising this post for the full year.*** And next year, I will pick up where I left off, editing and revising ... because my WHY is something that I will never be finished pondering.
+
 # The Full Ishikawa of WHYS or Interest Shaping My WHY
 
 
