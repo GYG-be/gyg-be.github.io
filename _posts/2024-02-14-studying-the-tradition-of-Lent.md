@@ -90,17 +90,17 @@ In general, the weekly outlines might not really matter and you might find the a
 
 ## Week 1: Understanding The Basic History of Lent
 
-Week 2: Repentance and Self-reflection
+## Week 2: Repentance and Self-reflection
 
-Week 3: Forgiveness and Reconciliation
+## Week 3: Forgiveness and Reconciliation
 
-Week 4: Love and Service
+## Week 4: Love and Service
 
-Week 5: Prayer and Contemplation
+## Week 5: Prayer and Contemplation
 
-Week 6: Sacrifice and Simplicity
+## Week 6: Sacrifice and Simplicity
 
-Week 7: Passion and Renewal
+## Week 7: Passion and Renewal
 
 ## Spiritual Practices
 
