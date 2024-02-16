@@ -10,7 +10,9 @@ categories: template
 
 The opportunity to completely disrupt the whole business of how people go about: 1) the process of making themselves available for hire [and also assuring that they can actually DO the job] and 2) how projects and ventures can staff up with the talent required to get a project completed ... is the basis of my GYG.be venture. It comes down to a LEGIT, verified version of NIL reputation mgmt [except that it's about VERIFIED skills, not poses or imagery]. 
 
-The GYG.be venture is about MANAGING one's reputation and that means thinking with the END IN MIND. In other words, if we want to be remotely close to being successful and happy in life, we really need to work a lot harder at *practicing like we play* ... or SERVING FIRST ... and thinking about how we can indefinitely sustain our ability to serve first.
+The GYG.be venture is about MANAGING one's reputation and that means thinking with the END IN MIND. In other words, if we want to be remotely close to being successful and happy in life, we really need to work a lot harder at [*practicing like we play*](https://plyp-us.github.io).
+
+This all about ***SERVING FIRST*** ... and thinking deeply about how we can indefinitely sustain our ability to serve first ... and then DOING IT, as we [*practice like we play*](https://plyp-us.github.io) ... until somebody asks us to play professionally in their game.
 
 We have all always kind of known that we need to try to make ourselves so useful that we are indispensable to others.
 
