@@ -9,6 +9,101 @@ This post is like a preface to a book ... you can safely skip it ... of course, 
 
 ***TBD Editing/Revision*** *I need to ADD/SIMPLIFY with a FULL ISHIKAWA OUTLINE of the WHYS driving my WHY ... this needs to be solidified into coherent five whys bullet-pointed outline of every WHY driving the MAIN WHY.* 
 
+# The Full Ishikawa of WHYS or Interest Shaping My WHY
+
+
+# Art
+
+The reason that I care about Art is ...
+
+## Why
+
+### Why
+
+#### Why
+
+##### Why
+
+###### Why
+
+# Contemplation
+
+The reason that I care about Contemplation is ...
+
+## Why
+
+### Why
+
+#### Why
+
+##### Why
+
+###### Why
+
+# History
+
+The reason that I care about History is ...
+
+## Why
+
+### Why
+
+#### Why
+
+##### Why
+
+###### Why
+
+# Games
+
+The reason that I care about COMPETITIVE GAMES and SPORTS is ...
+
+## Why
+
+### Why
+
+#### Why
+
+##### Why
+
+###### Why
+
+# Ventures
+
+The main reason that I care about Ventures is the inherent PHILANTHROPY and COMMUNITY SERVICE of well-organized, growing, self-sustaining ventures which employ people doing interesting things to deliver better products and services than are otherwise available and provide better than average returns to investors because the entities are growing and getting better at everything they do
+
+## Why or Why Not Something Else
+
+Why not just work for somebody else?
+
+Why not engage in what I view as the *idiot compassion" forms of philanthropy?
+
+### Why
+
+#### Why
+
+##### Why
+
+###### Why
+
+
+# Workouts
+
+The reason that I care about Workouts is ... I have FINALLY come to understand that I need exercise ... and I need a variety of different exercises for a variety of different reasons that I don't even understand yet.  Exercise is like the food that you eat that becomes what drives the health of your intestinal microbiome ... which is what FIRST digests the nutrients and gives your cells what they need. I believe that exercise is more important than diet ... also you really need both ... as well as good sleep hygiene ... and the ability to handle and channel stress and aggaravation ... and hydration ... but MOSTLY, it's about what you take away ... with exercise, we DELIBERATELY take away comfort ... we do HARD things in order to BUILD our muscoskeletal system, our cardiovasular system and to build our courage, will, and discipline.
+
+## Why
+
+### Why
+
+#### Why
+
+##### Why
+
+###### Why
+
+
+# The Fundamental WHY of my WHYs
+
 ## Stronger, more courageous, less afraid
 
 This whole existence is all about [Joshua 1.9](https://www.biblestudytools.com/joshua/1-9-compare.html) ... I am commanded to make myself stronger, more courageous, to be less afraid -- so life is kind of simple, sort of ... I don't have to impress anyone or care about what any other human thinks -- I have to pull my weight, pay my bills and sort of more or less get along -- I don't have to impress anyone, ie I don't have to jump out of planes or do ridiculuous shit on mountain slopes ... I just have to be anonymous and READY ... my whole existence is about no having any fear of a fight ... of course, I look forward to dying and always have been ready to die in any fight that actually meant something, BUT I'm not some lame ass who acts out of pride ... my existence is about following the command that my Creator has given me.
