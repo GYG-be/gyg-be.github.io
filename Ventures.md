@@ -5,9 +5,23 @@ permalink: /Ventures/
 ---
 
 
-***Venturing*** is primarily PHILANTHROPIC.
+***Venturing***, for me, is primarily PHILANTHROPIC. **Growthy NEW technology-intensive start-up ventures that achieve multi-million-dollar valuations through bootstrapping and then with additional outside capital achieve multi-billion-dollar valuations are the most efficient way to expand the pie for everyone, so that it's possible do REAL philanthropy.**
 
-We do things, like contributing to free and open source software/hardware ... but the *money-making* ventures that we contemplate building are not really about throwing off continual income ... instead, they about SELF-SUSTAINING ventures that continously invest in research to develop more innovative and useful new products/services [which cannibalize old product/services], as well as throw off information externalities ... our IDEAL venture would be one that sustained itself infinitely because it provide such awesome value that it paid employees, rewarded investors but never made much of an annual profit because it was continually re-investing its income into future growth of better *philanthropically profitable* venture in the future.
+Greater economic value does not come from a stagnant asset and not much value comes from producing something that is not needed by a free market ... the economics of zero-sum, ultra-conservative, idea-averse technologies are ultimately not just depressive, but ultimately lead to wars and destruction ... rather, philanthropic value comes from the techology that *expands the pie*, from increasing levels of overall value by taking away problems, removing constraints and adding technologies that make humans more productive than they could contemplate being before.
+
+Since we are technologists, of course, we do things that are purely philanthropic in a technological sense, like contributing to different free and open source software/hardware ***projects*** ... *projects* are excellent ways to learn about techologies BY ACTUALLY those technologies in collaboration with others, but MOSTLY WE LEARN BY INTERACTING WITH OTHERS WHO ARE ALSO CREATING THOSE TECHNOLOGIES ... free and open source is probably the best educational institution ever invented ... **being a technological open sourcist is fundamentally philanthropic.**
+
+But open source projects themselves are not actual PRODUCTS or SERVICES ... building monetizeable PRODUCTS and SERVICES is what building ventures is about ... building products and services that are good enough that people actually part with their money to PAY for using them is HARD ... but creating self-sustaining going concerns based upon a monetizable product/services that is better any product/service it competes against is the most efficient way to do GENUINE, REAL, SUSTAINABLE philanthropy.
+
+In other words, the *money-making* part of venturing is about PROVIDING JOBS and PRODUCTS THAT BETTER THAN COMPETITORS to YIELD INVESTMENT RETURNS THAT OFFER THOSE A WAY WITH SAVED INCOME TO STAY AHEAD OF INFLATION is inherently philanthropic ... because of the incomes and value that is created ... a rising tide lifts all boats ... and ultimately that rising time makes charity, although the best form of charity is always going to be DIRECT.
+
+The ventures that we contemplate building are the kind of bootstrapped startups that can become unicorns. We are primarily interested in higher, rapid growth and much less concerned about throwing off substantial streams of continual income ... in the way that developing apartments would produce continual streams of income, although we certain recognize the immense value created by producing better housing alternatives and providing maintenance/upkeep services for appartment tenants.  
+
+Accordingly, the ventures we are interest are SELF-SUSTAINING rapidly-growing ventures that continously invest in research to develop MORE innovative and MORE useful new products/services [which cannibalize or remove the need for old product/services].
+
+Growthy enterprises also tend to throw off huge amounts of informational externalities ... in a nutshell, they make other new ventures more productive, more innovative.  
+
+Pur IDEAL venture would be one that sustained itself infinitely because it provided such awesome value that it paid employees well, rewarded investors sufficiently through capital appreciation of a growth stock but never reported much of an annual profit, although its annual revenues were increasing significantly, because the venture was continually re-investing its current income into better future growth opportunities than any other investment provided ... so that the venture would be a more *philanthropically profitable venture* [in terms of more jobs and better paying jobs and radically-increased value per $ in its products/services] long into the future.
 
 Our process of ACTIVE LEARNING is about WIN-WIN endeavors that expand the pie and advance human productivity ... we have practically no interest in crop farming, for example, because it is a zero-sum game ... it does not expand the pie, it just divides it up differently. 
 
