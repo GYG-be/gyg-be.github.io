@@ -7,9 +7,13 @@ categories: template
 ---
 
 
+We will look at Minimally Viable PROCESSES necessary for building a startup ... the Minimal Viable PRODUCT that your startup builds is up to you and your team ... but there are some common themes that we see in the realm of building startups ... for us, it's ALL about building the favorable habitat for a startup ecoystem.
+
 # BEGINNING By Focusing On Exit To Become A Unicorn
 
-GYGsters do not settle for being W2 slaves or for working on other people's projects.
+There might be exceptions, but as a general rule GYGsters, or people that follow the general GYG philosophy, do not settle for being W2 slaves or for working on other people's projects.
+
+Git-ting Your GYG is about building something that kind of represents who you are or what you aspire to be ... and, in the case of VENTURES for enteprises that employ people and serve customers ... well, ultimately, since none of us lives forever, the ventures that we build will need to be passed on to others and maybe someday acquired by larger entities.
 
 A new GYG venture is intended to becoming a sustainable venture with a million-dollar valuation that will attract extra interest and financing to be acquired by a larger entity or ideally something that will attract funding to become a billion-dollar UNICORN.
 
