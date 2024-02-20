@@ -1,17 +1,23 @@
 ---
 layout: post
-title:  "A Starter Recipe For Your MVP Startup"
+title:  "A StartupCookbook Recipe For Your MVP Startup"
 subtitle: "5Whys, PDCA, 80-20, 5S, TRIZ"
 date:   2024-02-01 4:30:00
 categories: template
 ---
 
 
-We will look at Minimally Viable PROCESSES necessary for building a startup ... the Minimal Viable PRODUCT that your startup builds is up to you and your team ... but there are some common themes that we see in the realm of building startups ... for us, it's ALL about building the favorable habitat for a startup ecoystem.
+## MVP Viable PROCESS Minimums ... ONE of them is the MVP, minimally viable product
 
-# BEGINNING By Focusing On Exit To Become A Unicorn
+PROCESSES go into building a startup ... so the GYG.be StartupCookbook cover the Minimally Viable PROCESSES that either necessary or highly recommended PROCESS to be used in building a startup ... the Minimal Viable PRODUCT is just ONE of several meta-tasks or PROCESSES that a startup must do. 
 
-There might be exceptions, but as a general rule GYGsters, or people that follow the general GYG philosophy, do not settle for being W2 slaves or for working on other people's projects.
+Obviously, developing your venture around an MVP PRODUCT is ONE of several of the processes that the GYG.be startup cookbook STRONGLY URGES new startups to START WITH ... without a minimal viable PRODUCT, there's not really a need to be out there marketing anything and try to get early adopters to consider ... and without some likely sales that come after qualified leads have had a chance to test something like a proof-of-concept prototype in their business ... there's not going to much need legal organizational framework or anything like a financial management to pursue financing ... all of these frameworks will start of being kind of sketchy at first, but they will rapidly come together when you have a serious MVP product that people want to buy.
+
+For us at GYG.be, it's ALL about building an open source clonable habitat for startup ecoystems ... but the point of a startup ecosystem for nanoenterprise ideas is get people off on the right foot and not fail learning some lesson that someone else has already learned ... it's like a COOKBOOK for people STARTING TO LEARN to cook. There are some common themes that we see in the realm of building SUCCESSFUL startups ... there are things that WORK and things that DON'T WORK ... if you follow a recipe in a cookbook scrupulously, there's still no gaurantee that your dinner will be a success ... but we at least want to be aware of the way the recipes say we should do it in order to give success a chance to happen ... *this doesn't rule out improvisation but, improvisation can increase the odds of a very painful failure.*
+
+# BEGINNING By Focusing On Exit To FUNDED Unicorn Status
+
+There might be exceptions, but as a general rule GYGsters, or people that follow the general GYG philosophy, do not want to adopt the GYG philosophy with the intention of settling for being employees or for working on other people's projects.
 
 Git-ting Your GYG is about building something that kind of represents who you are or what you aspire to be ... and, in the case of VENTURES for enteprises that employ people and serve customers ... well, ultimately, since none of us lives forever, the ventures that we build will need to be passed on to others and maybe someday acquired by larger entities.
 
