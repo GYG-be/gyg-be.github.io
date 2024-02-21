@@ -7,9 +7,40 @@ categories: template
 ---
 
 
-## MVP Viable PROCESS Minimums ... ONE of them is the MVP, minimally viable product
 
-PROCESSES go into building a startup ... so the GYG.be StartupCookbook cover the Minimally Viable PROCESSES that either necessary or highly recommended PROCESS to be used in building a startup ... the Minimal Viable PRODUCT is just ONE of several meta-tasks or PROCESSES that a startup must do. 
+Your attention is your most important asset. You can trade some of that attention for a startup. 
+
+If you give your attention away to things like sports or news or entertainment ... especially if you work for an employer in order to pay for distractions, you are probably an idiot [just because you follow what most of the other people in the world do because you don't want to figure out how to think]... if you are so offended by this [because it's true] and decide that you won't change, you will have chosen to continue being an idiot.
+
+If you are serious about GYG ... you will probably want to trade some of your attention for a startup ... then again there are other worthwhile trades for your attention-span, like maybe being a professional [if you enjoy helping people] or maybe being an entertainer [if you enjoy being the life of the party] ... but building a startup is about setting up that will give customers something better than than they have, employ people doing work that is more meaningful/rewarding than anything else they can do and provides a higher return with less risk for investors who have have worked hard and saved their money. 
+
+## MINIMAL Viable PROCESSES are SIMPLE, STRAIGHTFORWARD scripts that not necessarily EASY
+
+ONE of those MVP, Minimal Viable PROCESSES, is the MVP, Minimally Viable PRODUCT.
+
+MVP PROCESSES are extremely simple, but they REQUIRE FLEXIBILITY and ADAPTABILITY to be used to LISTEN effectively and so solve problems. 
+
+PROCESSES go into building a startup ... so the GYG.be StartupCookbook cover the Minimally Viable PROCESSES that either necessary or highly recommended PROCESS to be used in building a startup ... a startup requires SEVERAL processes, not just one ... but the Minimal Viable PRODUCT is just ONE of several meta-tasks or PROCESSES that a startup must do ... because the startup is going to need to PRESENT and SELL the MVP to solve a problem for customers.  The Min Viable Product is ESSENTIAL for the advertising and lead generation processes ... LEAD GENERATION is impossible without NARROWLY DEFINED products that solve ONE problem for a customer.
+
+# Develop your LEAD GENERATION strategy
+
+The best way to generate leads is to soak up as much as you can from things like AI suggestions, but mostly you JUST HAVE TO DO IT.
+
+That means fail at doing it, so that you can learn more when you listen to people like [Harley Finkelstein](https://en.wikipedia.org/wiki/Harley_Finkelstein) and [Alex Hormonzi](https://www.youtube.com/watch?v=YZdE8U5eD_s) ... necessity of JUST DOING IT first, also applies to gleaning more from reading/listening to Alex Hormonzi's books like[$100M Leads](https://www.amazon.com/gp/product/B0CFDR3TYV) or [$100M Offers](https://www.amazon.com/dp/B099QVG1H8) ... and it's especially necesary to have had the experience of JUST DOING IT FIRST, so that you are a smart buyer when you decide to avail yourself of services such as ACQUISITION.COM company's [ALAN (Artificial Lead Automation & Nurture)](https://usealan.com/).
+
+## Advertising, the process of making known ... there are no customers if they don't know about your MVP
+
+You will **NEED** to use advertising, primarily by doing really good content marketing and giving out valuable advice, to generate leads.
+
+In order to develop a really solid content strategy, you will need to understand the following about advertising ... since advertisements for your Minimal Viable Product will be a part of your lead generation strategy, you will need to understand the following about advertising AND you will need to understand how feedback from your content strategy will shape your MVP product:
+
+* Foundations of advertising, history, evolution, digital, print, TV, out-of-home, radio, social media, search, mobile, email, content, influencer, native, programmatic, affiliate, direct mail, public relations, branding, positioning, strategy, creative, media, research, analytics, measurement, regulation, ethics, careers, trends ... role in branding, target audience, psychology 
+* Campaign development, objectives (lead generation, lead generation, lead generation ... sales ... awareness), strategy and messaging development, tactics and analytics, creative strategy, media planning, budget, schedule
+* Tracking advertising success
+
+## Four Ways to Get Leads
+
+## Turn Your Leads Into Fans
 
 Obviously, developing your venture around an MVP PRODUCT is ONE of several of the processes that the GYG.be startup cookbook STRONGLY URGES new startups to START WITH ... without a minimal viable PRODUCT, there's not really a need to be out there marketing anything and try to get early adopters to consider ... and without some likely sales that come after qualified leads have had a chance to test something like a proof-of-concept prototype in their business ... there's not going to much need legal organizational framework or anything like a financial management to pursue financing ... all of these frameworks will start of being kind of sketchy at first, but they will rapidly come together when you have a serious MVP product that people want to buy.
 
