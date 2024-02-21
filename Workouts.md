@@ -11,15 +11,13 @@ The only way that I am going to ever DO *anything* is if I can ***thunker*** it 
 
 Thinkering is defined [BY ME] as thinking, trying, tinkering with, experimenting by doing it wrong, then trying to just do it the right way, realizing that I have don't exactly understand the *right way* of it and then going to Gemini Advanced or Copilot to ask questions and then repeating the whole process. Thinkering is a lot of NOT-REALLY-DOING-IT-but-picking-at-it-from-the-sides with different timings and choreography first ... but it's the only way that an autistic person like me can get anything really *thunkered* through.
 
-Generally, I kind of try to sort of stick with the ***Tabata*** HIIT workout format ... it's important to not be too dogmatic about this regimen ... but it helps to have a general structure or regimen or routine to stick to, without thinking too much about it.
 
-I try to do one tabata HIIT as a break from work every half hour ... maybe work is break from the tabatas ... a tabata is an INTENSELY focused push ... a person can tolerate 4 minutes of anything ... thus that's the tabata workout format.
-
-***Each 16 hr workday allows for 32 four-minute tabata workouts*** ... but there are interruptions like phone calls or other unplanned things throughout the day that mean just aiming for a number like 20 tabatas/day is going to be pretty aggressive.
-
-A tabata itself involves 8 sets of reps ... each set lasts for 20s of particulary intense work to get in as many good reps as possible ... then, it's a matter resting or, more accurately, going back mentally through the *thinkering* one has already done in the past about the most right way or bestest-of-all ways to DO next upcoming 20 seconds for 10s ... repeat this 7X to get the 8 sets.
 
 # Six Pillars of Health
+
+All of the PILLARS upon which your health is built are built through repitition of workouts ... workouts need to learned through the process of IMMERSION ... IMMERSION is the same way you learned to speak and THINK in your native language.  How you THINK is everything ... the workouts make it so that you don't even have to MANUALLLY think about it ... the memory from repitions makes the THINKING AUTOMATIC ... but you still have thought through what you are doing ... it's AUTOMATIC, but not MINDLESS ... because YOU did the repititions ... ***YOU KNOW*** ... so *KNOWING* in this manner is the opposite of just mindlessly accepting what an expert has told you ...*you KNOW, not only because you have actually done the repititions* but because ***YOU actually built the workout, too.***
+
+IMMERSION is about ***doing it*** WRONG at first, getting corrected, trying again, finding out you suck again, trying again and then, finally, after a lot of proven successful repititions, you eventually do it so right that you no longer can do it wrong ... and, you don't want to see anyone else waste time doing it wrong ... IMMERSION ultimately eventually requires explaining what you have found in your own workouts to be the right way to others who are still not sure what they are doing wrong ... 
 
 ## Spiritual health
 
@@ -39,17 +37,42 @@ There is NOTHING ELSE that I am commanded to do as Christian ... I generally ten
 
 ## Emotional health
 
+**Pile more stress on yourself ... but never tolerate your bad habits, pointless activities or needy time-wasters who are idea-averse to put their stress on you.**
+
 Ditch the causes of negative stress ... and cultivate the causes of positive eustress.
+
+Do not blame people for having short attention spans -- if you are a professional in content marketing, you need to be more professional and find ways to work harder, work smarter and generally make your content suck less. People will have even better choices tomorrow than they do today, so level up your skills.
+
+Push yourself harder to make yourself more relevant to people who work in the realm of ideas, but never push toward being well-liked, especially by spectators UNLESS you want to be an entertainer.  
+
+Add stress to your day [and night] by focusing more on what you know you could have done better and specifically on what you will change tomorrow to be better. Push HARDER each day toward what you know to be right for you.
+
+NO EXCUSES. Never tolerate excusemaking [especially in yourself]. Do. Or don't do. There is no reason to make excuses.
 
 Light workouts, particularly things like gardening or housekeeping, as well as hobbies that are about developing skills in things like home maintenance,  woodworking or gunsmithing helps us to deal with stress and to generally be more emotionally healthy ... although the foundation of empotional health is spiritual health.
 
 ## Exercise
 
+Generally, I kind of try to sort of stick with the ***Tabata*** HIIT workout format ... it's important to not be too dogmatic about this regimen ... but it helps to have a general structure or regimen or routine to stick to, without thinking too much about it.
+
+I try to do one tabata HIIT as a break from work every half hour ... maybe work is break from the tabatas ... a tabata is an INTENSELY focused push ... a person can tolerate 4 minutes of anything ... thus that's the tabata workout format.
+
+***Each 16 hr workday allows for 32 four-minute tabata workouts*** ... but there are interruptions like phone calls or other unplanned things throughout the day that mean just aiming for a number like 20 tabatas/day is going to be pretty aggressive.
+
+A tabata itself involves 8 sets of reps ... each set lasts for 20s of particulary intense work to get in as many good reps as possible ... then, it's a matter resting or, more accurately, going back mentally through the *thinkering* one has already done in the past about the most right way or bestest-of-all ways to DO next upcoming 20 seconds for 10s ... repeat this 7X to get the 8 sets.
+
 ## Nutrition
+
+IMMERSION is about studying the ***right*** way to eat ... if your eating habits are WRONG, there's no substitute for FASTING ... in order to regain control of your appetite and your gratitude for just having small amounts HEALTHY food ... if your eating habits are WRONG, there's no subsitute for FASTING to re-establish your mental self-control and ability to resist addictions to engineered food poisons and snacks that hook you addictively with different sugary flavor explosions.
 
 ## Sleep
 
+
+IMMERSION is about studying the ***right*** way to SLEEP ... get serious about sleep hygiene. 
+
 ## Supplements
+
+When in doubt drink more filtered water.
 
 We AVOID routine use of medications like the plague ... this does not mean that we NEVER take an aspirin ... but it does mean that we NEVER routinely take any form of medication. 
 
