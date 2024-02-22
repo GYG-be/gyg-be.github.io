@@ -37,9 +37,11 @@ There is NOTHING ELSE that I am commanded to do as Christian ... I generally ten
 
 ## Emotional health
 
-**Pile more stress on yourself ... but never tolerate your bad habits, pointless activities or needy time-wasters who are idea-averse to put their stress on you.**
+What's the goal?  Utilize the RPE concept [see below] from physical exercise when you think about your emotional exertions.
 
-Ditch the causes of negative stress ... and cultivate the causes of positive eustress.
+**PILE more POSITIVE stress on yourself ... but never tolerate your bad habits, pointless activities ... and certainly ditch the idea averse complainers or needy time-wasters who are intent on dragging you down with the negative stresses they cling to.**
+
+Ditch the causes or drivers of negative stress ... while you cultivate the drivers and causes of positive eustress or high exercise.
 
 Do not blame people for having short attention spans -- if you are a professional in content marketing, you need to be more professional and find ways to work harder, work smarter and generally make your content suck less. People will have even better choices tomorrow than they do today, so level up your skills.
 
@@ -53,7 +55,10 @@ Light workouts, particularly things like gardening or housekeeping, as well as h
 
 ## Exercise
 
-Generally, I kind of try to sort of stick with the ***Tabata*** HIIT workout format ... it's important to not be too dogmatic about this regimen ... but it helps to have a general structure or regimen or routine to stick to, without thinking too much about it.
+Getting your Rate of Percieved Exertion (RPE) for 3-4 hours per week is optimal for [increasing your VO2 max with lower intensity zone 2 cardio](https://www.youtube.com/watch?v=1RqY5EYOM0k) ... it's not just quantity of steps that you need, you also need to be at that point of percieved where you cannot quite carry on a conversation COMFORTABLY ... but at that optimal RPE level, you are not gasping for breath, either. 
+
+
+Generally, I kinda sorta *try* to more or less stick with the ***Tabata*** HIIT workout format ... with flexibility and exercise breaks every half hour or so ... it's more important to just look for ways to incorporate extra effort into your day, without being too dogmatic or rigid about this regimen ... but it does helps to have a general structure or regimen or routine to stick to, without thinking too much about it.
 
 I try to do one tabata HIIT as a break from work every half hour ... maybe work is break from the tabatas ... a tabata is an INTENSELY focused push ... a person can tolerate 4 minutes of anything ... thus that's the tabata workout format.
 
