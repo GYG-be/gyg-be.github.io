@@ -7,6 +7,11 @@ categories: template
 ---
 
 
+
+## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
+
 **It's important to recognize that since you are TRANSFORMING yourself by removing the bad habits of being yourself, you will be offending those who INSIST on seeing you as a collection of your old bad habits.**  For example, if you have given up alcohol, you cannot hang out with people whose social existences are largely based upon the *enjoyment of* alcohol.  You do not need to be mean about it, but if you are serious about transforming yourself, you will have to leave those people addicted to bad habits that you no longer engage in behind.
 
 Transforming yourself is about being FULLY present ... and clearly communicating that you have chosen to live on the future-looking side of NOW.

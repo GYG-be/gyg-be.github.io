@@ -7,6 +7,10 @@ categories: template
 ---
 
 
+## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
+
 There are no shortcuts ... if you are working for yourself, you need to work harder ON yourself ... you won't get by just showing up and asking the boss what you need to do today.
 
 It will seem that *ALL of the time management and "getting things done* lifehack stuff that actually works is going to filled with tons of cliches.* That's how it works -- cliches and the kinds of classic sayings that winning coaches paint on their locker room walls get to become cliches because those "old saws can really cut the wood* when it comes to how people think. How you think is everything. So go back and grind on the basics, reverently study what works, take out the parts of your routine that just give you comfort, amp up the parts that push you to be better.

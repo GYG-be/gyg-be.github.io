@@ -6,6 +6,11 @@ date:   2024-09-01 4:30:00
 categories: template
 ---
 
+
+## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
+
 ***Use [Git Workflows](https://git-scm.com/docs/gitworkflows) for your own GYG discipline***
 
 # Eat Your Own Dogfood

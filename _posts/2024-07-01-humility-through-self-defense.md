@@ -7,7 +7,11 @@ categories: template
 ---
 
 
-Be less addicted to anything ... especially laziness.  
+## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
+
+Be less addicted to anything ... especially laziness ... become an 86400.guru
 
 # Block your day into 30 minutes comprised of a 25 m pomodoro with a 4 m tabita
 

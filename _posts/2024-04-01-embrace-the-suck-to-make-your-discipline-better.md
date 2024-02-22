@@ -7,6 +7,10 @@ categories: template
 ---
 
 
+## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
+
 Every little thing that you hate doing is a lesson that helps you elevate your discipline.
 
 # You are going to pay one way or another; you don't need to keep repaying.

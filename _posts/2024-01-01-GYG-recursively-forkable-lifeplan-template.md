@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  "GitYourGYG -- Recursive Forkable Lifeplan Template"
+title:  "GitYourGYG -- Recursive Forkable Lifeplan-As-Code"
 subtitle: "There are no shortcuts, except that every second has to be about you working on you."
 date:   2024-01-01 4:30:00
 categories: template
 ---
 
 
+
 ## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
 
 This framework is customized for YOUR purposes but it is a standard framework so that others can start with a bit of lead ... but you don't need to follow their vision or implement their vision ... GYG is only a values-agnostic generic framework ... it's up to YOU to develop your plan for you to envision, plan, build, maintain and pass on to others.
 

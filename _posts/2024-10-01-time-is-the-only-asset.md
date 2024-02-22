@@ -1,14 +1,21 @@
 ---
 layout: post
 title:  "Time is the ONLY asset we have"
+subtitle:  "Inside of that time, you will only have so much attention, until you train to better focus your attention span."
+
 date:   2024-10-01 4:30:00
 categories: template
 ---
 
 
+
+## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
+
 # You get 86400 seconds every day, 30 or 31 days/month every year.
 
-Use EVERY second.
+Of course, we should try to put EVERY second to its highest and best use ... but we have to train ourselves to be better, based on the level of discipline and fitness that we currently have ... continuously striving to be better is the best way we have of exhibiting our gratitude for the gift of every moment of every day.
 
 *We train* ***constantly***, *but we don't JUST train ... WE TRAIN WITH CONSTANCY OF INTENTION ... and that SECOND-by-SECOND habit, or the discipline of constant focus on increasing freedom, occupies our mind in each second of the 86400 second day.*
 

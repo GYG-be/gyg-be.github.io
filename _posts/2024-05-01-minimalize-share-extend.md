@@ -7,6 +7,11 @@ categories: template
 ---
 
 
+## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
+
+
 # Open source community as an educational institution
 
 In order to really participate in a collaborative community development effort, you really need to role up your sleeves and *go to school* ... yes, of course, it's about writing code ... but it's WAY MORE than just writing code by yourself ... it's about writing code in a meaningful way with others AND NONE ARE YOU ARE GETTING PAID ... and nobody has to be there -- EVERYBODY involved has to be doing it for the motivation of the community ... and discerning the motivation of the community is a whole different ballgame than you doing something by yourself for your own private motivations ...

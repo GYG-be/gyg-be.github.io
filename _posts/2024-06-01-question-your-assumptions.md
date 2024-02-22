@@ -7,7 +7,11 @@ categories: template
 ---
 
 
-You should try to retire earlier than you think you can retire ... so that you have the time, energy and freedom to really question your unquestioned assumption.  
+## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
+
+You should try to retire earlier from your professional life or your life as an employee than you think you can retire ... so that you have the time, energy and freedom to REALLY find the unique SPIRITUAL purpose, to question your unquestioned assumptions, to prepare for whatever comes after.  
 
 # There's way, way, way more to the Universe than humans can comprehend.
 

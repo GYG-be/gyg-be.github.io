@@ -8,11 +8,39 @@ categories: template
 
 
 
-Your attention is your most important asset. You can trade some of that attention for a startup. 
+## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
 
-If you give your attention away to things like sports or news or entertainment ... especially if you work for an employer in order to pay for distractions, you are probably an idiot [just because you follow what most of the other people in the world do because you don't want to figure out how to think]... if you are so offended by this [because it's true] and decide that you won't change, you will have chosen to continue being an idiot.
+*Git Your GYG is a Forkable Lifeplan-As-Code for a PracticeLikeYouPlay approach to building a better you. GYG.be is a thoroughly recursive EatYourOwnDogfood open source intelligence-gathering application so that you can TestInProduction the best practices you learn about.*
 
-If you are serious about GYG ... you will probably want to trade some of your attention for a startup ... then again there are other worthwhile trades for your attention-span, like maybe being a professional [if you enjoy helping people] or maybe being an entertainer [if you enjoy being the life of the party] ... but building a startup is about setting up that will give customers something better than than they have, employ people doing work that is more meaningful/rewarding than anything else they can do and provides a higher return with less risk for investors who have have worked hard and saved their money. 
+There will be COSTS to those who embrace the GYG philosophy ... ***practicing first*** like you intend to play in the long-term game ... developing plans, then deploying a better you and TESTING IN PRODUCTION  ... doing this involves SACRIFICES.
+
+You will NEED to overcome the doubts and fears of friends and family who WILL have their own very strong motives for refusing to understand why you have gone your own way and are doing something different ... ***in all likelihood, you may need to abandon idea-averse friends and family members ... you certainly don't need to be mean or nasty without cause -- but you will need to kill the relationships with the haters and doubters in order to make room for the new person you will become ... don't worry, as long as you do things, you will FIND NEW FRIENDS and you will also tend to attract particularly CLOSE RELATIONSHIPS with people who will become family or very much like family to that new person you intend to become.***
+
+## Startups must be concieved in gratitude and appreciation of the Creator's gift of of a UNIQUE life
+
+Gratitude means that you truly LOVE each moment of each day that your Creator has given you ... and out of that genuine LOVE, you refuse to ever waste or mindlessly piss away your most valuable asset.
+
+**Your effort and focused attention in the best hours of your day is your most important asset.**
+
+Do not piss that asset away or waste it by getting high, watching teevee or killing time in some way your future self would regret. 
+
+If you are GENUINELY grateful for every second of your life, you will want to try harder each day to do a better job of making the most of every second of your life.
+
+You can trade some of that attention for a job or professional career OR to become an athlete or artist ... **OR you can do a little bit of ALL of those by building a startup.**  Building a startup for the sake of building another startup is almost just as bad as wasting time watching teevee, although it might be useful as a training exercise.
+
+YOUR startup has to be the highest and best use of your time.  That means your startup must represent a UNIQUE challenge that ONLY you can build ... the idea for your startup occurs at an almost impossible-to-find point ... that point, or the idea for the best startup you can do, can be thought of like a Venn diagram of three barely intersecting circles ... it occurs at the intersection of the set of your own unique and most intense interests AND the set of what people will pay for AND the set of what has not been done before. 
+
+Whenever you piss your attention away *just killing time* ... especially if you work for an employer in order to pay for your addictions and distractions, you are, at best, JUST killing some time ... maybe you can come up with excuses for coasting, but the  reality is that *daylight's burning* or *time's a wasting* and you are digging the BIG RUT of your life, which will become your grave.  
+
+Maybe you don't know any better because you have chosen to be a useful idiot by ***following*** what most of the other people in the world do. Maybe, you don't know any better because you don't really want to figure out how to think different and work in the realm ideas and the DIFFICULT implementation/selling of better ideas. 
+
+
+
+At some point, you probably want to CONSIDER trading some of your attention for a startup ... but building startups are certainly not for everyone ...
+
+Building your own startup truly is one of those, "*don't quit your day job YET*" type of things ... it's best to *GYG* it and that means building a start-as-code first, to think it through, develop a plan ... but at some point, you will need to TEST IN PRODUCTION and that means you will need to have saved enough money and gotten your living expenses low enough so that you can be able to quit your day job and devote your assets and the full 24 hours of your attention in each day to giving your startup a serious go. {*NOTE: Devoting 24hrs means that you don't think about accomplishing anything else; you wake up thinking about your startup ... the amount of time that you are IMMERSED in starting your startup is not supposed to be permanent, but you should expect that the time it takes for your startup to get traction will be longer than you think.*}
+
+Building a startup is about setting up something that will give the customers you want to serve something better than what they will have from other sources ... while employing people doing work that is more meaningful/rewarding than anything else they can do ... while simultaneously also provides a higher return with less risk for hard-working investors who have saved their nickels to be able to put a few bucks into your venture. 
 
 ## MINIMAL Viable PROCESSES are SIMPLE, STRAIGHTFORWARD scripts that not necessarily EASY
 
