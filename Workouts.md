@@ -95,7 +95,7 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 3) Landscaping, gardening, weeding, lifting/carrying plant bags
 
-4) BJJ ... Rickson Academy; Gracie 32 Principles
+4) BJJ ... Rickson Academy; 
 
 5) Stretching/flexibility/Rehab exercises
 
@@ -103,7 +103,7 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 7) Heavy bag, speed drills, shadowboxing, footwork drills
 
-8) Moving soil bags instead of kettlebells
+8) Moving soil, turning compost and landcaping materials
 
 9) Yoga For Regular Guys 
 
@@ -115,83 +115,87 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 13) Rolling/crabwalking drills on the mats ... freeform exploration like a little kid
 
-14) Stability ball or balance
+14) [Stability ball or balance](https://g.co/gemini/share/a3096d44f472)
 
-15) Resistance bands
+15) [Resistance bands](https://g.co/gemini/share/ef823653436d)
 
-16) 
+16) [Top 20 Plyometrics For Speed, Power and Performance](https://drjohnrusin.com/top-20-plyometrics-for-speed-power-and-performance/)
 
-17)
+17) [Exploration of traditional martial arts](https://g.co/gemini/share/24b1b7e8cc4b) and [exploring the cultural history of martial arts](https://en.wikipedia.org/wiki/History_of_martial_arts)
 
-18)
+18) Body weight exercises ... or other ways to use what you have around you or activities like your daily chores or your walk to the store as a workout
 
-19)
+19) [Kettlebell exercises that can be done with ordinary landscaping materials or bags of soil which you might move frequently](https://g.co/gemini/share/78a290dad22e)
 
-20)
+20) **Make it a point to notice something that is especially noble, right, pure, lovely, admirable, excellent or praiseworthy** ... perhaps some young phenom like [Alex Hormozi](https://www.facebook.com/ahormozi) ... and, **ALSO make it a point of pointing that excellence out or sharing your admiration with others.** "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable -- if anything is excellent or praiseworthy -- DWELL ON such things. Whatever you have learned or received or heard from me, or seen in me -- PUT IT INTO PRACTICE. And the God of peace will be with you."  [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
 
-21)
 
-22) 
 
-23)
+In the following 32 Principles from Gracie University ... IN EACH ONE, ponder one or two or three daily ... and over a three-week research period, apply each of the 32 Principle to every aspect of your jiu-jitsu ... and maybe even your life perhaps, since the point of doing jiu-jitsu is to [metaphorically] think through or *grapple with* difficult issues in our lives ... identify and dissect at least nine techniques in which each Principle plays an integral role. Three of the examples should be “as-is” techniques, three should be “enhanced” techniques and three should be “discovered” techniques. 
 
-24) 
+21) Gracie 32 Principles ... Connection
 
-25)
+22) Gracie 32 Principles ... Detachment
 
-26)
+23) Gracie 32 Principles ...
 
-27)
+24) Gracie 32 Principles ... 
 
-28)
+25) Gracie 32 Principles ... Creation ... Using targeted actions to force specific reactions in your favor. Jiu-jitsu is a game of counter-attacks. If your opponent gives you an opening, take it. If your opponent does not give you an opening, then create it with an action that triggers an exploitable response. Regardless of the form – direct threats, decoys, disruptions, distractions, etc. – the underlying goal remains the same: [“be first, and be third.”](https://grapplinggospel.blogspot.com/2023/12/be-first-and-be-third-principle-of.html) 
 
-29)
+26) Gracie 32 Principles ...Acceptance ... Being first to accept the inevitability of an action so that you are best prepared for the outcome ... 
 
-30)
+27) Gracie 32 Principles ...
 
-31)
+28) Gracie 32 Principles ...
 
-32) 
+29) Gracie 32 Principles ...
 
-33)
+30) Gracie 32 Principles ...
 
-34) 
+31) Gracie 32 Principles ...
 
-35)
+32)  Gracie 32 Principles ...
 
-36)
+33) Gracie 32 Principles ...
 
-37)
+34)  Gracie 32 Principles ...
 
-38)
+35) Gracie 32 Principles ...
 
-39)
+36) Gracie 32 Principles ...
 
-40)
+37) Gracie 32 Principles ...
 
-41)
+38) Gracie 32 Principles ...
 
-42) 
+39) Gracie 32 Principles ...
 
-43)
+40) Gracie 32 Principles ...
 
-44) 
+41) Gracie 32 Principles ...
 
-45)
+42)  Gracie 32 Principles ...
 
-46)
+43) Gracie 32 Principles ...
 
-47)
+44) Gracie 32 Principles ...
 
-48)
+45) Gracie 32 Principles ...
 
-49)
+46) Gracie 32 Principles ...
 
-50)
+47) Gracie 32 Principles ...
 
-51)
+48) Gracie 32 Principles ...
 
-52) 
+49) Gracie 32 Principles ...
+
+50) Gracie 32 Principles ...
+
+51) Gracie 32 Principles ...
+
+52) Gracie 32 Principles ...
 
 53)
 
