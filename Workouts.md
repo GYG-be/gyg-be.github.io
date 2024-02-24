@@ -97,11 +97,11 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 4) BJJ ... Rickson Academy; 
 
-5) Stretching/flexibility/Rehab exercises
+5) [Stretching and mobility](https://www.amazon.com/dp/B0C54FYGJ4) ... general flexibility and rehab exercises
 
-6) Learn one step of a old school Tai chi form per day
+6) Learn one step of a old school Tai chi form per day ... compare with [no nonsense self defense](https://www.amazon.com/Meditations-Violence-Comparison-Martial-Training-ebook/dp/B01DN0GVM4)
 
-7) Heavy bag, speed drills, shadowboxing, footwork drills
+7) [Shadowboxing](https://totalshape.com/fitness/jon-jones-workout-diet/#Shadow%20Boxing), [heavy bag](https://www.amazon.com/Fighters-Guide-Hard-Core-Heavy-Training-ebook/dp/B07BH3WRL9), [speed drills](https://www.amazon.com/FAST-HANDS-Uniting-Physical-Maximize-ebook/dp/B0BHXG7SCR), [solo workouts](https://www.amazon.com/Solo-Training-3-50-Older-ebook/dp/B0150QXWLW), footwork drills
 
 8) Moving soil, turning compost and landcaping materials
 
@@ -123,7 +123,7 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 17) [Exploration of traditional martial arts](https://g.co/gemini/share/24b1b7e8cc4b) and [exploring the cultural history of martial arts](https://en.wikipedia.org/wiki/History_of_martial_arts)
 
-18) Body weight exercises ... or other ways to use what you have around you or activities like your daily chores or your walk to the store as a workout
+18) [Body weight calisthenics](https://www.amazon.com/dp/B07B11Y92J) ... or other ways to use what you have around you or activities like your daily chores or your walk to the store as a workout
 
 19) [Kettlebell exercises that can be done with ordinary landscaping materials or bags of soil which you might move frequently](https://g.co/gemini/share/78a290dad22e)
 
@@ -197,101 +197,146 @@ In the following 32 Principles from Gracie University ... IN EACH ONE, ponder on
 
 52) Gracie 32 Principles ...
 
-53)
+53) BJJ ... Rickson Academy ...
 
-54) 
+54) BJJ ... Rickson Academy ...
 
-55)
+55) BJJ ... Rickson Academy ...
 
-56)
+56) BJJ ... Rickson Academy ...
 
-57)
+57) BJJ ... Rickson Academy ...
 
-58)
 
-59)
+58) BJJ ... Rickson Academy ...
 
-60)
 
-61)
+59) BJJ ... Rickson Academy ...
 
-62) 
 
-63)
+60) BJJ ... Rickson Academy ...
 
-64) 
 
-65)
+61) BJJ ... Rickson Academy ...
 
-66)
 
-67)
+62)  BJJ ... Rickson Academy ...
 
-68)
 
-69)
+63) BJJ ... Rickson Academy ...
 
-70)
 
-71)
+64)  BJJ ... Rickson Academy ...
 
-72) 
 
-73)
+65) BJJ ... Rickson Academy ...
 
-74) 
 
-75)
+66) BJJ ... Rickson Academy ...
 
-76)
 
-77)
+67) BJJ ... Rickson Academy ...
 
-78)
 
-79)
+68) BJJ ... Rickson Academy ...
 
-80)
 
-81)
+69) BJJ ... Rickson Academy ...
 
-82) 
 
-83)
+70) BJJ ... Rickson Academy ...
 
-84) 
 
-85)
+71) BJJ ... Rickson Academy ...
 
-86)
 
-87)
+72)  BJJ ... Rickson Academy ...
 
-88)
 
-89)
+73) BJJ ... Rickson Academy ...
 
-90)
 
-91)
+74)  BJJ ... Rickson Academy ...
 
-92) 
 
-93)
+75) BJJ ... Rickson Academy ...
 
-94) 
 
-95)
+76) BJJ ... Rickson Academy ...
 
-96)
 
-97)
+77) BJJ ... Rickson Academy ...
 
-98)
 
-99)
+78) BJJ ... Rickson Academy ...
 
-100)
+
+79) BJJ ... Rickson Academy ...
+
+
+80) BJJ ... Rickson Academy ...
+
+
+81) BJJ ... Rickson Academy ...
+
+
+82)  BJJ ... Rickson Academy ...
+
+
+83) BJJ ... Rickson Academy ...
+
+
+84)  BJJ ... Rickson Academy ...
+
+
+85) BJJ ... Rickson Academy ...
+
+ BJJ ... Rickson Academy ...
+
+86) BJJ ... Rickson Academy ...
+
+
+87) BJJ ... Rickson Academy ...
+
+
+88) BJJ ... Rickson Academy ...
+
+
+89) BJJ ... Rickson Academy ...
+
+
+90) BJJ ... Rickson Academy ...
+
+
+91) BJJ ... Rickson Academy ...
+
+
+92)  BJJ ... Rickson Academy ...
+
+
+93) BJJ ... Rickson Academy ...
+
+
+94)  BJJ ... Rickson Academy ...
+
+
+95) BJJ ... Rickson Academy ...
+
+
+96) BJJ ... Rickson Academy ...
+
+
+97) BJJ ... Rickson Academy ...
+
+
+98) BJJ ... Rickson Academy ...
+
+
+99) BJJ ... Rickson Academy ...
+
+
+100) BJJ ... Rickson Academy ...
+
 
 101)
 
