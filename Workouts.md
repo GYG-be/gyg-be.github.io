@@ -95,7 +95,8 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 3) Landscaping, gardening, weeding, lifting/carrying plant bags
 
-4) BJJ ... Rickson Academy; 
+4) Avail yourself of Kindle Unlimited, YouTube vids, online fora ... and all kinds of opportunities to not just learn about new workouts / drills and ***DO THEM***, but also to comment / email / LinkedIn connect with the author ... to let them know that you APPRECIATE their work ... MAKE IT A POINT TO NOTICE AND APPRECIATE the work of others each day. [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
+
 
 5) [Stretching and mobility](https://www.amazon.com/dp/B0C54FYGJ4) ... general flexibility and rehab exercises
 
