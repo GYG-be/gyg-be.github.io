@@ -6,12 +6,20 @@ categories: template
 ---
 
 
-
+An imperfect child of God 🌟 attempting to become an empath🧎🏾 who cannot possibly ever communicate how GRATEFUL he is to our Creator for every moment of his existence! [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
 
 
 # I will spend $5000 in 2024 on fitness/health CONTENT
 
-I will invest much more in terms of my time ... I have been MORE aggressively spending on health/fitness content since I retired, because I have more time.  I am still alive even though I was told I wouldn't be, so as long as this keeps working out, I will keep spending on content and education for myself ... and I will avoid wasting any money on healthcare insurance, regular visits to medical professional or any prescription.
+Maybe I should spend more. I will definitely invest much more in terms of my time ... my TIME is what actually matters ... and it's also the limiting constraint, ie I can't take in more than $5000 worth of content, especially since there's such a huge amount of high quality content available for little or no money.  **The big constraint is TIME.**
+
+I have been MORE aggressively spending on health/fitness content since I retired, because I have deliberately CHOSEN TO have more time to invest *doing things that actually matter,* like thinking about my life.
+
+**My health/fitness sort of matters to my life ... because of how how being at least mentally/emotionally healthy sorta drives my whole agenda for everthing ... including the WORK that I still do in AI and deep learning, advanced mfg and technical continuous improvement, and knowledge engineering.** *My physical, mental and emotional health are sort of important, but not THAT important to me ... I have some legit experience in being seriously probably-gonna-die-within-a-few-hours unhealthy ... so I know why those things ESPECIALLY matter because of how they impact my spiritual health.*
+
+I am still alive even though I was told I would die of sepsis in early March 2007 ... the sepsis was caused my an adverse reaction to prescribed painkillers, which was complicated by a prolonged power outage while I was sick which lead to me becoming severely dehydrated.  So after I somehow miraculously recovered from my organs shutting down and decided to leave the ICU, I was told that it was more than likely that I would be rehospitalized within days or weeks and that rehospitalization sometime within 3-6 months was a near certainty. I was informed upon leaving the hospital that I should expect to deal with side-effects of my bout of sepsis for the rest of my life [which would be shortened without regular doctor visits and medical care]. 
+
+Since I no longer ever get sick and generally feel better than I ever felt in my 40s, as long as *my program* keeps working out, I will keep spending on content and education for myself ... and I will avoid wasting any money on healthcare insurance, regular visits to medical professional or any prescription pharma.
 
 This whole enterprise is all about [Joshua 1.9](https://www.biblestudytools.com/joshua/1-9-compare.html) ... I am commanded to make myself stronger, more courageous, to be less afraid ... of course, I look forward to dying ... BUT I do actually worry a little bit about ever becoming worried about my health and healthcare.
 
