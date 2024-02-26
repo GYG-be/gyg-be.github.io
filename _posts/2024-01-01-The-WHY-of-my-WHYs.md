@@ -5,7 +5,12 @@ date:   2024-01-01 4:30:00
 categories: template
 ---
 
-This post is like a preface to a book ... you can safely skip it ... of course, you can safely skip the rest of my autobiographical content also.
+
+An imperfect child of God 🌟 attempting to become an empath🧎🏾 who cannot possibly ever communicate how GRATEFUL he is to our Creator for every moment of his existence! [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
+
+# PREFACE
+
+This whole post is like a Preface to a book ... you can safely skip it ... of course, you can safely skip the rest of my autobiographical content also ... this post is about WHY.
 
 ***TBD Editing/Revision*** *I need to ADD/SIMPLIFY with a FULL ISHIKAWA OUTLINE of the WHYS driving my WHY ... this needs to be solidified into coherent five whys bullet-pointed outline of every WHY driving the MAIN WHY.* 
 
