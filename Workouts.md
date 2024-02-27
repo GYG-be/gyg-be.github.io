@@ -89,7 +89,7 @@ We are not averse to using supplements, but we are averse to using them as a cru
 
 Our aim with this listing is to never have to think about our next workout ... we want to have roughly 125 good workout ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main one that we are focusing on getting right.
 
-1) Calisthenics -- alternate burpees, pushups, sit-ups, squats, burpees, pushups, sit-ups, squats ... possibly improving with or changing up with kettlebell weighted yoga
+1) [Vigorous Lifestyle Intermittent Physical Activity](https://g.co/gemini/share/34ac54b0e887) ... not just vigorous houseskeeping or chores, moving heavy boxes up down stairs, but also adding in sprinting/speed walking breaks or sets of calisthenics reps -- alternate burpees, pushups, sit-ups, squats, burpees, pushups, sit-ups, squats ... possibly improving with or changing up with soilbag gardening weighted yoga
 
 2) Speedwalk / hike with weighted pack
 
