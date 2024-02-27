@@ -1,10 +1,32 @@
 ---
 layout: post
-title:  "You Do Not Understand Your Own LinkedIn Profile"
+title:  "Selling Yourself to Your Self"
 date:   2024-03-01 4:30:00
 categories: template
 ---
 
+
+*WHY be somebody else's ________? Why not BE the YOU who you were created to be?*
+
+## Why waste your time desiring wealth or fame or power or some cheap-ass human materialist ***shit?***  
+
+*ARE YOU ACTUALLY SHIT? If you aren't shit, then why do you idolize human materialist CRAP?*
+
+Recall the words of Christ in verse like [Mark 8.36](https://www.biblestudytools.com/mark/8-36-compare.html) *For what shall it profit a man, if he shall gain the whole world, and lose his own soul?*
+
+*Stop being a fool.* ***Selling yourself to your self*** all about discerning the will your Creator and then relentlessly embracing the VISION of who you are to become.
+
+Have you really begun to think deeply enough about WHO you really are?  *Of course not!*  NOBODY has. Contemplative monks realize how far they have to go, but the vast majority of clueless materialist humans have not BEGUN to think deeply about who they are or about their SOUL.
+
+Most people seem to be determined to a cheaper, crappier, less capable ***faulty imitation*** of some IDOL they think they admire or even worship ... MOST of human culture is based on such idol worship; that's why most humans are spiritually doomed, ie their lives are about worshipping some human materialist IDOL. 
+
+Why do you want to be somebody else's _________________ ... when you can **BE** yourself. 
+
+*When you want to BE yourself, you have to constantly SELL yourself* ***TO YOUR SELF.***
+
+That does not mean bragging about you! ***"Selling yourself to your SELF" requires humility and honesty; it's about REALLY LISTENING to you*** not the fake shit you pretend to be. If you care about YOU enough to SELL yourself to your self, then you have to do it with the genuine intention of getting your self to buckle down like never before and INVEST serious time and effort into making yourself into the YOU who you are capable of being. 
+
+It's not playing church or pretending to be Christian or thinking that you can save your soul, while you continue in your idol worshipping ways, chasing money, chasing fame, chasing power ... you cannot be YOU if you gain the entire Universe ... internalize the words of Christ in [Mark 8.36](https://www.biblestudytools.com/mark/8-36-compare.html) and **begin selling the YOU who you were created to be to your self.**
 
 ## In like a LAMB, out like a LION!
 
