@@ -77,19 +77,25 @@ IMMERSION is about studying the ***right*** way to SLEEP ... get serious about s
 
 ## Supplements
 
-When in doubt drink more filtered water.
+Avoid most supplements or time wasted on trying to figure out supplements; just use the MasterClass ... when in doubt drink more filtered water.
 
-We AVOID routine use of medications like the plague ... this does not mean that we NEVER take an aspirin ... but it does mean that we NEVER routinely take any form of medication. 
+There's maybe some reason to take magnesium citrate and zinc ... and vitamin D, but it's better to get more sun ... use iodine woundspray rather liberally 
+
+We AVOID routine use of medications like the plague ... this does not mean that we NEVER take an aspirin ... but it does mean that we never ROUTINELY take any form of medication. 
 
 We are not averse to using supplements, but we are averse to using them as a crutch.
-
-
 
 # Listing of workouts
 
 Our aim with this listing is to never have to think about our next workout ... we want to have roughly 125 good workout ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main one that we are focusing on getting right.
 
-1) [Vigorous Lifestyle Intermittent Physical Activity](https://g.co/gemini/share/34ac54b0e887) ... not just vigorous houseskeeping or chores, moving heavy boxes up down stairs, but also adding in sprinting/speed walking breaks or sets of calisthenics reps -- alternate burpees, pushups, sit-ups, squats, burpees, pushups, sit-ups, squats ... possibly improving with or changing up with soilbag gardening weighted yoga
+## Make it point to incorporate [Vigorous Lifestyle Intermittent Physical Activity (VILPA)](https://g.co/gemini/share/34ac54b0e887)
+
+It's not not just vigorous houseskeeping or chores or 5S, although there's no way to overdo that ... it's also about sorting books and moving different boxes of books up/down stairs ... it's important to NOT DRIVE, but rather add in the sprinting/speed walking breaks ... because sets of calisthenics reps or time on the exercycle are just not enough ... ***ALWAYS BE VILPA-ING***
+
+## Other workouts
+
+1) Get up and down off the ground/floor more ... use every excuse to work in a few alternate burpees, pushups, sit-ups, squats, burpees, pushups, sit-ups, squats ... possibly improving with or changing up with soilbag gardening weighted yoga
 
 2) Speedwalk / hike with weighted pack
 
@@ -343,15 +349,13 @@ In the following 32 Principles from Gracie University ... IN EACH ONE, ponder on
 
 * [Padartha Vigyan Evum Ayurveda Itihas](https://www.ayurveduniversity.edu.in/Downloads/Question_bank/BAMS%201/Padartha%20Vigyan%20Paper%201.pdf) (Philosophy and History of Ayurveda):
   
-** Ayurveda Nirupana
-
-*** **Lakshana of Ayu**: Understanding the characteristics of life (Ayu) and its composition.
+    - **Lakshana of Ayu**: Understanding the characteristics of life (Ayu) and its composition.
 
         - Lakshana of Ayurveda: Recognizing the distinctive features of Ayurveda.
         - Lakshana and classification of Siddhanta: Describing the principles and categorization of Siddhanta (foundational texts).
         - Introduction to basic principles of Ayurveda and their significance: Familiarizing with fundamental Ayurvedic concepts.
 
-*** **Ayurveda Darshana Nirupana**:
+    - **Ayurveda Darshana Nirupana**:
         
         - Philosophical background of fundamentals of Ayurveda: Exploring the philosophical underpinnings of Ayurveda.
         - Etymological derivation of the word “Darshana”: Understanding the origins of the term "Darshana."
@@ -363,9 +367,25 @@ In the following 32 Principles from Gracie University ... IN EACH ONE, ponder on
         - Atma, Purusha, and Manas: Understanding the concepts of self, individuality, and mind.
         - Role of Panchamahabhuta and Triguna: Examining their significance in body constitution and mental nature.
         - Tamas as the tenth Dravya: Recognizing the role of inertia.
-    - Gunavigyaniyam, Karma Vigyaniyam, Samanya Vigyaniyam, Vishesha Vigyaniyam, Samavaya Vigyaniyam, and Abhava Vigyaniyam: Further exploring aspects related to qualities, actions, generalities, specifics, inherence, and absence.
-- Pramana/Pariksha-Vigyaniyam (Part of Padartha Vigyan and Ayurveda Itihas):
-    - Pariksha: Defining, understanding the necessity, and practical application of examination methods.
+
+    - [**Gunavigyaniyam**](https://www.planetayurveda.com/gunas-in-ayurveda-gunavigyaniyam/) refers to the study of “Gunas” or physical and chemical properties and partly physiological properties of drugs.
+
+        - [Karma Vigyaniyam](https://www.planetayurveda.com/karma-vigyaniyam/) refers to the study of the pharmacological activity of a drug, looking at the medicinal activity of a drug is based partly on its properties (gunas) and partly on its specific action (prabhava)
+        - [Samanya Vigyaniyam](https://www.planetayurveda.com/samanya-vigyaniyam/) refers to the study of common characteristics.
+        - [Vishesha Vigyaniyam](https://www.planetayurveda.com/vishesha-vigyaniyam/) refers to the study of unique or different characteristics.
+        - [Samavaya Vigyaniyam](https://www.planetayurveda.com/samavaya-vigyaniyam/) refers to the study of inherent relationships between substances, and 
+        - [Abhava Vigyaniyam](https://www.planetayurveda.com/abhava-vigyaniyam/) refers to the study of non-existence, non-being or absence of properties.
+
+    - [Pariksha](https://www.easyayurveda.com/2017/05/05/roga-rogi-pareeksha/) refers to the examination methods used to diagnose and understand diseases. It is a comprehensive clinical two-stage (disease, patient) examination. One specific method of Pariksha is the Ashthavidh Pariksha, which is an eight-fold diagnosis plan designed to reach the core of an illness. These eight diagnostic tools include:
+
+        - Nadi Pariksha (Pulse Examination)
+        - Mala Pariksha (Stool Examination)
+        - Mutra Pariksha (Urine Examination)
+        - Jivha Pariksha (Tongue Examination)
+        - Sparsha Pariksha (Palpitation and Percussion)
+        - Shabdha Pariksha (Voice/ Sound Examination)
+        - Druk Pariksha (Eyes/Vision Examination)
+        - Akriti Pariksha (General appearance of the patient)
 
 102) Pratyaksha Pariksha
 
