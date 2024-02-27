@@ -6,6 +6,14 @@ categories: template
 ---
 
 
+
+Given everything that AI can do now, should a person learn to code?
+
+*Yes, to be conversant in programming languages ... but not necessarily to become someone who JUST writes code.*
+
+It's more important than ever to be able to shift gears ... to skate backwards ... to be ***quasi-dangerous as a coder*** with the help of an AI coding tool like CoPilot, for *"writing"* and especially for UNDERSTANDING different kinds of code.
+
+
 # Python Virtual Environments / PIP / Conda Best Practices Checklist
 
 *TL;DR version* ... the best practice is to experiment with virtual environments and start developing your own best practices checklist.

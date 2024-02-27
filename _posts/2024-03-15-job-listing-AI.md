@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Curating / Updating Job Lists to Optimize Your Job Search"
-date:   2024-04-15 4:30:00
+title:  "Curating / Updating Job Lists to Optimize Your GYG Search"
+date:   2024-03-15 4:30:00
 categories: template
 ---
 

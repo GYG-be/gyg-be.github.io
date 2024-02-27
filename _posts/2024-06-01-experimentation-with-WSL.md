@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Increase Experimentation with DISPOSABILITY"
-date:   2024-10-01 4:30:00
+date:   2024-06-01 4:30:00
 categories: template
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Curating / Updating VENTURE Lists to Optimize Your Philanthropic Impact"
-date:   2024-06-01 4:30:00
+date:   2024-03-26 4:30:00
 categories: template
 ---
 
