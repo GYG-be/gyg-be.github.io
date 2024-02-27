@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Selling Yourself to Your Self; Why Not Be YOU?"
+title:  "Selling Yourself to Your Self ... Become YOU"
 date:   2024-02-26 4:30:00
 categories: template
 ---
