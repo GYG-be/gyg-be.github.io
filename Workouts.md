@@ -339,31 +339,57 @@ In the following 32 Principles from Gracie University ... IN EACH ONE, ponder on
 100) BJJ ... Rickson Academy ...
 
 
-101)
+101) The Ayurveda Nirupana syllabus covers various aspects related to Ayurvedic principles and philosophy
 
-102) 
+* [Padartha Vigyan Evum Ayurveda Itihas](https://www.ayurveduniversity.edu.in/Downloads/Question_bank/BAMS%201/Padartha%20Vigyan%20Paper%201.pdf) (Philosophy and History of Ayurveda):
+  
+** Ayurveda Nirupana
 
-103)
+*** **Lakshana of Ayu**: Understanding the characteristics of life (Ayu) and its composition.
 
-104) 
+        - Lakshana of Ayurveda: Recognizing the distinctive features of Ayurveda.
+        - Lakshana and classification of Siddhanta: Describing the principles and categorization of Siddhanta (foundational texts).
+        - Introduction to basic principles of Ayurveda and their significance: Familiarizing with fundamental Ayurvedic concepts.
 
-105)
+*** **Ayurveda Darshana Nirupana**:
+        
+        - Philosophical background of fundamentals of Ayurveda: Exploring the philosophical underpinnings of Ayurveda.
+        - Etymological derivation of the word “Darshana”: Understanding the origins of the term "Darshana."
+        - Classification and general introduction to schools of Indian Philosophy: Emphasizing Nyaya, Vaisheshika, Sankhya, and Yoga.
+        - Ayurveda as a unique and independent school of thought: Recognizing Ayurveda's distinct philosophical identity.
+        - Padartha: Studying the concept of fundamental entities, their enumeration, and classification.
+        - Dravya Vigyaniyam: Analyzing substances (dravyas), including the five elements (Panchabhuta) and their qualities.
+        - Kaala and Dik: Exploring time and space in Ayurveda.
+        - Atma, Purusha, and Manas: Understanding the concepts of self, individuality, and mind.
+        - Role of Panchamahabhuta and Triguna: Examining their significance in body constitution and mental nature.
+        - Tamas as the tenth Dravya: Recognizing the role of inertia.
+    - Gunavigyaniyam, Karma Vigyaniyam, Samanya Vigyaniyam, Vishesha Vigyaniyam, Samavaya Vigyaniyam, and Abhava Vigyaniyam: Further exploring aspects related to qualities, actions, generalities, specifics, inherence, and absence.
+- Pramana/Pariksha-Vigyaniyam (Part of Padartha Vigyan and Ayurveda Itihas):
+    - Pariksha: Defining, understanding the necessity, and practical application of examination methods.
 
-106)
+102) Pratyaksha Pariksha
 
-107)
+103) Pariksha
 
-108)
+104) Dravya Vigyan Niyam
 
-109)
+105) Anumanapariksha
 
-110)
+106) Samavaya Vigyanam
 
-111)
+107) Auruvedic Hematology
 
-112) 
+108) Diseases of Rasa Vaha Srotas
 
-113)
+109) Vyadhi Vigyan
+
+110) Prabhava
+
+111) Dravya
+
+112) Mishraka Gana
+
+113) Basic Aurvedic Pathology
 
 114) 
 
