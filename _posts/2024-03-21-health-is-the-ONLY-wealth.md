@@ -5,7 +5,15 @@ date:   2024-03-21 4:30:00
 categories: template
 ---
 
-I am not at all interested in dwelling on symptoms, regular diagnostic screenings or using approaches that rely on medicating problems away, although this is precisely the form of mass [hypochrondriasis](https://en.wikipedia.org/wiki/Hypochondriasis) that is endemic in affluent culture ... even if you turn off your television, you will still be bombarded by the marketing departments of large health organizations as you turn 65 and suddenly become a LEAD for someone health org trying to SELL you something that only sick people need. 
+# Health is the ONLY wealth. The only health that really matters is the health of the soul. 
+
+For the most part, I would fully ascribe to the belief of quality of life being improved per the [techno-optimist manifesto](https://twitter.com/pmarca/status/1713930459779129358), except that the point of life is not tech for tech's sake. If something does not contribute to better health, it's actually a burden or junk that should be discarded as soon as practical ... when something generally makes health worse, it is actually poison or a toxin even if the intentions in developing thing were highest, most noble intentions possible. Health is the ONLY wealth. The only health that really matters is the health of the soul. 
+
+**The intentions matter a great deal. Misdirected or poorly thought-through, less than mindful intentions dramatically increase the likelihood of automating the production of well-intentioned poison AT SCALE.**
+
+Accordingly, I am not one bit interested in dwelling on symptoms, regular diagnostic screenings or using approaches that rely on medicating problems away, although this is precisely the form of mass [hypochrondriasis](https://en.wikipedia.org/wiki/Hypochondriasis) that is endemic in affluent culture.  
+
+Even if you turn off your television and throw all of your tech devices in the trash, you will still be bombarded by the marketing departments [through mass mailings, through the repititous idiocy of well-intentioned family members who've watched too much teevee]. The carpet-bombing of propaganda by of large health organizations as you turn 65 and suddenly become a LEAD for someone health org trying to SELL you something that only sick people need is truly something worthy befitting of the description "SHOCK and AWE." The marketing is so relentless, BECAUSE at 65, you have government health insurance whether you want it or not. 
 
 *I detest the idolatry of sickness culture and preventative screenings and mass [hypochrondriasis](https://en.wikipedia.org/wiki/Hypochondriasis) in American culture* ... I thought I didn't care for it when I was in my 50s, but now that I am turning 65, ***ABSOLUTELY detest the diagnostic-driven marketing of [hypochrondriasis](https://en.wikipedia.org/wiki/Hypochondriasis) in American culture*** because the damned sales blizzards are so INESCAPABLE ... and **completely unnecessary.**
 
