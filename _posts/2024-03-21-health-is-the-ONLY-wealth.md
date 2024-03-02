@@ -7,11 +7,23 @@ categories: template
 
 # Health is the ONLY wealth. The only health that really matters is the health of the soul. 
 
-For the most part, I would fully ascribe to the belief of quality of life being improved per the [techno-optimist manifesto](https://twitter.com/pmarca/status/1713930459779129358), except that the point of life is not tech for tech's sake. If something does not contribute to better health, it's actually a burden or junk that should be discarded as soon as practical ... when something generally makes health worse, it is actually poison or a toxin even if the intentions in developing thing were highest, most noble intentions possible. Health is the ONLY wealth. The only health that really matters is the health of the soul. 
+For the most part, I would fully ascribe to the belief of quality of life being improved per the [**techno-optimist manifesto**](https://twitter.com/pmarca/status/1713930459779129358), except that I think that manifesto should be a weensy bit clearer that the point of life is NOT tech for tech's sake. 
 
-**The intentions matter a great deal. Misdirected or poorly thought-through, less than mindful intentions dramatically increase the likelihood of automating the production of well-intentioned poison AT SCALE.**
+As pure technologists, we do tech to solve problems ... we like to imagine that our motives are pure OR we get too lost in the wizardry of our clever tech ... so sometimes, technologists try to peddle their wares and tout their tech as if they are search of the holy grail of a solution, although a problem necessitating that solution does not exist. If something does not contribute to better health, it's actually a burden or junk that should be discarded as soon as practical ... when something generally makes health worse, it is actually poison or a toxin even if the intentions in developing thing were highest, most noble intentions possible. 
 
-Accordingly, I am not one bit interested in dwelling on symptoms, regular diagnostic screenings or using approaches that rely on medicating problems away, although this is precisely the form of mass [hypochrondriasis](https://en.wikipedia.org/wiki/Hypochondriasis) that is endemic in affluent culture.  
+Technology is NOT wealth ... it's NOT equivalent to or tradeable for health. Tech is ONLY a tool for generally improving health ... and it's fine to be a tool builder. But we need to be clear about what goal is.
+
+*Health is the ONLY wealth.* **The only health that really matters is the health of the soul.** 
+
+**The intentions we start with matter a great deal. Misdirected or poorly thought-through, less than mindful intentions dramatically increase the likelihood of automating the production of well-intentioned poison AT SCALE.**
+
+Accordingly, I am not one bit interested in dwelling on symptoms, regular diagnostic screenings or using approaches that rely on medicating problems away, although this is precisely the form of mass [hypochrondriasis](https://en.wikipedia.org/wiki/Hypochondriasis) and rampant fear-mongering that is endemic in affluent culture. 
+
+I am very much interested in working on my health today, so that I am healthier tomorrow, in order to work on being healthier for the day after tomorrow. *WHY does the propaganda that bombards push us to exercise, to eat right, to pay attention to sleep hygiene, to fast and cleanse, to work at making those around us more likely to exercise and eat right, to pay attention to sleep hygiene, to fast and cleanse?* ***WHY?***  
+
+WHY does the propaganda push us in the direction of more drama, more desire to materialist poisons? ***WHY is that?*** Why is business so necessarily myopic and fear-driven?
+
+*Business is ANTIQUATED ... sometimes you might might be tempted to think that business and human culture are hopelessly backward-looking, but the pace of change is quickening ... most of what business and technology of business do is still very much driven by a ravenous culture that is built on creating a sense of desire for something unnecessary and using false narratives to relentless hammer on a narrative of artificial scarcity. But the business of human existence is getting better and technology is ACCELERATING the rate of change toward a better, more voluntary, more creative world. Technological change can happen much faster than the change we see in human culture or in business ... but the change in culture and business is happening, faster than some want it to happen, right before our eyes.*
 
 Even if you turn off your television and throw all of your tech devices in the trash, you will still be bombarded by the marketing departments [through mass mailings, through the repititous idiocy of well-intentioned family members who've watched too much teevee]. The carpet-bombing of propaganda by of large health organizations as you turn 65 and suddenly become a LEAD for someone health org trying to SELL you something that only sick people need is truly something worthy befitting of the description "SHOCK and AWE." The marketing is so relentless, BECAUSE at 65, you have government health insurance whether you want it or not. 
 
