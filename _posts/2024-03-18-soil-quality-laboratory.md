@@ -17,11 +17,23 @@ It is precisely that **ingenious, systematic, and successful studies of the soil
 
 ### Intracellular Activities in Soil Microbiomes
 
+### Activities of Extracellular Protins in Soil
+
 ## What associative and antagonistic influences exist among soil microflora and fauna?
 
 ## What relationships exist between soil organic matter (SOM) transformations and soil fertility?
 
+### The Importance of Soil Organic Material
+
+### The Concept of Soil Quality
+
 ## What is the meaning and significance of energy balance in soil, in particular with reference to C and N?
+
+### The Processes That Determine The Role of C in The Soil
+
+### The Processes That Determine The Role of N in The Soil
+
+### The Flow of Energy in Soil
 
 ## How do cultivated plants influence soil transformations?
 
