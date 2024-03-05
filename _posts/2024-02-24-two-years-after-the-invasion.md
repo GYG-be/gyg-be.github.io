@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Two Years After The Invasion"
+date:   2024-02-24 4:30:00
+categories: template
+---
+
+What lessons does the [Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine) have for us?  
+
+I am not exactly talking about geopolitical lessons. There are those of us who really thought that Putin was smarter, that he would just *rattle the sabre* to get his concessions, but would not actually invade. But two year ago today, on February 24, the Russians actually did invade Ukraine. Putin has been very open about how the point of the special operation was to demilitarize Ukraine and make NATO much less of a check on the Russian state police or KGB [chekist autocracy](https://en.wikipedia.org/wiki/Chekism) that Putin controls. Of course, Putin's inflamatory rhetoric [not only intended for Russian consumption, but also to dupe a gullible worldwide audience of isolationists].
+
+Putin has, just as the Putin apologists have, always alluded to the Ukrainian "nazis." The point of this deception is to conjure up memories of Russia's so-called "Great Patriotic War" ... which was a war which Stalin completely courted and brought on the Russian people almost by himself [but with the tacit acceptance of his dictatorship by the Russia people] by colluding with Hitler in the [Molotov-Ribbentrop Pact](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact). The whole plan was for Germany and Russia to take over the independent nations of Poland, Estonia, Latvia, Lithuania and also swallow up ALL of Eastern Europe ... of course, Hitler needed Stalin's help to do this; but Stalin also needed Hitler's help to pull off this MASSIVE war crime ... and yet, SOMEHOW, Stalin did not see that Hitler had no intention of *honoring* the agreement to divvy up all of that territory and the hundreds of millions of people/slaves who occupied it ... so the Russians were rewarded for their war crime, by the Nazis invading their territory ALSO, ie the Russians got what they deserved ... and ever since, any European who is seen as a threat to Russia is labeled a "nazi."
+
+The TRUTH of the matter is obviously that not all of the Ukrainians are as *nice* as the pacified, subservient Russians who fall into line behind the [chekist thugs](https://en.wikipedia.org/wiki/Chekism) like Putin. There are SOME unsavory extremists of hundreds or thousands of people that will necessarily be part of the group that turns beligerant and FIGHTS in any population of well [over 40 million in 2021](https://en.wikipedia.org/wiki/Demographics_of_Ukraine) ... the unsavory militarized rabble of deplorable characters who say nasty, inflamatory things in front of audiences are always going to be part of an UNGOVERNABLE population of free, independent citizens.
+
+# LESSON 1: Americans REFUSE to think critically about information that is presented to them. 
+
+Not exactly a new lesson ... we just get to re-learn this lesson whenever some event like invasion of Ukraine comes along.
+
+Wikipedia, for example, is probably the least biased source of information that you can find on the internet, but Wikipedia is not a source of truth on ANY of its pages. Rather, Wikipedia is a source of what is verfiable according other sources that are cited in the article. What is presented on a Wikipedia page is hardly ever static *except for DEAD pages* [which are possibly scheduled for cleanup, ie deletion]. Instead, Wikipedia pages are always converging toward a lowest-common-denominator consensus which is the result of a rather fierce ongoing battle between editors who are fiercely loyal to what they see as their own ***truths***. In sum, Wikipedia is probably the least-biased source of information that you can find on the internet, but it is not a source of truth and it is, as a product of the editor's insistence upon verifiability, never a source of the most current information ... the important point here is EVERY OTHER SOURCE OF INFORMATION IS WORSE THAN WIKIPEDIA is biased, and if you *like* a source of information because it affirms your beliefs, that source of information is probably as dangerously biased as biased can be, *becuase you CANNNOT think critically about what you LIKE watching, hearing, watching.*
+
+# LESSON 2: The vast majority, ie maybe >95%, of the American public is completely unprepared to even think about defending themselves and their nation.
+
+First of all, the MAIN problem, MOST LIKELY TO ACTUALLY KILL THEM is with them and their habits ... it's not really a threat from any kind of invader or from hordes of immigrants. People are most likely to suffer MORE and die EARLIER than than they would otherwise strictly because of they are extremely attached to their own bad habits of being themselves. They consume POISONS that are advertised in Super Bowl advertisements because they have allowed the advertisements to entertain, coddle, and trigger them to consume in greater quantities and deepen their addictions to their POISONS. Not only that, but when their friends and family members call them out for their patterns of consumption, they are likely to become defensive and then to attack and ostracize the buzzkill who is merely pointing out how they are killing themselves or frittering away their money on things that reinforce the indulgence of their addictions.
+
+How many Americans lead something like a HEALTHY lifestyle IN WHICH THEY TRAIN DAILY TO BE ABLE TO FIGHT AND DEFEND THEMSELVES, THEIR FAMILIES/FRIENDS? How many TRAIN DAILY to that ... if they don't TRAIN DAILY or at least weekly, then how Americans going to be prepared to defend themselves and their nation? 
+
+# LESSON 3: MOST Americans are not only willing to SWALLOW the active measures propaganda wholesale, but they are willing to share it as if they discovered it.
+
+How many Americans are MENTALLY PREPARED to recognize propaganda or at least aware of how "active measures" campaigns are used to divide populations? How many are prepared MENTALLY to defend their minds and the minds of others in their nation from the active measures propaganda that is being used to divide and conquer them?
