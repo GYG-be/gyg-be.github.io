@@ -1,11 +1,33 @@
 ---
 layout: post
-title:  "Sequester Carbon As Life By Interrogating Soil Ecology"
+title:  "Interrogating Soil Ecology Through SoC Transcriptomics"
 date:   2024-03-06 4:30:00
 categories: template
 ---
 
-OPTIMIZING carbon sequestration ... so that we maximize soil quality or fitness for use ... is the goal of the Soil Quality Laboratory philanthropy venture. HEALTHIER living soil ecosystems translate into more diverse, higher quality non-processed, fresh food and generally healthier people. The vision is for a food supply that is intensely local, ie right on someone's balcony or a rooftop or in a community garden or in some form of potager garden.
+# Sequester C as LIFE
+
+USE the nutrient cycles; fully exploit the nutrient cycling through **MORE LIFE.** ***TL;DR: The Singularity Ain't Gonna Happen ... at least *not without basing life on the chemical bonds that only carbon has.*
+
+This is all about OPTIMIZING carbon sequestration ... and it doesn't just involve carbon, it involves nitrogen and water ... not just higher quality carbohydrate forms but it's also about higher quality protein cycling ... with constant monitoring of soil conditions for optimized nutrient distribution ... it's about not taking soil for granted, but instead optimizing LIVING soil ecology to maximize soil quality ... to deliver the highest fitness for use.
+
+That's the 1000-year goal of the **Soil Quality Laboratory** philanthropy venture. 
+
+HEALTHIER living soil ecosystems translate into more diverse, higher quality non-processed, fresh food and generally healthier people. The vision is for a food supply that is intensely local, ie right on someone's balcony or a rooftop or in a community garden or in some form of potager garden ... but there's more.
+
+***The 10,000-year vision is of this venture is about the much, much longer-term sustainable health of not just this planet, but every planet and exoplanet in the Universe that is capable of being terraformed into an optimal living environment for humans.*** 
+
+In EVERY concievable case that we can contemplate for terraforming, regardless of where the exoplanet or planet is located, soil quality will be the most important factor in determining the health of the atmosphere and entire ecosystem and the health of the all living beings living in that ecosystem. 
+
+It is CATALCLYSMICALLY STUPID to for anyone imagine that the health of living ecosystems can ever be silicon-based; this sort of thinking completely ignores the fundamental WEAKNESS of crystalline silicon chemical bonds. Life is carbon-based, not because some old guy said so, but because of the fundamental biochemical properties of carbon bonds; it's impossible to argue with the Physics of this. The development of our highly adaptive neurology can almost be MIMICKED by silicon and silicon crystalline structures will be faster at RIGID, HIGHLY SPECIFIC, NON-ADAPTIVE forms of *thinking* ... but the adaptive, evolutionary nature of our neurology is simply not possible unless it is based upon the chemical properties of carbon ... you simply cannot get legitimately evolutionary, automously-adaptive levels of consciousness without carbon ... truly sentient beings are possible only through carbon bonds ... it's impossible to get true sentience by basing a lifeform on the crystalline chemistry of silicon.  
+
+***Sentience is necessarily about the extremely difficult evolutionarily-adaptive long-term learning of millions of years of carbon-based evolution***. The UNDERSTANDING of what sentience *IS* necessarily flows out of the multigenerational experience of not just one creature, but all of the Life that lead to development of that creature.The evolutionary difficulties of carbon-based life are FUNDAMENTAL to developing legitimate sentience, eg genuine sentience is impossible without contemplating the meaning of life and death, or the necessities what one must do in order to develop and thrive ... but it is possible for human creatures, even extremely intelligent human creatures, to be entirely TRICKED by a machine that is capable of mimickining what sentience sounds like.
+
+Legitimate sentience must be capable of the reliable,adaptive, autonomous long-term evolutionarily driven neurological learning of millions of years of generational experience and learning ... and this is simply not possible in something that is fabricated from the intensely fragile manufacturing processes used to produce silicon-based components that can be robotically-assembled under the fragility of rigidly controlled conditions to produce a machine that can TRICK a human who is highly biased, entirely pre-disposed to thinking that artificial silicon-based life is possible. **The singularity AIN'T gonna happen**, but ***fools who think they are smart will be suckered by there own biasing into thinking that their fragile machines can pull it off.***
+
+Carbon-based life is necessary for the health of the entire Universe as human lifeforms are CAPABLE of concieving of it. We must learn to sequester carbon AS LIFE in order to understand the Universe. Understanding the Universe is about understand the the actual meaning of LIFE, ie the greater WHY of our species existence, rather than just our sense of *entitlement* as a species to consume like fat pigs OR to pray to our Creator to put feed in our trough. 
+
+Sequestering carbon as life is not about understanding everything about the creation of the Universe; it is about understanding the one tiny little thing that our species is capable of understanding, so that we may, as a species, understand something about our species' role in the evolving creation of the Universe. ***Understanding something about participating in the continuation of creation is the MILLION-year vision of this venture.***
 
 ## Interrogating In-Situ Soil Ecology
 
