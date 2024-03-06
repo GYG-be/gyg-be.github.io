@@ -6,6 +6,8 @@ categories: template
 ---
 
 
+[Swarm robotics](https://en.wikipedia.org/wiki/Swarm_robotics), [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_system) and [fog computing](https://en.wikipedia.org/wiki/Fog_computing) will be two of the most important technologies that will change the way we think about warfighting ... and yes, they are probably still primarily only vaporware -- we have not REALLY seen these things in action yet, although the conflict in Ukraine gives us a hint about what is to come.
+
 We have long known that the [use of swarm robotics or using multiple robots in a coordinated fashioin](https://web.archive.org/web/20180726044234/https://link.springer.com/content/pdf/10.1007%2F978-3-319-62533-1_15.pdf) shortens manufacturing time by performing different tasks simultaneously. This is not exactly new to robotics, we have all heard the saying: *Many hands make light work.* W can think of many tasks in an industrial environment where the collaborative coordination of multiple robots is essential to even being able to accomplish the task: 
 
 * Manipulating [large] structural elements in a coordinated fashion in environments that are hard or impossible for humans to access such as in space or underwater.
