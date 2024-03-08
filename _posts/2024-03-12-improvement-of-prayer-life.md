@@ -37,14 +37,17 @@ How we think about about that model is, of course, open to interpretation and st
 
 These three petitions -- 1) the sanctification of our Creator's name as "Father", 2) the unstoppable coming of our "Father's" Creation, and 3) the continual fulfillment of our Father's WILL as the Creation unfolds -- relate to our living Creator and how that living Creation is unstoppably and continually being brought into Reality. Implicitly, this FIRST half of the prayer is the most important, most essential half -- because our acceptance of our Father's Reality as it REALLY IS and not as we would pathetically attempt to *will* some human-driven reality to be is fundamental to the necessary humility we must ***live*** in order to be happy. It is IMPOSSIBLE to be genuinely happy without GRATEFULLY accepting and being supremely thankful for the Reality of our Father's Creation as it REALLY IS.
 
-Symbolically, the number three represents **utter completeness** or the PERFECT whole as well as the divinity in the Old Testament.
+Symbolically, the number three represents **utter completeness** or the PERFECT heavenly whole as well as the divinity in the Old Testament.
 
 The three petitions in this half emphasize God’s sovereignty and holiness ... this is why some of us deeply believe that it is extremely important for us to fall on our knees when we pray [if we are not physically impaired by poor health] to physically acknowledge this sovereignty and holiness.
 
 ### Second Half (Four Petitions):
-These petitions concern ourselves.
-The number four often signifies earthly completeness.
-These requests address our daily needs and spiritual well-being.
+
+The second half of the prayer is second for a good reason, ie these other four petitions -- 1) Our DAILY NEEDS will be met, 2) We will find the grace of forgiveness to be able to let go of past imperfections, 3) We will not be tempted to sin or do stupid shit, 4) We will be delivered from the genuine EVIL that exists in the world -- are much less ESSENTIAL and less important to our prayer lives because these petitions concern only ourselves and our lives and not our Creator's larger Creation. It's fine to pray [in self-centered manner] for things for ourselves, but we will generally find that when we pray for our Creator's will to be done and are appropriately grateful for everything that has been provided, our own needs will generally be met.
+
+The number four often signifies **earthly** or imperfect, still developing completeness ... in contrast to the PERFECT or **heavenly** wholeness [of the three petitions in the first half].
+
+These requests address our IMMEDIATE DAILY NEEDS and our spiritual and emotional well-being. These requests should never really address things that we merely want or things that we might worry about for the coming months or years ... it's kind of up to us to figure out what we will need in the coming months as well as what kinds of things we WANT to happen ...  and then plan and to work to make the necessary things happen to take care of our FUTURE needs and ALL of our wants. 
 
 ### The Lord’s Prayer (Matthew 6:9-13):
 
