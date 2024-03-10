@@ -18,6 +18,10 @@
 		},
 		{
 			"path": "../../draintips.github.io"
+		},
+		{
+			"name": "CloudKernelOS.github.io",
+			"path": "../../CloudKernelOS.github.io"
 		}
 	],
 	"settings": {}
