@@ -22,6 +22,10 @@
 		{
 			"name": "CloudKernelOS.github.io",
 			"path": "../../CloudKernelOS.github.io"
+		},
+		{
+			"name": "nanotoolworks.github.io",
+			"path": "../../nanotoolworks.github.io"
 		}
 	],
 	"settings": {}
