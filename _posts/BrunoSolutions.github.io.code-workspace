@@ -30,6 +30,10 @@
 		{
 			"name": "auct-us.github.io",
 			"path": "../../auct-us.github.io"
+		},
+		{
+			"name": "soilqualitylab.github.io",
+			"path": "../../soilqualitylab.github.io"
 		}
 	],
 	"settings": {}
