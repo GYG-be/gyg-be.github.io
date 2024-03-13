@@ -18,7 +18,9 @@ It's worth emphasizing ... **GYGs as side-hustles or proto-philanthopies are far
 
 1) 86400.guru
 
-FIRST of all, we focus on bettering our time mgmt approach ... before we chop down trees, we sharpen the axe. Time is the only source of wealth we have. Time management discipline is our most important discipline.
+Are REALLY too busy? Or do you just suck at time management and values prioritization? Do you even have a clue about what your WHY is ... or are you just too busy to manage your life as if your life actually matters to somebody?
+
+FIRST of all, we focus on bettering our existing time mgmt approach ... we just focus on ONE THING each day ... before we chop down trees, we sharpen the axe and Pareto out our firefighting detail so we can focus 80% of our attention on the 5% of the problems that are causing 95% of the headaches. Time is the only source of wealth we have. Whether we want to admit it or not, time management discipline is our most important discipline of all the disciplines we try to work on.
 
 2) Annotify.APP
 
