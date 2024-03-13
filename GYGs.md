@@ -4,23 +4,11 @@ title: GYGs
 permalink: /GYGs/
 ---
 
-We want everyone to find something they can work on ... look at the world through the lens of ***Venturing*** ...
+We want everyone to find side-hustles and profitable hobbies they can work on ... look at the world through the lens of ***Venturing*** ... in other words, put together a PLAN for how GYG can be used to make a difference in the world ... OR, ideally, you will put together a GYG that producings something that people want to pay so that the GYG is self-sustaining and actually pays employees a wage and offers investors a return on investment. 
 
+**GYGs philanthopies are far better than fundraising organizations** ... it's not remotely close ... the fundraising organizations that are out there primarily exist to fundraise in order to fundraise, ie check their annual reports if you think this isn't true. Fundraising for the sake of fundraising generates something to do and it pays the salaries of fundraising staff who are suckering well-intentioned guilt-ridden people to write checks so that they can pretend they are doing something ...ie, ***there's a lot less LYING, all the way around!!!*** So, instead of checkbook charity, pick a cause and start a GYG that makes a tiny difference, even if your stretch goal that you might not reach is just about raising awareness and nothing more than that ... a GYG is BETTER for your own soul, because it's about YOU and you actually CARING enough to do something RATHER than just writing a stupid check ... if you WORK on the issue SERIOUSLY and maybe spend a teensy amount of money on your expenses, it will be worth it if you just IMMERSE YOURSELF IN THE CAUSE and start to understand why the issue persists.
 
-***Venturing*** is our process of *intelligence gathering*; it is about ***engaging*** the world economically, culturally, thematically.  
-
-We READ and accelerate how we read, using curated lists and AI-recommenders to search better.
-
-The point of annotification is read better, faster, more broadly, more deeply, to discern patterns better.
-
-Our approach is to have roughly 125 venturing ideas in the hopper, but we actually only focus on about 25 venture themes each a month, approximately one per day.  
-
-There are five venture themes that our weekly focus ... it changes; they do not necessarily rotate according to any set plan; we could focus on the same five next week, but that's unlikely. 
-
-There will be only ONE main venture theme that we are *sorta really* focusing on, every single day, at this time ... the main thing is to focus on the process of intelligence gathering and venturing.
-
-
-# Listing of venture themes 
+# Listing of our general venture themes 
 
 
 1) 86400.guru
