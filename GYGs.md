@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Ventures
-permalink: /Ventures/
+title: GYGs
+permalink: /GYGs/
 ---
+
+We want everyone to find something they can work on ... look at the world through the lens of ***Venturing*** ...
 
 
 ***Venturing*** is our process of *intelligence gathering*; it is about ***engaging*** the world economically, culturally, thematically.  

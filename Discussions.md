@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Reading
-permalink: /RSSistant/
+title: Discussions
+permalink: /Discussions/
 ---
+
+We DISCUSS papers, papers with code, books and lists of published work ...
+
+Listification is our process for developing HYBRID intelligence. Listifying is fundamentally recursive. We develop executable lists ... lists with annotations which are presented [stylistically](https://awesomeopensource.com/projects/css/knowledge-graph) in a human readable [knowledge graph analtyic](https://learning.oreilly.com/topics/graph-analytics/) format ... thoses lists have immediate informative value, but the lists with notations also could be used an API input for generating the next list.
+
 
 # RSSistant
 

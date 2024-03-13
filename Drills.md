@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Workouts
-permalink: /Workouts/
+title: Drills
+permalink: /Drills/
 ---
+
+
+It's NECESSARY to break up one's workday with DRILLS
 
 
 Generally, we kind of try to sort of stick with the ***Tabata*** workout format ... it's important to not be too dogmatic about this regimen ... but it helps to have a general structure or regimen or routine to stick to, without thinking too much about it.
