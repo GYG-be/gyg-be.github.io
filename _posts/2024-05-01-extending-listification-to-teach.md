@@ -1,11 +1,19 @@
 ---
 layout: post
-title:  "Extending Listification To Teach"
+title:  "Listified Notetaking To Teach Our Later Selves and Others"
 date:   2024-05-01 4:30:00
 categories: template
 ---
 
-The progression of listification is like peeling an onion. Simple lists must be approachable and usable on the surface, all by themselves, as simple lists or learning syllabi ... but the process of drilling down or peering behind the curtain should also be open source and approachable, so that we teach how to teach others.
+The progression of listification is like zooming in/out as we re-focus a telescope or microscope on what has our attention ... it's more than just peeling an onion; it's also about taking notes as we learn, as we try things.
+
+Simple lists [with more detail annotations and notes] must be approachable and usable on the surface, all by themselves, as simple lists or learning outlines or syllabi that show us the connections or knowledge graphs to other material.
+
+Listification is perhaps social, like social media discussions and fora are, except the topic is more like Wikepedia and the [**wiki/Talk:** page of an article](https://en.wikipedia.org/wiki/Talk:Software-defined_networking) but the connection is primarily sorted by or organized by TOPIC, *rather* than being indexed by DATE or time-indexed ... because when I want to use some set of facts or a method, I want to be able to find it by topic, rather than by date of discovery or who discovered it ... although other attributes of factual knowledge can also be important, it's usually more of a matter of curiosity ... we *mostly* don't care exactly who was in the room; who said what about it and what second/minute/hour/day it was when antibiotics were first discovered in 1945, 1941 or 1937 or 1923 when somebody first recorded the conception of a vague idea for what might be important ... what MATTERS about information to us is how we are going to USE the information.
+
+So Listification is about process of LEARNING ... drilling down or peering behind the curtain should also be open source and approachable. Thus, the breadcrumbs of scoping down/up is not something we want to focus on, but we want the tedious data captured of how the listification happened so we can trace our way back if something is questioned OR we want to refresh our memory on "Now, how did that go again ..." 
+
+So we RELY on information technology to make our listification approach more productive, less manual, less likely to be an adhoc hallucination or somehow mistake-prone. Information technology is about reproducibility of result ... so we use things AI assistants like Claude Opus 3 EVEN if we realize that we might get slightly different results OR different AI assistants might give us different responses ... in general, the minor mistakes or differences in flavor of the response are just not going to matter that much for our learning purposes ... we want to get a broad, vast, general gist of an overview or outline of a syllabi ... we can scope in or scope out to focus practically on something we are learning about ... we listify in order to take notes as we learn, so that we might teach ourselves later when we have one of those "Now, how did that go again? moments ... thus, listification is a notetaking method to teach our later selves, or possibly to teach others.
 
 We can illustrate with something like learning a language. At first, we will want to understand the process of following [a tutorial to learn a language like Python](https://docs.python.org/3/tutorial/index.html) and that process can progress toward fluency in Python [although any language will require continual use to develop mastery] ... then we will progress to that point where want to learn [how to build tutorials in something like Jupyter [using Binder]](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html) ... but then we progress to [learning how to set up BinderHub [which uses a JupyterHub running on Kubernetes for most of its functionality]](https://binderhub.readthedocs.io/en/latest/zero-to-binderhub/index.html#zero-to-binderhub).
 
