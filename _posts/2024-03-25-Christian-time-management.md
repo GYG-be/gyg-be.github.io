@@ -68,8 +68,22 @@ We use AI to brainstorm lists like this in order to better use our time ... the 
 For example, here is a list of 200 different things that the AI suggests a 65-year-old can work on to improve your wrestling or jiu-jitsu lifestyle as you age, focusing on activities, nutrition, lifestyle, furniture, and social interactions that can help you stay flexible, healthy, and physically and mentally fit:
 
 Activities:
-1. Yoga
-2. Pilates
+1. [Yoga for older grapplers/fighters](https://g.co/gemini/share/ecf3e21b78be)
+
+    1.1 **Foundation:** [Breathwork](https://www.yogajournal.com/practice/energetics/pranayama/), [Present moment awareness](https://blog.calm.com/blog/present-moment-awareness), [Sun Salutations](https://www.artofliving.org/us-en/yoga/poses/sun-salutation)
+
+    1.2 **Strength** [Warrior I Pose](https://www.yogajournal.com/poses/warrior-i-pose/), [II Pose](https://www.yogajournal.com/poses/warrior-ii-pose/), [III Pose](https://www.yogajournal.com/poses/warrior-iii-pose/), [Plank Variations](https://www.shape.com/fitness/workouts/ab-workouts/plank-variations), [Chair Pose](https://www.everythingyogaretreat.com/chair-pose-yoga/), [Boat Pose](https://www.fitsri.com/poses/boat-pose), [Eagle Pose](https://yogauonline.com/yoga-practice-teaching-tips/yoga-practice-tips/4-ways-to-develop-balance-in-eagle-pose/)
+
+    1.3 **Flexibility** [Stretching [for jiu jitsu]](https://yogauonline.com/yoga-practice-teaching-tips/yoga-practice-tips/4-ways-to-develop-balance-in-eagle-pose/), [Forward Fold](https://www.yogajournal.com/poses/forward-bend/), [Downward Dog](https://www.yogajournal.com/poses/downward-facing-dog/), [Pigeon Pose](https://www.yogajournal.com/poses/pigeon-pose/), [Spinal Twists](https://www.sureshotayurveda.com/blog/ardha-matsyendrasana-benefits-steps/), [Cobra Pose](https://www.yogajournal.com/poses/cobra-pose/) or [Upward Facing Dog](https://www.brettlarkin.com/upward-facing-dog-pose-urdhva-mukha-svanasana/),  [Cow Face Pose](https://www.yogajournal.com/poses/cow-face-pose/), [Seated Forward Bend](https://www.yogajournal.com/poses/seated-forward-bend/)
+
+    1.4 **Recovery** [Corpse Pose](https://www.yogajournal.com/poses/corpse-pose/), [Legs Up the Wall](https://www.yogajournal.com/poses/legs-up-the-wall-pose/), [Child's Pose](https://www.yogajournal.com/poses/child-s-pose/), [Reclining Bound Angle Pose](https://www.yogajournal.com/poses/reclining-bound-angle-pose/), [Supported Bridge Pose](https://www.yogajournal.com/poses/supported-bridge-pose/)
+
+    1.5 **Injury Prevention** [Simple Joint Mobilization Exercises [for adding throughout the day]](https://www.livestrong.com/article/13731676-underrated-mobility-exercises/), [Proper Alignment](https://skill-yoga.blog/7-alignment-rules-every-yoga-practitioner-should-know/), [Prorioception or Kinesthesia](https://skill-yoga.blog/7-alignment-rules-every-yoga-practitioner-should-know/), [Shoulder Stretches](https://www.yogajournal.com/poses/anatomy/shoulder-stretches/), [Hip Stretches](https://www.yogajournal.com/poses/anatomy/hip-stretches/), [Knee Stretches](https://www.yogajournal.com/poses/anatomy/knee-stretches/), [Ankle Stretches](https://www.yogajournal.com/poses/anatomy/ankle-stretches/), [Wrist Stretches](https://www.yogajournal.com/poses/anatomy/wrist-stretches/)
+
+    1.6 **Jiu Jitsu Movement Drills** Like shadowboxing for boxers, these are warmups, solo drills, flexibility exercises are nothing more than mimicking jiu-jitsu moves, learning new moves or applying new principles to your jiu jitus, it's important to *just get on the mat and roll* to increase flexibility but it might be best [and fun] to develop your own routine or customized list of things that need more of your focus, but it's important to just continually be looking to add variety, ie *sometimes it's almost ok to use your smartphone to scroll through ideas for new material to add to your workout* ... [15 essential solo drills](https://evolve-mma.com/blog/15-essential-bjj-solo-drills-for-all-levels/), [Danaher's 18 solo drill](https://bjjequipment.com/bjj-solo-drills/), [Grapple Arts Guide To Solo Drills](https://www.grapplearts.com/the-ultimate-guide-to-bjj-solo-drills/), [Elite Sports Solo BJJ Drills](https://www.elitesports.com/blogs/news/19-best-bjj-solo-drills), [Team Digitsu's At Home Training](https://app.digitsu.com/a/bjj-solo-drills-the-ultimate-guide-for-at-home-training)
+
+2. [Pilates routines for older wrestlers](https://g.co/gemini/share/adda302e6830)
+
 3. Swimming
 4. Tai Chi
 5. Qi Gong
