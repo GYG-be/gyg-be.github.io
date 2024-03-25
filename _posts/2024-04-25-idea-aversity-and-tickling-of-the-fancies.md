@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "Idea Aversity"
-date:   2024-03-25 4:30:00
+date:   2024-04-25 4:30:00
 categories: template
 ---
 
 
-Yeah, I know [this article about where to retire](https://journeyranger.com/post/1287/best-worst-states-to-retire) is clickbait ... so don't click on that link, but it doesn't matter.
+Yeah, I know [this article about where to retire](https://journeyranger.com/post/1287/best-worst-states-to-retire) is clickbait ... so DO NOT click on that link ... except it doesn't really matter, am a sucker for this kind of thing because I am almost 65 and I am curious if OTHERS get the reasons for why I truly believe that I retired to the right state FOR ME. 
 
-Maybe, it's like my Holstein-Frisian heritage, at least genetic-wise ... nature over nurture; I can't help myself ... sure I don't actually have a dairy barn, but I have been DEEP into the AI for about 50 years, ie, the nitrogen tank kind of AI with a plastic sleeve  ... so as any former member of an FFA judging team, I do like to look over an attractive set of tits, all four of them.
+I retired in order to go back to my roots, because I'm curious about what I missed ... because when I was twenty, I LEFT my roots in order to have different experiences ... I had those different experiences and I am a VERY different person now ... but I still *hillbilly up* when I have to and pretend to be the person that people thought I was when I was a kid.
+
+Maybe, it's like my Holstein-Frisian heritage, at least genetic-wise ... DNA over environment or nature over nurture ... I can't help myself but be curious about my heritage ... sure I don't actually have a dairy barn, but I have been DEEP into the AI for about 50 years, ie, the nitrogen tank kind of AI with a plastic sleeve  ... so as any former member of an FFA judging team, I do like to look over an attractive set of tits, all four of them.
 
 According to this article, Iowa is NINTH best state to retire ... mainly because Iowa is THE state that is great for people who don’t still need to work ... which is both true AND funny ... because jobs here will pay you 1/10th or less of what you would earn elsewhere ... if you can find an employer who even has the beginning of understanding of WTF an engineer like you does, eg [TRUE STORY] "I dunno ... maybe, one guy could have SAVED is employer $837K/yr in just one project, like you *claim* ... but we ain't even never seen a project worth that much money total in one year" ... and I did not ***claim*** it, the savings had to be VERIFIED by a company accountant, or my *verifiable* certification wouldn't have been granted ... there's NO claim about it, but if you're too stupid to understand how it could be possible to take costs out of your backward inbred operation, you are going to hire lawn-mower jockies who are related to the other lawn-mower jockies you have and thinking that they have a team technical aptitudes in optimizing machinery. 
 
