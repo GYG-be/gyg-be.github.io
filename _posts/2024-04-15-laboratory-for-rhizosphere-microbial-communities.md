@@ -5,11 +5,19 @@ date:   2024-03-25 4:30:00
 categories: template
 ---
 
-In order to study the microbial communities in the rhizosphere and their impact on soil quality properties, we will need to think about how we would build the laboratory in order to accomplish the study of those living ecosystems.
+In order to study the microbial communities in the rhizosphere and their impact on soil quality properties, we will need to ***think*** about how we would build the laboratory in order to accomplish the study of those living ecosystems.
+
+Ideally, most of us tend to do our best thinking when our hands are dirty from digging in the soil of our own gardens ... because actually *thinking* about living ecoystems does not usually happen at the time we are too focused on trying to understand the published work in scientific literature OR when we are analyzing transcriptomics data ... it happens when we go for walks or when we garden.
+
+Setting up our soil quality laboratory has to come out of our thinking processes ... it's a measure 15X or 37X or 82X, cut ONCE process ... we need to GET OUR THINKING right before we get out the milling machine and start milling some stainless fixture or doo-dad we need for our laboratory. We have to THINK first, and RETHINK and THINK a lot more, then when we're really sure, then we can spend the $ and give stuff a try.
+
+Humans do become not adults UNTIL AFTER an individual finally realizes that, in any problem in life, NOBODY is coming to save that individuals.  We have to do things ourselves OR hire professionals AFTER we understand what capabilities we need from the professional. We should never just have faith in professionals, because we are totally helpless and can't figure it out.
+
+**Unless we are still children, we have to save ourselves** ... and even when we hire professionals to build laboratories for us, we had better KNOW why the professional can accomplish what we need the laboratory to accomplish. If we don't understand what is necessary to be known -- we are better off never having access to a laboratory which will never really give us anything informative and might kill us. 
 
 Nobody is going to set up the laboratory for us ... it does not make sense whatsoever to take samples and bring samples of living things to the laboratory -- if we disturb the living ecosystem, we no long can study it ... we killed it. **LIFE must be examined in it's LIVING form.**
 
-**It is necessary for the study of a living ecoystem to be done with the intact living ecosystem IN THE FIELD.  
+The KEY THING TO UNDERSTAND FIRST is ... **it is necessary for the study of a living ecoystem to be done with the intact living ecosystem IN THE FIELD.**  
 
 Neither the laboratory nor our methods for studying the living ecosystem can learn anything from the study of DEAD, inert chemical molecules ... the laboratory for the study of microbial communities in the rhizophere can kill the life without *moral* repurcussions, but it cannot kill the life without destroying the living knowledge that is embodied in situ in the rhizosphere. Practically, we will need to disturb the rhizophere by the presence of our study, but we should take ever step to MINIMIZE the disturbance.
 
