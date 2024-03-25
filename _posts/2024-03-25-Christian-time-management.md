@@ -65,10 +65,11 @@ I asked my favorite AI assistant to brainstorm a list for me of 200 different th
 
 We use AI to brainstorm lists like this in order to better use our time ... the list is FAR from perfect, but it's okay at what it's intended to do ... to get us STARTED THINKING ... or to get us to STOP THINKING about the bullshit that our untamed mind wants to bitch about ...  the AI list is ONLY THE START OF THE BRAINSTORMING PROCESS ... it gives us a QUICK START, faster than we can think one up ourselves ... but we will, of course, need to throw out a lot of junk AI produces ... but the speed of generating these lists means will also need to delve deeper and ask for more brainstormed lists on the things that are worth pursuing ... MORE IDEAS are necessary to grind up the bin of ideas to produce the VERY FEW ideas that we should DO.
 
-For example, here is a list of 200 different things that the AI suggests a 65-year-old can work on to improve your wrestling or jiu-jitsu lifestyle as you age, focusing on activities, nutrition, lifestyle, furniture, and social interactions that can help you stay flexible, healthy, and physically and mentally fit:
+For example, if you have 7500 days left to live, you can work on seven or eight little things everyday to improve your jiu jitsu ... especially if you have learned that you have to do jiujitsu to even be able to get out of bed -- if that's true of you, you will need to find 50,000 things to improve your jiu jitsu.  NOBODY starts out having that list -- we all have to  build it ... we LOVE jiu jitus because we have LEARNED that as long as our mental and physical lives depend upon physical health, we **have to** LOVE jiu jitsu. Or else. It might not be easy if we are not attracted to physical exercise --- we have to ***FIND A WAY to love jiu jitsu***. 
 
-Activities:
-1. [Yoga for older grapplers/fighters](https://g.co/gemini/share/ecf3e21b78be)
+Accordingly, This list is a work in progress that began with a AI-brainstormed 200 different things that a 65-year-old can work on to improve your wrestling or jiu-jitsu lifestyle as you age, focusing on activities, nutrition, lifestyle, furniture, and social interactions that can help you stay flexible, healthy, and physically and mentally fit:
+
+1. [DDP and yoga for older grapplers/fighters](https://g.co/gemini/share/ecf3e21b78be)
 
     1.1 **Foundation:** [Breathwork](https://www.yogajournal.com/practice/energetics/pranayama/), [Present moment awareness](https://blog.calm.com/blog/present-moment-awareness), [Sun Salutations](https://www.artofliving.org/us-en/yoga/poses/sun-salutation)
 
@@ -82,9 +83,21 @@ Activities:
 
     1.6 **Jiu Jitsu Movement Drills** Like shadowboxing for boxers, these are warmups, solo drills, flexibility exercises are nothing more than mimicking jiu-jitsu moves, learning new moves or applying new principles to your jiu jitus, it's important to *just get on the mat and roll* to increase flexibility but it might be best [and fun] to develop your own routine or customized list of things that need more of your focus, but it's important to just continually be looking to add variety, ie *sometimes it's almost ok to use your smartphone to scroll through ideas for new material to add to your workout* ... [15 essential solo drills](https://evolve-mma.com/blog/15-essential-bjj-solo-drills-for-all-levels/), [Danaher's 18 solo drill](https://bjjequipment.com/bjj-solo-drills/), [Grapple Arts Guide To Solo Drills](https://www.grapplearts.com/the-ultimate-guide-to-bjj-solo-drills/), [Elite Sports Solo BJJ Drills](https://www.elitesports.com/blogs/news/19-best-bjj-solo-drills), [Team Digitsu's At Home Training](https://app.digitsu.com/a/bjj-solo-drills-the-ultimate-guide-for-at-home-training)
 
-2. [Pilates routines for older wrestlers](https://g.co/gemini/share/adda302e6830)
+2. [Pilates-based routines/drills for older wrestlers](https://g.co/gemini/share/adda302e6830)
+    1.1 **Warm-up:** When you are going to do pilates-kinds of drills, always dedicate 14 minutes or so first to light cardio, jumping jacks, burpees, etc and dynamic stretches but mostly this about *getting your head into the right zone* and *warming-up mentally* by prioritizing on form and thinking about form in controlled, precise, exagerated movements over speed or repetitions; think about your upcoming workout to have everything ready so you can adjust exercises as needed, eg you might need to typically use a rolled-up towel or yoga block for support, reduce repetitions, or hold positions for a shorter duration. While you're going through your warmup, simultaneously use this time to get your mind focused on practice [new breathwork ideas that you sought out](https://g.co/gemini/share/8851782b29b1) -- as you go through your workout you will want to apply new [breathing techniques](https://www.verywellhealth.com/breathing-techniques-8382890) such as the (physiological sigh)[https://www.youtube.com/watch?v=rBdhqBGqiMc]: inhale deeply nose, b) pause, c) even deeper inhale, d) long exhale thru mouth, e) repeat 30X.
 
-3. Swimming
+    1.2 **Core Strengthening:** * **The Hundred:** Lie on your back, legs lifted tabletop, head/shoulders off the floor. Pump arms up/down for 100 counts, breathing in for 5 counts, out for 5 counts. * **Plank:** High plank, or modify on forearms. Aim to hold for increasing lengths of time. Emphasize straight body line. **Side Plank:** On forearm or hand, lift hips, align body. Option to dip hip up/down in controlled way for added challenge. **Roll-up:** Lie on back.  Slowly roll up to seated position, controlling the movement down. **Bird Dog:** Kneeling on all fours. Extend opposite arm and leg, keeping back flat.  Slowly return and alternate sides. **Leg Circles:** Lie on back. One leg lifted, toes pointed. Draw small-medium circles in the air.  Switch legs. **Criss-cross:** Lie on back. Hands behind head, elbows wide.  Lift one shoulder, twist towards opposite bent knee. Slow and controlled. **Dead Bug:** Lie on back. Arms and legs extended upwards. Simultaneously lower opposite arm/leg towards floor, return.
+    
+    1.3 **Spinal Flexibility and Mobility:** **Cat-Cow:** Start on all fours. Inhale, arch spine like a cat. Exhale, round spine like a cow. **Roll Like a Ball:** Sit with knees bent, feet flat.  Roll back onto spine, curling up, and return to seated position in a controlled way. **Swan:** Lie on stomach, hands under shoulders. Press up, keeping hips down, lengthening spine.  Lower slowly. **Mermaid Stretch:** Seated, bend one knee, other leg extends to side. Reach opposite arm overhead, side-bending. Switch sides. **Seal:** Start seated, legs extended. Roll back like a ball, then roll forward until feet touch over your head. Hold, lower slowly. **Spine Twist:** Seated, one leg crossed over the other. Twist torso, looking back over shoulder. Hold, switch sides.
+
+    1.4 **Balance and Coordination:** **Single Leg Balance** Find a focal point. Lift one leg, hold for increasing duration. Switch legs. Progress to closing eyes. **Single Leg Circles:** Standing, lift one leg, draw circles with toe. Small to larger circles.  Switch legs. **Heel-Toe Walk:** Walk forward in a straight line, placing heel of one foot directly in front of other foot's toes. **Side Steps:** With slight bend in knees, step side to side, maintaining athletic stance. **Airplane:** Balancing on one leg, extend opposite leg behind, and arms forward. Hold like an 'airplane'. Switch sides.
+
+    1.5 **Lower Body and Hip Focus:** **Bridging:** Lie on back, knees bent. Squeeze glutes, lifting hips. Hold, lower slowly. Variation: single leg lift while bridging. **Clamshell:** Lie on side, knees bent. Top leg lifts, keeping feet together.  Slow up/down. **Side-Lying Leg Lifts:** Lie on side. Top leg lifts straight up/down. Slow and controlled **Kneeling Leg Kickbacks:** Kneeling on all fours. Extend one leg straight back, squeezing glute at top. Lower slowly. **Inner Thigh Lifts:** Lie on side, bottom leg bent, top leg straight.  Lift top leg up/down.
+
+    1.6. **Upper Body and Shoulders:** **Thread the Needle:** Start on all fours. Thread one arm under torso, twisting shoulder towards floor. Return, switch sides. **Chest Expansion:**  Seated or standing. Clasp hands behind back, lift chest, squeeze shoulder blades. **Shoulder Rolls:** Seated or standing. Roll shoulders forward, then backwards, in wide circles. 
+
+3. Swimming??? **Really, AI? NO!!!** *I cannot float, so I am NOT a swimmer and I don't enjoy being in water.*
+
 4. Tai Chi
 5. Qi Gong
 6. Stretching routines
@@ -97,9 +110,9 @@ Activities:
 13. Hiking
 14. Dancing
 15. Gardening
-16. Golf
-17. Tennis (doubles)
-18. Pickleball
+16. Golf **NOT FOR ME, AI!**
+17. Tennis (doubles) **NOT FOR ME, AI!**
+18. Pickleball **NOT FOR ME, AI!**
 19. Paddle boarding
 20. Kayaking
 21. Rowing
@@ -110,7 +123,7 @@ Activities:
 26. Foam rolling
 27. Massage therapy
 28. Acupuncture
-29. Chiropractic care
+29. Chiropractic care/therapy for optimization
 30. Physical therapy
 31. Occupational therapy
 32. Feldenkrais Method
@@ -134,17 +147,18 @@ Activities:
 50. Volunteering
 
 Nutrition:
-51. Balanced, whole-food diet
-52. Adequate protein intake
-53. Lean meats (chicken, fish, turkey)
-54. Plant-based proteins (legumes, tofu, tempeh)
-55. Fruits and vegetables
-56. Whole grains
-57. Healthy fats (avocado, nuts, seeds, olive oil)
-58. Limited processed and refined foods
-59. Limited added sugars
-60. Adequate hydration
-61. Green tea
+
+51. OMAD, Intermittent Fasting, Extended Fasting
+52. Balanced, whole-food diet
+53. Adequate protein intake
+54. Lean meats? (chicken, fish??, turkey)
+55. Plant-based proteins (legumes, tofu, tempeh)
+56. Fruits and vegetables
+57. Whole grains?
+58. Healthy fats (avocado, nuts, seeds, olive oil)
+59. **SEVERELY limiting processed and refined foods**
+60. **Adequate hydration**
+61. Green clove tea
 62. Bone broth
 63. Collagen supplements
 64. Omega-3 fatty acids (fish oil, flaxseed)
@@ -160,7 +174,7 @@ Nutrition:
 74. Potassium
 75. Glucosamine and Chondroitin
 76. MSM (Methylsulfonylmethane)
-77. Tart cherry juice
+77. **Tart cherry juice! YES!!!**
 78. Beet juice
 79. Pomegranate juice
 80. Whey protein
@@ -186,7 +200,8 @@ Nutrition:
 100. Seeds (chia, flax, pumpkin)
 
 Lifestyle:
-101. Consistent sleep schedule
+
+101. Sleep hygience; consistent sleep schedule
 102. Adequate sleep duration (7-9 hours)
 103. Sleep hygiene practices
 104. Stress management techniques
@@ -237,7 +252,8 @@ Lifestyle:
 149. Maintaining a sense of humor and playfulness
 150. Embracing a sense of adventure and spontaneity
 
-Furniture:
+Furniture:  ***Really, AI? I'm NOT a FURNITURE person ...I'll think about it, but none of these are likely.***
+
 151. Ergonomic office chair
 152. Standing desk or adjustable desk
 153. Lumbar support cushion
@@ -290,13 +306,14 @@ Furniture:
 200. Acupressure mat or pillow for relaxation and pain relief
 
 Social Interactions:
-1. Joining a senior center or community center
+
+1. Joining a senior center or community center *NOT FOR ME, AI!*
 2. Participating in group fitness classes or activities
 3. Attending local events and festivals
 4. Joining a book club or discussion group
 5. Taking classes or workshops on topics of interest
 6. Volunteering for a cause or organization
-7. Mentoring or tutoring younger individuals
+7. Mentoring or tutoring younger individuals ***Really, AI? For ME? Okay, maybe...I'll think about it.***
 8. Joining a hobby or interest group (gardening, crafts, music)
 9. Participating in a support group or therapy group
 10. Attending religious or spiritual services and events
@@ -305,19 +322,19 @@ Social Interactions:
 13. Attending cultural events (museums, concerts, plays)
 14. Joining a social or networking group for older adults
 15. Participating in a language or cultural exchange program
-16. Attending sports events or games as a spectator
+16. Attending sports events or games as a ***spectator*** *NOT FOR ME, AI!*
 17. Joining a chess club or bridge club
 18. Participating in a storytelling or oral history project
 19. Attending a cooking or dining club
 20. Joining a pet therapy or animal-assisted therapy program
 21. Participating in a community garden or urban farming project
-22. Attending a senior prom or dance event
+22. Attending a senior prom or dance event *NOT FOR ME, AI!*
 23. Joining a laughter yoga or humor therapy group
 24. Participating in a gratitude or kindness project
 25. Attending a tea party or social gathering
 26. Joining a photography or videography club
 27. Participating in a public speaking or debate club
-28. Attending a wine tasting or food tasting event
+28. Attending a wine tasting or food tasting event *NOT FOR ME, AI!*
 29. Joining a writing or journaling group
 30. Participating in a community service or volunteer project
 31. Attending a movie or film discussion group
@@ -326,19 +343,19 @@ Social Interactions:
 34. Attending a lecture or educational seminar
 35. Joining a political or advocacy group
 36. Participating in a meditation or mindfulness group
-37. Attending a potluck or community meal event
-38. Joining a knitting or crocheting circle
+37. Attending a potluck or community meal event ***Really, AI? For ME? Okay, maybe...I'll think about it.***
+38. Joining a knitting or crocheting circle ***Really, AI? For ME? Okay, maybe...I'll think about it.***
 39. Participating in a storytelling or public speaking event
-40. Attending a fashion show or beauty event
+40. Attending a fashion show or beauty event ***Really, AI? For ME? Okay, maybe...I'll think about it.***
 41. Joining a woodworking or carpentry club
 42. Participating in a poetry or creative writing group
 43. Attending a dance or movement therapy class
-44. Joining a fishing or hunting club
-45. Participating in a community theater or acting group
+44. Joining a fishing or hunting club ***Really, AI? For ME? Okay, maybe...I'll think about it.***
+45. Participating in a community theater or acting group ***Really, AI? For ME? Okay, maybe...I'll think about it.***
 46. Attending a fitness or health expo
-47. Joining a genealogy or family history group
+47. Joining a genealogy or family history group ***Really, AI? For ME? Okay, maybe...I'll think about it.***
 48. Participating in a trivia or quiz competition
 49. Attending a senior olympics or sports competition
 50. Joining a model building or collectibles club
 
-These suggestions can help you maintain an active, healthy, and engaged lifestyle while accommodating your age and physical limitations. Remember to consult with your healthcare provider before starting any new activities or making significant changes to your lifestyle.
+These *suggestions* can help you maintain an active, healthy, and engaged lifestyle while accommodating your age and physical limitations. You can consult with your healthcare provider if you want before starting any new activities or making significant changes to your lifestyle ... **but the most important thing is to just get started building your own list of 50,000 things, starting with the tiny, little things like breathwork exercises and try to loosen up and warm up and then keep moving and moving A BIT MORE as you listen to what your body is telling you.**.
