@@ -122,96 +122,84 @@ Accordingly, This list is a work in progress that began with a AI-brainstormed 2
 
     1.6. **Upper Body and Shoulders:** **Thread the Needle:** Start on all fours. Thread one arm under torso, twisting shoulder towards floor. Return, switch sides. **Chest Expansion:**  Seated or standing. Clasp hands behind back, lift chest, squeeze shoulder blades. **Shoulder Rolls:** Seated or standing. Roll shoulders forward, then backwards, in wide circles. 
 
-3. Communication and [Listening LEADERSHIP](https://g.co/gemini/share/14f8ac3da8d8)
+3. [Communication](https://g.co/gemini/share/5ccb20d86e81) and [Listening LEADERSHIP](https://g.co/gemini/share/14f8ac3da8d8)
 
     1.1 **Introduction to Listening Leadership**
 
-* Defining Listening Leadership and its impact on team performance.
-* Understanding the difference between hearing and listening.
-* Benefits of a listening culture in the workplace.
-* Self-assessment of current listening habits.
+    * Defining Communication Leadership and Listening Leadership and their impact on team performance.
+    * Understanding the difference between hearing and listening, between speaking and communicating.
+    * What benefits of a listening culture in the workplace are sought is about priorities and thinking deeply about what should matter more and how to better assess communication strengths and areas for development
+    * Self-assessment of current listening habits; not just setting SMART goals for communication improvement, but how should we systematically improve those goals.
 
     1.2 **The Art of Active Listening**
 
-* Active listening techniques (body language, eye contact, mirroring).
-* Overcoming distractions and focusing on the speaker.
-* Recognizing and managing personal biases during listening.
-* Practicing active listening through role-playing exercises.
+    * Active listening techniques (body language, eye contact, mirroring).
+    * Overcoming distractions and focusing on the speaker; overcoming biases and assumptions to listen more objectively to be more aware of SWOT we are not yet aware of.
+    * Recognizing and managing personal biases during listening and beyond active listening: developing a "seek first to understand" mindset.
+    * Practicing active listening and possibly discovering flaws through role-playing exercises and simulated scenarios.
 
-**Module 3: Breaking Down Barriers to Effective Listening**
+    1.3 **Breaking Down Barriers to Effective Communication and Listening**
 
-* Identifying common barriers to listening (preconceptions, interruptions, multitasking).
-* Strategies to overcome internal and external distractions.
-* Managing emotional responses during listening situations.
-*  Group discussion: sharing personal experiences and solutions.
+    * Identifying common barriers to listening (preconceptions, interruptions, multitasking).
+    * Strategies to overcome internal and external distractions; adapting different communication styles for different audiences and situations,
+    * Managing emotional responses during listening situations; foster group discussion eliciting response in sharing personal experiences and solutions.
+    * Clarity and conciseness in written and verbal communication; beginning with end in mind of crafting a more focused message with punch and a clear call to action.
 
-**Module 4: The Power of Questioning**
+    1.4 **The Power of Questioning**
 
-* Techniques for asking open-ended, probing, and clarifying questions.
-* Using questions to encourage deeper communication and understanding.
-* Avoiding questions that shut down conversation or lead assumptions.
-*  Interactive activity: practicing questioning techniques in pairs.
+    * Techniques for asking open-ended, probing, and clarifying questions. Encouraging people to stand up for themselves without needing to rely on someone else providing a safe space for open communication; generally fostering a dynamic environment that encourages constructive criticism without censoring expression of discomfort.
+    * Using questions to encourage deeper communication and understanding.
+    * Avoiding poisonous questions and different forms censorship which shut down conversation or lead assumptions. 
+    *  Interactive activity: practicing questioning techniques in pairs and groups. Building a learning environment that pushes communication to success.
 
-**Module 5: Fostering a Listening Environment**
+    1.5 **Fostering a Listening Environment**
 
-* Creating a safe space for open communication and feedback.
-* Demonstrating respect and empathy towards different communication styles. 
-* Encouraging active listening within your team through activities and discussions.
-*  Case studies: analyzing real-world situations where listening fosters success.
+    * Genuinelly TRUSTING people and encouraging them to be courageous, without needing to rely upon a safe space for open communication and feedback.
+    * Demonstrating legitimate respect and real empathy towards ALL different communication styles, not just those which are "well behaved" or exhibit "good manners" definely by the current people in power.
+    * Encouraging active listening within your team through activities and discussions.
+    *  Case studies: analyzing real-world situations where listening fosters success.
 
-**Module 6: Leading by Example**
+    1.6 **Leading by Example**
 
-* Identifying and practicing active listening behaviors as a leader.
-* Demonstrating respect for diverse viewpoints and experiences.
-* Integrating listening into your daily interactions with team members.
-* Self-reflection exercise: assessing your personal Listening Leadership style.
+    * Identifying and practicing active listening behaviors as a leader.
+    * Demonstrating respect for diverse viewpoints and experiences.
+    * Integrating listening into your daily interactions with team members.
+    * Self-reflection exercise: assessing your personal Listening Leadership style.
+    * Developing authentic, unique communication and leadership philosophiies which define a personal brand.
 
-**Module 7: The Power of Feedback**
+    1.7 **The Power of Feedback**
 
-*  Providing constructive feedback through active listening.
-*  Receiving and processing feedback with an open mind.
-*  Creating a feedback culture that promotes growth and learning.
-*  Role-playing scenarios: practicing giving and receiving feedback with active listening.
+    *  Providing constructive feedback through active listening.
+    *  Receiving and processing feedback with an open mind.
+    *  Creating a feedback culture that promotes growth and learning.
+    *  Role-playing scenarios: practicing giving and receiving feedback with active listening.
 
-**Module 8: Listening for Conflict Resolution**
+    1.8 **Listening for Conflict Resolution**
 
-* Active listening strategies in challenging situations and disagreements.
-* De-escalation techniques and focusing on underlying issues.
-*  Facilitating open dialogue and finding solutions through listening.
-*  Case studies: using listening to navigate conflict in the workplace.
+    * Active listening strategies in challenging situations and disagreements.
+    * De-escalation techniques and focusing on underlying issues.
+    *  Facilitating open dialogue and finding solutions through listening and various techiques in creative nonviolence.
+    *  Case studies: using listening to navigate conflict in the workplace.
 
-**Module 9: Building Trust and Motivation Through Listening**
+    1.9 **Building Trust and Motivation Through Listening**
 
-*  Understanding the connection between effective listening and trust.
-*  Motivating and empowering team members by valuing their voices.
-*  Demonstrating genuine interest and care through active listening.
-*  Group discussion: sharing experiences where listening fostered trust and motivation. 
+    *  Understanding the connection between effective listening and trust.
+    *  Motivating and empowering team members by valuing their voices.
+    *  Demonstrating genuine interest and care through active listening.
+    *  Group discussion: sharing experiences where listening fostered trust and motivation.
 
-**Module 10: Action Planning and Implementation**
+    1.10 **Action Planning and Implementation**
 
-*  Developing an action plan to apply Listening Leadership principles in your work environment.
-* Setting realistic goals and identifying potential challenges.
-*  Sharing best practices and brainstorming solutions for implementation.
-*  Developing a timeline and accountability measures for success.
+    *  Developing an action plan to apply Listening Leadership principles in your work environment.
+    * Setting realistic goals and identifying potential challenges.
+    *  Sharing best practices and brainstorming solutions for implementation.
+    *  Developing a timeline and accountability measures for success.
 
-**Assessment:**
+4. Tai Chi Theory
 
-* Class participation and discussions (20%)
-* Reflective writing assignments (30%)
-* Group activities and presentations (20%)
-* Action plan development and implementation (30%)
+5. Qi Gong
 
-**Course Materials:**
-
-* A comprehensive course reader will be provided, including articles, case studies, and practical exercises.
-* Additional resources (books, podcasts, and online articles) will be suggested throughout the course.
-
-**Note:** This syllabus is a framework and can be adapted to fit the specific needs of the participants and the training environment.
-
-
-4. Tai Chi
-
-5. Qi Gong Standing Eight Pieces of Brocade
+    1.1 **Eight Pieces of Brocade**
 
 6. Stretching routines
 
