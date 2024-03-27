@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "86400 seconds per day to be a better wrestler"
+title:  "86400 seconds per day to be a better wrestler. And Christian."
 date:   2024-03-25 4:30:00
 categories: template
 ---
