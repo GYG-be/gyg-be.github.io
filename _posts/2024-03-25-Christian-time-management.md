@@ -96,11 +96,16 @@ Accordingly, This list is a work in progress that began with a AI-brainstormed 2
 
     1.6. **Upper Body and Shoulders:** **Thread the Needle:** Start on all fours. Thread one arm under torso, twisting shoulder towards floor. Return, switch sides. **Chest Expansion:**  Seated or standing. Clasp hands behind back, lift chest, squeeze shoulder blades. **Shoulder Rolls:** Seated or standing. Roll shoulders forward, then backwards, in wide circles. 
 
-3. Swimming??? **Really, AI? NO!!!** *I cannot float, so I am NOT a swimmer and I don't enjoy being in water.*
+3. Swimming??? **NO!!!** *I cannot float. I have never been a swimmer. I don't enjoy being in or around water.*
+3. Listening
+
 
 4. Tai Chi
-5. Qi Gong
+
+5. Qi Gong Standing Eight Pieces of Brocade
+
 6. Stretching routines
+
 7. Mobility exercises
 8. Resistance band training
 9. Bodyweight exercises
