@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "86400 seconds per day to be a better wrestler. And Christian."
+title:  "86400 secs/day. Grappler's mindset to work toward being a better Christian."
 date:   2024-03-25 4:30:00
 categories: template
 ---
 
+
+A grappling lifestyle, for me, is about grappling with the angel of the Lord ... in a match, with a clock ticking but I don't know for sure how much time I have left or what the score is ... but me recognizing that I have to make moves because the time left in the match is limited, but as I move through the moments, I need to be actively looking ahead and doing whatever I can in every moment to make the future moments of my existence BETTER, MORE PRODUCTIVE in every sense of the word, all toward the goal of being a better Christian. 
+
+OBVIOUSLY, the grappling mindset is mostly a metaphor ... of course, I do want to be healthier, stronger, more fit, more productive, more able to overcome challenges that are coming ... so that I can consistently develop the discipline so that I can be more and more productive in working on myself and working toward the goal of becoming a better Christian.
 
 *For Christians, there can be no other day in the year that is more genuinely worthy of a SPECIAL day of celebration than the Sunday that is coming up. Easter is THE reason we are Christians; the CELEBRATION of Easter really MATTER to us.*
 
