@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "86400 seconds per day to be a better wrestler"
-date:   2024-03-31 4:30:00
+date:   2024-03-25 4:30:00
 categories: template
 ---
 
@@ -118,8 +118,91 @@ Accordingly, This list is a work in progress that began with a AI-brainstormed 2
 
     1.6. **Upper Body and Shoulders:** **Thread the Needle:** Start on all fours. Thread one arm under torso, twisting shoulder towards floor. Return, switch sides. **Chest Expansion:**  Seated or standing. Clasp hands behind back, lift chest, squeeze shoulder blades. **Shoulder Rolls:** Seated or standing. Roll shoulders forward, then backwards, in wide circles. 
 
-3. Swimming??? **NO!!!** *I cannot float. I have never been a swimmer. I don't enjoy being in or around water.*
-3. Listening
+3. Communication and [Listening LEADERSHIP](https://g.co/gemini/share/14f8ac3da8d8)
+
+    1.1 **Introduction to Listening Leadership**
+
+* Defining Listening Leadership and its impact on team performance.
+* Understanding the difference between hearing and listening.
+* Benefits of a listening culture in the workplace.
+* Self-assessment of current listening habits.
+
+    1.2 **The Art of Active Listening**
+
+* Active listening techniques (body language, eye contact, mirroring).
+* Overcoming distractions and focusing on the speaker.
+* Recognizing and managing personal biases during listening.
+* Practicing active listening through role-playing exercises.
+
+**Module 3: Breaking Down Barriers to Effective Listening**
+
+* Identifying common barriers to listening (preconceptions, interruptions, multitasking).
+* Strategies to overcome internal and external distractions.
+* Managing emotional responses during listening situations.
+*  Group discussion: sharing personal experiences and solutions.
+
+**Module 4: The Power of Questioning**
+
+* Techniques for asking open-ended, probing, and clarifying questions.
+* Using questions to encourage deeper communication and understanding.
+* Avoiding questions that shut down conversation or lead assumptions.
+*  Interactive activity: practicing questioning techniques in pairs.
+
+**Module 5: Fostering a Listening Environment**
+
+* Creating a safe space for open communication and feedback.
+* Demonstrating respect and empathy towards different communication styles. 
+* Encouraging active listening within your team through activities and discussions.
+*  Case studies: analyzing real-world situations where listening fosters success.
+
+**Module 6: Leading by Example**
+
+* Identifying and practicing active listening behaviors as a leader.
+* Demonstrating respect for diverse viewpoints and experiences.
+* Integrating listening into your daily interactions with team members.
+* Self-reflection exercise: assessing your personal Listening Leadership style.
+
+**Module 7: The Power of Feedback**
+
+*  Providing constructive feedback through active listening.
+*  Receiving and processing feedback with an open mind.
+*  Creating a feedback culture that promotes growth and learning.
+*  Role-playing scenarios: practicing giving and receiving feedback with active listening.
+
+**Module 8: Listening for Conflict Resolution**
+
+* Active listening strategies in challenging situations and disagreements.
+* De-escalation techniques and focusing on underlying issues.
+*  Facilitating open dialogue and finding solutions through listening.
+*  Case studies: using listening to navigate conflict in the workplace.
+
+**Module 9: Building Trust and Motivation Through Listening**
+
+*  Understanding the connection between effective listening and trust.
+*  Motivating and empowering team members by valuing their voices.
+*  Demonstrating genuine interest and care through active listening.
+*  Group discussion: sharing experiences where listening fostered trust and motivation. 
+
+**Module 10: Action Planning and Implementation**
+
+*  Developing an action plan to apply Listening Leadership principles in your work environment.
+* Setting realistic goals and identifying potential challenges.
+*  Sharing best practices and brainstorming solutions for implementation.
+*  Developing a timeline and accountability measures for success.
+
+**Assessment:**
+
+* Class participation and discussions (20%)
+* Reflective writing assignments (30%)
+* Group activities and presentations (20%)
+* Action plan development and implementation (30%)
+
+**Course Materials:**
+
+* A comprehensive course reader will be provided, including articles, case studies, and practical exercises.
+* Additional resources (books, podcasts, and online articles) will be suggested throughout the course.
+
+**Note:** This syllabus is a framework and can be adapted to fit the specific needs of the participants and the training environment.
 
 
 4. Tai Chi
