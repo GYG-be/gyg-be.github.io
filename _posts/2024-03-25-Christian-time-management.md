@@ -195,7 +195,7 @@ Accordingly, This list is a work in progress that began with a AI-brainstormed 2
     *  Sharing best practices and brainstorming solutions for implementation.
     *  Developing a timeline and accountability measures for success.
 
-4. Tai Chi Theory
+4. [Internal martial arts](https://en.wikipedia.org/wiki/Neijia) such as [Tai Chi](https://en.wikipedia.org/wiki/Tai_chi), [Xingyiquan](https://en.wikipedia.org/wiki/Xingyiquan) and [Baguazhang](https://en.wikipedia.org/wiki/Baguazhang) which focus on the internal aspects, such as spiritual, mental or qi-related aspects, as opposed to an ["external" martial arts](https://en.wikipedia.org/wiki/Chinese_martial_arts) such [Shaolin Kung Fu](https://en.wikipedia.org/wiki/Shaolin_kung_fu) and [different animal styles](https://en.wikipedia.org/wiki/Animal_styles_in_Chinese_martial_arts) which focused on external physiological aspects.
 
 5. Qi Gong
 
@@ -212,15 +212,31 @@ Accordingly, This list is a work in progress that began with a AI-brainstormed 2
 13. Hiking
 14. Dancing
 15. Gardening
-16. Golf **NOT FOR ME, AI!**
-17. Tennis (doubles) **NOT FOR ME, AI!**
-18. Pickleball **NOT FOR ME, AI!**
-19. Paddle boarding
-20. Kayaking
-21. Rowing
+
+16. Khabib Nurmagomedov's training routine in the remote parts of Dagestan allows him to minimize distractions, connect with nature, immerse himself in wrestling culture, and strengthen his mental resilience. His training approach is characterized by the following key elements:
+
+    1.1 **Emphasis on grappling and grappling heritage**: Growing up in Dagestan, a region with a strong wrestling tradition and what many view as Spartan-like living conditions as the cultural norm, Khabib has honed his skills from a young age to avoid fame and idolatry, but instead focus on wrestling, grappling, and ground fighting, with a large supply of more than willing, qualified, tested training partners who value the experience.
+
+    1.2 **Spartan training methods**: The point of the quaint, rustic, extremely ascetic exercises, such as running in the mountains or swimming in cold rivers, is extremely CONVENTIONAL in the old-school sense of forging mental toughness, building endurance, and stretching the limits of adaptability. There's no shortcut for this. Pushing through pain and discomfort in a [measured, but hormetic fashion](https://g.co/gemini/share/839dee068319) is necessary for improving focus, discipline, and mental resilience.
+
+    1.3 **High-altitude training:** Dagestan's mountainous terrain provides an ideal environment for high-altitude training. Training at higher elevations helps improve cardiovascular endurance and oxygen efficiency. The harsh conditions and spartan lifestyle in remote Dagestan help athletes cultivate mental resilience, self-discipline, and a strong work ethic.
+
+    1.4 **Strong sense of community**: Training in Dagestan surrounds Khabib with a close-knit community of fellow wrestlers and fighters who share his dedication and work ethic. This supportive environment fosters a sense of camaraderie and pushes him to excel. Training in Dagestan allows Khabib to immerse himself in the region's rich wrestling tradition, constantly exposing him to high-level grapplers and wrestlers.
+
+
+17. [Suana](https://www.youtube.com/shorts/7zTxRtr_ayM) and triggering release of [dynorphin](https://www.connectedpapers.com/main/9d8318c33e34158dfbbc9772c5dcbe90fe24779d/Dynorphin%2C-Dysphoria%2C-and-Dependence%3A-the-Stress-of-Addiction/graph)
+
+18. [Hormetic response training](https://www.youtube.com/watch?v=QJNYn3LXSxQ) ... such as galatamine(https://pubmed.ncbi.nlm.nih.gov/35310033/) and [traditional chinese medicine](https://pubmed.ncbi.nlm.nih.gov/27589716/)
+
+19. Paddle boarding ***Really, AI? NO!!! I'm NOT a boat or water gear person.***
+20. Kayaking ***Really, AI? NO!!! I'm NOT a boat or water gear person.***
+21. Rowing ***MAYBE ... if I find a power-generating rowing machine ... but probably not***
+
 22. Cross-country skiing
 23. Snowshoeing
-24. Aqua aerobics
+
+24. Aqua aerobics ... ***Really, AI? I'll think about it but ....***
+
 25. Balance exercises
 26. Foam rolling
 27. Massage therapy
@@ -228,7 +244,9 @@ Accordingly, This list is a work in progress that began with a AI-brainstormed 2
 29. Chiropractic care/therapy for optimization
 30. Physical therapy
 31. Occupational therapy
-32. Feldenkrais Method
+
+32. [Feldenkrais Method (FM)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9657136/) is a technique aiming at increasing personal self-knowledge through conscious movements ... it has been labeled by detractors as "glorified yoga" or as medical treatment, something that "borders on quackery" ... but conscious focus through slow movement especially helps elderly people. Specifically, FM improves mobility, balance and quality of life. For people with chronic low back pain, FM has similar benefits such as back school lessons or core stability exercises; in people with cervical pain, FM may be more adequate than conventional physical therapy. For people with neurodegenerative diseases, FM is effective in improving balance.
+
 33. Alexander Technique
 34. Iyengar Yoga
 35. Restorative Yoga
@@ -237,14 +255,16 @@ Accordingly, This list is a work in progress that began with a AI-brainstormed 2
 38. Yoga Nidra
 39. Pranayama (breathing exercises)
 40. Meditation
-41. Mindfulness practices
+
+41. [Mindfulness-based stress reduction (MBSR)](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction) practices driven by scientific evidence that improve MBSR's efficacy as described in[Jon Kabat-Zinn's **Full Catastrophe Living**](https://en.wikipedia.org/wiki/Full_Catastrophe_Living) whose title should be understood in the context of the Zorba the Greek quote "*Am I not a man? Of course I've been married. Wife, house, kids ... YES ... the* ***full catastrophe!***" ... the book is nice read, but it's about the **full catastrophe** of normal, average, ordinary LIFE, not just the exceptional, newsworthy catastrophes that we think of as catastrophes, but *those* catastrophes usually almost never affect us as directly as ordinary stress of *just* living, growing older and experiencing loss.
+
 42. Visualization techniques
 43. Mental training and rehearsal
 44. Journaling
 45. Reading
-46. Puzzles (crosswords, Sudoku)
-47. Brain training games
-48. Learning a new language
+46. Building AI models
+47. Cognitive engineering, knowledge graphs, working on cognitive training algorithms
+48. Learning a new language, especially through immersion
 49. Playing a musical instrument
 50. Volunteering
 
