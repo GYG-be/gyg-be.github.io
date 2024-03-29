@@ -129,74 +129,74 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 7.1 **Introduction to Listening Leadership**
 
-    * Defining Communication Leadership and Listening Leadership and their impact on team performance.
-    * Understanding the difference between hearing and listening, between speaking and communicating.
-    * What benefits of a listening culture in the workplace are sought is about priorities and thinking deeply about what should matter more and how to better assess communication strengths and areas for development
-    * Self-assessment of current listening habits; not just setting SMART goals for communication improvement, but how should we systematically improve those goals.
+* Defining Communication Leadership and Listening Leadership and their impact on team performance.
+* Understanding the difference between hearing and listening, between speaking and communicating.
+* What benefits of a listening culture in the workplace are sought is about priorities and thinking deeply about what should matter more and how to better assess communication strengths and areas for development
+* Self-assessment of current listening habits; not just setting SMART goals for communication improvement, but how should we systematically improve those goals.
 
 7.2 **The Art of Active Listening**
 
-    * Active listening techniques (body language, eye contact, mirroring).
-    * Overcoming distractions and focusing on the speaker; overcoming biases and assumptions to listen more objectively to be more aware of SWOT we are not yet aware of.
-    * Recognizing and managing personal biases during listening and beyond active listening: developing a "seek first to understand" mindset.
-    * Practicing active listening and possibly discovering flaws through role-playing exercises and simulated scenarios.
+* Active listening techniques (body language, eye contact, mirroring).
+* Overcoming distractions and focusing on the speaker; overcoming biases and assumptions to listen more objectively to be more aware of SWOT we are not yet aware of.
+* Recognizing and managing personal biases during listening and beyond active listening: developing a "seek first to understand" mindset.
+* Practicing active listening and possibly discovering flaws through role-playing exercises and simulated scenarios.
 
 7.3 **Breaking Down Barriers to Effective Communication and Listening**
 
-    * Identifying common barriers to listening (preconceptions, interruptions, multitasking).
-    * Strategies to overcome internal and external distractions; adapting different communication styles for different audiences and situations,
-    * Managing emotional responses during listening situations; foster group discussion eliciting response in sharing personal experiences and solutions.
-    * Clarity and conciseness in written and verbal communication; beginning with end in mind of crafting a more focused message with punch and a clear call to action.
+* Identifying common barriers to listening (preconceptions, interruptions, multitasking).
+* Strategies to overcome internal and external distractions; adapting different communication styles for different audiences and situations,
+* Managing emotional responses during listening situations; foster group discussion eliciting response in sharing personal experiences and solutions.
+* Clarity and conciseness in written and verbal communication; beginning with end in mind of crafting a more focused message with punch and a clear call to action.
 
 7.4 **The Power of Questioning**
 
-    * Techniques for asking open-ended, probing, and clarifying questions. Encouraging people to stand up for themselves without needing to rely on someone else providing a safe space for open communication; generally fostering a dynamic environment that encourages constructive criticism without censoring expression of discomfort.
-    * Using questions to encourage deeper communication and understanding.
-    * Avoiding poisonous questions and different forms censorship which shut down conversation or lead assumptions. 
-    *  Interactive activity: practicing questioning techniques in pairs and groups. Building a learning environment that pushes communication to success.
+* Techniques for asking open-ended, probing, and clarifying questions. Encouraging people to stand up for themselves without needing to rely on someone else providing a safe space for open communication; generally fostering a dynamic environment that encourages constructive criticism without censoring expression of discomfort.
+* Using questions to encourage deeper communication and understanding.
+* Avoiding poisonous questions and different forms censorship which shut down conversation or lead assumptions. 
+*  Interactive activity: practicing questioning techniques in pairs and groups. Building a learning environment that pushes communication to success.
 
 7.5 **Fostering a Listening Environment**
 
-    * Genuinelly TRUSTING people and encouraging them to be courageous, without needing to rely upon a safe space for open communication and feedback.
-    * Demonstrating legitimate respect and real empathy towards ALL different communication styles, not just those which are "well behaved" or exhibit "good manners" definely by the current people in power.
-    * Encouraging active listening within your team through activities and discussions.
-    *  Case studies: analyzing real-world situations where listening fosters success.
+* Genuinelly TRUSTING people and encouraging them to be courageous, without needing to rely upon a safe space for open communication and feedback.
+* Demonstrating legitimate respect and real empathy towards ALL different communication styles, not just those which are "well behaved" or exhibit "good manners" definely by the current people in power.
+* Encouraging active listening within your team through activities and discussions.
+*  Case studies: analyzing real-world situations where listening fosters success.
 
 7.6 **Leading by Example**
 
-    * Identifying and practicing active listening behaviors as a leader.
-    * Demonstrating respect for diverse viewpoints and experiences.
-    * Integrating listening into your daily interactions with team members.
-    * Self-reflection exercise: assessing your personal Listening Leadership style.
-    * Developing authentic, unique communication and leadership philosophiies which define a personal brand.
+* Identifying and practicing active listening behaviors as a leader.
+* Demonstrating respect for diverse viewpoints and experiences.
+* Integrating listening into your daily interactions with team members.
+* Self-reflection exercise: assessing your personal Listening Leadership style.
+* Developing authentic, unique communication and leadership philosophiies which define a personal brand.
 
 7.7 **The Power of Feedback**
 
-    *  Providing constructive feedback through active listening.
-    *  Receiving and processing feedback with an open mind.
-    *  Creating a feedback culture that promotes growth and learning.
-    *  Role-playing scenarios: practicing giving and receiving feedback with active listening.
+*  Providing constructive feedback through active listening.
+*  Receiving and processing feedback with an open mind.
+*  Creating a feedback culture that promotes growth and learning.
+*  Role-playing scenarios: practicing giving and receiving feedback with active listening.
 
 7.8 **Listening for Conflict Resolution**
 
-    * Active listening strategies in challenging situations and disagreements.
-    * De-escalation techniques and focusing on underlying issues.
-    *  Facilitating open dialogue and finding solutions through listening and various techiques in creative nonviolence.
-    *  Case studies: using listening to navigate conflict in the workplace.
+* Active listening strategies in challenging situations and disagreements.
+* De-escalation techniques and focusing on underlying issues.
+*  Facilitating open dialogue and finding solutions through listening and various techiques in creative nonviolence.
+*  Case studies: using listening to navigate conflict in the workplace.
 
 7.9 **Building Trust and Motivation Through Listening**
 
-    *  Understanding the connection between effective listening and trust.
-    *  Motivating and empowering team members by valuing their voices.
-    *  Demonstrating genuine interest and care through active listening.
-    *  Group discussion: sharing experiences where listening fostered trust and motivation.
+*  Understanding the connection between effective listening and trust.
+*  Motivating and empowering team members by valuing their voices.
+*  Demonstrating genuine interest and care through active listening.
+*  Group discussion: sharing experiences where listening fostered trust and motivation.
 
 7.10 **Action Planning and Implementation**
 
-    *  Developing an action plan to apply Listening Leadership principles in your work environment.
-    * Setting realistic goals and identifying potential challenges.
-    *  Sharing best practices and brainstorming solutions for implementation.
-    *  Developing a timeline and accountability measures for success.
+*  Developing an action plan to apply Listening Leadership principles in your work environment.
+* Setting realistic goals and identifying potential challenges.
+*  Sharing best practices and brainstorming solutions for implementation.
+*  Developing a timeline and accountability measures for success.
 
 8) Explore [Top 20 Plyometrics For Speed, Power and Performance](https://drjohnrusin.com/top-20-plyometrics-for-speed-power-and-performance/) ... use [plyometrics, such as hitting the heavy bag, to boost dynorphin release to get going in the morning or warming-up for the day](https://gemini.google.com/share/5da4eff9a61c) ... get going with [shadowboxing](https://totalshape.com/fitness/jon-jones-workout-diet/#Shadow%20Boxing), [heavy bag](https://www.amazon.com/Fighters-Guide-Hard-Core-Heavy-Training-ebook/dp/B07BH3WRL9), [speed drills](https://www.amazon.com/FAST-HANDS-Uniting-Physical-Maximize-ebook/dp/B0BHXG7SCR), [solo workouts](https://www.amazon.com/Solo-Training-3-50-Older-ebook/dp/B0150QXWLW), footwork drills
 
@@ -218,41 +218,41 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 12.1 **Lakshana of Ayu**: Understanding the characteristics of life (Ayu) and its composition.
 
-        - Lakshana of Ayurveda: Recognizing the distinctive features of Ayurveda.
-        - Lakshana and classification of Siddhanta: Describing the principles and categorization of Siddhanta (foundational texts).
-        - Introduction to basic principles of Ayurveda and their significance: Familiarizing with fundamental Ayurvedic concepts.
+- Lakshana of Ayurveda: Recognizing the distinctive features of Ayurveda.
+- Lakshana and classification of Siddhanta: Describing the principles and categorization of Siddhanta (foundational texts).
+- Introduction to basic principles of Ayurveda and their significance: Familiarizing with fundamental Ayurvedic concepts.
 
 12.2 **Ayurveda Darshana Nirupana**:
         
-        - Philosophical background of fundamentals of Ayurveda: Exploring the philosophical underpinnings of Ayurveda.
-        - Etymological derivation of the word “Darshana”: Understanding the origins of the term "Darshana."
-        - Classification and general introduction to schools of Indian Philosophy: Emphasizing Nyaya, Vaisheshika, Sankhya, and Yoga.
-        - Ayurveda as a unique and independent school of thought: Recognizing Ayurveda's distinct philosophical identity.
-        - Padartha: Studying the concept of fundamental entities, their enumeration, and classification.
-        - Dravya Vigyaniyam: Analyzing substances (dravyas), including the five elements (Panchabhuta) and their qualities.
-        - Kaala and Dik: Exploring time and space in Ayurveda.
-        - Atma, Purusha, and Manas: Understanding the concepts of self, individuality, and mind.
-        - Role of Panchamahabhuta and Triguna: Examining their significance in body constitution and mental nature.
-        - Tamas as the tenth Dravya: Recognizing the role of inertia.
+- Philosophical background of fundamentals of Ayurveda: Exploring the philosophical underpinnings of Ayurveda.
+- Etymological derivation of the word “Darshana”: Understanding the origins of the term "Darshana."
+- Classification and general introduction to schools of Indian Philosophy: Emphasizing Nyaya, Vaisheshika, Sankhya, and Yoga.
+- Ayurveda as a unique and independent school of thought: Recognizing Ayurveda's distinct philosophical identity.
+- Padartha: Studying the concept of fundamental entities, their enumeration, and classification.
+- Dravya Vigyaniyam: Analyzing substances (dravyas), including the five elements (Panchabhuta) and their qualities.
+- Kaala and Dik: Exploring time and space in Ayurveda.
+- Atma, Purusha, and Manas: Understanding the concepts of self, individuality, and mind.
+- Role of Panchamahabhuta and Triguna: Examining their significance in body constitution and mental nature.
+- Tamas as the tenth Dravya: Recognizing the role of inertia.
 
 12.3 [**Gunavigyaniyam**](https://www.planetayurveda.com/gunas-in-ayurveda-gunavigyaniyam/) refers to the study of “Gunas” or physical and chemical properties and partly physiological properties of drugs.
 
-        - [Karma Vigyaniyam](https://www.planetayurveda.com/karma-vigyaniyam/) refers to the study of the pharmacological activity of a drug, looking at the medicinal activity of a drug is based partly on its properties (gunas) and partly on its specific action (prabhava)
-        - [Samanya Vigyaniyam](https://www.planetayurveda.com/samanya-vigyaniyam/) refers to the study of common characteristics.
-        - [Vishesha Vigyaniyam](https://www.planetayurveda.com/vishesha-vigyaniyam/) refers to the study of unique or different characteristics.
-        - [Samavaya Vigyaniyam](https://www.planetayurveda.com/samavaya-vigyaniyam/) refers to the study of inherent relationships between substances, and 
-        - [Abhava Vigyaniyam](https://www.planetayurveda.com/abhava-vigyaniyam/) refers to the study of non-existence, non-being or absence of properties.
+- [Karma Vigyaniyam](https://www.planetayurveda.com/karma-vigyaniyam/) refers to the study of the pharmacological activity of a drug, looking at the medicinal activity of a drug is based partly on its properties (gunas) and partly on its specific action (prabhava)
+- [Samanya Vigyaniyam](https://www.planetayurveda.com/samanya-vigyaniyam/) refers to the study of common characteristics.
+- [Vishesha Vigyaniyam](https://www.planetayurveda.com/vishesha-vigyaniyam/) refers to the study of unique or different characteristics.
+- [Samavaya Vigyaniyam](https://www.planetayurveda.com/samavaya-vigyaniyam/) refers to the study of inherent relationships between substances, and 
+- [Abhava Vigyaniyam](https://www.planetayurveda.com/abhava-vigyaniyam/) refers to the study of non-existence, non-being or absence of properties.
 
 12.4 **[Pariksha](https://www.easyayurveda.com/2017/05/05/roga-rogi-pareeksha/)** refers to the examination methods used to diagnose and understand diseases. It is a comprehensive clinical two-stage (disease, patient) examination. One specific method of Pariksha is the Ashthavidh Pariksha, which is an eight-fold diagnosis plan designed to reach the core of an illness. These eight diagnostic tools include:
 
-        - Nadi Pariksha (Pulse Examination)
-        - Mala Pariksha (Stool Examination)
-        - Mutra Pariksha (Urine Examination)
-        - Jivha Pariksha (Tongue Examination)
-        - Sparsha Pariksha (Palpitation and Percussion)
-        - Shabdha Pariksha (Voice/ Sound Examination)
-        - Druk Pariksha (Eyes/Vision Examination)
-        - Akriti Pariksha (General appearance of the patient)
+- Nadi Pariksha (Pulse Examination)
+- Mala Pariksha (Stool Examination)
+- Mutra Pariksha (Urine Examination)
+- Jivha Pariksha (Tongue Examination)
+- Sparsha Pariksha (Palpitation and Percussion)
+- Shabdha Pariksha (Voice/ Sound Examination)
+- Druk Pariksha (Eyes/Vision Examination)
+- Akriti Pariksha (General appearance of the patient)
 
 Pratyaksha Pariksha
 
