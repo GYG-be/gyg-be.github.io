@@ -1,27 +1,19 @@
 ---
 layout: page
-title: Listing
+title: Weekly Schedule
 permalink: /Workouts/Listing/
 ---
 
 
 
-I DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE ... I especially exercise equipment or the kind of stuff which has no purpose other than for exercise ...I especially hate going to special places, like gyms or dojos, to exercise with people who go to a special places to exercise.
+# Listing of Planned Workouts/Worksessions for EACH Day of the Week
 
-But ... I do get that I need to exercise ... so I try to be smarter about it; I try to THINK about what I'm doing and why I doing it. But there's no getting away from the fact that I am always going to DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE.
+The aim with this listing is to never have to think about our next workout AT THE TIME THAT WE DO IT. We want to have multiple ideas in the hopper ... so that we can just pick the one that we've kinda thought through and go with it.
+
+*{NOTE: I DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE ... I especially exercise equipment or the kind of stuff which has no purpose other than for exercise ...I especially hate going to special places, like gyms or dojos, to exercise with people who go to a special places to exercise. But ... I do get that I need to exercise ... so I try to be smarter about it; I try to THINK about what I'm doing and why I doing it. But there's no getting away from the fact that I am always going to DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE}*.
 
 
-# Listing of workouts
-
-Our aim with this listing is to never have to think about our next workout AT THE TIME THAT WE DO IT.
-
-We want to have multiple ideas in the hopper ... so that we can just pick the one that we've kinda thought through and go with it.
-
-## Body weight calesthinics
-
-Do each rep carefully and PROPERLY ... USE the mats, use the floor, use the ground ... use body weight ... get up and down off the ground/floor more ... use every excuse to work in a few alternate burpees, pushups, sit-ups, squats, burpees, pushups, sit-ups, squats ... do more rolling/crabwalking/shrimpting drills on the mats ... freeform exploration like a little kid or [Feldenkrais Method (FM)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9657136/) is a technique aiming at increasing personal self-knowledge through conscious movements ... FM has been labeled by detractors as "glorified yoga" or as medical treatment, something that "borders on quackery" ... but conscious focus through slow movement especially helps elderly people. Specifically, FM improves mobility, balance and quality of life. For people with chronic low back pain, FM has similar benefits such as back school lessons or core stability exercises; in people with cervical pain, FM may be more adequate than conventional physical therapy. For people with neurodegenerative diseases, FM is effective in improving balance.
-
-## EXERCISE the gratitude "muscle" every day
+## SUNDAY -- Develop a plan to actively EXERCISE the gratitude "muscle" every day
 
 **Do at least one EXTRA concrete thing each day** to ENSURE that you are always cultivating a mindset of gratitude.
 
@@ -31,7 +23,19 @@ It's NOT just a routine kind of thing that you would not ordinarily just do with
 
 The point is improve the discipline of WORKING AT **BETTER** CULTIVATING AN OPTIMISTIC MINDSET OF GRATITUDE **Make it a daily objective to notice and point out at least one special thing that is especially noble, right, pure, lovely, admirable, excellent or praiseworthy** ... perhaps some young sales phenom like [Alex Hormozi](https://www.facebook.com/ahormozi) ... or the wrestling spladle and Brook Hardy ... and, **ALSO make it a point of pointing that excellence out or sharing your admiration with others.** *"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable -- if anything is excellent or praiseworthy -- DWELL ON such things. Whatever you have learned or received or heard from me, or seen in me -- PUT IT INTO PRACTICE. And the God of peace will be with you."*  [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
 
-## Yoga for ORDINARY guys, not for those not likely to do yoga or comfortable doing yoga
+## MONDAY -- body weight calisthenics and hybrid martial arts training
+
+### Morning Kick Off -- Start Monday right.
+
+Early on Monday, start the week off with body weight calesthinics; these are intended to be done to warm-up every day, but be especially sure to get Monday's warm-up workout in.
+
+Do each rep carefully and PROPERLY ... USE the mats, use the floor, use the ground ... use body weight ... get up and down off the ground/floor more ... use every excuse to work in a few alternate burpees, pushups, sit-ups, squats, burpees, pushups, sit-ups, squats ... do more rolling/crabwalking/shrimpting drills on the mats ... freeform exploration like a little kid or [Feldenkrais Method (FM)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9657136/) is a technique aiming at increasing personal self-knowledge through conscious movements ... FM has been labeled by detractors as "glorified yoga" or as medical treatment, something that "borders on quackery" ... but conscious focus through slow movement especially helps elderly people. Specifically, FM improves mobility, balance and quality of life. For people with chronic low back pain, FM has similar benefits such as back school lessons or core stability exercises; in people with cervical pain, FM may be more adequate than conventional physical therapy. For people with neurodegenerative diseases, FM is effective in improving balance.
+
+## Monday Main Event -- Plyometrics / Striking / Hitting / Kicking / Jumping
+
+31 day syllabus for EACH day exploring [the top 20 Plyometrics For Speed, Power and Performance](https://drjohnrusin.com/top-20-plyometrics-for-speed-power-and-performance/) ... use [plyometrics, such as hitting the heavy bag, to boost dynorphin release to get going in the morning or warming-up for the day](https://gemini.google.com/share/5da4eff9a61c) ... get going with [shadowboxing](https://totalshape.com/fitness/jon-jones-workout-diet/#Shadow%20Boxing), [heavy bag](https://www.amazon.com/Fighters-Guide-Hard-Core-Heavy-Training-ebook/dp/B07BH3WRL9), [speed drills](https://www.amazon.com/FAST-HANDS-Uniting-Physical-Maximize-ebook/dp/B0BHXG7SCR), [solo workouts](https://www.amazon.com/Solo-Training-3-50-Older-ebook/dp/B0150QXWLW), footwork drills
+
+## Tuesday -- explore yoga for ORDINARY guys, not for those not likely to do yoga or comfortable doing yoga
 
 This is NOT typical yoga stuff, but more like the [Diamond Dallas Page approach](https://ddpyoga.com/) to DDP yoga [especially for older grapplers/fighters](https://g.co/gemini/share/ecf3e21b78be) as well as [weighted-yoga exercises that can be done with ordinary landscaping materials or bags of soil which you might move frequently](https://g.co/gemini/share/78a290dad22e)
 
@@ -47,12 +51,12 @@ This is NOT typical yoga stuff, but more like the [Diamond Dallas Page approach]
 
 3.6 **Jiu Jitsu Movement Drills** Like shadowboxing for boxers, these are warmups, solo drills, flexibility exercises are nothing more than mimicking jiu-jitsu moves, learning new moves or applying new principles to your jiu jitus, it's important to *just get on the mat and roll* to increase flexibility but it might be best [and fun] to develop your own routine or customized list of things that need more of your focus, but it's important to just continually be looking to add variety, ie *sometimes it's almost ok to use your smartphone to scroll through ideas for new material to add to your workout* ... [15 essential solo drills](https://evolve-mma.com/blog/15-essential-bjj-solo-drills-for-all-levels/), [Danaher's 18 solo drill](https://bjjequipment.com/bjj-solo-drills/), [Grapple Arts Guide To Solo Drills](https://www.grapplearts.com/the-ultimate-guide-to-bjj-solo-drills/), [Elite Sports Solo BJJ Drills](https://www.elitesports.com/blogs/news/19-best-bjj-solo-drills), [Team Digitsu's At Home Training](https://app.digitsu.com/a/bjj-solo-drills-the-ultimate-guide-for-at-home-training)
 
-## Martial arts EXPLORATION
+## Wednesday -- Martial arts EXPLORATION
 
-Deep dive ... 31 day syllabus for every day ... each day, Learn one step of a old school Tai chi form per day and think about WHY that step is useful ... each day, explore more [internal martial arts](https://en.wikipedia.org/wiki/Neijia) such as [Tai Chi](https://en.wikipedia.org/wiki/Tai_chi), [Xingyiquan](https://en.wikipedia.org/wiki/Xingyiquan) and [Baguazhang](https://en.wikipedia.org/wiki/Baguazhang) which focus on the internal aspects, such as spiritual, mental or qi-related aspects, as opposed to an ["external" martial arts](https://en.wikipedia.org/wiki/Chinese_martial_arts) such [Shaolin Kung Fu](https://en.wikipedia.org/wiki/Shaolin_kung_fu) and [different animal styles](https://en.wikipedia.org/wiki/Animal_styles_in_Chinese_martial_arts) which focused on external physiological aspects.
+Hump day is for the deepest dive into martial arts, especially integrating old school martial arts with newer BJJ or Sambo Hybrid ... develop a 31-day syllabus for every day's training activities ... each day, Learn one step of a old school Tai chi form per day and think about WHY that step is useful ... each day, explore more [internal martial arts](https://en.wikipedia.org/wiki/Neijia) such as [Tai Chi](https://en.wikipedia.org/wiki/Tai_chi), [Xingyiquan](https://en.wikipedia.org/wiki/Xingyiquan) and [Baguazhang](https://en.wikipedia.org/wiki/Baguazhang) which focus on the internal aspects, such as spiritual, mental or qi-related aspects, as opposed to an ["external" martial arts](https://en.wikipedia.org/wiki/Chinese_martial_arts) such [Shaolin Kung Fu](https://en.wikipedia.org/wiki/Shaolin_kung_fu) and [different animal styles](https://en.wikipedia.org/wiki/Animal_styles_in_Chinese_martial_arts) which focused on external physiological aspects.
  ... exploration of the family tree of traditional martial arts might begin by [exploring the cultural history of martial arts](https://en.wikipedia.org/wiki/History_of_martial_arts) ... compare with [no nonsense self defense](https://www.amazon.com/Meditations-Violence-Comparison-Martial-Training-ebook/dp/B01DN0GVM4) and adopt a fighter's mindset about always having a plan for ***practical*** street fighting situations that one might face and being appropriately able to rapidly arm oneself with available weapon-like materials.
 
-## Pilates-based drills, like DDP yoga, but Pilates 
+## Thursday -- Pilates-based drills, like DDP yoga, but Pilates 
 
 [Pilates-based routines/drills for older wrestlers](https://g.co/gemini/share/adda302e6830)
 
@@ -68,11 +72,7 @@ Deep dive ... 31 day syllabus for every day ... each day, Learn one step of a ol
 
 5.6. **Upper Body and Shoulders:** **Thread the Needle:** Start on all fours. Thread one arm under torso, twisting shoulder towards floor. Return, switch sides. **Chest Expansion:**  Seated or standing. Clasp hands behind back, lift chest, squeeze shoulder blades. **Shoulder Rolls:** Seated or standing. Roll shoulders forward, then backwards, in wide circles. 
 
-## Plyometrics / Striking / Hitting / Kicking / Jumping
-
-31 day syllabus for EACH day exploring [the top 20 Plyometrics For Speed, Power and Performance](https://drjohnrusin.com/top-20-plyometrics-for-speed-power-and-performance/) ... use [plyometrics, such as hitting the heavy bag, to boost dynorphin release to get going in the morning or warming-up for the day](https://gemini.google.com/share/5da4eff9a61c) ... get going with [shadowboxing](https://totalshape.com/fitness/jon-jones-workout-diet/#Shadow%20Boxing), [heavy bag](https://www.amazon.com/Fighters-Guide-Hard-Core-Heavy-Training-ebook/dp/B07BH3WRL9), [speed drills](https://www.amazon.com/FAST-HANDS-Uniting-Physical-Maximize-ebook/dp/B0BHXG7SCR), [solo workouts](https://www.amazon.com/Solo-Training-3-50-Older-ebook/dp/B0150QXWLW), footwork drills
-
-## Listening and Communication Leadership
+## Friday  -- Listening and Communication Leadership
 
 31 day syllabus ... something EACH day to carve out some time EACH day to concretely improving [Communication](https://g.co/gemini/share/5ccb20d86e81) and [Listening LEADERSHIP](https://g.co/gemini/share/14f8ac3da8d8) ... the intent of this is to develop the background material for a recurrent 31-day podcast ABOUT the important of building discipline through podcastering.
 
@@ -147,13 +147,8 @@ Deep dive ... 31 day syllabus for every day ... each day, Learn one step of a ol
 *  Sharing best practices and brainstorming solutions for implementation.
 *  Developing a timeline and accountability measures for success.
 
-## Mindfulness-Based Stress Reduction (MBSR)
 
-Stop catastrophizing, stop being hyper-aroused, stop knee-jerk REACTING to stress ... instead, learn to RESPOND to stress and address the root cause of what is driving stress
-
-Develop a [mindfulness-based stress reduction (MBSR)](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction) 31-module month-long syllabus in order to study one thing per day to incorporate MBSR lessons into your daily life ... LEARN to repsond to stress rather than react to it ... learn to FORGIVE and let of things ... meditatively speedwalk / hike, not just with a weighted pack, but with FOCUS ... in order to THINK, focus on breathwork and to just be more immersed in your LOCAL environment, ie rather than shops or bars/restaurants or doctor's offices ... practically, use walks to implement [mindfulness-based stress reduction (MBSR)](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction) practices driven by scientific evidence that improve MBSR's efficacy as described in[Jon Kabat-Zinn's **Full Catastrophe Living**](https://en.wikipedia.org/wiki/Full_Catastrophe_Living) whose title should be understood in the context of the Zorba the Greek quote "*Am I not a man? Of course I've been married. Wife, house, kids ... YES ... the* ***full catastrophe!***" ... the book is nice read, but it's about the **full catastrophe** of normal, average, ordinary LIFE, not just the exceptional, newsworthy catastrophes that we think of as catastrophes, but *those* catastrophes usually almost never affect us as directly as ordinary stress of *just* living, growing older and experiencing loss. Do not REACT to stress; instead, RESPOND to stress by journaling, meditating, and going for long brisk walks to THINK ... if you know your way around your doctor's office, but have not speedwalked in the last 24 hours, you're doing it wrong.
-
-## Sambo Hybrid Jiujitsu Training
+## Saturday -- Sambo Hybrid Jiujitsu Training
 
 In a 31-module syllabus ... with drills / workouts for each day of those 31 days ... incorporate Rickson Gracie's Academy approach as well as Ryron/Renner Gracie's 32 principles to adapt Khabib Nurmagomedov's [Sambo](https://en.wikipedia.org/wiki/Sambo_(martial_art)) [hybrid](https://en.wikipedia.org/wiki/Hybrid_martial_arts) training routine ... it's all about merging the most effective techniques of other martial arts, while avoiding most of the expensive gear or more sophisticated gym/dojo/exercise equipment. It's not JUST that the training happens in the remote parts of Dagestan allows Khabib to minimize distractions, connect with nature, immerse himself in wrestling culture, and strengthen his mental resilience ... it's ALSO that the spartaan [Sambo](https://en.wikipedia.org/wiki/Sambo_(martial_art)) [hybrid](https://en.wikipedia.org/wiki/Hybrid_martial_arts) is focused on [***smeshing*** the opponent](https://bjjfanatics.com/collections/new-releases/products/sambo-the-top-game-a-blue-print-for-smeshing-by-khabib-nurmagomedov), completely closing distance and taking the opponent's ability to counter away.   His training approach is characterized by the following key elements:
 
@@ -164,6 +159,15 @@ In a 31-module syllabus ... with drills / workouts for each day of those 31 days
 9.3 **High-altitude training:** Dagestan's mountainous terrain provides an ideal environment for high-altitude training; there some substitutes such as [breathwork and breath-holding](https://g.co/gemini/share/9a1077b32e26), none those really match being immersed for 24 hours as one trains at higher elevations to help improve cardiovascular endurance and oxygen efficiency. The inescapability of high-altitude conditions on top of the spartan lifestyle in remote Dagestan helps athletes better cultivate mental resilience, self-discipline, and a strong work ethic than similar spartan training at lower altitudes.
 
 9.4 **Strong sense of community**: Training in Dagestan surrounds Khabib with a close-knit community of fellow wrestlers and fighters who share his dedication and work ethic. This supportive environment fosters a sense of camaraderie and pushes him to excel. Training in Dagestan allows Khabib to immerse himself in the region's rich wrestling tradition, constantly exposing him to high-level grapplers and wrestlers.
+
+## Saturday Evening OR Sunday -- Mindfulness-Based Stress Reduction (MBSR) Workshop
+
+*Take a view from the balcony* ... reflect on the past week's stressful situations
+
+Stop catastrophizing, stop being hyper-aroused, stop knee-jerk REACTING to stress ... instead, learn to RESPOND to stress and address the root cause of what is driving stress
+
+Develop a [mindfulness-based stress reduction (MBSR)](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction) 31-module month-long syllabus in order to study one thing per day to incorporate MBSR lessons into your daily life ... LEARN to repsond to stress rather than react to it ... learn to FORGIVE and let of things ... meditatively speedwalk / hike, not just with a weighted pack, but with FOCUS ... in order to THINK, focus on breathwork and to just be more immersed in your LOCAL environment, ie rather than shops or bars/restaurants or doctor's offices ... practically, use walks to implement [mindfulness-based stress reduction (MBSR)](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction) practices driven by scientific evidence that improve MBSR's efficacy as described in[Jon Kabat-Zinn's **Full Catastrophe Living**](https://en.wikipedia.org/wiki/Full_Catastrophe_Living) whose title should be understood in the context of the Zorba the Greek quote "*Am I not a man? Of course I've been married. Wife, house, kids ... YES ... the* ***full catastrophe!***" ... the book is nice read, but it's about the **full catastrophe** of normal, average, ordinary LIFE, not just the exceptional, newsworthy catastrophes that we think of as catastrophes, but *those* catastrophes usually almost never affect us as directly as ordinary stress of *just* living, growing older and experiencing loss. Do not REACT to stress; instead, RESPOND to stress by journaling, meditating, and going for long brisk walks to THINK ... if you know your way around your doctor's office, but have not speedwalked in the last 24 hours, you're doing it wrong.
+
 
 ## Traditional Chinese Medicine (TCM) and Ayurveda
 

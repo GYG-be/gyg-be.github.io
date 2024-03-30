@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table Of Contents
+title: TOC
 permalink: /Workouts/TOC/
 ---
 
