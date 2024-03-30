@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Viruses, RNA, and the COVID-19 Pandemic: A Portal to the Future of Soil Microbiology?"
+title:  "Viruses, mRNA, COVID-19: Soil Microbiology As A Portal To The Future"
 date:   2024-03-27 4:30:00
 categories: template
 ---
