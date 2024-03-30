@@ -5,7 +5,7 @@ permalink: /Health/Exercise/
 ---
 
 
-## 3rd Priority -- Exercise and Physical Health
+## 3rd Priority -- Exercise, Breath Work, Oxygen and Physical Health
 
 Exercise itself is the best MEASURE of physical health, ie you don't need a FitBit, you need to exercise regularly so that you have a modicum of body awareness so that can not only tell if your physical health is fucked BUT also have some idea of how badly fucked it is ... as you age, you should EXPECT that you might in pain, right away after waking up and being in bed overnight ... that's sort of just the way it might be ... but you should have some body awareness of what kinds of exercises or stretches you need to do, in order to get the knots and kinks out.
 
