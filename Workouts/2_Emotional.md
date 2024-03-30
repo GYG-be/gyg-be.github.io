@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Workout Listing
+title: 2)
 permalink: /Workouts/Emotional/
 ---
 
 
-## Emotional health
+## Emotional Health
 
-What's the goal?  Utilize the RPE concept [see below] from physical exercise when you think about your emotional exertions.
+What's the goal?  Utilize the thinking behind the RPE concept from see [Exercise](https://markbruns.github.io/Workouts/Exercise/) from physical exercise when you think about your emotional exertions.
 
 **PILE more POSITIVE stress on yourself ... but never tolerate your bad habits, pointless activities ... and certainly ditch the idea averse complainers or needy time-wasters who are intent on dragging you down with the negative stresses they cling to.**
 

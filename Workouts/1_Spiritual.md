@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Workout Listing
+title: 1)
 permalink: /Workouts/Spiritual/
 ---
 
 
-## Spiritual health
+## Spiritual Health
 
 The only form of health that actually really matters is spiritual health ... get this one right and the others have a better chance of following ... but if they don't, *SO EFFING WHAT?* **Spiritual health is the only one you really NEED.**
 

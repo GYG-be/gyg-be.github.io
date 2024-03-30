@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workout Listing
+title: Listing
 permalink: /Workouts/Listing/
 ---
 
