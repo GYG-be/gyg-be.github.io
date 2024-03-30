@@ -1,19 +1,11 @@
 ---
 layout: page
-title: Schedule
-permalink: /Workouts/Schedule/
+title: Weekly Schedule
+permalink: /WeeklySchedule/
 ---
 
 
-The aim with this listing is to never have to think about our next workout AT THE TIME THAT WE DO IT. We want to have multiple ideas in the hopper ... so that we can just pick the one that we've kinda thought through and go with it.
-
-# Listing of Planned Workouts/Worksessions for EACH Day of the Week
-
-I sorta need to have a weekly ROUTINE that I *just do* without giving too much thought, BUT I still need to have my routine schedule of what I am going to be thinking about on Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday ... because, for reasons I don't really understand [because it shouldn't really matter], but a weekly routine helps me to be in touch with *the working man* and maybe the world around me.
-
-
-*{NOTE: Each day is an exercise workout or worksession that I focus on for that day. I DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE, but I gotta do it ... I especially exercise equipment or any kind of gear which has no purpose other than for exercise, BUT I need to have a routine ...I especially hate going to special places, like gyms or dojos, to exercise with people who go to a special places to exercise. But, I do get that I need to work on my discipline of exercising every day ... so I try to work smarter or engineer higher productivity in it; I try to THINK about what I'm doing and WHY I need to be doing it. But there's no getting away from the fact that I am always going to DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE}*.
-
+The aim with this schedule is to never have to think about our next workout AT THE TIME THAT WE DO IT. We want to have multiple ideas in the hopper ... so that we can just pick the one that we've kinda thought through and go with it.
 
 ## SUNDAY -- Strategic planning to build gratitude discipline every day of the week
 
@@ -245,6 +237,12 @@ Mishraka Gana
 
 Basic Aurvedic Pathology
 
+## Why Routine Even Matters
+
+I sorta need to have a weekly ROUTINE that I *just do* without giving too much thought, BUT I still need to have my routine schedule of what I am going to be thinking about on Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday ... because, for reasons I don't really understand [because it shouldn't really matter], but a weekly routine helps me to be in touch with *the working man* and maybe the world around me.
+
+
+*{NOTE: Each day is an exercise workout or worksession that I focus on for that day. I DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE, but I gotta do it ... I especially exercise equipment or any kind of gear which has no purpose other than for exercise, BUT I need to have a routine ...I especially hate going to special places, like gyms or dojos, to exercise with people who go to a special places to exercise. But, I do get that I need to work on my discipline of exercising every day ... so I try to work smarter or engineer higher productivity in it; I try to THINK about what I'm doing and WHY I need to be doing it. But there's no getting away from the fact that I am always going to DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE}*.
 
 
 ## Futher Reading
