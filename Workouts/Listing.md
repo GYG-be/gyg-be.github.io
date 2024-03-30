@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workouts
-permalink: /Workouts/
+title: Workout Listing
+permalink: /Workouts/Listing/
 ---
 
 
