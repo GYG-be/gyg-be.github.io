@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 7)
+title: Pillars
 permalink: /Workouts/Pillars/
 ---
 

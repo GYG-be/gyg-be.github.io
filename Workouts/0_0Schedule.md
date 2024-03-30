@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Weekly Schedule
-permalink: /Workouts/Listing/
+title: Schedule
+permalink: /Workouts/Schedule/
 ---
 
 
