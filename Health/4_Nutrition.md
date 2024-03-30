@@ -9,6 +9,10 @@ permalink: /Health/Nutrition/
 
 ## 4th Priority -- Nutrition, Hydration, Internal Organ Health
 
+50% of our energy/focus goest to first priority, 25% energy/focus goes to second priority, 12.5% to third priority, 6.25% to this fourth nutrition priority, 3.125% to the fifth priority and 1.5625% to the sixth priority ... if we have 112 hrs/week to spend on health, we spend 56 hrs on first priority, 28 hrs on second priority, 14 hrs on third priority, 7 hrs on this fourth priority, 3.5 hrs on fifth priority [in addition to the 56 hrs we spend sleeping] and 1.75 hrs/week on ... 7 hrs on this nutrition is PLENTY. 
+
+We spend 420 minutes/week on this priority ... that's 60 minutes/day just eating.
+
 This is the 4th priority because mostly it's about what you remove ... don't eat so much ... drink water not alcohol ...exercise and even work on breathwork before you make radical changes to your diet, but we do need to AGGRESSIVELY turn our backs on the Standard American Diet.
 
 Mostly, we want to try harder to fill up on water, then drink more more water and maybe still more water  ... and maybe if we are sick of tasteless water, we can try water with tiny bit of tart cherry extract in it ... or maybe, when we want to wake up at 4 AM we can drink some water with coffee in it.

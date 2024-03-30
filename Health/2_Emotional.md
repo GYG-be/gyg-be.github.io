@@ -7,7 +7,11 @@ permalink: /Health/Emotional/
 
 ## 2nd Priority -- Emotional Health
 
-KNOW Your WHY? What's the mission? What's the damned GOAL in life?  
+KNOW Your WHY? What's the mission? What's the damned GOAL in life? Not JUST about one's soul and spiritual life, but it's about what we enjoy or look forward to ... and that means VENTURES.
+
+50% of our energy/focus goest to first priority, 25% energy/focus goes to this second emotional health priority, 12.5% to third priority, 6.25% to fourth priority, 3.125% to fifth priority and 1.5625% to the sixth priority ... if we have 112 hrs/week to spend on health, we spend 56 hrs on first priority, 28 hrs on this second priority, 14 hrs on the third priority, 7 hrs on the fourth priority, 3.5 hrs on the fifth priority [in addition to the 56 hrs we spend sleeping] and 1.75 hrs/week on the sixth priority. 
+
+We spend 1680 minutes/week on this priority ... that's 4 hrs/day ... which might be really light, but 28 hrs per week is enough ... when, we're talking about our emotional health, we are talking our business and technological VENTURES and our financial sustenance ... emotional health is really about *paying the bills* and finding better returns on investments to better support everything that our life depends on ... so 28 hrs a week is about what it takes.
 
 In order to understand how your making enough progress, you need to have some aggravation in your life, some eustress ... it's necessary to utilize analogous thinking to that underpinning the Rate of Percieved Exertion [RPE] concept from see [Exercise](https://markbruns.github.io/Health/Exercise/) ... emotionally, you want to feel enough ***RPE*** from your emotional exertions, that you can carry one normal conversations with other people without being overwhelmed and ***just not being able to process any more bullshit right now*** ... you want to *UNDER LIGHT LOAD* but you still want to be EMOTIONALLY AVAILABLE for people.
 

@@ -7,6 +7,10 @@ permalink: /Health/Exercise/
 
 ## 3rd Priority -- Exercise, Breath Work, Oxygen and Physical Health
 
+50% of our energy/focus goest to first priority, 25% energy/focus goes to second priority, 12.5% to this third exercise priority, 6.25% to fourth priority, 3.125% to fifth priority and 1.5625% to sixth priority ... if we have 112 hrs/week to spend on health, we spend 56 hrs on first priority, 28 hrs on second priority, 14 hrs on this third priority, 7 hrs on fourth priority, 3.5 hrs on the fifth priority [in addition to the 56 hrs we spend sleeping] and 1.75 hrs/week on sixth priority. 14 hrs/week on exercise is about right; maybe we'd like to spend more time, but where are we going to rob the time from? 
+
+We spend 840 minutes/week on this priority ... that's 2 hrs/day ... it's not just exercising, but it's also about planning our exercise regimens and worksessions.
+
 Exercise itself is the best MEASURE of physical health, ie you don't need a FitBit, you need to exercise regularly so that you have a modicum of body awareness so that can not only tell if your physical health is fucked BUT also have some idea of how badly fucked it is ... as you age, you should EXPECT that you might in pain, right away after waking up and being in bed overnight ... that's sort of just the way it might be ... but you should have some body awareness of what kinds of exercises or stretches you need to do, in order to get the knots and kinks out.
 
 Although, exercise ***IS*** about doing exercises correctly, in the proper form; to start with, exercise **IS** entirely about just getting going, just getting moving, just getting the process of exercising underway.
