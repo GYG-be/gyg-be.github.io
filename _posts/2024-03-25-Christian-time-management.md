@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "86400 secs/day. Grappler's mindset to work toward being a better Christian."
+title:  "86400 secs/day, grappler's mindset, becoming a better Christian."
 date:   2024-03-25 4:30:00
 categories: template
 ---
