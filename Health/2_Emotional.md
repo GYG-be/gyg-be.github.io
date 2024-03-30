@@ -7,9 +7,11 @@ permalink: /Health/Emotional/
 
 ## 2nd Priority -- Emotional Health
 
-What's the goal?  Utilize the thinking behind the RPE concept from see [Exercise](https://markbruns.github.io/Workouts/Exercise/) from physical exercise when you think about your emotional exertions.
+KNOW Your WHY? What's the mission? What's the damned GOAL in life?  
 
-**PILE more POSITIVE stress on yourself ... but never tolerate your bad habits, pointless activities ... and certainly ditch the idea averse complainers or needy time-wasters who are intent on dragging you down with the negative stresses they cling to.**
+In order to understand how your making enough progress, you need to have some aggravation in your life, some eustress ... it's necessary to utilize analogous thinking to that underpinning the Rate of Percieved Exertion [RPE] concept from see [Exercise](https://markbruns.github.io/Health/Exercise/) ... emotionally, you want to feel enough ***RPE*** from your emotional exertions, that you can carry one normal conversations with other people without being overwhelmed and ***just not being able to process any more bullshit right now*** ... you want to *UNDER LIGHT LOAD* but you still want to be EMOTIONALLY AVAILABLE for people.
+
+**PILE more POSITIVE eustress on yourself ... but never tolerate your bad habits, pointless activities ... and certainly ditch the idea averse complainers, needy time-wasters or backward-looking oldsters who are intent on dragging you down with the negative stresses they cling to.**
 
 Ditch the causes or drivers of negative stress ... while you cultivate the drivers and causes of positive eustress or high exercise.
 

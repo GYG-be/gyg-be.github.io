@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3)
-permalink: /Workouts/Exercise/
+permalink: /Health/Exercise/
 ---
 
 
