@@ -7,6 +7,8 @@ permalink: /Workouts/Exercise/
 
 ## 3rd Priority -- Exercise and Physical Health
 
+Exercise itself is the best MEASURE of physical health, ie you don't need a FitBit, you need to exercise regularly so that you have a modicum of body awareness so that can not only tell if your physical health is fucked BUT also have some idea of how badly fucked it is ... as you age, you should EXPECT that you might in pain, right away after waking up and being in bed overnight ... that's sort of just the way it might be ... but you should have some body awareness of what kinds of exercises or stretches you need to do, in order to get the knots and kinks out.
+
 Although, exercise ***IS*** about doing exercises correctly, in the proper form; to start with, exercise **IS** entirely about just getting going, just getting moving, just getting the process of exercising underway.
 
 I work on adding to, revising, refactoring my [workout LISTING](https://markbruns.github.io/Workouts/Listing/) in order to *make the routine all NEW again*.  I NEED to just keep THINKING about improving movement and improving different ways to practice moving ... I need to always be optimizing. I am not hardwired to leave things alone.
