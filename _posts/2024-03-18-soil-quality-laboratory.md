@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Soil Quality Laboratory"
+title:  "Soil Quality Lab -- InSitu Soil Ecosystem Interrogation"
 date:   2024-03-18 4:30:00
 categories: template
 ---
 
-# The Soil Environment
+## The Soil Environment Drives The Soil Quality Laboratory
+
+NOT the other way around ... in other words, we don't take samples from the field back into the lab, we construct the lab to be operational in the living ecosystems of the field OR in the living ecosystems of the composting material *in-process* ... the point of soil quality laboratory is NOT to replace existing soil testing labs, but to provide a new kind of technologies that directly interrogate living ecosystems of the soil and compost with a minimum of disturbance or measurement error induced by just taking measurements.
 
 # [Selman Waksman](https://en.wikipedia.org/wiki/Selman_Waksman)'s Seven Grand Questions on Soil Microbiology
 
