@@ -1,12 +1,14 @@
 ---
 layout: page
 title: 6)
-permalink: /Workouts/Supplements/
+permalink: /Health/Supplements/
 ---
 
 
 
-## Supplements
+## Sixth Priority -- Endocrinological Health, Deficiencies and Supplementation
+
+Generally, don't try to swallow your way to better health ... the other things are higher priorities.
 
 Avoid most supplements or time wasted on trying to figure out supplements; just use the MasterClass ... when in doubt drink more filtered water.
 

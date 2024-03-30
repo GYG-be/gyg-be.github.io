@@ -1,13 +1,13 @@
 ---
 layout: page
 title: 5)
-permalink: /Workouts/Sleep/
+permalink: /Health/Sleep/
 ---
 
 
 
 
-## Sleep
+## Fifth Priority -- Neurological Health and Sleep
 
 
 IMMERSION is about studying the ***right*** way to SLEEP ... get serious about sleep hygiene. 

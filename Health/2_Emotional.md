@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 2)
-permalink: /Workouts/Emotional/
+permalink: /Health/Emotional/
 ---
 
 
-## Emotional Health
+## 2nd Priority -- Emotional Health
 
 What's the goal?  Utilize the thinking behind the RPE concept from see [Exercise](https://markbruns.github.io/Workouts/Exercise/) from physical exercise when you think about your emotional exertions.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pillars
-permalink: /Workouts/Pillars/
+permalink: /Health/Pillars/
 ---
 
 

@@ -5,7 +5,7 @@ permalink: /Workouts/Exercise/
 ---
 
 
-## Exercise
+## 3rd Priority -- Exercise and Physical Health
 
 Although, exercise ***IS*** about doing exercises correctly, in the proper form; to start with, exercise **IS** entirely about just getting going, just getting moving, just getting the process of exercising underway.
 
