@@ -7,7 +7,7 @@ permalink: /Health/Nutrition/
 
 
 
-## Fourth Priority -- Gut Health, Hydration and Nutrition
+## 4th Priority -- Gut Health, Hydration and Nutrition
 
 IMMERSION is about studying the ***right*** way to eat [less]... the most important part of nutrition is how we remove the bad habits of being ourselves ... in other words, we need to AGGRESSIVELY turn our backs on the Standard American Diet.  
 
