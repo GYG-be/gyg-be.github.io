@@ -5,25 +5,33 @@ permalink: /Workouts/Listing/
 ---
 
 
+The aim with this listing is to never have to think about our next workout AT THE TIME THAT WE DO IT. We want to have multiple ideas in the hopper ... so that we can just pick the one that we've kinda thought through and go with it.
 
 # Listing of Planned Workouts/Worksessions for EACH Day of the Week
 
-The aim with this listing is to never have to think about our next workout AT THE TIME THAT WE DO IT. We want to have multiple ideas in the hopper ... so that we can just pick the one that we've kinda thought through and go with it.
-
-*{NOTE: I DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE ... I especially exercise equipment or the kind of stuff which has no purpose other than for exercise ...I especially hate going to special places, like gyms or dojos, to exercise with people who go to a special places to exercise. But ... I do get that I need to exercise ... so I try to be smarter about it; I try to THINK about what I'm doing and why I doing it. But there's no getting away from the fact that I am always going to DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE}*.
+I sorta need to have a weekly ROUTINE that I *just do* without giving too much thought, BUT I still need to have my routine schedule of what I am going to be thinking about on Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday ... because, for reasons I don't really understand [because it shouldn't really matter], but a weekly routine helps me to be in touch with *the working man* and maybe the world around me.
 
 
-## SUNDAY -- Develop a plan to actively EXERCISE the gratitude "muscle" every day
+*{NOTE: Each day is an exercise workout or worksession that I focus on for that day. I DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE, but I gotta do it ... I especially exercise equipment or any kind of gear which has no purpose other than for exercise, BUT I need to have a routine ...I especially hate going to special places, like gyms or dojos, to exercise with people who go to a special places to exercise. But, I do get that I need to work on my discipline of exercising every day ... so I try to work smarter or engineer higher productivity in it; I try to THINK about what I'm doing and WHY I need to be doing it. But there's no getting away from the fact that I am always going to DEEPLY, PASSIONATELY, ABSOLUTELY HATE EXERCISE}*.
 
-**Do at least one EXTRA concrete thing each day** to ENSURE that you are always cultivating a mindset of gratitude.
 
-You have to FIND that one EXTRA concrete thing each day.
+## SUNDAY -- Strategic planning to build gratitude discipline every day of the week
 
-It's NOT just a routine kind of thing that you would not ordinarily just do without thinking about it. This is about ONE EXTRA think to deliberately think about being more grateful.
+**GRATITUDE is about DEEPENING our spiritual health!**
 
-The point is improve the discipline of WORKING AT **BETTER** CULTIVATING AN OPTIMISTIC MINDSET OF GRATITUDE **Make it a daily objective to notice and point out at least one special thing that is especially noble, right, pure, lovely, admirable, excellent or praiseworthy** ... perhaps some young sales phenom like [Alex Hormozi](https://www.facebook.com/ahormozi) ... or the wrestling spladle and Brook Hardy ... and, **ALSO make it a point of pointing that excellence out or sharing your admiration with others.** *"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable -- if anything is excellent or praiseworthy -- DWELL ON such things. Whatever you have learned or received or heard from me, or seen in me -- PUT IT INTO PRACTICE. And the God of peace will be with you."*  [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
+SUNDAY is a day of rest and more focus on spiritual contemplation; we generally want to focus more of our energy on the strategic planning for the week ahead ... the point of planning or sketching out an outline is to **develop the the outline of how/where we will try harder to do that one EXTRA concrete thing for each day of the upcoming week** to ENSURE that we are always cultivating a well-rounded mindset of gratitude.
 
-## MONDAY -- body weight calisthenics and hybrid martial arts training
+We still have to FIND that one EXTRA concrete thing each day ... but on Sunday, we think about where we should look each day.
+
+It's NOT just a routine kind of thing that you would not ordinarily just do without thinking about it. 
+
+This is STRATEGIC ... it's strategic thinking about how/where we will focus our tactical thinking to FIND something that helps us make being more grateful more CONCRETE.
+
+The point is improve the discipline of WORKING AT **BETTER** CULTIVATING AN OPTIMISTIC MINDSET OF GRATITUDE. We don't want this to be accidental or haphazard; we want to TRY to be more intentional about our gratitude. **GRATITUDE is about DEEPENING our spiritual health!**
+
+**Make it a daily objective to notice and point out at least one special thing that is especially noble, right, pure, lovely, admirable, excellent or praiseworthy** ... perhaps some young sales phenom like [Alex Hormozi](https://www.facebook.com/ahormozi) ... or the wrestling spladle and Brook Hardy ... and, **ALSO make it a point of pointing that excellence out or sharing your admiration with others.** *"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable -- if anything is excellent or praiseworthy -- DWELL ON such things. Whatever you have learned or received or heard from me, or seen in me -- PUT IT INTO PRACTICE. And the God of peace will be with you."*  [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
+
+## MONDAY -- body weight calisthenics and Plyometrics / Striking / Hitting / Kicking / Jumping
 
 ### Morning Kick Off -- Start Monday right.
 
@@ -31,9 +39,9 @@ Early on Monday, start the week off with body weight calesthinics; these are int
 
 Do each rep carefully and PROPERLY ... USE the mats, use the floor, use the ground ... use body weight ... get up and down off the ground/floor more ... use every excuse to work in a few alternate burpees, pushups, sit-ups, squats, burpees, pushups, sit-ups, squats ... do more rolling/crabwalking/shrimpting drills on the mats ... freeform exploration like a little kid or [Feldenkrais Method (FM)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9657136/) is a technique aiming at increasing personal self-knowledge through conscious movements ... FM has been labeled by detractors as "glorified yoga" or as medical treatment, something that "borders on quackery" ... but conscious focus through slow movement especially helps elderly people. Specifically, FM improves mobility, balance and quality of life. For people with chronic low back pain, FM has similar benefits such as back school lessons or core stability exercises; in people with cervical pain, FM may be more adequate than conventional physical therapy. For people with neurodegenerative diseases, FM is effective in improving balance.
 
-## Monday Main Event -- Plyometrics / Striking / Hitting / Kicking / Jumping
+### Monday Main Event -- Plyometrics / Striking / Hitting / Kicking / Jumping
 
-31 day syllabus for EACH day exploring [the top 20 Plyometrics For Speed, Power and Performance](https://drjohnrusin.com/top-20-plyometrics-for-speed-power-and-performance/) ... use [plyometrics, such as hitting the heavy bag, to boost dynorphin release to get going in the morning or warming-up for the day](https://gemini.google.com/share/5da4eff9a61c) ... get going with [shadowboxing](https://totalshape.com/fitness/jon-jones-workout-diet/#Shadow%20Boxing), [heavy bag](https://www.amazon.com/Fighters-Guide-Hard-Core-Heavy-Training-ebook/dp/B07BH3WRL9), [speed drills](https://www.amazon.com/FAST-HANDS-Uniting-Physical-Maximize-ebook/dp/B0BHXG7SCR), [solo workouts](https://www.amazon.com/Solo-Training-3-50-Older-ebook/dp/B0150QXWLW), footwork drills
+We will be developing 31 day syllabus for EACH day of the month exploring [the top 20 Plyometrics For Speed, Power and Performance](https://drjohnrusin.com/top-20-plyometrics-for-speed-power-and-performance/) ... use [plyometrics, such as hitting the heavy bag, to boost dynorphin release to get going in the morning or warming-up for the day](https://gemini.google.com/share/5da4eff9a61c) ... get going with [shadowboxing](https://totalshape.com/fitness/jon-jones-workout-diet/#Shadow%20Boxing), [heavy bag](https://www.amazon.com/Fighters-Guide-Hard-Core-Heavy-Training-ebook/dp/B07BH3WRL9), [speed drills](https://www.amazon.com/FAST-HANDS-Uniting-Physical-Maximize-ebook/dp/B0BHXG7SCR), [solo workouts](https://www.amazon.com/Solo-Training-3-50-Older-ebook/dp/B0150QXWLW), footwork drills
 
 ## Tuesday -- explore yoga for ORDINARY guys, not for those not likely to do yoga or comfortable doing yoga
 
