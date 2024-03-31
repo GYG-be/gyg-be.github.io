@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Pillars
+title: Health
 permalink: /Health/Pillars/
 ---
 
 
-# Health is the ONLY wealth. The only health that really matters is the health of the soul.
+Health is the ONLY wealth. The only health that really matters is the health of the soul. I am healthy *BECAUSE* my strategy is to avoid **ROUTINE** medical care and pharmaceuticals. My 86400 MBSR time mgmt regime is a matter of RESPONDING to things in the world, RATHER THAN reacting to things as one is programmed and propagandized to react.
 
-I am healthy *BECAUSE* I avoid **ROUTINE** medical care and pharmaceuticals ... my time mgmt regime is a matter of RESPONDING to things in the world, RATHER THAN reacting to things as one is programmed and propagandized to react.
+## Six Priorities
 
-
-## Six Pillars of Health
-
-The Six Pillars of Health drive my allocation of time/energy/focus:
+These drive my allocation of time/energy/focus:
 
 1) 50% of my energy/focus/time or 56 hours/week is allocated to [spiritual health](https://markbruns.github.io/Health/Spiritual/)
 
@@ -26,9 +23,11 @@ The Six Pillars of Health drive my allocation of time/energy/focus:
 
 6) 3.125% of my energy/focus/time or 30 minutes/day is devoted to [supplementation](https://markbruns.github.io/Health/Supplements/), optimizing biochemistry, getting the right amount of sunlight, and miscellaneous other things that are not covered by the other five pillars of health
 
-## Mindfulness Based Stress Reduction and The Resurrection of Christ
+## Mindfulness Based Stress Reduction (MBSR) Time Management
 
-Mindfullness based stress reduction DRIVES my 86400.guru time management venture; OPTIMIZING each second of the day is entirely about RESPONDING to the world, RATHER THAN reacting to the world as one is programmed and propagandized to ***react*** ... REACTIONS are always driven by pathological [in a spiritual sense] manipulations of priorities. This means that [my life is DRIVEN by the Resurrection of Christ!](https://markbruns.github.io/template/2024/03/31/He-is-risen.html)
+Mindfullness based stress reduction DRIVES my 86400.guru time management venture.
+
+OPTIMIZING each second of the day is entirely about RESPONDING to the world, RATHER THAN reacting to the world as one is programmed and propagandized to ***react*** ... REACTIONS are always driven by pathological [in a spiritual sense] manipulations of priorities. This means that [my life is DRIVEN by the Resurrection of Christ!](https://markbruns.github.io/template/2024/03/31/He-is-risen.html)
 
 I avoid emotional games, such as selling games or any kind of thing where I being to do something because of someone's propaganda or programming. I walk away from any sort of manipulation that is based on fear or desire or wealth or power or celebrity or any sort of emotional trigger. I particularly detest any sorts of argument that places a higher value on human baggage or material junk RATHER than prioritizing one's spirtual life. [**My life is DRIVEN by the Resurrection of Christ!**](https://markbruns.github.io/template/2024/03/31/He-is-risen.html).
 
