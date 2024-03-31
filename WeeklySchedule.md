@@ -249,7 +249,7 @@ I sorta need to have a weekly ROUTINE that I *just do* without giving too much t
 
 1) Train in the preliminaries of AI and LLM models. You WILL HAVE TO FORCE YOURSELF make the extra effort to continually be exploring and adding new things to explore ... periodically, use AI to brainstorm lists of 200 things to explore as you focus on a topic and then weed out the chaff [since most of the AI responses will be stuff that you've thought before]
 
-2) [Stretching, warmup movement](https://www.amazon.com/dp/B0C54FYGJ4) ... beyond general flexibility and rehab exercises, to [Ido Movement for Culture (IMC)](http://imcjournal.com/index.php/en/home) ... not just about physicality; it encompasses philosophy, tradition, and interdisciplinary research, particularly within the context of martial arts.
+2) [Stretching, warmup movement](https://www.amazon.com/dp/B0C54FYGJ4) ...[Ido Portal](https://www.youtube.com/@portaldo/videos) [Developing Suppleness](https://www.youtube.com/watch?v=254_pqoRi1E) [Developing Legs Practices](https://www.youtube.com/watch?v=abyTdOnauko) ... [Strength Side -- Movement as a catalyst for physical and mental transformation.](https://www.youtube.com/@Strengthside/videos) ...[Animal Flow](https://www.youtube.com/@AnimalFlow/videos) ... [Primal Movement](https://www.youtube.com/@primalmovement/videos) beyond general flexibility and rehab exercises, to [Ido Movement for Culture (IMC)](http://imcjournal.com/index.php/en/home) ... not just about physicality; it encompasses philosophy, tradition, and interdisciplinary research, particularly within the context of martial arts.
 
 3) [Stability ball or balance](https://g.co/gemini/share/a3096d44f472)
 
