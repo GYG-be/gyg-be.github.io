@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Viruses, mRNA, COVID-19: Soil Microbiology As A Portal To The Future"
+title:  "Viruses, mRNA, COVID-19: Soil Microbiology As Portal To Future"
 date:   2024-03-27 4:30:00
 categories: template
 ---
