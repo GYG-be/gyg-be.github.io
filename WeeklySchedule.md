@@ -160,14 +160,109 @@ In a 31-module syllabus ... with drills / workouts for each day of those 31 days
 
 9.4 **Strong sense of community**: Training in Dagestan surrounds Khabib with a close-knit community of fellow wrestlers and fighters who share his dedication and work ethic. This supportive environment fosters a sense of camaraderie and pushes him to excel. Training in Dagestan allows Khabib to immerse himself in the region's rich wrestling tradition, constantly exposing him to high-level grapplers and wrestlers.
 
-## Saturday Evening OR Sunday -- Mindfulness-Based Stress Reduction (MBSR) Workshop
+## Saturday Evening OR Sunday -- Meditation, Movement, Mindfulness-Based Stress Reduction (MBSR) Worksession
 
 *Take a view from the balcony* ... reflect on the past week's stressful situations
 
-Stop catastrophizing, stop being hyper-aroused, stop knee-jerk REACTING to stress ... instead, learn to RESPOND to stress and address the root cause of what is driving stress
+Stop catastrophizing, stop being hyper-aroused, stop knee-jerk REACTING to stress ... instead, learn to RESPOND to stress and address the root cause of what is driving stress. MBSR's efficacy as described in[Jon Kabat-Zinn's **Full Catastrophe Living**](https://en.wikipedia.org/wiki/Full_Catastrophe_Living) is really driven by an intensely analytic view driving the deconstruction of we are experiencing.  The title should be understood in the context of the Zorba the Greek quote "*Am I not a man? Of course I've been married. Wife, house, kids ... YES ... the* ***full catastrophe!***" ... the book is nice read, but it's about the **full catastrophe** of normal, average, ordinary LIFE, not just the exceptional, newsworthy catastrophes that we think of as catastrophes, but *those* catastrophes usually almost never affect us as directly as ordinary stress of *just* living, growing older and experiencing loss. Do not REACT to stress; instead, RESPOND to stress by journaling, meditating, and going for long brisk walks to THINK ... if you know your way around your doctor's office, but have not speedwalked in the last 24 hours, you're doing it wrong.
 
-Develop a [mindfulness-based stress reduction (MBSR)](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction) 31-module month-long syllabus in order to study one thing per day to incorporate MBSR lessons into your daily life ... LEARN to repsond to stress rather than react to it ... learn to FORGIVE and let of things ... meditatively speedwalk / hike, not just with a weighted pack, but with FOCUS ... in order to THINK, focus on breathwork and to just be more immersed in your LOCAL environment, ie rather than shops or bars/restaurants or doctor's offices ... practically, use walks to implement [mindfulness-based stress reduction (MBSR)](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction) practices driven by scientific evidence that improve MBSR's efficacy as described in[Jon Kabat-Zinn's **Full Catastrophe Living**](https://en.wikipedia.org/wiki/Full_Catastrophe_Living) whose title should be understood in the context of the Zorba the Greek quote "*Am I not a man? Of course I've been married. Wife, house, kids ... YES ... the* ***full catastrophe!***" ... the book is nice read, but it's about the **full catastrophe** of normal, average, ordinary LIFE, not just the exceptional, newsworthy catastrophes that we think of as catastrophes, but *those* catastrophes usually almost never affect us as directly as ordinary stress of *just* living, growing older and experiencing loss. Do not REACT to stress; instead, RESPOND to stress by journaling, meditating, and going for long brisk walks to THINK ... if you know your way around your doctor's office, but have not speedwalked in the last 24 hours, you're doing it wrong.
+On Saturdays, I will look at the week's progress in the past week's progress on the 31-day month long syllabus for a meditation, movement [mindfulness-based stress reduction (MBSR)](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction). 
 
+The point of the Saturday MBSR worksession is to LEARN to repsond to opporunities in 31-day syllabus and possibly adjust and refactor ... the real point of MBSR is to be INTELLECTUALLY independent rather than going through motions and simply reacting to circumstandces  ... we want to use this workshop as an opportunity to learn to FORGIVE and let go of the bullshit  ... as we do these daily modules, we might meditatively speedwalk / hike, not just with a weighted pack, but with FOCUS ... in order to THINK, focus on breathwork and to just be more immersed in your LOCAL environment, ie rather than shops or bars/restaurants or doctor's offices ... practically, we want to USE walks to see what's going on in the community; this community awareness is PART of a wholistic [mindfulness-based stress reduction (MBSR)](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction) program driven by serendipitously-driven awareness of what is going on.  
+
+The following is comprehensive month-long, 31-day syllabus [10 3-day worksessions followed by one day for reflection] syllabus exploring various meditation, movement, and mindfulness techniques from different schools of thought:
+
+Day 1-3: Introduction to Mindfulness and MBSR
+- Introduction to mindfulness and its benefits
+- Overview of Mindfulness-Based Stress Reduction (MBSR)
+- Body scan meditation
+- Sitting meditation
+- Mindful yoga
+- Mindful eating
+- Loving-kindness meditation
+
+Day 4-6: Buddhist Meditation Techniques
+- Introduction to Buddhist meditation
+- Shamatha meditation (calming the mind)
+- Vipassana meditation (insight meditation)
+- Walking meditation
+- Metta meditation (cultivating compassion)
+- Tonglen meditation (taking and sending)
+- Zazen (Zen seated meditation)
+
+Day 7-9: Monastic Practices and Contemplative Traditions
+- Introduction to monastic practices and contemplative traditions
+- Lectio Divina (divine reading)
+- Centering Prayer
+- Hesychasm (Eastern Orthodox silent prayer)
+- Sufi meditation and whirling
+- Transcendental Meditation
+- Taoist meditation and Qigong
+
+Day 10-12: Ido Portal's Movement Culture
+- Introduction to Ido Portal's Movement Culture
+- Locomotion and ground movement
+- Climbing and hanging
+- Balancing and proprioception
+- Flexibility and mobility
+- Strength and conditioning
+- Improvisation and flow
+
+Day 13-15: Primal Movement and Animal Flow
+- Introduction to primal movement and animal flow
+- Crawling patterns
+- Jumping and landing
+- Primal squatting
+- Animal-inspired movements (bear, monkey, frog, etc.)
+- Integrating primal movements into flow sequences
+- Primal play and exploration
+
+Day 16-18: Breathing Techniques and Pranayama
+- Introduction to breathwork and pranayama
+- Diaphragmatic breathing
+- Box breathing
+- 4-7-8 breathing
+- Alternate nostril breathing
+- Kapalbhati pranayama
+- Bhastrika pranayama
+
+Day 19-21: Active Body Awareness and Somatic Practices
+- Introduction to active body awareness and somatic practices
+- Body scanning and sensory awareness
+- Feldenkrais Method
+- Alexander Technique
+- Hanna Somatics
+- Rolfing and structural integration
+- Authentic Movement
+
+Day 22-24: Pain Management and Mindfulness
+- Introduction to pain management and mindfulness
+- Mindfulness-based pain management techniques
+- Body awareness and pain perception
+- Breath awareness and pain relief
+- Mindful movement for pain management
+- Visualization and guided imagery for pain relief
+- Acceptance and Commitment Therapy (ACT) for pain management
+
+Day 25-27: Cognitive Behavioral Therapy and Mindfulness
+- Introduction to Cognitive Behavioral Therapy (CBT) and mindfulness
+- Mindfulness-based cognitive therapy (MBCT)
+- Identifying and challenging negative thoughts
+- Behavioral activation and mindfulness
+- Exposure therapy and mindfulness
+- Dialectical Behavior Therapy (DBT) and mindfulness skills
+- Acceptance and Commitment Therapy (ACT) and mindfulness
+
+Day 28-30: Integration and Daily Practice
+- Developing a personal mindfulness practice
+- Integrating mindfulness into daily life
+- Maintaining a consistent meditation practice
+- Incorporating movement and breathwork into daily routine
+- Applying mindfulness to relationships and communication
+- Mindfulness in the workplace
+- Developing a lifelong commitment to mindfulness and personal growth
+
+Day 31: Reflection and Refactoring the Syllabus for Next Time
 
 ## Weekend -- Ayurveda, Traditional Chinese Medicine (TCM), and Herbal Medicine
 

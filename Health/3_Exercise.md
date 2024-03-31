@@ -15,7 +15,7 @@ Exercise itself is the best MEASURE of physical health, ie you don't need a FitB
 
 Although, exercise ***IS*** about doing exercises correctly, in the proper form; to start with, exercise **IS** entirely about just getting going, just getting moving, just getting the process of exercising underway.
 
-I work on adding to, revising, refactoring my [workout LISTING](https://markbruns.github.io/Workouts/Listing/) in order to *make the routine all NEW again*.  I NEED to just keep THINKING about improving movement and improving different ways to practice moving ... I need to always be optimizing. I am not hardwired to leave things alone.
+I work on adding to, revising, refactoring my [Weekly Schedule](https://markbruns.github.io/WeeklySchedule/) in order to *make the routine all NEW again*.  I NEED to just keep THINKING about improving movement and improving different ways to practice moving ... I need to always be optimizing. I am not hardwired to leave things alone.
 
 It's ESSENTIAL for my level of interest and motivation to keep THINKING about the discipline of getting better, getting in more high quality, doing more impactful exercises ... because, fundamentally, deep down ... I HATE EXERCISE.
 
