@@ -8,9 +8,9 @@ permalink: /Health/Supplements/
 
 ## 6th Priority -- Endocrinological Health, Deficiencies, Biochemical Imbalances and Supplementation
 
-We don't ignore this, but we don't look here first ... 50% of our energy/focus goest to first priority, 25% energy/focus goes to second priority, 12.5% to third priority, 6.25% to fourth priority, 3.125% to fifth priority and 1.5625% to this priority ... if we have 112 hrs/week to spend on health, we spend 56 hrs on first priority, 28 hrs on second priority, 14 hrs on third priority, 7 hrs on fourth priority, 3.5 hrs on fifth priority [in addition to the 56 hrs we spend sleeping] and 1.75 hrs/week on this priority. 
+We don't ignore this, but we don't look here first ... 50% of our energy/focus goest to first priority, 25% energy/focus goes to second priority, 12.5% to third priority, 6.25% to fourth priority, 3.125% to fifth priority and 1.5625% to this priority ... if we have 112 hrs/week to spend on health, we spend 56 hrs on first priority, 28 hrs on second priority, 14 hrs on third priority, 7 hrs on fourth priority, 3.5 hrs on fifth priority [in addition to the 56 hrs we spend sleeping] and 3.5 hrs hrs/week on this priority. 
 
-We spend 105 minutes/week on this priority ... that's 15 minutes/day ... that's GREAT PLENTY, when it comes to swallowing pills or deciding which pills to swallow.
+We spend 210 minutes/week on this priority ... that's 30 minutes/day ... that's GREAT PLENTY, when it comes to swallowing pills or deciding which pills to swallow ... but it's also sort of a catch-all for odds and ends that don't fit into the other five priorities.
 
 Generally, we don't try to swallow our way to better health ... we correct the root cause ... so other things like failing to get a proper diet or enough exercise are higher priorities.
 
