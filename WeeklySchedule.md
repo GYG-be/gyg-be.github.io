@@ -5,7 +5,18 @@ permalink: /WeeklySchedule/
 ---
 
 
-The aim with this schedule is to never have to think about our next workout AT THE TIME THAT WE DO IT. We want to have multiple ideas in the hopper ... so that we can just pick the one that we've kinda thought through and go with it.
+The point of my ***Daily Routine*** is that I *just* work on **daily disciplines** automatically, without even thinkng about putting these things on my calendar or ToDo list:
+
+* Prayers and meditation to "Be STILL and KNOW" (MBSR) [Psalms 46:10](https://www.biblestudytools.com/psalms/46.html)
+* Exercises to cultivating gratitude [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
+* Body weight calesthinics [1 Timothy 4:8](https://www.biblestudytools.com/1-timothy/4-8-compare.html)
+* Exercises to listen and communicate [James 1:19](https://www.biblestudytools.com/james/1-19-compare.html)
+
+# Weekly Schedule
+
+**The point of my weekly schedule is to have a Weekly Routine**, *just like a Daily Routine*, so that I never have to think about what the ***main*** item for today is [in addition to the daily discipline exercises]. A weekly routine makes it EASIER to focus on things that I add to my calendar or ToDo [as soon as I can get around to it] list.
+
+Daily and weekly routines make it MUCH EASIER to be present, settled and able to RESPOND to emergencies that arise.
 
 ## SUNDAY -- Strategic planning to build gratitude discipline every day of the week
 
