@@ -7,7 +7,7 @@ permalink: /WeeklySchedule/
 
 The point of my ***Daily Routine*** is that I *just* work on **daily disciplines** automatically, without even thinkng about putting these things on my calendar or ToDo list:
 
-* Prayers and meditation to "Be STILL and KNOW" (MBSR) [Psalms 46:10](https://www.biblestudytools.com/psalms/46.html)
+* Prayers and meditation to "Be STILL and KNOW" (MBSR) [Psalms 46](https://www.biblestudytools.com/psalms/46.html)
 * Exercises to cultivating gratitude [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
 * Body weight calesthinics [1 Timothy 4:8](https://www.biblestudytools.com/1-timothy/4-8-compare.html)
 * Exercises to listen and communicate [James 1:19](https://www.biblestudytools.com/james/1-19-compare.html)
