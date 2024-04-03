@@ -34,6 +34,10 @@
 		{
 			"name": "soilqualitylab.github.io",
 			"path": "../../soilqualitylab.github.io"
+		},
+		{
+			"name": "azynch.github.io",
+			"path": "../../azynch.github.io"
 		}
 	],
 	"settings": {}
