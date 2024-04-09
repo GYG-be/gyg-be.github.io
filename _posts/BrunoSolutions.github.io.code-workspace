@@ -40,5 +40,7 @@
 			"path": "../../azynch.github.io"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"rust-analyzer.check.command": "clippy"
+	}
 }
