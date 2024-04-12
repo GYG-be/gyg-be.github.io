@@ -7,20 +7,114 @@ categories: template
 ---
 
 
-## Teach restraint of the emotions, anxieties, depression; give it to God.
+## Focus on Making Corrections A Christian Ministry to ALL of The People Involved
 
-## Teach repentence and abandonment of bad habits of being ourselves.
+Not just the incarcerated ... probably not even primarily the incarcerated ... but mainly, first and foremost, the victims
 
-## Teach cultivation of NEW skills, relationships, hobbies, cognitive strategies.
+Include the Sheriff and Deputies, Mental Health Staff, County Board of Supervisors [as representatives of the taxpayers]
 
-[Philippians 4:8](https://www.blueletterbible.org/verse/esv/phl/4/8/)
+Focus on the SOULS of the people involved ... rather than the physical, mental, emotional, material realities of the people involved ... the people in jail are there for a reason, but they are also there as a reminder to everyone involved that we are no different ... we are ALL in need of spiritual redemption.
 
-## Teach preservation of self-discipline, concentration, self-control.
+We are ALL in need of help in rebuilding our courage and mindfulness ... that is impossible, unless we accept the significance of Christ's Sacrifice and Resurrection.
+
+## On the mental, emotional, psychological side
+
+### Teach restraint of the emotions, anxieties, depression; give it to God.
+
+1. "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid." - John 14:27
+
+2. "Cast all your anxiety on him because he cares for you." - 1 Peter 5:7
+
+3. "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus." - Philippians 4:6-7
+
+4. "Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls." - Matthew 11:28-29
+
+5. "For God gave us a spirit not of fear but of power and love and self-control." - 2 Timothy 1:7
+
+6. "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice." - Ephesians 4:31
+
+7. "Refrain from anger, and forsake wrath! Fret not yourself; it tends only to evil." - Psalm 37:8
+
+8. "Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, 'Vengeance is mine, I will repay, says the Lord.'" - Romans 12:19
+
+9. "The Lord is near to the brokenhearted and saves the crushed in spirit." - Psalm 34:18
+
+10. "Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you, casting all your anxieties on him, because he cares for you." - 1 Peter 5:6-7
+
+### Teach repentence and abandonment of bad habits of being ourselves.
+
+1. "From that time Jesus began to preach, saying, 'Repent, for the kingdom of heaven is at hand.'" - Matthew 4:17
+
+2. "If your right eye causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into hell." - Matthew 5:29
+
+3. "And he said to all, 'If anyone would come after me, let him deny himself and take up his cross daily and follow me.'" - Luke 9:23
+
+4. "And Jesus said to her, 'Neither do I condemn you; go, and from now on sin no more.'" - John 8:11
+
+5. "No, I tell you; but unless you repent, you will all likewise perish." - Luke 13:3
+
+6. "Let the wicked forsake his way, and the unrighteous man his thoughts; let him return to the Lord, that he may have compassion on him, and to our God, for he will abundantly pardon." - Isaiah 55:7
+
+7. "Put to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry." - Colossians 3:5
+
+8. "But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires." - Romans 13:14
+
+9. "Repent therefore, and turn back, that your sins may be blotted out." - Acts 3:19
+
+10. "For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death." - 2 Corinthians 7:10
+
+### Teach preservation of self-discipline, concentration, self-control.
+
+
+1. "But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified." - 1 Corinthians 9:27
+
+2. "For this very reason, make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness." - 2 Peter 1:5-6
+
+3. "Whoever is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city." - Proverbs 16:32
+
+4. "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law." - Galatians 5:22-23
+
+5. "No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it." - 1 Corinthians 10:13
+
+6. "Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak." - Matthew 26:41
+
+7. "And Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness for forty days, being tempted by the devil. And he ate nothing during those days. And when they were ended, he was hungry." - Luke 4:1-2
+
+8. "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." - Romans 12:2
+
+9. "Set your minds on things that are above, not on things that are on earth." - Colossians 3:2
+
+10. "But seek first the kingdom of God and his righteousness, and all these things will be added to you." - Matthew 6:33
+
+
+### Teach cultivation of NEW hope, new skills, better/new relationships, new hobbies, new cognitive strategies.
+
+1. "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come." - 2 Corinthians 5:17
+
+2. "And he who was seated on the throne said, 'Behold, I am making all things new.' Also he said, 'Write this down, for these words are trustworthy and true.'" - Revelation 21:5
+
+3. "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh." - Ezekiel 36:26
+
+4. "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint." - Isaiah 40:31
+
+5. "I can do all things through him who strengthens me." - Philippians 4 ... especially verse 13, but the whole chapter is worth reading for this purpose.
+
+6. "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another." - John 13:34
+
+7. "And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near." - Hebrews 10:24-25
+
+8. "Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things." - Philippians 4:8
+
+9. "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." - Romans 12:2
+
+10. "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith." - Hebrews 12:1-2
 
 
 # Christian Jail Ministry MUST BE rooted in the Resurrection
 
-For those involved, we must FIRST understand that the Christ's Resurrection is the FOUNDATION of OUR faith ... our faith is one of SPIRITUAL transformation ... our faith must be SPIRITUAL ... it simply cannot be a material mental faith, although there will likely be material or mental manifestations ... our faith must be SPIRITUAL. 
+The Resurrection of Christ cannot be stressed enough for Christians, ESPECIALLY for those involved in a jail ministry.
+
+For those involved, we must FIRST understand that the Christ's Resurrection is the FOUNDATION of OUR faith ... OUR faith is one of SPIRITUAL transformation ... OUR faith must be SPIRITUAL ... we cannot be involved a spiritual ministry for anything but SPIRITUAL reasons, helping to rescue SOULS ... it's up to the incarcerated to pay their debts and heal themselves mentally, emotionally, psychologically -- our ministry is about SOULS, not *getting out of jail free*... it simply cannot be a material mental faith, although there will likely be material or mental manifestations ... our faith must be SPIRITUAL. 
 
 Christ did not die on the cross, so that we could have a post-death retirement plan with full accommodations for all of the people we love and care about in a post-death retirement community. 
 
