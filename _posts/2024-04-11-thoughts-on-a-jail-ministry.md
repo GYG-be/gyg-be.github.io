@@ -41,27 +41,31 @@ We are ALL in need of help in rebuilding our courage and mindfulness ... that is
 
 10.  "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go." - [Joshua 1:9](https://www.biblestudytools.com/joshua/1-9.html)
 
-### Teach repentence and abandonment of bad habits of being ourselves.
+### Teach repentence and abandonment of bad habits of being ourselves
 
-1. "From that time Jesus began to preach, saying, 'Repent, for the kingdom of heaven is at hand.'" - Matthew 4:17
+1. "From that time Jesus began to preach, saying, 'Repent, for the kingdom of Heaven is at hand.'" - [Matthew 4:17](https://www.biblestudytools.com/matthew/4-17.html). If we can break the bad habits of being ourselves ... IF WE CAN JUST STOP BEING IDIOTS ... if we can repent and ***actually mean it***, then the kingdom of Heaven is at hand ... ***RIGHT NOW!*** When we keep putting ourselves in hell, by failing to renounce our bad habits, then we actually DESERVE the tedium and discomfort of having time to think ... because God loves us ... because discomfort is God's way of coaching us to THINK. STOP imagining that of discomfort and tedium as just a punishment ... use the discomfort and tedium in order partly to THINK, but **MOSTLY** to draw closer to God. The kingdom of Heaven is at hand RIGHT NOW!
 
-2. "If your right eye causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into hell." - Matthew 5:29
+Christians KNOW this ... they have EXPERIENCED IT ... it's not a matter of wishing, hoping, dreaming of a better future ... it's a matter of EXPERIENCING the kingdom of Heaven ... by REPENTING, working on improvement and moving forward without any notion of hate or wish for retribution ... Chistians have EXPERIENCED this ... that experience of repenting and experiencing the grace of forgiveness is REAL. The REASON that Christians are evangelical about their faith is because they have EXPERIENCED a tiny slice of the kingdom of Heaven ... it's not just that they want to share that experience with everyone ... they NEED to share that experience.
 
-3. "And he said to all, 'If anyone would come after me, let him deny himself and take up his cross daily and follow me.'" - Luke 9:23
+It's necessary for all of us to seriously embrace the NECESSITY of repentance ... but, it's not just a matter of ***saying***, "I'm sorry" ... anyone can SAY anything under duress; saying something does not mean anything ... it's a matter of legitimately ***meaning*** it, completely letting go of the experience, moving forward and avoiding the possiblity of making the same mistake in the future.
 
-4. "And Jesus said to her, 'Neither do I condemn you; go, and from now on sin no more.'" - John 8:11
+2. "If your right eye causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into hell." - [Matthew 5:29](https://www.biblestudytools.com/matthew/5-29.html)
 
-5. "No, I tell you; but unless you repent, you will all likewise perish." - Luke 13:3
+3. "And he said to all, 'If anyone would come after me, let him deny himself and take up his cross daily and follow me.'" - [Luke 9:23](https://www.biblestudytools.com/luke/9-23.html)
 
-6. "Let the wicked forsake his way, and the unrighteous man his thoughts; let him return to the Lord, that he may have compassion on him, and to our God, for he will abundantly pardon." - Isaiah 55:7
+4. "And Jesus said to her, 'Neither do I condemn you; go, and from now on sin no more.'" - [John 8:11(https://www.biblestudytools.com/john/8-11.html)]
 
-7. "Put to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry." - Colossians 3:5
+5. "No, I tell you; but unless you repent, you will all likewise perish." - [Luke 13:3](https://www.biblestudytools.com/john/8-11.html)
 
-8. "But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires." - Romans 13:14
+6. "Let the wicked forsake his way, and the unrighteous man his thoughts; let him return to the Lord, that he may have compassion on him, and to our God, for he will abundantly pardon." - [Isaiah 55:7](https://www.biblestudytools.com/isaiah/55-7.html)
 
-9. "Repent therefore, and turn back, that your sins may be blotted out." - Acts 3:19
+7. "Put to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry." - [Colossians 3:5](https://www.biblestudytools.com/colossians/3-5.html)
 
-10. "For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death." - 2 Corinthians 7:10
+8. "But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires." - [Romans 13:14](https://www.biblestudytools.com/romans/13-14.html)
+
+9. "Repent therefore, and turn back, that your sins may be blotted out." - [Acts 3:19](https://www.biblestudytools.com/acts/3-19.html)
+
+10. "For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death." - [2 Corinthians 7:10](https://www.biblestudytools.com/2-corinthians/7-10.html)
 
 ### Teach preservation of self-discipline, concentration, self-control.
 
