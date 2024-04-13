@@ -86,27 +86,27 @@ We are ALL in need of help in rebuilding our courage and mindfulness ... that is
 10. "But seek first the kingdom of God and his righteousness, and all these things will be added to you." - [Matthew 6:33](https://www.biblestudytools.com/matthew/6-33.html)
 
 
-### Teach cultivation of NEW hope, new skills, better/new relationships, new hobbies, new cognitive strategies.
+### Teach cultivation of NEW hope, new skills, better/new relationships, new hobbies, new cognitive strategies
 
-1. "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come." - 2 Corinthians 5:17
+1. "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come." - [2 Corinthians 5:17](https://www.biblestudytools.com/2-corinthians/5-17.html)
 
-2. "And he who was seated on the throne said, 'Behold, I am making all things new.' Also he said, 'Write this down, for these words are trustworthy and true.'" - Revelation 21:5
+2. "And he who was seated on the throne said, 'Behold, I am making all things new.' Also he said, 'Write this down, for these words are trustworthy and true.'" - [Revelation 21:5](https://www.biblestudytools.com/revelation/21-5.html)
 
-3. "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh." - Ezekiel 36:26
+3. "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh." - [Ezekiel 36:26](https://www.biblestudytools.com/ezekiel/36-26.html)
 
-4. "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint." - Isaiah 40:31
+4. "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint." - [Isaiah 40:31](https://www.biblestudytools.com/isaiah/40-31.html)
 
-5. "I can do all things through him who strengthens me." - Philippians 4 ... especially verse 13, but the whole chapter is worth reading for this purpose.
+5. "Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things." - [Philippians 4:8](https://www.biblestudytools.com/philippians/4-8.html)  ... and "I can do all things through him who strengthens me." - [Philippians 4:13](https://www.biblestudytools.com/philippians/4-13.html). The whole chapter [Philippians 4](https://www.biblestudytools.com/philippians/4.html) is worth reading for the purpose of cultivating new cognitive strategies. 
 
-6. "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another." - John 13:34
+6. "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another." - [John 13:34](https://www.biblestudytools.com/john/13-34.html)
 
-7. "And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near." - Hebrews 10:24-25
+7. "And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near." - [Hebrews 10:24-25](https://www.biblestudytools.com/hebrews/passage/?q=hebrews+10:24-25)
 
-8. "Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things." - Philippians 4:8
+8. "Iron sharpens iron, and one man sharpens another." - [Proverbs 27:17](https://www.biblestudytools.com/proverbs/27-17.html) This Proverb applies to most things; we learn the most when we are attempting to teach something that we have learned. So "Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms and hymns and spiritual songs, with thankfulness in your hearts to God." - [Colossians 3:16](https://www.biblestudytools.com/colossians/3-16.html)
 
-9. "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." - Romans 12:2
+9. "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." - [Romans 12:2](https://www.biblestudytools.com/romans/12-2.html)
 
-10. "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith." - Hebrews 12:1-2
+10. "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith." - [Hebrews 12:1-2](https://www.biblestudytools.com/hebrews/passage/?q=hebrews+12:1-2)
 
 
 # Christian Jail Ministry MUST BE rooted in the Resurrection
