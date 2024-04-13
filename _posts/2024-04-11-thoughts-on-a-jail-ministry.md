@@ -21,25 +21,25 @@ We are ALL in need of help in rebuilding our courage and mindfulness ... that is
 
 ### Teach restraint of the emotions, anxieties, depression; give it to God.
 
-1. "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid." - John 14:27
+1. "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid." - [John 14:27](https://www.biblestudytools.com/john/14-27.html)
 
-2. "Cast all your anxiety on him because he cares for you." - 1 Peter 5:7
+2. "Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you, casting all your anxieties on him, because he cares for you." - [1 Peter 5:6-7](https://www.biblestudytools.com/1-peter/passage/?q=1+peter+5:6-7)
 
-3. "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus." - Philippians 4:6-7
+3. "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus." - [Philippians 4:6-7](https://www.biblestudytools.com/philippians/passage/?q=philippians+4:6-7)
 
-4. "Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls." - Matthew 11:28-29
+4. "Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls." - [Matthew 11:28-29](https://www.biblestudytools.com/matthew/passage/?q=matthew+11:28-29)
 
-5. "For God gave us a spirit not of fear but of power and love and self-control." - 2 Timothy 1:7
+5. "For God gave us a spirit not of fear but of power and love and self-control." - [2 Timothy 1:7](https://www.biblestudytools.com/2-timothy/1-7.html)
 
-6. "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice." - Ephesians 4:31
+6. "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice." - [Ephesians 4:31](https://www.biblestudytools.com/ephesians/4-31.html)
 
-7. "Refrain from anger, and forsake wrath! Fret not yourself; it tends only to evil." - Psalm 37:8
+7. "Refrain from anger, and forsake wrath! Fret not yourself; it tends only to evil." - [Psalm 37:8](https://www.biblestudytools.com/psalms/37-8.html)
 
-8. "Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, 'Vengeance is mine, I will repay, says the Lord.'" - Romans 12:19
+8. "Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, 'Vengeance is mine, I will repay, says the Lord.'" - [Romans 12:19](https://www.biblestudytools.com/romans/12-19.html)
 
-9. "The Lord is near to the brokenhearted and saves the crushed in spirit." - Psalm 34:18
+9. "The Lord is near to the brokenhearted and saves the crushed in spirit." - [Psalm 34:18](https://www.biblestudytools.com/psalms/34-18.html)
 
-10. "Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you, casting all your anxieties on him, because he cares for you." - 1 Peter 5:6-7
+10.  "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go." - [Joshua 1:9](https://www.biblestudytools.com/joshua/1-9.html)
 
 ### Teach repentence and abandonment of bad habits of being ourselves.
 
