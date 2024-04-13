@@ -63,28 +63,27 @@ We are ALL in need of help in rebuilding our courage and mindfulness ... that is
 
 10. "For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death." - [2 Corinthians 7:10](https://www.biblestudytools.com/2-corinthians/7-10.html)
 
-### Teach preservation of self-discipline, concentration, self-control.
+### Teach preservation of self-discipline, concentration, self-control
 
+1. "But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified." - [1 Corinthians 9:27](https://www.biblestudytools.com/1-corinthians/9-27.html)
 
-1. "But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified." - 1 Corinthians 9:27
+2. "For this very reason, make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness." - [2 Peter 1:5-6](https://www.biblestudytools.com/2-peter/passage/?q=2+peter+1:5-6)
 
-2. "For this very reason, make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness." - 2 Peter 1:5-6
+3. "Whoever is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city." - [Proverbs 16:32](https://www.biblestudytools.com/proverbs/16-32.html)
 
-3. "Whoever is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city." - Proverbs 16:32
+4. "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law." - [Galatians 5:22-23](https://www.biblestudytools.com/galatians/passage/?q=galatians+5:22-23)
 
-4. "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law." - Galatians 5:22-23
+5. "No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it." - [1 Corinthians 10:13](https://www.biblestudytools.com/1-corinthians/10-13.html)
 
-5. "No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it." - 1 Corinthians 10:13
+6. "Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak." - [Matthew 26:41](https://www.biblestudytools.com/matthew/26-41.html)
 
-6. "Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak." - Matthew 26:41
+7. "And Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness for forty days, being tempted by the devil. And he ate nothing during those days. And when they were ended, he was hungry." - [Luke 4:1-2](https://www.biblestudytools.com/luke/passage/?q=luke+4:1-2)
 
-7. "And Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness for forty days, being tempted by the devil. And he ate nothing during those days. And when they were ended, he was hungry." - Luke 4:1-2
+8. "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." - [Romans 12:2](https://www.biblestudytools.com/romans/12-2.html)
 
-8. "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." - Romans 12:2
+9. "Set your minds on things that are above, not on things that are on earth." - [Colossians 3:2](https://www.biblestudytools.com/colossians/3-2.html)
 
-9. "Set your minds on things that are above, not on things that are on earth." - Colossians 3:2
-
-10. "But seek first the kingdom of God and his righteousness, and all these things will be added to you." - Matthew 6:33
+10. "But seek first the kingdom of God and his righteousness, and all these things will be added to you." - [Matthew 6:33](https://www.biblestudytools.com/matthew/6-33.html)
 
 
 ### Teach cultivation of NEW hope, new skills, better/new relationships, new hobbies, new cognitive strategies.
