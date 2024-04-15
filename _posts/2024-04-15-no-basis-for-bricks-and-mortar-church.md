@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NO Scriptural Requirement Of A Physical Church Building, A Pulpit, Or A Choir"
+title:  "NO Scriptural Requirement Of A Physical Church, A Pulpit, Or Choir"
 date:   2024-04-15 4:20:00
 categories: template
 ---
@@ -35,4 +35,6 @@ Moreover, the specific organization and function of choirs can vary widely among
 
 REQUIRING congregations to fund a physical building, a pulpit, and a choir is a matter of PRIDE and ENVY ... accordingly, this sort of demand to fund these things, rather than assisting the poor or using more effective, efficient methods to spread the Gospel, is an abomination ... because it's one thing for people to take pride in what they do OR to be envious of others musical or public speaking abilities or competencies as an entertainer, but it is absolutely REPRESENSIBLE in a spiritual sense to demand that members of a congregation are obligated to fund the sources of PRIDE and ENVY of church officials.
 
-The Bible could not be more clear on this. Jesus was NOT at all fan of Pharisaically ostentacious grandiosity of such narcissistic and pride-filled ways supported by those who were emotionally-coerced into funding the Pharisees. 
+The Bible could not be more clear on this. Jesus was NOT at all fan of Pharisaically ostentacious grandiosity of such narcissistic and pride-filled ways supported by those who were emotionally-coerced into funding the Pharisees.
+
+It's NOT that there's a problem with the structure, the pulpit or the choir ... but REQUIRING or EMOTIONALLY COERCING congregation members to open up their wallets to fund these these things is equivalent to THEFT ... from the poor, from the body of believers working to spread the Gospel ... if church members want to fund the accoutrements their church, it's fine ... but there should not be tax advantages for clubs that are dedicated to supporting a particular form of ENTERTAINMENT.
