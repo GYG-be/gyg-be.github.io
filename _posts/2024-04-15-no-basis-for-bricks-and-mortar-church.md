@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "There Is ZERO Basis In Scripture For The Physical "Bricks And Mortar" Church Building, Or Pulpit, Or Special Place For The Choir"
+title:  "NO Scriptural Requirement Of A Physical Church Building, A Pulpit, Or A Choir"
 date:   2024-04-15 4:20:00
 categories: template
 ---
