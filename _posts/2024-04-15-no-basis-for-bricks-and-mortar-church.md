@@ -6,6 +6,9 @@ categories: template
 ---
 
 
+I am a Christian ... I am not either a hater or lover of physical churches, preachers or church choirs ... but I am a Christian who recognizes that Christian faith has NOTHING WHATSOVER TO DO with physical churches, preachers, or church choirs ... these things are fine, but they are not required for the Christian faith AND they should not recieve any sort of special tax treatment, ie they should be taxed in the same manner that any other club or organization that operates for the purpose of entertainment or socialization is taxed.
+
+There is NO scriptural requirement of a physical church, a pulpit, or a choir to be a Christian. A Christian must accept the gift of salvation made possible by the death and resurrection of Jesus Christ; Christianity is about believing that Jesus Christ is the only path to God. Christians must first accept Christ as our savior and then we pray that the Holy Spirit comes into our lives and transforms us. Scripture is absolutely clear that the church is built on the the body of Christians, NOT constructed as a physical building ... the church is a spiritual community of believers who have been transformed by the saving grace of Jesus Christ, there is no scriptural need for a physical building. The physical building is only there to serve as a club ... there's nothing wrong with Christian clubs, but there is no scriptural basis for requiring participation in and funding of physical buildings, or places for preachers or choirs to perform.
 
 # Physical Church
 
