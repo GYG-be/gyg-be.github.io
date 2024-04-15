@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "There Is ZERO Basis In Scripture For The Physical "Bricks And Mortar" Church Building, Or Pulpit, Or Special Place For The Choir"
-date:   2024-04-15 4:30:00
+date:   2024-04-15 4:20:00
 categories: template
 ---
 
