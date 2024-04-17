@@ -34,7 +34,7 @@ And yet's that is EXACTLY what we are doing when we look back nostalgically and 
 
 ## The Theology of NEVER LOOKING BACK
 
-*"Looking back longingly, with nostalgia for the past, has consequences, just ask Lot's wife."* - [Genesis 19:26](https://www.biblestudytools.com/genesis/19-26.html)
+*Looking back longingly, with nostalgic unrealistic yearning for one's past life, has consequences, just ask Lot’s wife* - [Genesis 19:26](https://www.biblestudytools.com/genesis/19-26.html)
 
 I am working on a 200-module, year-long Christian post-graduate level intensive curriculum in theology, psychology, cognitive neuroscience, dementia, alcoholism, and various coping mechanisms related to aging, decline, atrophy of skills, death, and grieving losses:
 
