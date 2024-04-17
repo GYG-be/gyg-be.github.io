@@ -6,6 +6,7 @@ date:   2024-04-21 4:30:00
 categories: template
 ---
 
+*"Never look back unless you are planning to go that way."* - ***Henry David Thoreau***
 
 Here is a proposed 200-module, year-long Christian post-graduate level intensive curriculum in theology, psychology, cognitive neuroscience, dementia, alcoholism, and various coping mechanisms related to aging, decline, atrophy of skills, death, and grief:
 
