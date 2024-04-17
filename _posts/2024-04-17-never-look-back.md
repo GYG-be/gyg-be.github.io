@@ -2,13 +2,25 @@
 layout: post
 subtitle:  "Never Look Back"
 subtitle:  "He Is Risen!"
-date:   2024-04-21 4:30:00
+date:   2024-04-17 4:30:00
 categories: template
 ---
 
 *"Never look back unless you are planning to go that way."* - ***Henry David Thoreau***
 
-Here is a proposed 200-module, year-long Christian post-graduate level intensive curriculum in theology, psychology, cognitive neuroscience, dementia, alcoholism, and various coping mechanisms related to aging, decline, atrophy of skills, death, and grief:
+The BIGGEST PROBLEM that I have with me is ANY tendency of mine to EVER look back nostalgically ... to me, this is tantamount to being SUPREMELY UNGRATEFUL for the moment that is about to happen.
+
+In other words, when I pray to let God's will be done ... to give me the ability to accept the Holy Spirit into my life ... I am asking for the ability to be ecstatically grateful for the moment that is about to happen ... and to be able to appreciate the joy and the beauty in that moment that is about to look back.
+
+Whenever I am sad about missing the bygone days ... I realize that sadness is derived by not being ready and anxious to joyously welcome in the moment that is about to happen.  In other words, it's like the ungrateful little boy telling his parents and grandparents that this year's gift SUCKS and he wishes they give out good presents like they gave out in the past. If there was EVER a time for an ungrateful little brat to be SLAPPED SILLY ... it would be at that moment ... and yet's that is EXACTLY what we are doing when we look back nostalgically and wish for God to give us the same gifts that he gave us in the past ... guess what ... TIME does not work that way ... God is giving us gifts that we are to enjoy and celebrate IN THE MOMENT TO COME ... **we are to be grateful for the gifts that we are about to be given!**
+
+*MAYBE we should start telling others around us to keep their nostalgia to themselves* ... WE ARE ABOUT TO CELEBRATE THE MOMENT THAT IS ABOUT TO HAPPEN ... and we HAVE DECIDED THAT FROM NOW ON ***we are going to be grateful for the gifts that we are about to be given!***
+
+## The Theology of NEVER LOOKING BACK
+
+*"Looking back longingly, with nostalgia for the past, has consequences, just ask Lot's wife."* - [Genesis 19:26](https://www.biblestudytools.com/genesis/19-26.html)
+
+I am working on a 200-module, year-long Christian post-graduate level intensive curriculum in theology, psychology, cognitive neuroscience, dementia, alcoholism, and various coping mechanisms related to aging, decline, atrophy of skills, death, and grieving losses:
 
 ### Theological Foundations (30 modules):
 

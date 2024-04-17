@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Complex X-As-A-Service Sale"
-date:   2024-04-17 4:30:00
+date:   2024-04-21 4:30:00
 categories: template
 ---
 
