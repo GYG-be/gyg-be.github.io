@@ -8,23 +8,27 @@ categories: template
 
 *"Never look back unless you are planning to go that way."* - ***Henry David Thoreau***
 
-The BIGGEST PROBLEM that I have with ME ... or *the guy in the mirror* if I wanna leave *me* out of it ... is ANY tendency whatsoever of mine to EVER look back nostalgically.
+The BIGGEST PROBLEM that I have with ME ... or *the guy in the mirror* if I wanna leave *me* out of it ... MY BIGGEST problem is ANY tendency whatsoever on my part to EVER be lured into EVER look back nostalgically.
 
-I HATE the SIN of that level of INGRATITUDE.  I HATE IT!
+Of course, I have fond memories of the past, but I REFUSE to look back with nostalgic LONGING for the past. It's one thing to be grateful for the past; it is WRONG to long for it.
 
-Looking back and desiring the future to be just like some comfortable memory of the past tantamount to being SUPREMELY UNGRATEFUL for the moment that is about to happen.
+We should not look in the rear view mirror when we are driving into the future ... TIME does not work that way AT ALL! 
+
+God is giving us gifts that we are to enjoy and celebrate IN THE MOMENT TO COME ... **we are to be grateful for the gifts that we ARE ABOUT TO RECIEVE!**
+
+***I detest nostalgic longing for the past ... it's evidently some sort of sin that the Devil has designed to make us ungrateful. I am not going to fall for that ploy!  I HATE the SIN of that level of INGRATITUDE.  I HATE IT!***
+
+Looking back and desiring the future to be just like some comfortable memory of the past is exactly equivalent to being SUPREMELY UNGRATEFUL for the moment that is about to happen.
 
 In other words, when I pray to let God's will be done ... I come before my Creator, in the name of my savior, Jesus Christ, to also petition that God grant me the superhuman spiritual ability to accept the Holy Spirit into my life.
 
-When I do those things, I am, in essence, BEGGING God for the ability to be ecstatically joyous and grateful for the moment that is about to happen ... and to be able to appreciate the joy and the beauty in that moment that is about to happen.
+When I pray for those things ... that God's will, NOT MINE, be done AND that the Holy Spirit transforms me in a way that I can't do ...  I am BEGGING God for the ability to be ecstatically joyous and grateful for the moment that is about to happen ... and to be able to appreciate the joy and the beauty in that moment that is about to happen.
 
 Whenever, I am behaving like a whiny little crybaby ... or sad about missing the bygone days ... I realize that sadness is derived by not being ready and anxious to joyously welcome in the moment that is about to happen.  
 
-In other words, it's like the ungrateful little boy telling his parents and grandparents that this year's gift SUCKS and he wishes they give out good presents like they gave out in the past. If there was EVER a time for an ungrateful little brat to be SLAPPED SILLY ... it would be at that kind of whininess.
+In other words, it's like the ungrateful, spoilt little crybaby boy telling his parents and grandparents that this year's presents SUCK and he's going to pout until they give him presents like in the past ... well, maybe I am not always a fan of corporal punishment, but if there was EVER a time for an ungrateful little brat to be SLAPPED SILLY ... it would be for that kind of supremely disgusting whininess.
 
 And yet's that is EXACTLY what we are doing when we look back nostalgically and wish for God to give us the same gifts that he gave us in the past.
-
-Guess what ... TIME does not work that way ... God is giving us gifts that we are to enjoy and celebrate IN THE MOMENT TO COME ... **we are to be grateful for the gifts that we are about to be given!**
 
 *MAYBE we should start telling others around us to keep their nostalgia to themselves* ... WE ARE ABOUT TO CELEBRATE THE MOMENT THAT IS ABOUT TO HAPPEN ... and we HAVE DECIDED THAT FROM NOW ON ***we are going to be grateful for the gifts that we are about to be given!***
 
