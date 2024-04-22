@@ -42,6 +42,10 @@
 		{
 			"name": "86400guru.github.io",
 			"path": "../../86400guru.github.io"
+		},
+		{
+			"name": "ancientguy.github.io",
+			"path": "../../ancientguy.github.io"
 		}
 	],
 	"settings": {
