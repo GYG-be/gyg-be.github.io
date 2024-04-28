@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "86400 secs/day, grappler's mindset, becoming a better Christian."
+title:  "86400 secs/day, your luck surface area, becoming a better Christian."
 date:   2024-03-25 4:30:00
 categories: template
 ---
 
 
-A grappling lifestyle, for me, is about grappling with the angel of the Lord ... in a match, with a clock ticking but I don't know for sure how much time I have left or what the score is ... but me recognizing that I have to make moves because the time left in the match is limited, but as I move through the moments, I need to be actively looking ahead and doing whatever I can in every moment to make the future moments of my existence BETTER, MORE PRODUCTIVE in every sense of the word, all toward the goal of being a better Christian. 
+# Your luck surface area
 
-OBVIOUSLY, the grappling mindset is mostly a metaphor ... of course, I do want to be healthier, stronger, more fit, more productive, more able to overcome challenges that are coming ... so that I can consistently develop the discipline so that I can be more and more productive in working on myself and working toward the goal of becoming a better Christian.
+You have a natural luck catching surface that is akin to a watershed catching rain or cropland or field solar collectors or a sail on sailboat ... an area that is far from flat but is instead a complex, undulating surface that is constantly soaking up great luck from the Universe ... but way too many people work far harder at becoming more and more addicted stupid shit ... they not only indulge bad habits and imitating others just generally being miserable because they feel they must covet what other people have OR judge whether others are righteous ... being covetous or judgemental or gossiping about other people ALWAYS ALWAYS ALWAYS make the idiots more stress, more anxious, more miserable, longing for old days ... as time moves on, the old stressed-out crybabies become sicker, older and generally less and less lucky in everything they do.
 
-*For Christians, there can be no other day in the year that is more genuinely worthy of a SPECIAL day of celebration than the Sunday that is coming up. Easter is THE reason we are Christians; the CELEBRATION of Easter really MATTER to us.*
+The FACT of the matter is that every single living human has some sort of complex, undulating, naturally flexible luck catching surface area ... AND every single human has vulnerablities, habits and stiff-necked tendencies that most humans tend to be excessively defensive about, ie people feel sorry for themselves, they want to see themselves as martyrs fighting for a noble cause ... the fact of the matter is that Jesus Christ died for our sins ... our biggest problem is not accepting Christ as our path to be one with the ORIGIN of all Origins ... we fail to be humble enough to let the Holy Spirit take over our lives and allow us to be filled with the spirit of God, to able to bloom like a field of lilies ... we could be attracting pollinators and birds; we could planting and transplanting flowers ... instead, we are proud of the disgusting status symbols of imaginary American affluence as we bathe in noise we make with our leafblowers and pour money and gas into the riding lawn mowers that haul our atrophied corpses of bodies around on our lifeless lawns.
+
 
 # The NECESSITY of perspective and priorities.
 
@@ -32,11 +33,20 @@ We DEFINE our terms, so that we can speak to others and convey ideas ... the wor
 
 We cannot repeat this enough ... we DEFINE God as The Origin ... the thing driving everything that brought us into existence ... the REASON that our *brains boot up at the start of our days*; the originating, grand REASON for everything has happened so that we even get to think about what it means to think ... God's name for God's *self* is ***"I AM"*** ... we ascribe pronouns to God, but God's pronoun really is just ***I*** ... and the only verb God needs to use is ***AM***. Because God is literally the initial origin of EVERYTHING that is, ever was, and ever will be  ... this is not debatable; instead, it is matter of DEFINITION of terminology and the words we use in our language to convey ideas ... it's not a matter of belief.
 
-## Why games matter
+# Grappler's mindset
 
-Humans play. We play with ideas and concepts. We play with designs and mechanisms. We play in order to understand the magic of something.  We play in order to understand and dissect how things work. Humans LOVE playing.
+A grappler's mindset or a grappling lifestyle, for me, is about grappling with the angel of the Lord ... in a match, with a clock ticking but I don't know for sure how much time I have left or what the score is ... but me recognizing that I have to make moves because the time left in the match is limited, but as I move through the moments, I need to be actively looking ahead and doing whatever I can in every moment to make the future moments of my existence BETTER, MORE PRODUCTIVE in every sense of the word, all toward the goal of being a better Christian. 
 
-We engage in playing games because we enjoy everything about the play of the game immensely ... when we say that we LOVE those games ... it's kind of a figure of speech ... it's not exactly like our LOVE of our Creator or our LOVE for the most ORIGINAL of all of our earlies ORIGINs ... but that LOVE is child-like love of play, love of thinking, love of experimentation ... our love of games is matter of PURE, UNADULTERATED, COMPLETE, WHOLE enjoyment of what it's like to think freely about something we kind of understand and want to understand better. 
+OBVIOUSLY, the grappling mindset is mostly a metaphor ... of course, I do want to be healthier, stronger, more fit, more productive, more able to overcome challenges that are coming ... so that I can consistently develop the discipline so that I can be more and more productive in working on myself and working toward the goal of becoming a better Christian.
+
+*For Christians, there can be no other day in the year that is more genuinely worthy of a SPECIAL day of celebration than the Sunday that is coming up. Easter is THE reason we are Christians; the CELEBRATION of Easter really MATTER to us.*
+## Why sports, games, hobbies matter
+
+Humans play. We play with ideas and concepts. We play with designs and mechanisms. We play in order to understand the magic of something.  We play in order to understand and dissect how things work. **Humans LOVE playing.**
+
+We should always practice like we play ... and if we don't enjoy playing at something, we should probably not be playing that game ... there are way too many OTHER things to play at ... it's MORONIC to force kids to play games that they don't want to play ... we are uniquely creative beings, with MULTIPLE ways to play at different things ... we should be able to find something that we enjoy playing at ... and we should be able to find ways to play at that thing that are meaningful and enjoyable to us ... it's not that difficult ... don't do stupid shit that you hate because other people IMAGINE that you'd enjoy it -- they have a giant deficit in their imagination and should stick to minding their own business.
+
+We engage in playing games because we ***enjoy every last thing*** about the play of the game immensely ... when we say that we LOVE those games ... it's *kind of* a figure of speech ... it's not exactly like our LOVE of our Creator or our LOVE for the most ORIGINAL of all of our earlies ORIGINs ... but that LOVE is child-like love of play, love of thinking, love of experimentation ... our love of games is matter of PURE, UNADULTERATED, COMPLETE, WHOLE enjoyment of what it's like to think freely about something we kind of understand and want to understand better. 
 
 But when we LOVE something ... like the sport of wrestling or jiu jitsu ... we have to realize that love is extremely FINITE ... and we really should understand that not everybody's going to be into our game ... not everyone else will exactly share that love OR define their success OR will share our personal unique love of the sport ... although that love of the sport will be, like language is, is an uncommonly, extra special way of communicating with other humans.
 
