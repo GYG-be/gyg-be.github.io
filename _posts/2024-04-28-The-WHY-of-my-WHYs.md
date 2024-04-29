@@ -6,11 +6,21 @@ categories: template
 ---
 
 
-I am still VERY VERY VERY MUCH  ...an imperfect child of God 🌟 attempting to become an empath🧎🏾 who cannot possibly ever communicate how GRATEFUL he is to our Creator for every moment of his existence! [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
+I am still VERY VERY VERY MUCH  ...an imperfect child of God 🌟 attempting to become an empath🧎🏾 who cannot possibly ever communicate how GRATEFUL he is to our Creator for every moment of his existence! [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html).
 
-I am NOT especially empathetic ... I do have a strong capacity for figuring out WEAKNESS ... I am not terribly sympathetic for the MISERY that hateful gossips and stiff-necked LOSERS tend to self-induce.  **I'm just not that sympathetic with those who work so damned hard at causing themselves to be more miserable** ... and I dunno if I ever see that changing.
+I have witnessed what SUCCESS is, but my attempt to change is ... encountering headwinds ... I am NOT especially empathetic, but I do have a rather strong capacity for figuring out and disdaining WEAKNESS, particularly when I see WEAKNESS of myself manifested in the actions and con-games of others.
 
-If you are a hateful gossip or a stiff-necked LOSER, you will suffer ... and God is not going to send the people to Hell that you want to see go to Hell ... God is going to send pathetic, whining, cancerous self down into that Hell.  Hell is VERY REAL ... and it's not a place that you want to go ... but you're misery is going to persist as long as you don't stop being a hateful gossip or a stiff-necked LOSER who hates the success of others ... and the world is FULL of people who are ENORMOUSLY SUCCESSFUL, eg hang out with some developmentally-disabled folks from a local group home if you want examples of JOY-FILLED CHRISTIAN SUCCESS STORIES.
+I detest the bad habits that I have, particulurly since those habits have literally shaped me ... 
+
+I am not terribly sympathetic for the MISERY that hateful gossips and the pain that stiff-necked LOSERS tend to self-induce ... life does not need to be a dick measuring contest; there's absolutely no reason whatsoever to compare yourself with others ... maybe we ALL do this or have done this ... but we ALL can give up gossiping and the comparisons ... we can ALL give up the habits that make us LOSERS, rather than defending those habits.  
+
+**I'm just NOT going to be that sympathetic with those who work so damned hard at causing themselves to be more miserable** ... and I dunno if I ever see that changing; I need to work harder on changing it in myself.
+
+If you are a hateful gossip or a stiff-necked LOSER, there's GUARANTEE that you will suffer. 
+
+God is not going to send the people to Hell that you want to see go to Hell ... God is going to send YOUR pathetic, whining, cancerous ass down into that Hell.  Hell is VERY REAL ... and Hell is not a place that you need to put yourself in ... but your misery is going to persist as long as you don't stop being a hateful gossip or a stiff-necked LOSER who hates the success of others.  
+
+The world is FULL of people who are ENORMOUSLY SUCCESSFUL, eg hang out with some developmentally-disabled folks from a local group home if you want examples of JOY-FILLED CHRISTIAN SUCCESS STORIES.
 
 # PREFACE
 
