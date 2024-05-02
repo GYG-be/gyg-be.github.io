@@ -6,15 +6,17 @@ categories: template
 ---
 
 
-As a matter of PURE ENTERTAINMENT ... I enjoy the NFL Draft ... much moreso than games ... because it's the CULMINATION of YEARS of ridiculous athletic achievement.
+As a matter of PURE ENTERTAINMENT ... I enjoy the NFL Draft ... much moreso than games ... because it's the CULMINATION of YEARS of ridiculous athletic achievement ... *and not just that* ... ***the NFL Draft is the culmination of a full year of evaluation of talent by millions of serious football stat wonks who take the draft way too seriously*** *but it's JUST FOR FUN!!!*
 
-But ... what makes it FUN to me has do with the differences of opinions ... and how people shape their opinions of HIGHLY UNCERTAIN future outcomes ... so it's WAY BETTER than just a game ... it's about how people evaluate what kinds of success high level athletes will have in the future.
+What makes it FUN to me has do with the differences of opinions ... opinions, which are the result of SERIOUS stat wonkery ... the multiplicity of the fun comes in by looking at HOW people arrived at their conclusions ... it's interesting to look at big populations of people shaping their opinions of HIGHLY UNCERTAIN future outcomes based on stat wonkery.
 
-So for me ... it's about PURE FUN ... because I don't have anything at stake in the different outcomes. 
+So the NFL Draft is WAY BETTER than just a game for us stat wonks ... it's about how people evaluate what kinds of success high level athletes will have in the future.
 
-It's PURELY about about the evaluation of FUTURE performance AND the differences between what I see and what different other people see.  It's PURELY about the FUN of evaluating FUTURE PERFORMANCE ... and nothing but FUN ... NO BETTING. 
+So for me ... it's about PURE FUN ... because I don't have anything at stake in the different outcomes and I'm not about to get involved in the INDUSTRY of NFL Draft Analysis ... I'm just in awe of the fact that the industry exists and is doing as well as it is. 
 
-So FOR FUN ... I am going to compare my 2024 NFL Draft Order of QBs with the actual performance of those QBs in the 2024 season ... **SPOILER ALERT** ... I fully expect that my predictions will be WAY OFF; some might not be; but others will be ... but it's just for FUN.
+My interest is PURELY about about the evaluation of FUTURE performance AND the differences between what I see and what different other people see.  It's PURELY about the FUN of evaluating FUTURE PERFORMANCE ... and nothing but FUN ... NO BETTING ... no future business opportunity is under consideration. 
+
+So, JUST FOR FUN ... I am going to compare my 2024 NFL Draft Order of QBs with the actual performance of those QBs in the 2024 season ... **SPOILER ALERT** ... I fully expect that my predictions will be WAY OFF; some might not be; but others will be ... but it's just for FUN.
 
 # Draft Order of 2024 QBs
 
