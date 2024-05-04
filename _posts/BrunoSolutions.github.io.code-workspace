@@ -46,6 +46,14 @@
 		{
 			"name": "ancientguy.github.io",
 			"path": "../../ancientguy.github.io"
+		},
+		{
+			"name": "Salebarn.github.io",
+			"path": "../../Salebarn.github.io"
+		},
+		{
+			"name": "MelonCave.github.io",
+			"path": "../../MelonCave.github.io"
 		}
 	],
 	"settings": {
