@@ -8,42 +8,48 @@ categories: template
 
 
 
-## GYG is about continuously developing, continuously integrating, continuously deploying a BETTER you.
+## A BETTER you
 
-It's sort of like a wheel or a perpetually spinning cycle, that you continually work on accelerating ... basically, it's a matter of spinning the flywheel, touching on one part of the cycle at a time, but basically you just get going wherever you're at and then keep using cyclic inertia of your spinning flywheel.
+Your first assignment is to work on building a better you.
 
-1) Start with gratitude; never look back, polish the good, REMOVE the bad, eliminate waste
+There are different metaphors that we could use for this. Perhaps, your effectiveness [in your own life, for an employers, for others] like a flywheel; you start off with what you have and you continually work on accelerating the rotational energy of the flywheel ... if that metaphor doesn't work, come up with your own for an ongoing cyclic process in which you continually build up the energy and power of the cycle. 
 
-2) Know your WHY, continously reconnect your overall implementation of your VISION every day
+It's entirely cyclic and the order might not matter, but the important thing is to continuously keep doing all of the following
 
-3) Develop a concrete architectural framework of 250 structural traits for practically realizing your vision.
+1) It might be best to START with gratitude; never look back longing for the past or what you had, polish the good, REMOVE the bad, eliminate waste
 
-4) Prioritize the development of all traits / budget limited time / lay foundation for plans
+2) Know your WHY, continuously work at better knowing that WHY; reconnect your overall implementation of the whole cycle with your VISION every day
 
-5) Set Specific Measurable Aggressive Realistic Time-Bound (SMART) goals as you scope projects and make plans
+3) Develop a concrete architectural framework of 250 structural traits for practically realizing your vision; we'll explore this below.
 
-6) Network as you work through your plans, reach out to others doing things in the realm of your goals
+4) Prioritize the development of all traits / budget limited time / lay the foundation for plans by setting the scope and priority for action
 
-7) Build connections as you fine-tune your plans, pitch ideas, make proposals, get feedback
+5) Set Specific Measurable Aggressive Realistic Time-Bound (SMART) goals as you scope your projects to build competency; written goals drive action plans
 
-8) Think in terms of who the paying customers is or will be, start to qualify leads
+6) Network as you work through your written goals and action plans, use opportunities to reach out specifically to others doing things that match your agenda
 
-9) Close deals, deliver goods, follow-up, learn from your mistakes, get referrals
+7) Make friends, build connections and develop new friendships as you fine-tune your plans, pitch ideas or ask questions, propose fixes to issues, get feedback
 
-10) Give glory to God as you continously circle back to the beginning.
+8) Think in terms of who the paying customers is for the "product" that you will selling OR think about who will become a customer, start to qualify leads
+
+9) Sell your "product", close small deals at first -- then larger ones, deliver the goods, follow-up and ensure satisfaction, learn from your mistakes, drive the referral process
+
+10) Take no credit; humbly LISTEN, optimistically, cheerfully, enthusiastically give all glory to God as you continuously circle back to the beginning.
 
 
-## It starts with what you REMOVE.
+## Gratitude actually starts with what you REMOVE.
 
-Stop being a spectator; stop being programmed, stop imagining that you are entitled to things -- START working harder on being IN CONTROL of your programming.
+In order to be able to be more appropriately grateful ... so that your gratitude has some currency ... you are going to have to eliminate those things that actually undermine satisfaction and gratitude long-term. 
+
+Be a participant, not a bystander ... stop EVER being a spectator.  Be an ORIGINAL, don't be a copy of some cheap celebrity ... stop EVER being programmed; become an iconoclast. Stop imagining that you are entitled to comfort, convenience, respect or nice things -- START working harder on being the driving force IN CONTROL of your programming.
 
 In order to work on your value to an employer, to others around you, to your friends and family, to yourself, you are going to need to remove the teevee, the endless scrolling or surfing, the movie/documentary subscription, remove the spectator sports ... remove the junk food ... remove the junk reps in your exercise routine ... make every second of your life **really count**. 
 
-If you diligently follow build your own appoach to the following ten steps, you will will understand why you cannot afford to be a spectator. You can't afford the toll on your life of things that people do like having a few drinks every day to relax, ie yoou need to get to the root cause of what is driving you to feel you need to just relax ... you cannot afford to *just relax*, to *just* be a spectator -- you are going to NEED remove all habits that doesn't PUSH YOU to be better or you will not get better. 
+If you diligently follow build your own approach to the following ten steps, you will will understand why you cannot afford to be a spectator. You can't afford the toll on your life of things that people do like having a few drinks every day to relax, ie yoou need to get to the root cause of what is driving you to feel you need to just relax ... you cannot afford to *just relax*, to *just* be a spectator -- you are going to NEED remove all habits that doesn't PUSH YOU to be better or you will not get better. 
 
 You probably won't be able to eliminate all of the bad habits right away -- you might have to just taper things off, just start removing one thing every day ... but FIRST, you are going to need to remove ALL of the sense of entitlement to bad habits or guilty pleasures, ie you are ENTITLED to be the you that really want to be, but to get what you deserve, you are going to need to FOCUS all of your energy and time on improving who you want to be. 
 
-## It BEGINS WITH YOU DEFINING YOUR SPIRITUAL LIFE.
+## KNOWING YOUR WHY BEGINS WITH YOU DEFINING YOUR SPIRITUAL LIFE.
 
 What is your WHY? If you want to develop into an authentic ORIGINAL, you are going to have to ask yourself some deep questions about what the Origin of your existence really is.
 
