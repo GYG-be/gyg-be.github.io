@@ -39,11 +39,17 @@ It's entirely cyclic and the order might not matter, but the important thing is 
 
 ## Gratitude actually starts with what you REMOVE.
 
-In order to be able to be more appropriately grateful ... so that your gratitude has some currency ... you are going to have to eliminate those things that actually undermine satisfaction and gratitude long-term. 
+Be grateful for every second in the 86,400 second day. You only have so much time life -- YOU must be GRATEFUL for each second ... OR ELSE ... quite simply, you not going to be someone who is worth knowing. Without gratitude for the gift of time, you're just another bovine consuming resources ... except for evil forces, there is nothing in the world that particularly needs an ungrateful bovine.
 
-Be a participant, not a bystander ... stop EVER being a spectator.  Be an ORIGINAL, don't be a copy of some cheap celebrity ... stop EVER being programmed; become an iconoclast. Stop imagining that you are entitled to comfort, convenience, respect or nice things -- START working harder on being the driving force IN CONTROL of your programming.
+Your gratitude must have some currency ... this means you are going to have to eliminate those unimportant things that generally undermine your ability to deliver satisfaction and improve the capability to sustain in increasing plane of  gratitude over the long-term ... in a nutshell, your ability to be grateful tomorrow is going to depend upon the stupid stuff that you remove today from being on the agenda tomorrow. 
 
-In order to work on your value to an employer, to others around you, to your friends and family, to yourself, you are going to need to remove the teevee, the endless scrolling or surfing, the movie/documentary subscription, remove the spectator sports ... remove the junk food ... remove the junk reps in your exercise routine ... make every second of your life **really count**. 
+Remove ALL addictions ... even slight tugs ... to alcohol, processed food, failing to exercise, any form of reassuring or entertaining televised or video programming -- everything means news, sports, movies, documentaries ... remove ALL addictions to things that deliver comfort or convenience that makes you dependent on them as your favorite.
+
+Be a participant ... LISTEN to ordinary people, without being a gawking bystander ... stop EVER being a gossip or a spectator or a member of the crowd of bovines trying to fit in with the other bovines.
+
+Be an ORIGINAL, don't be a copy of some cheap celebrity ... stop EVER being programmed; become an iconoclast. Stop imagining that you are entitled to comfort, convenience, respect or nice things -- START working harder on being the driving force IN CONTROL of your programming.
+
+In order to work on your value to anyone of significance, such as an employer, to others around you who count, to yourself, you are going to need to BE GRATEFUL FOR 86,400 seconds/day ... that means that you must remove the teevee, remove the endless scrolling on social media or surfing out of boredom ... you have to STOP believing that you can EVER find any entertainment elsewhere ... that means you MUST cancel the movie/documentary subscription, you have to remove ALL of your consumption of spectator sports -- if you are not a participant, there's nothing you gain by watching ... remove the processed food, get absolutely zealous about removing all JUNK food -- never hang out with junk food swallowers ... remove the junk reps in your exercise routine ... GRATITUDE for 86,400 seconds is about working harder making every second of your life **really count**. 
 
 If you diligently follow build your own approach to the following ten steps, you will will understand why you cannot afford to be a spectator. You can't afford the toll on your life of things that people do like having a few drinks every day to relax, ie yoou need to get to the root cause of what is driving you to feel you need to just relax ... you cannot afford to *just relax*, to *just* be a spectator -- you are going to NEED remove all habits that doesn't PUSH YOU to be better or you will not get better. 
 
