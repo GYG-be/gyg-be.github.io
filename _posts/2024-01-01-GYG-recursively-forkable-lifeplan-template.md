@@ -8,21 +8,23 @@ categories: template
 
 
 
-## A BETTER you
+## A BETTER YOU
 
-Your first assignment is to work on building a better you.
+Your first assignment is to develop, immediately implement, improve, adjust and re-implement your plan to work on building a more effective YOU.
 
-There are different metaphors that we could use for this. Perhaps, your effectiveness [in your own life, for an employers, for others] like a flywheel; you start off with what you have and you continually work on accelerating the rotational energy of the flywheel ... if that metaphor doesn't work, come up with your own for an ongoing cyclic process in which you continually build up the energy and power of the cycle. 
+There are [all kinds of different metaphors that we could use for thinking about this assignment](https://www.perplexity.ai/search/What-are-the-f2J_ponhT8Kt7lhygae3CQ#0) ... and if the top ten metaphors are insufficient to inspire you, you can ask your own AI assistant different levels of follow-up questions ... the point is that the inspiration for doing this is entirely on you. Find the inspiration because the rest of your life is going to be about this plan.
 
-It's entirely cyclic and the order might not matter, but the important thing is to continuously keep doing all of the following
+Maybe, your effectiveness [in your own life, for an employers, for others who matter to you] like a flywheel; you start off with what you have and you continually work on accelerating the rotational energy of the flywheel ... if that metaphor doesn't work, maybe you can see yourself in some battle ... maybe you building a house or climbing a mountain ... the important thing is that the metaphor has to work for you ... you have to come up with your own for an ongoing cyclic process in which you continually build up the energy and power of the cycle. 
 
-1) It might be best to START with gratitude; never look back longing for the past or what you had, polish the good, REMOVE the bad, eliminate waste
+It's entirely cyclic and the ORDER of execution might not matter, but the important thing is to just execute as well as you can, then get better at executing your plan as you continuously keep doing all of the following
+
+1) It might be best to START with gratitude for the time you have; never look back longing for the past, ditch the regrets, just polish the good, REMOVE the bad, eliminate the waste and bad habits that are holding you back
 
 2) Know your WHY, continuously work at better knowing that WHY; reconnect your overall implementation of the whole cycle with your VISION every day
 
-3) Develop a concrete architectural framework of 250 structural traits for practically realizing your vision; we'll explore this below.
+3) Develop a concrete architectural framework of 250 structural traits for practically realizing your vision; we'll explore this in greater detail below, but the important thing is that your life needs to have about 250 [or more] different facets to it -- the features on your vehicle are totally insignificant in comparison to the features/facets of your life ... this includes a host of things like "cognitive strategies" "resilience" "leadership" "communication" ... the important thing is that it's up to you to make these nebulous concepts into concrete, genuine, authentic, USEFUL measurable attributes, eg "How good of a listener are you now; how do you know that? What objective measurements or measurement techniques can you point to [so that you can measure your progress]? EXACTLY, what kinds of daily drills and self-assessments do you need to work on to be a better listener?". Your concrete architectural framework of 250 structural traits is the machine that that you will use in order to build your plan to build a more effective you.
 
-4) Prioritize the development of all traits / budget limited time / lay the foundation for plans by setting the scope and priority for action
+4) You cannot work on 250 facets at once; you will need to prioritize the development of all traits / budget limited time / lay the foundation for plans by setting the scope and priority for action ... as we all know, there are specific things that we MUST accomplish each day; there are things that probably should try to accomplish each day and there are things that we should should opportunistically try to accomplish if happen to be in a certain location or some other unplanned event makes it easier ... AND [if we have eliminated our time-wasting addictions] there will time available when we can tackle lower-priority nice-to-get-done tasks ... your prioritization framework or time management discipline is what will guide you to using your time effectively ... if you cannot use your time effectively, then you will need to work by the hour, per task or on salary per management direction for someone else.  YOU NOT ONLY HAVE TO DEVELOP AN EFFECTIVE TIME MGMT OR PRIORITIZATION FRAMEWORK ... but you also have to develop the competencies for making that framework better.
 
 5) Set Specific Measurable Aggressive Realistic Time-Bound (SMART) goals as you scope your projects to build competency; written goals drive action plans
 
