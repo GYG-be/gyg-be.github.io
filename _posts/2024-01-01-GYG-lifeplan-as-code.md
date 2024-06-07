@@ -18,7 +18,7 @@ There are [all kinds of different metaphors that we could use for thinking about
 
 You might choose a flywhell as the best metaphor for spinning up your own effectiveness energy to power through the changing of habits to improve your life, for yourself, for potential employers, for others who matter to you. You start off with what you have and you continually work on accelerating the rotational energy of the flywheel ... if that metaphor doesn't work, maybe you can see yourself winning battles in war ... maybe you metaphor is about constructing a perfect house or climbing the highest peaks in the world ... the important thing is that the metaphor has to work for you, for your personality ... you are going to have to come up with an ongoing cyclic process that works for you continually build up yourself, including during those times when you just don't feel the enthusiasm. 
 
-Process entirely cyclic because you will keep circling back to check-adjust-improve. The ORDER of execution might not matter, but the important thing is to hit all of the points everyday and to execute as well as you can, knowing that no day will will be perfect. You will be get better at executing your plan as you continuously keep doing all of the following ten things ... each day.
+The process implementing a self-improvement lifeplan is entirely cyclic, like the Plan-Do-Check-Act cycle played out a billion times over, because you will keep circling back to check-adjust-improve. The ORDER of execution might not matter, but the important thing is to hit all of the points everyday and to execute as well as you can, knowing that no day will will be perfect. You will be get better at executing your plan as you continuously keep doing all of the following ten things ... each day.
 
 1) Know your WHY, continuously work at deepening your spiritual life ... when you fail to deepen your spiritual life, the rootedness of your entire existence become shallower and shallower ...  better knowing that WHY and strengthening the health of your soul is the glue that connects your overall implementation of the whole cycle with your VISION every day ... as you move forward, working on your self-improvement plan will become more prayerful, more meditative, more peaceful.
 
@@ -102,15 +102,25 @@ SMART GOALS, goal-setting, and mapping goals into action plans [3]
 99. Self-awareness comes from seeking out tough criticism from those who you respect
 
 12. Adaptability, flexibility, movement, balance, kinesiology
-14. Critical thinking [4]
+14. Critical thinking ... Kahneman ... avoid accumulating biases or defensiveness about past investments or justifying path dependency
 
-23. Data analysis [4]
+23. Data analysis 
 
-25. Technical skills (specific to your industry) 
+25. Technical skills (specific to different industries) 
 
 112. Root cause analysis, critical thinking and developing the full ishikawa or a comprehensive cause-and-effect picture for every problem you face 
 113. Troubleshooting, problem-solving, systems thinking 
-114. LEAN thinking, learning to see WASTE, use D.O.W.T.I.M.E
+114. [LEAN thinking](https://iassc.org/body-of-knowledge/lean-body-of-knowledge/lead-leader-body-of-knowledge/), learning to see WASTE, use D.O.W.T.I.M.E
+
+[Reliability engineering](https://www.asq.org/cert/resource/docs/cre_bok.pdf) fundamentals and foundations including basic reliablity engineering terminology, performance evaluation, prediction, safety, maintainability, design review, control, estimation, apportionment, failure mode effects analysis, reliability testing, field failures, mathematical modeling, human factors, reliability information systems, failure analysis, performance improvement, program management, product lifecycle, leadership, quality, ethics, supplier assessments, strategic management, root cause analysis, requirements planning, risk analysis, probability, statistics, hypothesis testing, tolerance intervals, confidence intervals, sample size, regression, FMEA, fault tolerance, optimization, design of experiments, material selection, reliability requirements, reliability champion, cross-functional communication, design reviews, reliability standards, decision analysis, ethical behavior, warranty programs, customer satisfaction, failure consequences, liability, organizational goals, systems integration, product lifecycle analysis, reliability techniques, best practices, industry standards, reliability program, supplier reliability, reliability metrics, reliability allocation, reliability modeling, reliability growth, accelerated testing, reliability data analysis, life data analysis, maintainability analysis, availability analysis, logistics support analysis, reliability program planning, reliability program management, reliability program implementation, reliability program reviews, corrective action systems, closed-loop processes, root cause investigation, follow-up actions, reliability documentation, reliability training, reliability cost analysis, reliability return on investment.
+
+
+[Acquistion Security Framework](https://insights.sei.cmu.edu/library/acquisition-security-framework-asf-managing-systems-cybersecurity-risk-expanded-set-of-practices/)
+
+[Software quality engineering](https://www.asq.org/cert/resource/docs/csqe_bok.pdf) and CMMI
+
+Open source licenses
+
 115. Emotional intelligence ... beyond the sappy buzzwords
 116. Resilience, pain management
 117. Anti-fragility, look at outsized returns, overrated worries, seek out challenges to your comfort zone 
