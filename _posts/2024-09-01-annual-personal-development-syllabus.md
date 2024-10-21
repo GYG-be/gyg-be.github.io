@@ -93,7 +93,8 @@ categories: template
 7. Establishing a daily mindfulness routine
 
 ## Week 9: Advanced Time Management Techniques
-1. Time-blocking for creative vs. analytical tasks
+
+1. Time-blocking or multi-blocking for creative vs. analytical vs. physical tasks
 2. Utilizing time-tracking software for optimization
 3. Conducting a quarterly values review
 4. Flow state cultivation techniques
