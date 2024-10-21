@@ -6,11 +6,13 @@ categories: template
 ---
 # 52-Week Personal Development Syllabus
 
-## Week 1: Revisiting Your Time Mgmt Foundations With Self-Assessment Of What's Working And What's Not
+## Week 1: Revisiting Your Time Mgmt Foundations ... Starting With A Serious Self-Assessment Of What's Working And What's Not
 
 1. Re-introduction to calendar scheduling and time blocking
 
-    * You have a LIFETIME of experience with project management, goal setting and personaltime management systems. What do you **rely on** now? How well is that method working? Is it just a stale version of what got you by? What was the secret of what made that system work? How could that system work better? 
+    * There's no need to start over ... or to do something like re-inventing Google calendar app or whatever else you use now; you don't need another swanky app with new features and color-coded doodads to learn ... but you must begin by taking a serious, hard look at what's working **OPTIMALLY** *FOR YOU, in YOUR system.* Getting by isn't good enough ... what's not as OPTIMAL as it could be?
+    * You're not a kid -- you have a LIFETIME of experience with project management, goal setting and personaltime management systems ... build on that foundation and re-do the foundation if it's soft.
+    * What do you **rely on** now? How well is that method working? Is it just a stale version of what got you by? What was the secret of what made that system work? How could that system work better? 
     * Do you need to change anything? Why? Is everything broken ... or do you just need to get serious about being more consistent? What are the new tricks that an old dog like you should be learning?
     * When you think about your current time management system, what comes to mind in terms of what's not working? Why do you think that? Do you have data and proof? Do you use something like a "Distraction Journal" or "Examen Notebook" to detail what's stopping you from being more consistent?
 
