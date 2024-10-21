@@ -83,7 +83,8 @@ categories: template
 7. Emotional awareness exercises for stress management
 
 ## Week 8: Habit Formation and Behavior Change
-1. Creating time-based habits for consistent scheduling
+
+1. Creating time-based meta-habits for more consistent scheduling
 2. Habit stacking for optimized time management
 3. Developing keystone habits aligned with values
 4. Habituating deep work sessions
