@@ -6,14 +6,33 @@ categories: template
 ---
 # 52-Week Personal Development Syllabus
 
-## Week 1: Foundations and Self-Assessment
-1. Introduction to calendar scheduling and time blocking
-2. Basics of time optimization and management
-3. Understanding personal values for task prioritization
-4. Identifying current attention management practices
-5. Recognizing procrastination patterns
-6. Introduction to goal setting and SMART criteria
-7. Stress awareness and basic relaxation techniques
+## Week 1: Revisiting Your Time Mgmt Foundations With Self-Assessment Of What's Working And What's Not
+
+1. Re-introduction to calendar scheduling and time blocking
+
+    * What do you use now? How Well Is it working? How could it work better? 
+    * Do you need to change anything? Why? Is everything broken ... or do you just need to get serious about being more consistent?
+    * When you think about your current time management system, what comes to mind in terms of what's not working? Why do you think that? Do you have data and proof? Do you use something like a "Distraction Journal" or "Examen Notebook" to detail what's stopping you from being more consistent?
+
+2. Revisiting the basics of time optimization, goal setting, serious action plans and some form of Plan-Do-Check-Act follow-thru management
+
+3. Revisiting you Big WHY -- how well do you understanding your personal values for task prioritization
+
+4. Identifying what drives, or what is failing to drive, the focus of your attention in your current attention management practices
+
+5. Recognizing loss of focus or procrastination patterns uncovers symptoms of deeper issues.
+
+    * Procrastination is not likely about willpower or your lack of it.
+    * Underlying unresolved issues are generally what drives or are the largest contributor to problems with focus or procrastination.
+    * Your lack of a solid connection between task objectives and the big overall WHY of your existence is mostly likely behind the problems driving your procrastination ... that lack of connection is not going to fix itself.
+
+6. Reviewing all of the material that you have learned about written to goal setting and SMART criteria
+
+7. Christian mindfulness based stress reduction (MBSR) techniques starting with basic breathwork and relaxation techniques
+
+    * Start with basic breathwork, either box-breathing methods for diaphagmatic breathingor the "4-7-8" breathing technique ... Contemplate the fullness of the mysteries of Jesus Christ [four count inhale], bask in your feeling of gratitude for live and the abundance of everything in the Universe from the Creator or God, Our Father [seven count hold], then contemplate the Resurrection and everything that the Holy Spirit will do and how you can be part of that expansion of love [eight count exhale].
+    * After you have a firm grounding in mediatative diaphagmatic breathing, move on to the basic MBSR body scan meditation, followed perhaps by Hatha yoga and postures that help you to relax and breathe more deeply, then move on to guided meditation [via something like the Hallow app or similar], then experiment on your own with longer forms of meditation which work for you. Prayerwalking [without audio distractions] is one thing that might helpful, going to daily mass and arriving early to spend time in prayer beforehand might be something else to try. Experiment ... but, above all, give these things some repititions and TIME for them to work ... use a charitable mindset to encourage results, ie at first, *fake it, until you make it*; but *there's no need to beat a dead horse* ... just be a little patient*.
+    * Re-establish your connection to your Catholic faith and the larger community of faithful; don't just go to daily mass, but pray the rosary and find other ways to deepen your faith and grow in your relationship with the body of believers.
 
 ## Week 2: Establishing Baselines and Catholic Principles
 1. Creating your first weekly schedule with time blocks
