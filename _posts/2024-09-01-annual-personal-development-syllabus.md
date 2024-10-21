@@ -18,7 +18,7 @@ categories: template
 
 2. Revisiting the basics of time optimization, goal setting, serious action plans and some form of Plan-Do-Check-Act follow-thru management
 
-3. Revisiting you Big WHY -- how well do you understanding your personal values for task prioritization
+3. Revisiting your Big WHY -- how well do you think you understand your personal values for task prioritization? {HINT: You will never understand those personal values well enough, until you are dead. *There's always something more that God has for you to learn*.}
 
 4. Identifying what drives, or what is failing to drive, the focus of your attention in your current attention management practices
 
