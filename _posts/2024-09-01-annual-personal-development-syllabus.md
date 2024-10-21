@@ -10,8 +10,8 @@ categories: template
 
 1. Re-introduction to calendar scheduling and time blocking
 
-    * What do you use now? How Well Is it working? How could it work better? 
-    * Do you need to change anything? Why? Is everything broken ... or do you just need to get serious about being more consistent?
+    * You have a LIFETIME of experience with project management, goal setting and personaltime management systems. What do you **rely on** now? How well is that method working? Is it just a stale version of what got you by? What was the secret of what made that system work? How could that system work better? 
+    * Do you need to change anything? Why? Is everything broken ... or do you just need to get serious about being more consistent? What are the new tricks that an old dog like you should be learning?
     * When you think about your current time management system, what comes to mind in terms of what's not working? Why do you think that? Do you have data and proof? Do you use something like a "Distraction Journal" or "Examen Notebook" to detail what's stopping you from being more consistent?
 
 2. Revisiting the basics of time optimization, goal setting, serious action plans and some form of Plan-Do-Check-Act follow-thru management
