@@ -6,7 +6,9 @@ categories: template
 ---
 
 
-## The whole point of WSL is experimentation
+## WSL is about experimentation
+
+We use ephemeral containers for disposability.
 
 Disposability matters when you want to have multiple environments on your machine ... to be able to try and compare multiple wild and crazy environments ... and then DISPOSE of those environments ... thus WSL is about radically increasing the amount of experimentation in a personal workflow ... it's best to try several things, compare, settle on what works and then experiment with something new.
 
