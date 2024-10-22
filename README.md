@@ -2,7 +2,7 @@
 
 Christian mindfulness based stress reduction (MBSR) techniques starting with basic breathwork and relaxation techniques ... and then building on the basic **sign of the cross**...
 
-## Christian MBSR is entirely built from the ground up on everything that drives a careful, mindfull **sign of the cross**. 
+## Christian MBSR is entirely built from the ground up on everything that drives a careful, mindful **sign of the cross**. 
 
 Start with basic breathwork, either box-breathing methods for diaphagmatic breathing or the “4-7-8” breathing technique … make the **sign of the cross** *mindfully* with extra care, deliberately, slowly, CAREFULLY.
 
