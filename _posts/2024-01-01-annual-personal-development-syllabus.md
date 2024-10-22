@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2025 52-Week Personal Development Syllabus"
-date:   2024-12-31 11:59:59
+title:  "2024 52-Week Personal Development Syllabus"
+date:   2024-01-01 00:00:01
 categories: template
 ---
 # 52-Week Personal Development Syllabus
