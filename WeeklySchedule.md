@@ -1,28 +1,34 @@
 ---
 layout: page
-title: Weekly Schedule
+title: Schedule
 permalink: /WeeklySchedule/
 ---
 
 
-The point of my ***Daily Routine*** is that I *just* work on **daily disciplines** automatically, without even thinkng about putting these things on my calendar or ToDo list:
+The point of my ***Daily Routines*** (see below) is that I *just* work on **daily disciplines** automatically, without even thinkng about putting these things on my calendar or ToDo list:
 
 * Prayers and meditation to "Be STILL and KNOW" (MBSR) [Psalms 46](https://www.biblestudytools.com/psalms/46.html)
 * Exercises to cultivating gratitude [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
 * Body weight calesthinics [1 Timothy 4:8](https://www.biblestudytools.com/1-timothy/4-8-compare.html)
 * Exercises to listen and communicate [James 1:19](https://www.biblestudytools.com/james/1-19-compare.html)
 
-# Weekly Schedule
+# Weekly Boilerplate Schedule
 
-**The point of my weekly schedule is to have a Weekly Routine**, *just like a Daily Routine*, so that I never have to think about what the ***main*** item for today is [in addition to the daily discipline exercises]. A weekly routine makes it EASIER to focus on things that I add to my calendar or ToDo [as soon as I can get around to it] list.
+**The point of my weekly boilerplate schedule is to have a Weekly Routine**, *just like a Daily Routine*, so that I never have to struggle that much to come up what kind of thing should the ***main*** item for today is [in addition to the daily discipline exercises]. A weekly routine makes it EASIER to focus on things that I add to my calendar or ToDo [as soon as I can get around to it] list. Daily and weekly routines make it MUCH EASIER to be present, settled and able to RESPOND to emergencies that arise.
 
-Daily and weekly routines make it MUCH EASIER to be present, settled and able to RESPOND to emergencies that arise.
+The BIG reason for having daily and weekly routines ... to spell things out, ***rather than*** just filling up time with random scrolling or idleness ... is to make easier to make entries in our Examen Journal, which is our approach for daily reflection on those times when we lost focus, started to become depressed, anxious or overwhelmed or when we were felling burnt out or doubting our purpose or goals.  
 
 ## SUNDAY -- Strategic planning to build gratitude discipline every day of the week
 
-**GRATITUDE is about DEEPENING our spiritual health!**
+**The whole point of the Examen practice and reviewing our Examen Journal is about spiritual growth, spiritual fitness and meditation and prayer** ... which is intended to complement our gratitude discipline.
 
-SUNDAY is a day of rest and more focus on spiritual contemplation; we generally want to focus more of our energy on the strategic planning for the week ahead ... the point of planning or sketching out an outline is to **develop the the outline of how/where we will try harder to do that one EXTRA concrete thing for each day of the upcoming week** to ENSURE that we are always cultivating a well-rounded mindset of gratitude.
+**GRATITUDE JOURNALING is JOY!!!**
+
+Joy ... thinking about Jesus, others and you ... J.O.Y. in that order of priority is about DEEPENING our spiritual health!**
+
+SUNDAY is a day of rest and more focus on spiritual contemplation of JOY ... because, on a *tactical* basis throughout the week, we want to start each day's journal entry with "I am grateful for: ____" ... and then, on Sunday, we can go back and review the entries, as we think more *strategically* about where our FRAILITIES are and how we can work on things to be more grateful in a well-rounded, overall sense each day.
+
+On Sunday, we generally want to focus more of our energy on the strategic planning for the week ahead ... the point of planning or sketching out an outline is to **develop the the outline of how/where we will try harder to do that one EXTRA concrete thing for each day of the upcoming week** to ENSURE that we are always cultivating a well-rounded mindset of gratitude.
 
 We still have to FIND that one EXTRA concrete thing each day ... but on Sunday, we think about where we should look each day.
 
