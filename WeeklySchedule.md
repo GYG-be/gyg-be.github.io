@@ -5,12 +5,17 @@ permalink: /WeeklySchedule/
 ---
 
 
+This page is about my collection boilerplate schedules ... my actual calendars [for different ventures as well as my personal life] are in constant flux and not something I share publicly, although I sometimes share calendars with those who need that kind of access. My daily routines and timeblocking is actually really tedious and predictable ... it's not really that interesting and most of the time I am probably failing to stick with the schedule -- but one needs a plan to work back toward.
+
 The point of my ***Daily Routines*** (see below) is that I *just* work on **daily disciplines** automatically, without even thinkng about putting these things on my calendar or ToDo list:
 
-* Prayers and meditation to "Be STILL and KNOW" (MBSR) [Psalms 46](https://www.biblestudytools.com/psalms/46.html)
-* Exercises to cultivating gratitude [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html)
-* Body weight calesthinics [1 Timothy 4:8](https://www.biblestudytools.com/1-timothy/4-8-compare.html)
-* Exercises to listen and communicate [James 1:19](https://www.biblestudytools.com/james/1-19-compare.html)
+* **Prayers and meditation to "Be STILL and KNOW"** (ChristianMBSR) ... different passages speak to this, but [Psalms 46](https://www.biblestudytools.com/psalms/46.html) is one of the most comforting examples.
+
+* **Exercises to cultivate gratitude** ... there's no shortage of reasons to be optimistic or examples of things to be grateful for ... we know this from passages such as [Philippians 4:8-9](https://www.biblestudytools.com/philippians/4-8-compare.html), but as Pope John Paul II reminded us,that truth will never contradict truth; [by knowing and loving God, men and women may also come to the fullness of truth about themselves](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html).
+
+* **Functional physical fitness like walking or doing chores and simple body weight calesthinics** is a matter of stewardship and not letting our bodies or minds atrophy ... physical activity makes us healthier than extra food. Athough physical fitness necessary for maintaining intellectual and emotional fitness, as we know from  ... [1 Timothy 4:8](https://www.biblestudytools.com/1-timothy/4-8-compare.html), our real objective in leading a more disciplined life to glorify God the Father and our Savior Jesus Christ through the Holy Spirit is all about sustaining fitness and our ability to celebrate our blessings both today and forever.
+
+* **Mental exercises to listen more actively and communicate more effectively** ... as we know from passages like [James 1:19](https://www.biblestudytools.com/james/1-19-compare.html), is that we must first seek to understand before we can act. Nobody ever cares about how much we know or what our agenda is until well after they can see our agenda is about how much we care about the health and well-being of others.
 
 # Weekly Boilerplate Schedule
 
