@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 6: Cultivating Metacognition"
-date:   2024-03-04 00:30:00
+date:   2024-02-05 00:30:00
 categories: template
 ---
 
