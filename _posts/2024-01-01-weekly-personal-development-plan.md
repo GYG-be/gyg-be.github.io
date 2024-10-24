@@ -10,23 +10,33 @@ categories: template
 
 ### Re-introduction to yourself and your time
 
-    * RELAX ... you know most of this stuff already ... this week is a RE-INTRODUCTION. There's no need to start over with new training seminars or a new gym membership or New Year's resolutions... or to do something like re-inventing Google calendar app, refactoring the code and learning a new programming language to build something better than whatever else you use now ... there's nothing wrong with using what works, if it's an old smartphone OR a paper dayplanner you don't need another swanky app with new features and color-coded doodads to learn ... but you must *begin anew* or recover the zeal that you had initially as a convert your system by by taking a serious, hard look at what's working **OPTIMALLY** *FOR YOU, in YOUR system* ... and just getting by isn't good enough ... re-invigorate your system by taking a serious look at what's not as OPTIMAL as it could be?
+***RELAX*** ... *you know most of this stuff already ... this week is a RE-INTRODUCTION.* You will see that is more than tough enough, but there's no need to start over with new training seminars or a new gym membership or New Year's resolutions... or to do something like re-inventing Google calendar app, refactoring the code and learning a new programming language to build something better than whatever else you use now ... there's nothing wrong with using what works, if it's an old smartphone OR a paper dayplanner you don't need another swanky app with new features and color-coded doodads to learn ... but you must *begin anew* or recover the zeal that you had initially as a convert your system by by taking a serious, hard look at what's working **OPTIMALLY** *FOR YOU, in YOUR system* ... and just getting by isn't good enough ... re-invigorate your system by taking a serious look at what's not as OPTIMAL as it could be?
     
-    * You're not a kid -- you have a LIFETIME of experience with project management, goal setting and personaltime management systems ... build on that foundation ... and inspect your foundation and how it's supporting your goals and aspirations ... it might be necessary to re-do parts of the foundation if those parts are soft.
+You're not a blank slate; you're not a kid -- you have a LIFETIME of experience with project management, goal setting and personaltime management systems to  BUILD upon ... but that requires actually *building* on that foundation, not just thinking that it's down there somewhere ... you have to ***inspect*** your foundation and how well it will structurally support your goals and aspirations ... it might be necessary to re-do parts of the foundation if those parts are soft.
     
-    * What do you **rely on** now? What do you really count on, when you need to get things done? How ***well*** is that method REALLY working for you? Is it just a stale version of what got you by? What was the secret of what made that system work? How could that system work better? There are no secrets, here -- it's just a matter of honest and critical self-assessment.
-    * Do you need to change anything? Exactly WHY do you need that change? Is everything really broken or bad obsolete OR are you just looking for an excuse for shopping therapy for new schtuff ... or do you just need to get serious about being more consistent? What are the new tricks that an old dog like you should be learning?
-    * When you think about your current time management system, what comes to mind in terms of what's not working? Why do you think that? Do you have data and proof? Do you use something like a "Distraction Journal" or "Examen Notebook" to detail what's stopping you from being more consistent?
+What do you **rely on** now? What do you really count on, when you need to get things done? How ***well*** is that method REALLY working for you? Is it just a stale version of what got you by? What was the secret of what made that system work? How could that system work better? There are no secrets, here -- it's just a matter of honest and critical self-assessment.
+
+Do you need to change anything? Exactly WHY do you need that change? Is everything really broken or bad obsolete OR are you just looking for an excuse for shopping therapy for new schtuff ... or do you just need to get serious about being more consistent? What are the new tricks that an old dog like you should be learning?
+
+When you think about your current time management system, what comes to mind in terms of what's not working? Why do you think that? Do you have data and proof? Do you use something like a "Distraction Journal" or "Examen Notebook" to detail what's stopping you from being more consistent?
 
 ### Revisiting the *most basic BASICs* of time optimization
 
-Including optimization of sleep hygiene and every aspect rest/recovery times [for more rigorous physical training]], goal setting, serious action plans and some form of Plan-Do-Check-Act follow-thru management for all facets of life, beginning with a foundation of spiritual health. Do this is mostly about what you take away, rather than what you swallow. For example, the ability to handle stress through exercise, prayer, meditation, and fasting without resorting to little crutches has gigantic on longevity and healthspan because of how good and bad habits are multiplicative, ie drugs/alcohol distort perceptions and make users numb to pain or indications of need for adjustment ... it does not matter whether the little crutch is either a prescribed course of pharmaceuticals [3-6% reduction in lifespan for things like antidepressants, antipsychotics, sleep medications, ie, not just SSRIs ... but the problem with prescription medication becomes much worse if the prescriptions are abused or people with access to the products *get high on their own supply*, eg we all know about the cases of psychiatrists who have reached for the benzos, because as medical doctors, *they "know what they are doing and don't need advice from amateurs"*] or illicit drugs [which are just blatantly stupid lifestyle choices and not just because fixing is dangerous, but the products themselves lack any verifiable quality control methods and thus are major drivers of instant death, dementia and other issues that might be worse than immediate death] and other substances like alcohol [with a 3-7% reduction in lifespan for "normal, middle-class, country club" social drinking ... and it's probable for like 10% or 20% for people who have a reputation for their heavy drinking] or marijauna [with a 3-8% reduction in lifespan and even worse when respiratory health is noticeably compromised through deep inhalation and progressive decline in ability to exercise or maintain cardiovasular and neurological health].
+Doing this is mostly about what you take away, rather than what you swallow. 
+
+Including optimization of sleep hygiene and every aspect rest/recovery times [for more rigorous physical training]], goal setting, serious action plans and some form of Plan-Do-Check-Act follow-thru management for all facets of life, beginning with a foundation of spiritual health. 
+
+Doing this is mostly about what you take away, rather than what you swallow ... what are you going to take away AND what's your plan for dealing with the withdrawl from your addictions. 
+
+For example, the ability to handle stress through exercise, prayer, meditation, and fasting without resorting to little crutches has gigantic on longevity and healthspan because of how good and bad habits are multiplicative, ie drugs/alcohol distort perceptions and make users numb to pain or indications of need for adjustment ... it does not matter whether the little crutch is either a prescribed course of pharmaceuticals [3-6% reduction in lifespan for things like antidepressants, antipsychotics, sleep medications, ie, not just SSRIs ... but the problem with prescription medication becomes much worse if the prescriptions are abused or people with access to the products *get high on their own supply*, eg we all know about the cases of psychiatrists who have reached for the benzos, because as medical doctors, *they "know what they are doing and don't need advice from amateurs"*] or illicit drugs [which are just blatantly stupid lifestyle choices and not just because fixing is dangerous, but the products themselves lack any verifiable quality control methods and thus are major drivers of instant death, dementia and other issues that might be worse than immediate death] and other substances like alcohol [with a 3-7% reduction in lifespan for "normal, middle-class, country club" social drinking ... and it's probable for like 10% or 20% for people who have a reputation for their heavy drinking] or marijauna [with a 3-8% reduction in lifespan and even worse when respiratory health is noticeably compromised through deep inhalation and progressive decline in ability to exercise or maintain cardiovasular and neurological health].
 
 ### RE-INTRODUCTION to YOURSELF
 
-Re-discovering yourself again means devoting a serious amount of time to revisiting your Big WHY -- that means looking at the FULL Ishikawa of the cause-and-effect diagram that details how you will become the person that you intend to be.
+Re-discovering yourself again means devoting a serious amount of time to revisiting your Big WHY -- that means looking at the FULL Ishikawa of the cause-and-effect diagram that details how you will become the person that your Creator intends for you to be.
 
 How ***well*** do you think you really understand your personal values for task prioritization? {HINT: You will never understand those personal values well enough, until you are dead. *There's always something more that God has for you to learn*.}
+
+This is a really gigantic assignment -- it's not for wusses!Re-discovering yourself again means devoting a serious amount of time to revisiting your Big WHY -- that means looking at the FULL Ishikawa of the cause-and-effect diagram that details how you will become the person that your Creator intends for you to be.
 
 ### Identifying what drives, or what is failing to drive your action plans.
 
@@ -34,15 +44,17 @@ This is about inspecting the full mechanism and understanding the focus of your 
 
 ### Recognizing loss of focus or procrastination patterns uncovers symptoms of deeper issues.
 
-    * Procrastination is not likely about willpower or your lack of it.
-    * Underlying unresolved issues are generally what drives or are the largest contributor to problems with focus or procrastination.
-    * Your lack of a solid connection between task objectives and the big overall WHY of your existence is mostly likely behind the problems driving your procrastination ... that lack of connection is not going to fix itself.
+Procrastination is not likely about willpower or your lack of it.
 
-### Making better use of what you have.
+Underlying unresolved issues are generally what drives or are the largest contributor to problems with focus or procrastination.Y
+
+Your lack of a solid connection between task objectives and the big overall WHY of your existence is mostly likely behind the problems driving your procrastination ... that lack of connection is not going to fix itself.
+
+### Making MUCH better use of what you have.
 
 This is about getting more value or return out of the investments that you have previously made.
 
-It's nothing magic. It's sort of boring ... in some cases, infuriating ... but mostly it's about the performance [or lack thereof] of what you've put in place. It's about reviewing and re-implementing and polishing all of the material that you have learned about written to goal setting and SMART criteria
+It's nothing magic. It's going to be really boring ... in some cases, infuriating or demoralizing ... but mostly it's about the performance [or lack thereof] of what you've put in place. It's about reviewing and re-implementing and polishing all of the material that you have learned about written to goal setting and SMART criteria
 
 ### Christian mindfulness based stress reduction (MBSR)
 

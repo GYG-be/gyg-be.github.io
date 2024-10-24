@@ -5,24 +5,24 @@ date:   2024-01-08 00:30:00
 categories: template
 ---
 
-## Week 2: Establishing Baselines and Catholic Principles
+# Week 2 of a 52-Week Personal Development Syllabus
 
 When we ***return*** our foundations, we can finally begin to actually **build** on them ... after we have grown up, we can respect our parents ... *we don't have to make the effort to rebelliously make fun of the old fogey's who are still clinging to their outdated beliefs -- we can finally join them in their wisdom.*
 
-1. Re-initializing or creating your new "first" weekly schedule with time blocks
+We begin by looking at Week 1 ... and BUILDING on that foundation.
 
-2. Time audit: tracking current time usage
+### Re-initializing or creating your new "first" weekly schedule with time blocks
 
-3. Defining personal and professional values
+### Time audit: tracking current time usage
 
-4. Attention assessment: identifying major distractors
+### Defining personal and professional values
 
-5. Procrastination log: documenting avoidance behaviors
+### Attention assessment: identifying major distractors and the Examen Journal
 
-6. Setting initial short-term and long-term goals
+### Examen Journaling is more than just a procrastination log or documenting your avoidance tricks or maladaptive behaviors
 
-7. Introduction to Catholic catechism and its relevance to self-control
+### Setting and PDCAing initial short-term and long-term goals
 
-8. Reviewing and re-implementing all of the material that you have learned about written to goal setting and SMART criteria.
+### Reviewing and re-implementing all of the material that you have learned about written to goal setting and SMART criteria.
 
-
+### Re-introduction to Catholic catechism and its relevance to self-control
