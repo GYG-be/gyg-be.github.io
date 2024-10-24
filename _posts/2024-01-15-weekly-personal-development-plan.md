@@ -8,11 +8,11 @@ categories: template
 
 # It's Just Week 3 of a LONG 52-Week Personal Development Syllabus
 
-Every week counts ... especially the previous weeks.
+Every week counts ... especially the previous couple of weeks ... we want to get it really right, while it's still fresh,because of how discipline builds.
 
-When we ***return*** our foundations, we can finally begin to actually **build** on them ... after we have grown up, we can respect our parents ... *we don't have to make the effort to rebelliously make fun of the old fogey's who are still clinging to their outdated beliefs -- we can finally join them in their wisdom.*
+When we ***return*** our foundations, we can finally begin to actually **build** on them ... it's like how it works after we have grown up, when we can let go of any resentments and respect our parents ***more*** ... *we don't have to make the silly effort to rebelliously make fun of the old fogey's who are still clinging to their outdated beliefs* -- we can finally join them in their wisdom and maybe even build from there.
 
-For Week 3, we start, as we did last week, by looking back at the previous week ... and, if necessary, BUILDING on whatever came before to provided the foundation for that Week. The repetition is necessary and important, because it's not just about the current week -- we are building a long term discipline.
+For Week 3, we start, as we did last week, by looking back at the previous week ... or two ... and, if necessary, BUILDING on whatever came before to provided the foundation for that Week. The repetition is necessary and important, because it's not just about the current week -- ***we are building a long term discipline.***
 
 ### Refining time blocks based on energy levels
 
