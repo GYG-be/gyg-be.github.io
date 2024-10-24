@@ -11,7 +11,7 @@ Every week counts ... especially the previous weeks.
 
 When we ***return*** our foundations, we can finally begin to actually **build** on them ... after we have grown up, we can respect our parents ... *we don't have to make the effort to rebelliously make fun of the old fogey's who are still clinging to their outdated beliefs -- we can finally join them in their wisdom.*
 
-We begin by looking at Week 1 ... and BUILDING on that foundation.
+For Week 2, we begin this Week by looking back at the previous week ... and, if necessary, BUILDING on whatever came before to provided the foundation for that Week.
 
 ### Re-initializing or creating your new "first" weekly schedule with time blocks
 

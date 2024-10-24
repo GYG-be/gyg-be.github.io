@@ -12,7 +12,7 @@ Every week counts ... especially the previous weeks.
 
 When we ***return*** our foundations, we can finally begin to actually **build** on them ... after we have grown up, we can respect our parents ... *we don't have to make the effort to rebelliously make fun of the old fogey's who are still clinging to their outdated beliefs -- we can finally join them in their wisdom.*
 
-We begin by looking at Week 1 ... and BUILDING on that foundation.## Week 3: Implementing Basic Strategies
+For Week 3, we start, as we did last week, by looking back at the previous week ... and, if necessary, BUILDING on whatever came before to provided the foundation for that Week. The repetition is necessary and important, because it's not just about the current week -- we are building a long term discipline.
 
 ### Refining time blocks based on energy levels
 
