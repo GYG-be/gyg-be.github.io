@@ -5,7 +5,9 @@ date:   2024-01-08 00:30:00
 categories: template
 ---
 
-# Week 2 of a 52-Week Personal Development Syllabus
+# It's Just Week 2 of a LONG 52-Week Personal Development Syllabus
+
+Every week counts ... especially the previous weeks.
 
 When we ***return*** our foundations, we can finally begin to actually **build** on them ... after we have grown up, we can respect our parents ... *we don't have to make the effort to rebelliously make fun of the old fogey's who are still clinging to their outdated beliefs -- we can finally join them in their wisdom.*
 

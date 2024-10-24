@@ -6,7 +6,7 @@ categories: template
 ---
 
 
-# Week 1 of A 52-Week Personal Development Syllabus
+# It's Just Week 1 of a LONG 52-Week Personal Development Syllabus
 
 ### Re-introduction to yourself and your time
 
