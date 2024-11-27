@@ -8,6 +8,8 @@ categories: template
 
 ## Week 13: Cognitive Enhancement and Learning Strategies
 1. Cognitive load management in scheduling
+   - Target: Reduce context switching by 50%
+   - Measure: Track task completion times
 2. Speed reading and information processing techniques
 3. Critical thinking in value-based decision making
 4. Attention span extension exercises
