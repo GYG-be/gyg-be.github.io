@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Week 1: Revisiting Your Time Mgmt Foundations ... Starting With A Serious Self-Assessment Of What's Working And What's Not"
-date:   2024-01-01 00:30:00
+title:  "Week 1: Revisiting Your Time Mgmt Foundations"
+date:   2025-01-01 00:30:00
 categories: template
 ---
 
 
-# It's Just Week 1 of a LONG 52-Week Personal Development Syllabus
+# It's Just the first week ...
+
+... of a LONG 52-Week Personal Development Syllabus, which will necessarily get more intense as we go ... and along the way, we might find that we have to drop off or take a break or illness or loss will give us a bit of detour ... but we'll pickup from where we left off and keep going ... because EACH new week is the first week of the next 52 weeks in the coming year. **Constantly looking forward, refusing to engage mentally in nostalgia or funerals or reunions, is about laying the foundation of the foreseeable future is the DISCIPLINE of building toward a long-term vision. But it has become very ORDINARY, in order for it to become discipline.**
 
 ### Re-introduction to yourself and your time
 

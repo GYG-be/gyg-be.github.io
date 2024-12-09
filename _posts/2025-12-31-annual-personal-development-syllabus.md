@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2024 52-Week Personal Development Syllabus"
-date:   2024-01-01 00:00:01
+title:  "2026 52-Week Personal Development Syllabus"
+date:   2025-12-31 11:59:59
 categories: template
 ---
 # 52-Week Personal Development Syllabus
@@ -42,7 +42,7 @@ As you breathe, you should notice how your diaphram pushes your belly out to ful
 
 Re-establish your connection to your Catholic religious practices and the larger community of the faithful who share your appreciation for Catholic traditions. Don’t just go to daily mass, but pray the rosary and explore other ways to deepen your faith and grow in your relationship with the larger body of believers.
 
-## Week 2: Establishing Baselines and Catholic Principles
+## Week 2: Establishing Baselines and Polishing Lifestyle Principles
 1. Re-initializing or creating your new "first" weekly schedule with time blocks
 2. Time audit: tracking current time usage
 3. Defining personal and professional values
@@ -51,7 +51,7 @@ Re-establish your connection to your Catholic religious practices and the larger
 6. Setting initial short-term and long-term goals
 7. Introduction to Catholic catechism and its relevance to self-control
 
-## Week 3: Implementing Basic Strategies
+## Week 3: Re-Implementing Basic Strategies
 1. Refining time blocks based on energy levels
 2. Introducing the Pomodoro Technique for time management
 3. Aligning daily tasks with core values
@@ -60,7 +60,7 @@ Re-establish your connection to your Catholic religious practices and the larger
 6. Breaking down goals into actionable steps
 7. Basic mindfulness meditation practice
 
-## Week 4: Developing Self-Awareness
+## Week 4: Developing Greater Self-Awareness
 1. Experimenting with different scheduling techniques
 2. Time journaling: reflecting on productivity patterns
 3. Value-based decision making in daily choices
@@ -69,7 +69,7 @@ Re-establish your connection to your Catholic religious practices and the larger
 6. Introduction to PDCA (Plan-Do-Check-Act) cycle
 7. Self-reflection on spiritual growth and Catholic teachings
 
-## Week 5: Enhancing Focus and Discipline
+## Week 5: Enhancing Focus and The Discipline Of Improving Discipline
 1. Advanced calendar management strategies
 2. Implementing time-boxing for enhanced productivity
 3. Utilizing Eisenhower Matrix for task prioritization
