@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 6: Financial Health, Investments and Stewardship"
+title:  "Week 6 Examen: Financial Health, Investments and Stewardship"
 date:   2024-02-05 04:00:01
 categories: template
 ---

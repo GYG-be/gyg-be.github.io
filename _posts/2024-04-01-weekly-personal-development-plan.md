@@ -7,6 +7,7 @@ categories: template
 
 
 ## Week 14: Technology Integration and Digital Wellbeing
+
 1. Leveraging AI for calendar management
 2. Digital tools for time tracking and analysis
 3. Values-based approach to technology use

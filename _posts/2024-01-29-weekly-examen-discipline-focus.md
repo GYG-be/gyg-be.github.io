@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 5: Emotional Regulation"
+title:  "Week 5 Examen: Emotional Regulation"
 date:   2024-01-29 04:00:01
 categories: template
 ---

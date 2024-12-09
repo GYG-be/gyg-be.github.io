@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 2: Food & Body"
+title:  "Week 2 Examen: Food & Body"
 date:   2024-01-08 04:00:01
 categories: template
 ---

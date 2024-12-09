@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 9: Discipline, Prayer, Meditation and MBSR, Meta-Cognition"
+title:  "Week 9 Examen: Discipline, Prayer, Meditation and MBSR, Meta-Cognition"
 date:   2024-02-26 04:00:01
 categories: template
 ---

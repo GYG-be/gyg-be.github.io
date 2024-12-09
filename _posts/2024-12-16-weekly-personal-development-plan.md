@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week"
+title:  "Week 51: Integration and Advanced Applications"
 date:   2024-12-16 00:30:00
 categories: template
 ---

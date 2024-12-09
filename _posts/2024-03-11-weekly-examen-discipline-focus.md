@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 11: Work, Career Advancement, Investments & New Ventures"
+title:  "Week 11 Examen: Work, Career Advancement, Investments & New Ventures"
 date:   2024-03-11 04:00:01
 categories: template
 ---

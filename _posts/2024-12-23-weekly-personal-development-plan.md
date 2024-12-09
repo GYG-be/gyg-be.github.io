@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week"
+title:  "Week 52: Reflection, Celebration, and Future Planning"
 date:   2024-12-23 00:30:00
 categories: template
 ---

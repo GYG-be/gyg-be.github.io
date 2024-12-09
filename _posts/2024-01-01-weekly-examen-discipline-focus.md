@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1: Digital Distractions & Focus"
+title:  "Week 1 Examen: Digital Distractions & Focus"
 date:   2024-01-01 04:00:01
 categories: template
 ---

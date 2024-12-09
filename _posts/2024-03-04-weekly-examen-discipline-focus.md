@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 10: Substance Use & Addiction"
+title:  "Week 10 Examen: Substance Use & Addiction"
 date:   2024-03-04 04:00:01
 categories: template
 ---

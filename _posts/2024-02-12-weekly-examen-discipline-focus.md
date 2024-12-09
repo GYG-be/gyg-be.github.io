@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 7: The Active Spiritual Life"
+title:  "Week 7 Examen: The Active Spiritual Life"
 date:   2024-02-12 04:00:01
 categories: template
 ---

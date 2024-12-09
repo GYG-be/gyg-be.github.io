@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 3: Communication and Relationships"
+title:  "Week 3 Examen: Communication and Relationships"
 date:   2024-01-15 04:00:01
 categories: template
 ---

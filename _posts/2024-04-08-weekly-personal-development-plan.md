@@ -7,6 +7,7 @@ categories: template
 
 
 ## Week 15: Physical Wellbeing and Productivity
+
 1. Scheduling for optimal physical health
 2. Exercise and movement for enhanced time management
 3. Nutrition planning aligned with personal values

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 12: Personal Growth & Development"
+title:  "Week 12 Examen: Personal Growth & Development"
 date:   2024-03-18 04:00:01
 categories: template
 ---

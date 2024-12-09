@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 8: Self-Care & Well-being"
+title:  "Week 8 Examen: Self-Care & Well-being"
 date:   2024-02-19 04:00:01
 categories: template
 ---
