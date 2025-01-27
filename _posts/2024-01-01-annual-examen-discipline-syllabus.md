@@ -6,7 +6,7 @@ categories: template
 ---
 
 
-# What Examen Discipline Is About
+# What Examen Discipline Is Really All About
 
 Examen Discipline is about consistently, sustaining an intensely introspective examinations of unproductive behaviors, not just bad habits but less than optimal habits, and various levels of addictions ... the daily journal is a bit of a wild, stream of conciousness journal ... but that's not the objective. The final objective or desired destination of an Examen journal is to review the material ... you gain insights through the process of making a syllabus of the recorded stream of consciousness discussion in your examen journal, especially as you refine your personal syllabus to make it clear and concise. It's difficult if not impossible to follow the past thought processes as you look a the journal in the future. Yes, it might spark other thoughts, but when the ideas are disjointed and unconnected, you will struggle to make sense of your own thoughts and the progress possible by examining your own life will escape you.
 
