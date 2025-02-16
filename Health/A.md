@@ -4,7 +4,13 @@ title: A)
 permalink: /Health/A/
 ---
 
-***Venturing***, for me, is primarily PHILANTHROPIC ... but it's about FINANCIAL health. 
+
+
+
+## 10th WHY -- VENTURING, starting things, writing, thinking, planning ...
+
+
+***Venturing***, for me, is primarily PHILANTHROPIC, about the *greater good*... but it's about FINANCIAL health of real people *and maybe even me*. 
 
 **Growthy NEW technology-intensive start-up ventures that achieve multi-million-dollar valuations through bootstrapping and then with additional outside capital achieve multi-billion-dollar valuations are the most efficient way to expand the pie for everyone, so that it's possible do REAL philanthropy.**
 
