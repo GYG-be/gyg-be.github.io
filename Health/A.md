@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Ventures
-permalink: /Ventures/
+title: A)
+permalink: /Health/A/
 ---
 
+***Venturing***, for me, is primarily PHILANTHROPIC ... but it's about FINANCIAL health. 
 
-***Venturing***, for me, is primarily PHILANTHROPIC. **Growthy NEW technology-intensive start-up ventures that achieve multi-million-dollar valuations through bootstrapping and then with additional outside capital achieve multi-billion-dollar valuations are the most efficient way to expand the pie for everyone, so that it's possible do REAL philanthropy.**
+**Growthy NEW technology-intensive start-up ventures that achieve multi-million-dollar valuations through bootstrapping and then with additional outside capital achieve multi-billion-dollar valuations are the most efficient way to expand the pie for everyone, so that it's possible do REAL philanthropy.**
 
 Greater economic value does not come from a stagnant asset and not much value comes from producing something that is not needed by a free market ... the economics of zero-sum, ultra-conservative, idea-averse technologies are ultimately not just depressive, but ultimately lead to wars and destruction ... rather, philanthropic value comes from the techology that *expands the pie*, from increasing levels of overall value by taking away problems, removing constraints and adding technologies that make humans more productive than they could contemplate being before.
 
