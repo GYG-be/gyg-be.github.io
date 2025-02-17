@@ -19,22 +19,28 @@ In contemplating how our ability to mathematically model physical phenomena rela
 Several key Biblical passages provide insight into this relationship:
 
 ### 1. The Limits of Human Knowledge
-- 1 Corinthians 13:12 - "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known."
-- This suggests our mathematical models, while precise, may be fundamentally limited and indirect.
+- 1 Corinthians 13:12 - "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known."  In this verse, expression "through a glass darkly" is used [and should be thought of in the context of mirrors available to the Apostle Paul] to describe the imperfect, cloudy but still useful visions of reality humans can have even with the best of tools, instruments, imaging assistance.
+- This suggests our mathematical models, while precise and even extremely useful, will always be fundamentally limited, indirect, incomplete, distorted.
+- It is impossible for us to see Reality as Reality really is, because our view is always going to be limited. 
 
 ### 2. Divine Wisdom vs Human Understanding
 - Isaiah 55:8-9 - "For my thoughts are not your thoughts, neither are your ways my ways, declares the Lord. As the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts."
 - Even sophisticated mathematical models may not capture the full depth of divine reality.
+- This verse explores another take on why is impossible for us to see Reality as Reality really is, because our view is always going to be limited. 
 
 ### 3. God's Mathematical Order
 - Proverbs 3:19-20 - "The Lord by wisdom founded the earth; by understanding he established the heavens; by his knowledge the deeps broke open, and the clouds drop down the dew."
 - Mathematical order in nature reflects divine wisdom, but the underlying reality may be richer than our descriptions.
+- This verse explores yet another take on why is impossible for us to think through Reality as Reality really is, because our ability to think [even if computational-assisted] is always going to be limited. 
 
 ### 4. The Challenge of Measurement
 - Job 38:4-7 - "Where were you when I laid the earth's foundation? Tell me, if you understand. Who marked off its dimensions? Surely you know! Who stretched a measuring line across it?"
 - This challenges human presumptions about our ability to fully comprehend and measure creation.
+- This verse explores yet another take on why is impossible for us to comprehend the stucture of Reality as that structure of Reality really is, because our comrehension on the structure is always going to be limited. 
 
 ## Modern Computational Tools in Light of Scripture
+
+These verse recognize the immense power and usefulness of human tools, while helping us think about their limitations.
 
 ### Stewardship and Proper Use
 - Proverbs 24:3-4 suggests viewing computational tools as "treasures" of knowledge while using them mindfully
