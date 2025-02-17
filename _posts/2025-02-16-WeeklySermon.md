@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What kind of a person do I want TO BECOME?"
+title:  "What Kind Of A Person Do I Want TO BECOME?"
 date:   2025-02-16 00:00:01
 categories: sermon
 ---
