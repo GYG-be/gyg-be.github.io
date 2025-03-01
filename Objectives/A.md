@@ -1,16 +1,17 @@
 ---
 layout: page
-title: A)
-permalink: /Objectives/A/
+title: A
+permalink: /Objectives/A
 ---
 
 
 
-## 25 Core Self-Improvement Objectives FOR THE FUTURE ... where I am going.
-
-### A. Putting God First
+## A. Putting God First
 
 *I am not under any illusion that I have done an adequate job of this,* it's just that I do recognize that this has to be THE priority that drives all othes.Prioritizing a deep understanding of God's will in every facet of life. This involves actively seeking His guidance through consistent and sincere prayer, studying and applying biblical wisdom, seeking counsel from mature Christians, and trusting the Holy Spirit's leading. This aligns decisions with scriptural principles and fosters a lifestyle that reflects obedience and love for God.
+
+It's probably important to recognize the OTHER Priorities
+
 
 ### B. Holiness as a lifestyle choice
 
@@ -107,3 +108,7 @@ Genuine compassion requires acknowleging real pain and using the significantly i
 ### Y. The BIG WHY -- Close With The Divine Vision From The Creator
 
 Reflecting upon life and experiences and lessons to discerning God's unique purpose for creating the next phases of your efforts, ie like planting the seed of a tree that you will never see.  This is about aligning one’s personal future mission with biblical values, and investing beyond what you can foresee, but in the unforeseeable eternal impact.
+
+### Z. Who I've been
+
+I grew up in a family and at a time when one described himself in terms of *"what I do for a living"*.  My response is that I am a farmer, economist/investor and engineer. What matters in terms of my PAST objectives is maybe in how it's probably going to continue to shape my thought right now. I have all kinds of bad habits that I am trying to overcome, but mostly I don't live with any regrets -- I just keep trying to NOT repeat mistakes that I have made. This History objective is just me acknowledging and attempting to explain how my past might be driving my current thinking processes.
