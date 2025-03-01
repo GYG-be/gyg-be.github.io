@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Divine Unity and Interconnectedness"
-date:   2025-02-15 00:00:01
+date:   2024-01-01 00:00:01
 categories: holyhour
 ---
 

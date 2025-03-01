@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mathematical Modeling, Computational Tools, and Spiritual Understanding"
-date:   2025-02-17 00:00:01
+date:   2024-01-15 00:00:01
 categories: holyhour
 ---
 
