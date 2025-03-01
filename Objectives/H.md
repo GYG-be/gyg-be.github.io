@@ -1,42 +1,12 @@
 ---
 layout: page
-title: A)
-permalink: /Objectives/A/
+title: H
+permalink: /Objectives/H
 ---
 
 
 
-## 25 Core Self-Improvement Objectives FOR THE FUTURE ... where I am going.
-
-### A. Putting God First
-
-*I am not under any illusion that I have done an adequate job of this,* it's just that I do recognize that this has to be THE priority that drives all othes.Prioritizing a deep understanding of God's will in every facet of life. This involves actively seeking His guidance through consistent and sincere prayer, studying and applying biblical wisdom, seeking counsel from mature Christians, and trusting the Holy Spirit's leading. This aligns decisions with scriptural principles and fosters a lifestyle that reflects obedience and love for God.
-
-### B. Holiness as a lifestyle choice
-
-It's not a place, or a building or a group of individuals. Holiness is a PERSONAL choice. It starts with holy hour beginning every day and keeping the Sabbath holy in order to BEGIN every week. Holiness is not about resting, although we do try to devote the Sabbath to rest -- it's mostly about resurrection and spiritual renewal, looking forward not regretting the past or thinking that we've earned a few hours of laziness. Holiness as a lifestyle is aobut acknowledging each day's holy hour and each week's Sabbath as a sacred time ordained by God FOR RENEWAL. Renewal can include attending church services but is mostly about engaging in the personal worship of lifestyle, with time for solitude, reflection, and also fellowship. Holiness as a lifestyle involves incorporating regular spiritual disciplines throughout the week, as the default activity, ie rather than watching TV or scrolling through social media ... this means things like physical prayer, Bible study, and meditation, and everythint that is about maintain a consistent constant connection with God to manage or, if necessary, even ignore the ephemeral stresses of daily life.
-
-### C. Servant Leadership
-
-Serve first! Serve first to imitate and fully adore the mysteries of Christ's example of servant leadership. In this case, we can lead best by following Christ's example. Prioritize the needs of others and using personal influence to empower and uplift those around you. This involves actively seeking opportunities to serve in the church, community, and workplace, while demonstrating humility, compassion, and a genuine desire to help others grow and succeed. It also means fostering healthy relationships built on mutual respect, trust, and a shared commitment to serving God and others.
-
-### D. Pushing For 10X Productivity
-
-This is in all realms ... soul, mind, body ... and not just about me, but it's also about directly [through my open source technology] and more importantly indirectly [through my example of independence, self-reliance and renunciation of the material realm] helping the people around me to be more productive, creative and valuable [or well-compensated and able to afford everything to help themselves, their families]. Managing time and resources effectively to maximize their impact for the Kingdom of God. This involves setting clear goals that align with biblical values, prioritizing tasks based on their eternal significance, and avoiding distractions that hinder spiritual growth and productivity. It also means recognizing the importance of rest and recreation, ensuring that personal energy levels are maintained to sustain long-term Kingdom service.
-
-### E. Constancy of Purpose
-
-Consistency, consistency, consistency. Discipline ultimately equals freedom. This is about aligning daily routines, habits, and priorities with God's Will, creating an environment that fosters spiritual growth and Kingdom impact. This involves intentionally incorporating spiritual disciplines into daily life, such as prayer, Bible study, and meditation, and making choices that reflect a commitment to God's will. It also means surrounding oneself with godly influences, seeking accountability from fellow believers, and actively pursuing opportunities to share the Gospel and make a difference in the world.
-
-### F. Soul-Mind-Body Harmony
-
-Nurturing holistic well-being by integrating spiritual, emotional, and physical health practices. Practice means DISCIPLINE ... discipline of exercise that ultimately provides freedom. Soul-Mind-Body harmony involves prioritizing spiritual GROWTH through ingest spiritual nutrients -- this mean regular engagement with God's Word and prayer, seeking emotional healing and support through biblical counseling or trusted Christian community, and maintaining physical health through exercise, proper nutrition, and adequate rest. This integrated approach recognizes the interconnectedness of all aspects of human life and seeks to honor God with every part of one's being.
-
-### G. Prioritize Stewardship Of Health
-
-The BODY is the temple that matters; the physical body supports the MIND, the mind and body support the SOUL. Stop worrying about bricks/mortar or HVAC appliances or any other gear for either your abode or any kind of church building. Stop being addicted to physical comfort or convenience. Caring for the physical body as a sacred dwelling place of the Holy Spirit. This involves adopting healthy lifestyle habits, including regular exercise, a balanced diet, and sufficient rest. It also means avoiding harmful substances and behaviors that damage the body and hinder spiritual well-being. This commitment to physical health reflects a deep respect for God's creation and a desire to honor Him with one's body.
-
-### H. Eternal Investment
+## H. Eternal Investment
 
 Building a lasting legacy by investing in the lives of others and contributing to the advancement of God's Kingdom ... we should not see these contributions to advancement of this realm as a future, post-self thing ... eternity starts with NOW, not something to put off. This involves actively discipling and mentoring younger believers, supporting missionary work and other Kingdom initiatives, and using personal resources to further the Gospel. This focus on eternal rewards reflects a deep understanding of the temporal nature of earthly life and a desire to store up treasures in Heaven.
 
