@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C
-permalink: /Objectives/A
+permalink: /Objectives/C
 ---
 
 
