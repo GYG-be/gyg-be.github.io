@@ -6,13 +6,6 @@ categories: template
 ---
 
 
-As different generals throughout history have noted, again and again in different ways, no plan survives confrontation with the enemy ... everybody has a plan, until they get punched in the mouth ... but going into a confrontation with an enemy without a plan is a sure way to lose -- of course, your plan will REQUIRE constant adaptation, revision and improvement -- it is the plan**NING** process that wins; it's not about static plans ; you will LOSE before you get started if you confront an enemy without any plan or with a fixed plan that does not anticipate the need for currently unforeseen revisions.
-
-# What if *sharpening the axe* or building better discipline is the whole point of life?
-
-Habits and habit stacking win fights. You really have to make make habit stacking or using the planning process and daily workflow as a means to build build better habits as one your core competencies ... in other words, it's not exactly about what one accomplishes, but rather it's about what habits and different aspects of faiith and discipline one stacks onto one's armor.
-
-It's difficult to provide a *direct* scriptural passage for every nuanced question about project management, agile development, or daily planning.  The Bible offers principles, not specific instructions on Gantt charts. However, we can connect the *spirit* of the questions to relevant scriptures.  I've attempted that below, rephrasing some questions for stronger scriptural ties where needed, and offering alternative questions where a direct link is impossible.  Remember, these are starting points for reflection, not exhaustive answers.
 
 **General Discernment & Will of God:**
 
