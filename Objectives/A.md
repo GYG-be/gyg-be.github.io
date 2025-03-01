@@ -1,38 +1,9 @@
 ---
 layout: page
-title: Objectives
-permalink: /Objectives/Priorities
+title: A)
+permalink: /Objectives/A/
 ---
 
-
-## Where I've been, how I think about things now.
-
-I am a farmer, economist/investor and engineer ... that matters in terms of my past objectives and what continues to shape my thought right now. I don't live with any regrets; this just explains my thinking processes.
-
-To a small degree, I think about ANY technology ... *like AI* ... in terms of what that technology is, how technology becomes an organic living entity after interaction with human beings ... so I think about technologies as ecoystems and what those ecoystems are good for in terms of human use and serving humanity, in the same manner of how a responsible farmer thinks about soil building and land productivity, not just for the purpose of soil building itself, but for better soil quality, for better fitness of purpose for soil, in order growing greater yields of future crops of whatever is in future demand. AI is certainly not the ONLY technological ecosystem -- it's just one that I find particularly relevant, but there have been other technological ecoystems and there will be others. AI is an example.
-
-To a greater degree, I also measure the performance of technologies as an economist or investors in terms of how much traction they have in terms of eliminating constraints for other human beings, eg a company like NVIDIA was not interesting to me when I believed that the story was primarily about computer games -- it changed when the story became about being radically more efficient about matrix algebra and doing computations that elimate the constraints of developers seeking to improve the lot of human kind -- I should have seen the parallels between gamers playing in simulated realms and developers/scientists working the realm of science and engineering, but I completely missed that point about matrix algebra and compute. ***I am certain that completely missing analogous points right now, but I'd argue that one can safely ignore what populations of humans who are intent on distracting themselves with games or drugs or bad habits want.*** 
-
-To the greatest degree, as a multi-disciplinary engineer, I think about technologies like AI as tools ... tools for an end, but not as an end in/of themselves. AI isn’t just neutral—no tool ever is!  AI is a reflection of the intentions baked into its design. If AI engineers, developers, tecnologists, early adopters and *prosumers* leading opinions of technologies fail to sieze command of their technological tools, the tendency is for these things to slide into dystopian territory, manipulating us like Orwell’s telescreens or drowning us in distractions like TV/cable/YouTube became, ie 500 million channels and nothing on. But by embedding human agency, transparency, privacy, value, and ethics into their work, developers can make AI a tool that genuinely benefits humanity IF THEY CAN FIND WAYS TO MAKE THE TOOL BENEFIT THEMSELVES FIRST. It’s not just about writing code anymore—we *almost* live in a no-code or post-code world, where AI agents can do much of the work of writing code—but we certainly are not completely there yet. Developing and USING the technology is bout choosing a conscience-driven path that ensures AI lifts us up rather than holding us down ... yeah, that sounds like a cliche, but it's kinda that simple.
-
-My current [3/1/2025] guess is that the best strategy for developers to be excessively skeptical BUT yet aggressively moving forward in being conversant in the state of the technology with practical experience. This has to be about siezing command of AI dev process and working to ensure that one's own technology serves one's purposes [and is not just some *smarty pants* being familiar with AI jargon]. The PERSONAL example of usefulness can serve humanity—rather than dismissing it and screaming, in *ChickenLittle* fashion, to everyone who will listen that *"AI's gonna destroy us!"* Engineers in particular cannnot just let the technology morph into a manipulative force like Orwell’s Big Brother or a mindless peddler of “stupid stuff”—is HAS TO prioritize human-centric values, transparency, and ethical design. 
-
-When we passively accept AI’s default trajectory, it risks becoming a tool of control or distraction, much like television’s early days in 1948 when its potential was unclear. Developers have a unique opportunity to shape AI into a tool for good, rather than letting it automate shallow consumerism or worse/ The following points are some thoughts on responsible AI engineers probably should be doing:
-
-### 1. Design AI to Empower, Not Control
-Developers should build AI that enhances human decision-making rather than replacing it. This means creating tools that act as co-pilots—offering insights, options, and recommendations while leaving the final choice to the user. For example, instead of an AI that auto-subscribes you to services or pushes products, imagine one that analyzes your needs and presents a curated list of options when you ask, explaining why each might suit you. By keeping humans in the driver’s seat, developers prevent AI from becoming a manipulative force that erodes autonomy.
-
-### 2. Make AI Transparent and Understandable
-Transparency is non-negotiable. Developers must ensure AI systems are interpretable, clearly showing how they work, what data they use, and why they make specific suggestions. Black-box algorithms—where even the creators can’t fully explain the outputs—should be avoided. For instance, if an AI recommends a product, it should say, “I suggest this because you’ve searched for similar items and it’s highly rated by users like you.” This openness builds trust and lets users question or override AI, preventing it from feeling like an opaque, Orwellian screen dictating their lives.
-
-### 3. Protect Privacy and Give Users Control
-AI thrives on data, but developers must prioritize user privacy by collecting only what’s necessary and giving users full control over their information. This includes options to opt out of tracking, delete data, and decide what’s shared. Imagine a virtual assistant that only accesses your calendar or shopping history with explicit permission—and forgets it afterward. By respecting privacy, developers ensure AI serves users rather than exploiting them, avoiding the surveillance pitfalls that echo Big Brother.
-
-### 4. Focus on Real Value, Not Consumption
-Developers should lean into creating AI that solves meaningful problems—like managing finances, improving health, or boosting productivity—rather than just driving sales of unnecessary goods. For example, an AI-powered app could help you declutter by suggesting what to keep, donate, or sell based on usage patterns, instead of pushing more storage solutions. By aligning AI with human well-being rather than profit-driven consumption, developers can steer it away from becoming a tool for peddling “stupid stuff.”
-
-### 5. Advocate for Ethical Standards
-Developers aren’t just coders—they’re human beings with a huge stake in influencing the humanity of AI’s future. They should champion industry-wide ethical guidelines and hold themselves accountable, refusing projects that prioritize profit over people. This could mean joining initiatives like the Partnership on AI or adopting frameworks like the IEEE’s Ethically Aligned Design to ensure AI respects human dignity. By actively shaping norms, developers can resist pressures to misuse AI and promote a narrative of responsibility.
 
 
 ## 25 Core Self-Improvement Objectives FOR THE FUTURE ... where I am going.
