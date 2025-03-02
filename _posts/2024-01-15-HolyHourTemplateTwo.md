@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mathematical Modeling, Computational Tools, and Spiritual Understanding"
+title:  "Mathematical Modeling, Computational Tools, and Understanding"
 date:   2024-01-15 00:00:01
 categories: holyhour
 ---
@@ -8,9 +8,9 @@ categories: holyhour
 
 *How does our ability to mathematically model physical phenomena relate to our ability to truly understand it?*
 
-# Mathematical Modeling, Computational Tools, and Spiritual Understanding
+# Mathematical Modeling, Computational Tools, and SPIRITUAL Understanding
 
-## The Question of Understanding
+## The Questions of SPIRITUAL Understanding
 
 In contemplating how our ability to mathematically model physical phenomena relates to our ability to truly understand it, particularly in the context of computational tools like Wolfram and Jupyter notebooks for exploring physics data, we must consider both scientific and spiritual perspectives. This exploration is particularly relevant when examining data from sources such as NASA, CERN, and other sources of particle physics, plasma physics, or astrophysics data for contemplation of Physics beyond the Standard Model.
 
