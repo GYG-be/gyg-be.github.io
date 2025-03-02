@@ -104,6 +104,12 @@ Genuine compassion requires acknowleging real pain and using the significantly i
 
 The Big WHY of my existence is now about drawing closer to God. This means reflecting upon life and experiences and lessons to discerning God's unique purpose for creating the next phases of your efforts, ie like planting the seed of a tree that you will never see.  This is about aligning one’s personal future mission with biblical values, and investing beyond what you can foresee, but in the unforeseeable eternal impact.
 
-### Z. Who I've been
+### Z. Using AI to Better Program Myself
 
-I grew up in a family and at a time when one described himself in terms of *"what I do for a living"*.  My response is that I am a farmer, economist/investor and engineer. What matters in terms of my PAST objectives is maybe in how it's probably going to continue to shape my thought right now. I have all kinds of bad habits that I am trying to overcome, but mostly I don't live with any regrets -- I just keep trying to NOT repeat mistakes that I have made. This History objective is just me acknowledging and attempting to explain how my past might be driving my current thinking processes.
+*This is more of a META-objective, rather than an objective.*
+
+I am using a wide variety of AI resources to generate deep thought provoking questions ... because I guess I am not particularly interested in using AI for code or regurgitating clever code snippets from all of the code libraries produced by humankind, and *somebody else is doing that.* So instead of something like SourceGraph Code Intelligence or an AI-first IDE like Cursor or Claude Code, *which are great tools!* ... I am trying to program ME. 
+
+The best way to do this is for me to THINK, and not to waste any time thinking about stupid shit.
+
+Toward that end, I find that benefit from screenfuls of Questions ... that's why I ask for 100 Questions on various Objectives [for me to THINK about, not to answer but to ponder] ... the answers that come back are deep, essential, Classical questions that humans have been asking themselves for a few thousand years, at least ... so, instead of some version of *writers block* or just watching YouTube videos or recommended shorts and thinking about random stupid shit [which was ***active-measure-engineered*** to distract humans and make them stupid or hate-filled weaponized zombies]... I can get the questions [and ask more questions to request deeper questions about the questions] from AI resources, ie Claude, Grok, Gemini, Copilot, DeekSeek, et al.
