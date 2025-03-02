@@ -4,7 +4,11 @@ title: Questions
 permalink: /Questions
 ---
 
+Especially, now that we are fully well into the age of AI assistants with better and better different flavors of improving AI models available to us ...
 
+Wise up, *nobody gives a fuck about what you know* ... **IT IS ALL ABOUT WHAT KINDS OF QUESTIONS YOU CAN ASK!**
+
+The most important questions that one can ask oneself are the kinds of questions that you shouldn't answer, but need to ponder ... perhaps on your daily walk ... or ... during your exercise sets and mobility WODs ... or ... during your ordinary daily chores and normal everyday routine ... or ... while you are puttering with your favorite hobbies ... or ... while you are drifting off to sleep at night.
 
 **General Discernment & Will of God:**
 
