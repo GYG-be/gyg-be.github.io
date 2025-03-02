@@ -9,9 +9,9 @@ The best way to do this is for me to THINK, and not to waste any time thinking a
 
 Toward the objective of getting me to THINK, I find that benefit from screenfuls of Questions ... that's why I ask for 100 Questions on various Objectives [for me to THINK about, not to answer but to ponder] ... the answers that come back are deep, essential, Classical questions that humans have been asking themselves for a few thousand years, at least ... so, instead of some version of *writers block* or just watching YouTube videos or recommended shorts and thinking about random stupid shit [which was ***active-measure-engineered*** to distract humans and make them stupid or hate-filled weaponized zombies]... I can get the questions [and ask more questions to request deeper questions about the questions] from AI resources, ie Claude, Grok, Gemini, Copilot, DeekSeek, et al.
 
-# My Other Objectives
+## My Other Objectives
 
-## A. Putting God First
+### A. Putting God First
 
 *I am not under any illusion that I have done an adequate job of this,* it's just that I do recognize that this has to be THE priority that drives all othes.Prioritizing a deep understanding of God's will in every facet of life. This involves actively seeking His guidance through consistent and sincere prayer, studying and applying biblical wisdom, seeking counsel from mature Christians, and trusting the Holy Spirit's leading. This aligns decisions with scriptural principles and fosters a lifestyle that reflects obedience and love for God. It's important to recognize how this first objective drives all objectives and how how all other objectives are in support of this most primary of all primary objectives.
 
