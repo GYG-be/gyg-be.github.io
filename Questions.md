@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Plan With The Most Serious and Reverent Intent Possible"
-date:   2025-01-01 4:30:00
-categories: template
+layout: page
+title: Questions
+permalink: /Questions
 ---
 
 
