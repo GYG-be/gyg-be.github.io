@@ -108,7 +108,7 @@ The Big WHY of my existence is now about drawing closer to God. This means refle
 
 *This is more of a META-objective, rather than an objective.*
 
-I am using a wide variety of AI resources to generate deep thought provoking questions ... because I guess I am not particularly interested in using AI for code or regurgitating clever code snippets from all of the code libraries produced by humankind, and *somebody else is doing that.* So instead of something like SourceGraph Code Intelligence or an AI-first IDE like Cursor or Claude Code, *which are great tools!* ... I am trying to program ME. 
+I am using a wide variety of AI resources to generate deep thought provoking questions ... because I guess I am not particularly interested in using AI for code or regurgitating clever code snippets from all of the code libraries produced by humankind, and *somebody else is doing that.* So instead of something like SourceGraph [Code Intelligence](https://sourcegraph.com/code-search) or an AI-first IDE like [Cursor](https://www.cursor.com/blog) or Claude [Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), *which are great tools!* ... I am trying to program ME. 
 
 The best way to do this is for me to THINK, and not to waste any time thinking about stupid shit.
 
