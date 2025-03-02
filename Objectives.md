@@ -100,9 +100,9 @@ Developing deep knowledge of Scripture, theological understanding, and practical
 
 Genuine compassion requires acknowleging real pain and using the significantly important signal underlying pain ... idiot compassion involves getting out the checkbook to write checks in an attempt to buy freedom from guilt. Navigating life transitions with trust in God's sovereignty, finding hope in grief, and embracing new seasons with compassion, faith and courage.
 
-### Y. The BIG WHY -- Close With The Divine Vision From The Creator
+### Y. Synching With The Divine Vision From The Creator
 
-Reflecting upon life and experiences and lessons to discerning God's unique purpose for creating the next phases of your efforts, ie like planting the seed of a tree that you will never see.  This is about aligning one’s personal future mission with biblical values, and investing beyond what you can foresee, but in the unforeseeable eternal impact.
+The Big WHY of my existence is now about drawing closer to God. This means reflecting upon life and experiences and lessons to discerning God's unique purpose for creating the next phases of your efforts, ie like planting the seed of a tree that you will never see.  This is about aligning one’s personal future mission with biblical values, and investing beyond what you can foresee, but in the unforeseeable eternal impact.
 
 ### Z. Who I've been
 
