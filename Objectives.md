@@ -78,7 +78,8 @@ Developing resilience and perseverance in the face of adversity, trusting in God
 
 ### S. Redeemed Identity
 
-Embracing one's identity in Christ, recognizing that true worth and value are found in Him alone. This involves rejecting worldly standards of success and beauty, renewing the mind with God's truth, and allowing the Holy Spirit to transform character and behavior. This secure identity in Christ fosters humility, gratitude, and a desire to live a life that pleases God.
+*Exactly WHAT is your personal brand, NOW that you are saved?* It's no so much *whether or why someone would want to know you or seek you out* is it? The real question is ***"Would or will Christ acknowledge knowing you?" and WHY?*** Embracing one's identity in Christ, recognizing that true worth and value are found in Him alone. This involves rejecting worldly standards of success and beauty, renewing the mind with God's truth, and allowing the Holy Spirit to transform character and behavior. This secure identity in Christ fosters humility, gratitude, and a desire to live a life that pleases God.
+
 
 ### T. Kingdom Service
 
