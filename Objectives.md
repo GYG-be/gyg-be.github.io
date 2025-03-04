@@ -26,7 +26,7 @@ Serve first! Serve first to imitate and fully adore the mysteries of Christ's ex
 
 ### E. Constancy of Purpose
 
-Consistency, consistency, consistency. Discipline ultimately equals freedom. This is about aligning daily routines, habits, and priorities with God's Will, creating an environment that fosters spiritual growth and Kingdom impact. This involves intentionally incorporating spiritual disciplines into daily life, such as prayer, Bible study, and meditation, and making choices that reflect a commitment to God's will. It also means surrounding oneself with godly influences, seeking accountability from fellow believers, and actively pursuing opportunities to share the Gospel and make a difference in the world.
+Consistency, *consistency*, **CONSISTENCY** ... constancy of purpose is about consistently working on consistency ... because discipline ultimately equals freedom ... EXCEPT that constancy is about LOVE, flexibility and never giving up -- whereas consistency and discipline can *seem* rigid and brittle. This is about aligning daily routines, tiny little habits, and priorities reflected in those habits and ordinary routines with God's Will, creating an environment that fosters, even demands spiritual growth and Kingdom impact. This involves intentionally incorporating spiritual disciplines into daily life, such as prayer, Bible study, and meditation, and making choices that reflect a commitment to God's will. It also means surrounding oneself with godly influences, seeking accountability from fellow believers, and actively pursuing opportunities to share the Gospel and make a difference in the world.
 
 ### F. Soul-Mind-Body Harmony
 
