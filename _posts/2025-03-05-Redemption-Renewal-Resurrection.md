@@ -19,7 +19,7 @@ The 40 days of Lent are an especially special opportunity for Christians, but it
 
 1. [**Philippians 3:13-14**](https://biblechat.ai/knowledgebase/new-testament/pauline-epistles/what-meaning-philippians-31314/) - "*Brothers, I do not consider that I have made it my own. But one thing I do: forgetting what lies behind and straining forward to what lies ahead, I press on toward the goal for the prize of the upward call of God in Christ Jesus.*" Paul acknowledges that he is still TRYING to do this, but not yet fully able. Forgetting what is behind involves a deliberate, conscious decision to **TRY** to let go of past failures, sins, desires, wants, and *even past achievements* that are hindering one's progress. 
 
-2. **Isaiah 43:18-19** - "Remember not the former things, nor consider the things of old. Behold, I am doing a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert."
+2. **[Isaiah 43:18-19](https://biblechat.ai/knowledgebase/old-testament/major-prophets/what-meaning-isaiah-431819/)** - "*Remember not the former things, nor consider the things of old. Behold, I am doing a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert.*" The Creator is at work, continually producing new hope, restoration, and renewal for the faithful who keep the covenant. 
 
 3. **2 Corinthians 5:17** - "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come."
 
