@@ -23,7 +23,7 @@ The 40 days of Lent are an especially special opportunity for Christians, but it
 
 3. **[2 Corinthians 5:17](https://www.bibleref.com/2-Corinthians/5/2-Corinthians-5-17.html)** - "*Therefore,* **if anyone is in Christ**, *he is a* **new creation**. *The old has passed away; behold, the new has come.*"
 
-4. **[Job 8](https://enduringword.com/bible-commentary/job-8/), especially verse 7** - "*And though your beginning was small, your latter days will be very great.*" Those who doubt and laugh at what you believe is still possible will be proven wrong and even your greatest expectations of what is to come will be exceeded.
+4. **[Job 8](https://enduringword.com/bible-commentary/job-8/)**, especially verse 7 - "*And though your beginning was small, your latter days will be very great.*" Those who doubt and laugh at what you believe is still possible will be proven wrong and even your greatest expectations of what is to come will be exceeded.
 
 5. **[Ecclesiastes 3:1](https://www.gotquestions.org/time-for-everything.html)** - "For everything there is a season, and a time for every matter under heaven."
 
@@ -45,7 +45,7 @@ The 40 days of Lent are an especially special opportunity for Christians, but it
 
 ## Forgiving Others
 
-13. **Ephesians 4:31-32** - "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice. Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."
+13. **[Ephesians 4:31-32](https://www.gotquestions.org/be-kind-to-one-another.html)** - "*Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice. Be kind to one another, tenderhearted, forgiving one another,* **as God in Christ forgave you.**"
 
 14. **Matthew 6:14-15** - "For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses."
 
