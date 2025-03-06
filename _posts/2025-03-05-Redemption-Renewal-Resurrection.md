@@ -105,7 +105,7 @@ It is this 40 day period of more intense contemplation of what Jesus's sacrifice
 
 37. **Deuteronomy 31:8** - "It is the LORD who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed."
 
-38. **Psalm 91:4** - "He will cover you with his pinions, and under his wings you will find refuge; his faithfulness is a shield and buckler."
+38. **Psalm 91:4** - "He will cover you with his pinions, and under his wings you will find refuge; his faithfulness is a shield and buckler." Psalms has so many images evocative of superpowers or special powers like this ... pinions are the outer part of a angel's wing, which include the flight feathers ... when we cut off the pinions of an earthly bird, eg a hawk or eagle being trained, it completely takes away the ability to fly [and fight as aggressively] until the pinions regrow ... in angels, the pinions are the root of the special powers, abilities to fly, to fight, etc -- so it's not just about hiding under the shield or built-in buckler.
 
 39. **2 Timothy 2:13** - "If we are faithless, he remains faithful—for he cannot deny himself."
 
