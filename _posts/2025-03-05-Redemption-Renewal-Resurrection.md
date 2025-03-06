@@ -17,7 +17,7 @@ The 40 days of Lent are an especially special opportunity for Christians, but it
 
 ## Forgetting What Lies Behind
 
-1. **Philippians 3:13-14** - "Brothers, I do not consider that I have made it my own. But one thing I do: forgetting what lies behind and straining forward to what lies ahead, I press on toward the goal for the prize of the upward call of God in Christ Jesus."
+1. [**Philippians 3:13-14**](https://biblechat.ai/knowledgebase/new-testament/pauline-epistles/what-meaning-philippians-31314/) - "Brothers, I do not consider that I have made it my own. But one thing I do: forgetting what lies behind and straining forward to what lies ahead, I press on toward the goal for the prize of the upward call of God in Christ Jesus."
 
 2. **Isaiah 43:18-19** - "Remember not the former things, nor consider the things of old. Behold, I am doing a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert."
 
