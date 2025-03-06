@@ -21,11 +21,11 @@ The 40 days of Lent are an especially special opportunity for Christians, but it
 
 2. **[Isaiah 43:18-19](https://biblechat.ai/knowledgebase/old-testament/major-prophets/what-meaning-isaiah-431819/)** - "*Remember not the former things, nor consider the things of old. Behold, I am doing a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert.*" The Creator is at work, continually producing new hope, restoration, and renewal for the faithful who keep the covenant. 
 
-3. **2 Corinthians 5:17** - "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come."
+3. **[2 Corinthians 5:17](https://www.bibleref.com/2-Corinthians/5/2-Corinthians-5-17.html)** - "*Therefore,* **if anyone is in Christ**, *he is a* **new creation**. *The old has passed away; behold, the new has come.*"
 
-4. **Job 8:7** - "And though your beginning was small, your latter days will be very great."
+4. **[Job 8](https://enduringword.com/bible-commentary/job-8/), especially verse 7** - "*And though your beginning was small, your latter days will be very great.*" Those who doubt and laugh at what you believe is still possible will be proven wrong and even your greatest expectations of what is to come will be exceeded.
 
-5. **Ecclesiastes 3:1** - "For everything there is a season, and a time for every matter under heaven."
+5. **[Ecclesiastes 3:1](https://www.gotquestions.org/time-for-everything.html)** - "For everything there is a season, and a time for every matter under heaven."
 
 ## God's Forgiveness
 
