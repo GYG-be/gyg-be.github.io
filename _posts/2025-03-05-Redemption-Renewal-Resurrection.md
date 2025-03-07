@@ -53,7 +53,7 @@ The 40 days of Lent are an especially special opportunity for Christians, but it
 
 16. **Mark 11:25** - "And whenever you stand praying, forgive, if you have anything against anyone, so that your Father also who is in heaven may forgive you your trespasses."
 
-17. **Luke 6:37** - "Judge not, and you will not be judged; condemn not, and you will not be condemned; forgive, and you will be forgiven."
+17. **[Luke 6:37](https://www.bibleref.com/Luke/6/Luke-6-37.html)** - "Judge not, and you will not be judged; condemn not, and you will not be condemned; forgive, and you will be forgiven." This is first of four laws that affect our everyday lives: the law of reciprocity ([Luke 6:37–38](https://www.bibleref.com/Luke/6/Luke-6-37.html)), the law of leadership (verses [39–40](https://www.bibleref.com/Luke/6/Luke-6-39.html)), the law of perspective (verses [41–42](https://www.bibleref.com/Luke/6/Luke-6-41.html)), and the law of the harvest (verses [43–45](https://www.bibleref.com/Luke/6/Luke-6-43.html)).
 
 ## Renewing the Mind
 
