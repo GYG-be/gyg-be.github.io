@@ -2,10 +2,8 @@
 layout: post
 title:  "Redemption, Renewal, Resurrection -- Letting Go Of The Rust"
 date:   2025-03-05 00:00:01
-categories: holyhour
+categories: HolyHour
 ---
-
-
 
 Lent is about letting go of stuff, not being captivated or held hostage by something, perhaps something from the past ... it's really about symbolically participating in the mystery of Jesus Christ ... moving on from desires for comfort and convenience, moving on from any addiction to things that make us temporarily feel good, brushing off the decay and rust and getting ready to shine.
 
