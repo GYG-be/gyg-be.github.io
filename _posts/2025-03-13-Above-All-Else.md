@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Fear and love your Creator above all else"
+title:  "Fear and LOVE Your Creator Above All Else"
 date:   2025-03-13 00:00:01
 categories: HolyHour
 ---
 
-**Romans 12:2** - "*Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.*"
+**Romans 12:2** - "*Do not be conformed to this world, but **be transformed** by the **renewal** of your mind, that by testing you may **discern what is the will of God**, what is good and acceptable and perfect.*"
 
 # Discipline Equals Freedom
 
