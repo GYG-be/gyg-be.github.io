@@ -25,6 +25,10 @@
 			"path": "../../funnierbe.github.io"
 		},
 		{
+			"name": "nanotoolworks.github.io",
+			"path": "../../nanotoolworks.github.io"
+		},
+		{
 			"name": "MarkBruns.github.io",
 			"path": ".."
 		},
@@ -41,8 +45,8 @@
 			"path": "../../soilqualitylab.github.io"
 		},
 		{
-			"name": "nanotoolworks.github.io",
-			"path": "../../nanotoolworks.github.io"
+			"name": "sustainfund.github.io",
+			"path": "../../sustainfund.github.io"
 		}
 	],
 	"settings": {}
