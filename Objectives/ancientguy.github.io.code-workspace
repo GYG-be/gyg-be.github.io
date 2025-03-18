@@ -39,6 +39,10 @@
 		{
 			"name": "soilqualitylab.github.io",
 			"path": "../../soilqualitylab.github.io"
+		},
+		{
+			"name": "nanotoolworks.github.io",
+			"path": "../../nanotoolworks.github.io"
 		}
 	],
 	"settings": {}
