@@ -4,11 +4,11 @@ title: Questions
 permalink: /Questions
 ---
 
-Especially, now that we are fully well into the age of AI assistants with better and better different flavors of improving AI models available to us ...
 
-Wise up, *nobody gives a fuck about what you know* ... **IT IS ALL ABOUT WHAT KINDS OF QUESTIONS YOU CAN ASK!**
+## PLANNING Questions ... or "What am I getting done today" kinds of questions
 
-The most important questions that one can ask oneself are the kinds of questions that you shouldn't answer, but need to ponder ... perhaps on your daily walk ... or ... during your exercise sets and mobility WODs ... or ... during your ordinary daily chores and normal everyday routine ... or ... while you are puttering with your favorite hobbies ... or ... while you are drifting off to sleep at night.
+These are questions to have on one's mind as one plans the Week ahead ... and then, later they are kinds self-coaching things one ponders on one's daily walk ... of course, it's also possible to go back to these at any time, eg as one plan's the day, starts thinking about tomorrow.
+
 
 **General Discernment & Will of God:**
 
