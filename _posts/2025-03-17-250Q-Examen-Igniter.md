@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "250 Scripture-Based Questions for Christian Growth and Transformation"
-date:   2025-03-18 00:00:01
+title:  "Examen Igniter - Reflection On Diligence In Christian Growth and Transformation"
+date:   2025-03-17 00:00:01
 categories: HolyHour
 ---
 
@@ -9,7 +9,7 @@ This is about reflection throughout the day and during Holy Hour the following d
 
 As such, it is kind of an ***examen igniter*** basis for sparking examen journaling.
 
-# 250 Self-Reflection Questions with Biblical References
+# Examen Igniter - Reflection On Diligence In Christian Growth and Transformation
 
 ## Physical Health
 
