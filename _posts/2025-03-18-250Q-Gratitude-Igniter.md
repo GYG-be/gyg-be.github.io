@@ -8,7 +8,7 @@ categories: HolyHour
 
 # Gratitude Igniter - Assistance In Christian Growth and Transformation
 
-This is about Lectio Divina dayplanning during Holy Hour and the ***gratitude igniter*** basis for sparking gratitude journaling, ie "*Why am I grateful to God  for this verse or verses on this topic?*" ... meditating on one topical area, perhaps picking one specific question for the area, for each 30-min time-block throughout the week ... with 180 during the week and 70 on Sunday, along with a strategy implementation session to *shuffle the deck* for the upcoming week.
+This is about Lectio Divina dayplanning during Holy Hour and the [***gratitude igniter***](https://labs.google/fx/tools/music-fx-dj/31ec9a5f-2980-479a-9363-24f24a697cb4), something to spark gratitude journaling, ie "*Why am I grateful to God  for what this verse or different verses on this topic make me think about?*" ... meditating on one topical area, perhaps picking one specific question for the area, for each 30-min time-block throughout the week ... with 180 during the week and 70 on Sunday, along with a strategy implementation session to *shuffle the deck* for the upcoming week.
 
 ## Wilderness Seasons and Spiritual Formation
 
