@@ -5,12 +5,9 @@ date:   2025-03-26 00:00:01
 categories: Tools
 ---
 
+This document is the result of some ongoing conversations with [Claude](https://claude.ai/share/2f403559-f388-4570-abcd-b9c2915a9616), [Grok](https://x.com/i/grok/share/Scp36mWRypb77OavFLT1IKLeE), [Gemini](https://g.co/gemini/share/d37c0e7cc69f) and [ChatGPT](https://chatgpt.com/share/67e3fd38-4e30-8013-ab1b-893d42648c49).
 
-# # Tools Using AI To Make Discussions Of Academic Research Accessible
-
-This document is the result of some ongoing conversations with [Claude](https://claude.ai/share/2f403559-f388-4570-abcd-b9c2915a9616), [Grok](https://x.com/i/grok/share/Scp36mWRypb77OavFLT1IKLeE), [Gemini](https://g.co/gemini/share/d37c0e7cc69f) and [ChatGPT](https://chatgpt.com/share/67e3fd38-4e30-8013-ab1b-893d42648c49). 
-
-It will be true that *[it's a bloody war out there in AI land](https://medium.com/@ameritor/its-a-bloody-war-out-there-in-ai-land-google-just-dropped-another-bombshell-c3124b04575e)* for the foreseeable future; you should expect this war to intensify rather than end, because the AI-assisted technical productivity and capabilities of mfg/design are now being focused on removing those hardware and software constraints to accelerating the improvement of technical productivity and capability of AI systems.
+It will be true that *[it's a bloody war out there in AI land](https://medium.com/@ameritor/its-a-bloody-war-out-there-in-ai-land-google-just-dropped-another-bombshell-c3124b04575e)* for the foreseeable future; everyone should expect this war to intensify rather than end, because the AI-assisted technical productivity and capabilities of mfg/design are now being focused on removing those hardware and software constraints to accelerating the improvement of technical productivity and capability of AI systems.
 ---
 
 # Table of Contents
