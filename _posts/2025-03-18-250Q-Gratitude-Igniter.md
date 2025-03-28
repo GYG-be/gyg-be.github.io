@@ -8,9 +8,7 @@ categories: HolyHour
 
 # Gratitude Igniter - Assistance In Christian Growth and Transformation
 
-This is about Lectio Divina dayplanning during Holy Hour and the [***gratitude igniter***](https://labs.google/fx/tools/music-fx-dj/31ec9a5f-2980-479a-9363-24f24a697cb4), something to spark gratitude journaling, ie "*Why am I grateful to God  for what this verse or different verses on this topic make me think about?*" ... meditating on one topical area, perhaps picking one specific question for the area, for each 30-min time-block throughout the week ... with 180 during the week and 70 on Sunday, along with a strategy implementation session to *shuffle the deck* for the upcoming week.
-
-The way I use this list is [get ten random numbers](https://numbergenerator.org/10randomnumbersbetween1and250) and then look at those ten items.
+This is about Lectio Divina dayplanning during Holy Hour and at different times throughout the day. The way I use this list, whenever I pull it up, is [get ten random numbers](https://numbergenerator.org/10randomnumbersbetween1and250) and then look at those ten items. As such, it is kind of an [***gratitude igniter***](https://labs.google/fx/tools/music-fx-dj/31ec9a5f-2980-479a-9363-24f24a697cb4), something to spark gratitude journaling, ie "*Why am I grateful to God  for what this verse or different verses on this topic make me think about?*" 
 
 1. **Wilderness Seasons and Spiritual Formation** How does Christ's forty days in the wilderness help you relate to your own times of testing, and what might God be forming in you through these challenging seasons? ([Matthew 4:1-2](https://www.bibleref.com/Matthew/4/Matthew-4-1.html))
 
