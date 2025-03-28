@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Examen Igniter - Reflection On Diligence In Christian Growth and Transformation"
 date:   2025-03-17 00:00:01
