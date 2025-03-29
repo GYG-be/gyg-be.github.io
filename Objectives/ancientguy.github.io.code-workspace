@@ -47,6 +47,10 @@
 		{
 			"name": "sustainfund.github.io",
 			"path": "../../sustainfund.github.io"
+		},
+		{
+			"name": "RockRapids.github.io",
+			"path": "../../RockRapids.github.io"
 		}
 	],
 	"settings": {}
