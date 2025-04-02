@@ -59,6 +59,34 @@
 		{
 			"name": "INFO",
 			"path": "../../INFO"
+		},
+		{
+			"name": "ART",
+			"path": "../../ART"
+		},
+		{
+			"name": "FUN",
+			"path": "../../FUN"
+		},
+		{
+			"name": "GUIDE",
+			"path": "../../GUIDE"
+		},
+		{
+			"name": "SHOP",
+			"path": "../../SHOP"
+		},
+		{
+			"name": "STORE",
+			"path": "../../STORE"
+		},
+		{
+			"name": "WORK",
+			"path": "../../WORK"
+		},
+		{
+			"name": "XYZ",
+			"path": "../../XYZ"
 		}
 	],
 	"settings": {}
