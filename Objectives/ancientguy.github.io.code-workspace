@@ -55,6 +55,10 @@
 		{
 			"name": "RockRapids.github.io",
 			"path": "../../RockRapids.github.io"
+		},
+		{
+			"name": "INFO",
+			"path": "../../INFO"
 		}
 	],
 	"settings": {}
