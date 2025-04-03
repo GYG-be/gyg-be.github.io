@@ -87,6 +87,10 @@
 		{
 			"name": "XYZ",
 			"path": "../../XYZ"
+		},
+		{
+			"name": "onboarding",
+			"path": "../../onboarding"
 		}
 	],
 	"settings": {}
