@@ -6,11 +6,9 @@ permalink: /Knowledge
 
 We are blessed to live in times in which knowledge engineering is so incredibly social and connected.
 
-One that I have been using make learning and information consumption more FUN accessible through AI which makes it possible for research to be more engaging and social.
+One that I have been using make learning and information consumption more FUN accessible through AI which makes it possible for [Gemini's Deep Research to be more engaging and social](https://blog.google/products/gemini/tips-how-to-use-deep-research/). This capability is built on the lessons learned from users exploring the key features of [Illuminate](https://illuminate.google.com/library?pli=1) are its AI-generated audio discussions: The tool creates audio summaries that sound like a podcast, with two voices discussing the content. Users can view / copy the transcript of the audio and it even has a Q&A feature.
 
-The key features of Illuminate are AI-generated audio discussions: The tool creates audio summaries that sound like a podcast, with two voices discussing the content. Users can view / copy the transcript of the audio and it even has a Q&A feature.
-
-The following is the prompt I use for [Illuminate](https://illuminate.google.com/create?pli=1) 
+In my experimentation with Illuminate, I have typically aimed to add multiple related papers at a time, such as [this discussion of four recent sources on superconducting vacuum-gap capacitors](https://illuminate.google.com/library?play=eYNF9c_89Mow) with something like the following prompt for [Illuminate](https://illuminate.google.com/create?pli=1) 
 
 Create a deep conversation in nanotechnology material science engineering with a host that is technically skilled, but also insightful, noted for asking great questions on behalf of an audience of engineers working in nanotechnology but might not understand nuances and a guest that is a senior nanotechnology engineer.
 
