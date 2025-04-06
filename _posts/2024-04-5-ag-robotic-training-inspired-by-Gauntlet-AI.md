@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Training Inspired By Gauntlet.AI In Distributed Lightweight Swarm Robotics"
+title:  "Training Inspired By Gauntlet.AI In Distributed Swarm Robotics"
 date:   2025-04-05 20:00:01
 categories: disrupt
 ---
