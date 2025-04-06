@@ -6,7 +6,7 @@ categories: disrupt
 ---
 
 
-If you are not familiar with [Gauntlet AI](https://www.gauntletai.com/program-faq), ***you really NEED to be.*** 
+This program is inspired by [Gauntlet AI](https://www.gauntletai.com/program-faq), which is an intensive 10-week training program [cost-free to participants] designed to develop the next generation of AI-enabled technical leaders. Graduates [who recieve travel and expense compensation, while paying no salary for the program] successfully completing Gauntlet receive automatic job offers in a $200k/yr role as an AI Engineer in Austin, Texas ... or maybe something better than that.
 
 What has been developed below is a program who's aim is not just to produce extremely high-earning technically-adept, autodidactic, skill-renewing employees like Gauntlet ...  even though, we recognize that some might choose a route that allows them to focus on technology, engineering and science rather than running a business. 
 
