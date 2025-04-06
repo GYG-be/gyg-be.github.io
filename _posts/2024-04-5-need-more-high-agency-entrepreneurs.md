@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OFFROAD/AG ROBOTICS REVOLUTION: A Radically Disruptive Training Program"
-date:   2024-02-15 00:00:01
+date:   2024-04-05 20:00:01
 categories: disrupt
 ---
 
