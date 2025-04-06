@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "OFFROAD/AG ROBOTICS REVOLUTION: A Radically Disruptive Training Program"
+title:  "Training Inspired By Gauntlet.AI In Distributed Lightweight Swarm Robotics"
 date:   2025-04-05 20:00:01
 categories: disrupt
 ---
 
 
-The aim of this program is not just to produce high-earning technically-adept, autodidactic, skill-renewing employees, although some might choose a route that allows them to focus on technology, engineering and science rather than running a business. **The primary aim of this program is to create founders of new employer firms who own the future of agricultural robotics.** 
+If you are not familiar with [Gauntlet AI](https://www.gauntletai.com/program-faq), ***you really NEED to be.*** 
+
+What has been developed below is a program who's aim is not just to produce extremely high-earning technically-adept, autodidactic, skill-renewing employees like Gauntlet ...  even though, we recognize that some might choose a route that allows them to focus on technology, engineering and science rather than running a business. 
+
+**The primary aim of this program is to create founders of new employer firms who own the future of agricultural robotics; it's important to realize why that future is going to be so disruptive of the economics of agriculture, not to mention the the way that farming and the equipment business look.** 
 
 Expected outcomes include:
 
