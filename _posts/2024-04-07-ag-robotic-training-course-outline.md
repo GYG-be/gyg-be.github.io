@@ -180,43 +180,267 @@ Intensive technical training on the design, implementation, and operation of rob
 
 ---
 
+**PART 2: Advanced Perception & Sensing**
+
+**Section 2.0: Sensor Technologies & Modeling**
+
+* **Module 21: Advanced Camera Models and Calibration Techniques (6 hours)**  
+  1. **Pinhole Camera Model Revisited:** Intrinsic matrix (focal length, principal point), extrinsic matrix (rotation, translation), projection mathematics. Limitations.  
+  2. **Lens Distortion Modeling:** Radial distortion (barrel, pincushion), tangential distortion. Mathematical models (polynomial, division models). Impact on accuracy.  
+  3. **Camera Calibration Techniques:** Planar target methods (checkerboards, ChArUco), estimating intrinsic and distortion parameters (e.g., using OpenCV calibrateCamera). Evaluating calibration accuracy (reprojection error).  
+  4. **Fisheye & Omnidirectional Camera Models:** Equidistant, equisolid angle, stereographic projections. Calibration methods specific to wide FoV lenses (e.g., Scaramuzza's model).  
+  5. **Rolling Shutter vs. Global Shutter:** Understanding rolling shutter effects (skew, wobble), modeling rolling shutter kinematics. Implications for dynamic scenes and VIO.  
+  6. **Photometric Calibration & High Dynamic Range (HDR):** Modeling non-linear radiometric response (vignetting, CRF), HDR imaging techniques for handling challenging lighting in fields.  
+
+* **Module 22: LiDAR Principles, Data Processing, and Error Modeling (6 hours)**  
+  1. **LiDAR Fundamentals:** Time-of-Flight (ToF) vs. Amplitude Modulated Continuous Wave (AMCW) vs. Frequency Modulated Continuous Wave (FMCW) principles. Laser properties (wavelength, safety classes, beam divergence).  
+  2. **LiDAR Types:** Mechanical scanning vs. Solid-state LiDAR (MEMS, OPA, Flash). Characteristics, pros, and cons for field robotics (range, resolution, robustness).  
+  3. **Point Cloud Data Representation:** Cartesian coordinates, spherical coordinates, intensity, timestamp. Common data formats (PCD, LAS). Ring structure in mechanical LiDAR.  
+  4. **Raw Data Processing:** Denoising point clouds (statistical outlier removal, radius outlier removal), ground plane segmentation, Euclidean clustering for object detection.  
+  5. **LiDAR Error Sources & Modeling:** Range uncertainty, intensity-based errors, incidence angle effects, multi-path reflections, atmospheric effects (rain, dust, fog attenuation). Calibration (intrinsic/extrinsic).  
+  6. **Motion Distortion Compensation:** Correcting point cloud skew due to sensor/robot motion during scan acquisition using odometry/IMU data.  
+
+* **Module 23: IMU Physics, Integration, Calibration, and Drift Compensation (6 hours)**  
+  1. **Gyroscope Physics & MEMS Implementation:** Coriolis effect, vibrating structures (tuning fork, ring), measuring angular velocity. Cross-axis sensitivity.  
+  2. **Accelerometer Physics & MEMS Implementation:** Proof mass and spring model, capacitive/piezoresistive sensing, measuring specific force (gravity \+ linear acceleration). Bias, scale factor errors.  
+  3. **IMU Error Modeling:** Bias (static, dynamic/instability), scale factor errors (non-linearity), random noise (Angle/Velocity Random Walk \- ARW/VRW), temperature effects, g-sensitivity.  
+  4. **Allan Variance Analysis:** Characterizing IMU noise sources (Quantization, ARW, Bias Instability, VRW, Rate Ramp) from static sensor data. Practical calculation and interpretation.  
+  5. **IMU Calibration Techniques:** Multi-position static tests for bias/scale factor estimation, temperature calibration, turntable calibration for advanced errors.  
+  6. **Orientation Tracking (Attitude Estimation):** Direct integration issues (drift), complementary filters, Kalman filters (EKF/UKF) fusing gyro/accelerometer(/magnetometer) data. Quaternion kinematics for integration.  
+
+* **Module 24: GPS/GNSS Principles, RTK, Error Sources, and Mitigation (6 hours)**  
+  1. **GNSS Fundamentals:** Constellations (GPS, GLONASS, Galileo, BeiDou), signal structure (C/A code, P-code, carrier phase), trilateration concept. Standard Positioning Service (SPS).  
+  2. **GNSS Error Sources:** Satellite clock/ephemeris errors, ionospheric delay, tropospheric delay, receiver noise, multipath propagation. Quantifying typical error magnitudes.  
+  3. **Differential GNSS (DGNSS):** Concept of base stations and corrections to mitigate common mode errors. Accuracy improvements (sub-meter). Limitations.  
+  4. **Real-Time Kinematic (RTK) GNSS:** Carrier phase measurements, ambiguity resolution techniques (integer least squares), achieving centimeter-level accuracy. Base station vs. Network RTK (NTRIP).  
+  5. **Precise Point Positioning (PPP):** Using precise satellite clock/orbit data without a local base station. Convergence time and accuracy considerations.  
+  6. **GNSS Integrity & Mitigation:** Receiver Autonomous Integrity Monitoring (RAIM), augmentation systems (WAAS, EGNOS), techniques for multipath detection and mitigation (antenna design, signal processing).  
+
+* **Module 25: Radar Systems for Robotics: Principles and Applications in Occlusion/Weather (6 hours)**  
+  1. **Radar Fundamentals:** Electromagnetic wave propagation, reflection, scattering, Doppler effect. Frequency bands used in robotics (e.g., 24 GHz, 77 GHz). Antenna basics (beamwidth, gain).  
+  2. **Radar Waveforms:** Continuous Wave (CW), Frequency Modulated Continuous Wave (FMCW), Pulsed Radar. Range and velocity measurement principles for each.  
+  3. **FMCW Radar Deep Dive:** Chirp generation, beat frequency analysis for range, FFT processing for velocity (Range-Doppler maps). Resolution limitations.  
+  4. **Radar Signal Processing:** Clutter rejection (Moving Target Indication \- MTI), Constant False Alarm Rate (CFAR) detection, angle estimation (phase interferometry, beamforming).  
+  5. **Radar for Robotics Applications:** Advantages in adverse weather (rain, fog, dust) and low light. Detecting occluded objects. Challenges (specular reflections, low resolution, data sparsity).  
+  6. **Radar Sensor Fusion:** Combining radar data with camera/LiDAR for improved perception robustness. Technical challenges in cross-modal fusion. Use cases in agriculture (e.g., obstacle detection in tall crops).  
+
+* **Module 26: Proprioceptive Sensing (Encoders, Force/Torque Sensors) (6 hours)**  
+  1. **Encoders:** Incremental vs. Absolute encoders. Optical, magnetic, capacitive principles. Resolution, accuracy, quadrature encoding for direction sensing. Index pulse.  
+  2. **Encoder Data Processing:** Reading quadrature signals, velocity estimation from encoder counts, dealing with noise and missed counts. Integration for position estimation (and associated drift).  
+  3. **Resolvers & Synchros:** Principles of operation, analog nature, robustness in harsh environments compared to optical encoders. R/D converters.  
+  4. **Strain Gauges & Load Cells:** Piezoresistive effect, Wheatstone bridge configuration for temperature compensation and sensitivity enhancement. Application in force/weight measurement.  
+  5. **Force/Torque Sensors:** Multi-axis F/T sensors based on strain gauges or capacitive principles. Design considerations, calibration, signal conditioning. Decoupling forces and torques.  
+  6. **Applications in Robotics:** Joint position/velocity feedback for control, wheel odometry, contact detection, force feedback control, slip detection.  
+
+* **Module 27: Agricultural-Specific Sensors (Spectral, Chemical, Soil Probes) \- Physics & Integration (6 hours)**  
+  1. **Multispectral & Hyperspectral Imaging:** Physics of light reflectance/absorbance by plants/soil, key spectral bands (VIS, NIR, SWIR), vegetation indices (NDVI, NDRE). Sensor types (filter wheel, push-broom). Calibration (radiometric, reflectance targets).  
+  2. **Thermal Imaging (Thermography):** Planck's law, emissivity, measuring surface temperature. Applications (water stress detection, animal health monitoring). Atmospheric correction challenges. Microbolometer physics.  
+  3. **Soil Property Sensors (Probes):** Electrical conductivity (EC) for salinity/texture, Time Domain Reflectometry (TDR)/Capacitance for moisture content, Ion-Selective Electrodes (ISE) for pH/nutrients (N, P, K). Insertion mechanics and calibration challenges.  
+  4. **Chemical Sensors ("E-Nose"):** Metal Oxide Semiconductor (MOS), Electrochemical sensors for detecting volatile organic compounds (VOCs) related to plant stress, ripeness, or contamination. Selectivity and drift issues.  
+  5. **Sensor Integration Challenges:** Power requirements, communication interfaces (Analog, Digital, CAN, Serial), environmental sealing (IP ratings), mounting considerations on mobile robots.  
+  6. **Data Fusion & Interpretation:** Combining diverse ag-specific sensor data, spatial mapping, correlating sensor readings with ground truth/agronomic knowledge. Building actionable maps.  
+
+* **Module 28: Sensor Characterization: Noise Modeling and Performance Limits (6 hours)**  
+  1. **Systematic Errors vs. Random Errors:** Bias, scale factor, non-linearity, hysteresis vs. random noise. Importance of distinguishing error types.  
+  2. **Noise Probability Distributions:** Gaussian noise model, modeling non-Gaussian noise (e.g., heavy-tailed distributions), probability density functions (PDF).  
+  3. **Quantifying Noise:** Signal-to-Noise Ratio (SNR), Root Mean Square (RMS) error, variance/standard deviation. Calculating these metrics from sensor data.  
+  4. **Frequency Domain Analysis of Noise:** Power Spectral Density (PSD), identifying noise characteristics (white noise, pink noise, random walk) from PSD plots. Allan Variance revisited for long-term stability.  
+  5. **Sensor Datasheet Interpretation:** Understanding specifications (accuracy, precision, resolution, bandwidth, drift rates). Relating datasheet specs to expected real-world performance.  
+  6. **Developing Sensor Error Models:** Creating mathematical models incorporating bias, scale factor, noise (e.g., Gaussian noise), and potentially temperature dependencies for use in simulation and state estimation (EKF/UKF).  
+
+* **Module 29: Techniques for Sensor Degradation Detection and Compensation (6 hours)**  
+  1. **Sources of Sensor Degradation:** Physical blockage (dust, mud), component drift/aging, temperature effects, calibration invalidation, physical damage.  
+  2. **Model-Based Fault Detection:** Comparing sensor readings against expected values from a system model (e.g., using Kalman filter residuals). Thresholding innovations.  
+  3. **Signal-Based Fault Detection:** Analyzing signal properties (mean, variance, frequency content) for anomalies. Change detection algorithms.  
+  4. **Redundancy-Based Fault Detection:** Comparing readings from multiple similar sensors (analytical redundancy). Voting schemes, consistency checks. Application in safety-critical systems.  
+  5. **Fault Isolation Techniques:** Determining *which* sensor has failed when discrepancies are detected. Hypothesis testing, structured residuals.  
+  6. **Compensation & Reconfiguration:** Ignoring faulty sensor data, switching to backup sensors, adapting fusion algorithms (e.g., adjusting noise covariance), triggering maintenance alerts. Graceful degradation strategies.  
+
+* **Module 30: Designing Sensor Payloads for Harsh Environments (6 hours)**  
+  1. **Requirement Definition:** Translating operational needs (range, accuracy, update rate, environmental conditions) into sensor specifications.  
+  2. **Sensor Selection Trade-offs:** Cost, Size, Weight, Power (SWaP-C), performance, robustness, data interface compatibility. Multi-sensor payload considerations.  
+  3. **Mechanical Design:** Vibration isolation/damping, shock mounting, robust enclosures (material selection), sealing techniques (gaskets, O-rings, potting) for IP rating. Cable management and strain relief.  
+  4. **Thermal Management:** Passive cooling (heat sinks, airflow) vs. active cooling (fans, TECs). Preventing overheating and condensation. Temperature sensor placement.  
+  5. **Electromagnetic Compatibility (EMC/EMI):** Shielding, grounding, filtering to prevent interference between sensors, motors, and communication systems.  
+  6. **Maintainability & Calibration Access:** Designing for ease of cleaning, field replacement of components, and access for necessary calibration procedures. Modular payload design.
+
+**Section 2.1: Computer Vision for Field Robotics**
+
+* **Module 31: Image Filtering, Feature Detection, and Matching (Advanced Techniques) (6 hours)**  
+  1. **Image Filtering Revisited:** Linear filters (Gaussian, Sobel, Laplacian), non-linear filters (Median, Bilateral). Frequency domain filtering. Applications in noise reduction and edge detection.  
+  2. **Corner & Blob Detection:** Harris corner detector, Shi-Tomasi Good Features to Track, FAST detector. LoG/DoG blob detectors (SIFT/SURF concepts). Properties (invariance, repeatability).  
+  3. **Feature Descriptors:** SIFT, SURF, ORB, BRIEF, BRISK. How descriptors capture local appearance. Properties (robustness to illumination/viewpoint changes, distinctiveness, computational cost).  
+  4. **Feature Matching Strategies:** Brute-force matching, FLANN (Fast Library for Approximate Nearest Neighbors). Distance metrics (L2, Hamming). Ratio test for outlier rejection.  
+  5. **Geometric Verification:** Using RANSAC (Random Sample Consensus) or MLESAC to find geometric transformations (homography, fundamental matrix) consistent with feature matches, rejecting outliers.  
+  6. **Applications:** Image stitching, object recognition (bag-of-visual-words concept), visual odometry front-end, place recognition.  
+
+* **Module 32: Stereo Vision and Depth Perception Algorithms (6 hours)**  
+  1. **Epipolar Geometry:** Epipoles, epipolar lines, Fundamental Matrix (F), Essential Matrix (E). Derivation and properties. Relationship to camera calibration (intrinsics/extrinsics).  
+  2. **Stereo Camera Calibration:** Estimating the relative pose (rotation, translation) between two cameras. Calibrating intrinsics individually vs. jointly.  
+  3. **Stereo Rectification:** Warping stereo images so epipolar lines are horizontal and corresponding points lie on the same image row. Simplifying the matching problem.  
+  4. **Stereo Matching Algorithms (Local):** Block matching (SAD, SSD, NCC), window size selection. Issues (textureless regions, occlusion, disparity range).  
+  5. **Stereo Matching Algorithms (Global/Semi-Global):** Dynamic Programming, Graph Cuts, Semi-Global Block Matching (SGBM). Achieving smoother and more accurate disparity maps. Computational cost trade-offs.  
+  6. **Disparity-to-Depth Conversion:** Triangulation using camera intrinsics and baseline. Calculating 3D point clouds from disparity maps. Uncertainty estimation.  
+
+* **Module 33: Visual Odometry and Structure from Motion (SfM) (6 hours)**  
+  1. **Visual Odometry (VO) Concept:** Estimating robot ego-motion (pose change) using camera images. Frame-to-frame vs. frame-to-map approaches. Drift accumulation problem.  
+  2. **Two-Frame VO:** Feature detection/matching, Essential matrix estimation (e.g., 5-point/8-point algorithm with RANSAC), pose decomposition from E, triangulation for local map points. Scale ambiguity (monocular).  
+  3. **Multi-Frame VO & Bundle Adjustment:** Using features tracked across multiple frames, optimizing poses and 3D point locations simultaneously by minimizing reprojection errors. Local vs. global Bundle Adjustment (BA).  
+  4. **Structure from Motion (SfM):** Similar to VO but often offline, focusing on reconstructing accurate 3D structure from unordered image collections. Incremental SfM pipelines (e.g., COLMAP).  
+  5. **Scale Estimation:** Using stereo VO, integrating IMU data (VIO), or detecting known-size objects to resolve scale ambiguity in monocular VO/SfM.  
+  6. **Robustness Techniques:** Handling dynamic objects, loop closure detection (using features or place recognition) to correct drift, integrating VO with other sensors (IMU, wheel encoders).  
+
+* **Module 34: Deep Learning for Computer Vision: CNNs, Object Detection (YOLO, Faster R-CNN variants) (6 hours)**  
+  1. **Convolutional Neural Networks (CNNs):** Convolutional layers, pooling layers, activation functions (ReLU), fully connected layers. Understanding feature hierarchies.  
+  2. **Key CNN Architectures:** LeNet, AlexNet, VGG, GoogLeNet (Inception), ResNet (Residual connections), EfficientNet (compound scaling). Strengths and weaknesses.  
+  3. **Training CNNs:** Backpropagation, stochastic gradient descent (SGD) and variants (Adam, RMSprop), loss functions (cross-entropy), regularization (dropout, batch normalization), data augmentation.  
+  4. **Object Detection Paradigms:** Two-stage detectors (R-CNN, Fast R-CNN, Faster R-CNN \- Region Proposal Networks) vs. One-stage detectors (YOLO, SSD). Speed vs. accuracy trade-off.  
+  5. **Object Detector Architectures Deep Dive:** Faster R-CNN components (RPN, RoI Pooling). YOLO architecture (grid system, anchor boxes, non-max suppression). SSD multi-scale features.  
+  6. **Training & Evaluating Object Detectors:** Datasets (COCO, Pascal VOC, custom ag datasets), Intersection over Union (IoU), Mean Average Precision (mAP), fine-tuning pre-trained models.  
+
+* **Module 35: Semantic Segmentation and Instance Segmentation (Mask R-CNN, U-Nets) (6 hours)**  
+  1. **Semantic Segmentation:** Assigning a class label to every pixel (e.g., crop, weed, soil). Applications in precision agriculture.  
+  2. **Fully Convolutional Networks (FCNs):** Adapting classification CNNs for dense prediction using convolutionalized fully connected layers and upsampling (transposed convolution/deconvolution).  
+  3. **Encoder-Decoder Architectures:** U-Net architecture (contracting path, expansive path, skip connections), SegNet. Importance of skip connections for detail preservation.  
+  4. **Advanced Segmentation Techniques:** Dilated/Atrous convolutions for larger receptive fields without downsampling, DeepLab family (ASPP \- Atrous Spatial Pyramid Pooling).  
+  5. **Instance Segmentation:** Detecting individual object instances and predicting pixel-level masks for each (differentiating between two weeds of the same type).  
+  6. **Mask R-CNN Architecture:** Extending Faster R-CNN with a parallel mask prediction branch using RoIAlign. Training and evaluation (mask mAP). Other approaches (YOLACT).  
+
+* **Module 36: Object Tracking in Cluttered Environments (DeepSORT, Kalman Filters) (6 hours)**  
+  1. **Tracking Problem Formulation:** Tracking objects across video frames, maintaining identities, handling occlusion, appearance changes, entries/exits.  
+  2. **Tracking-by-Detection Paradigm:** Using an object detector in each frame and associating detections across frames. The data association challenge.  
+  3. **Motion Modeling & Prediction:** Constant velocity/acceleration models, Kalman Filters (KF) / Extended Kalman Filters (EKF) for predicting object states (position, velocity).  
+  4. **Appearance Modeling:** Using visual features (color histograms, deep features from CNNs) to represent object appearance for association. Handling appearance changes.  
+  5. **Data Association Methods:** Hungarian algorithm for optimal assignment (using motion/appearance costs), Intersection over Union (IoU) tracking, greedy assignment.  
+  6. **DeepSORT Algorithm:** Combining Kalman Filter motion prediction with deep appearance features (from a ReID network) and the Hungarian algorithm for robust tracking. Handling track lifecycle management.  
+
+* **Module 37: Vision-Based Navigation and Control (Visual Servoing) (6 hours)**  
+  1. **Visual Servoing Concepts:** Using visual information directly in the robot control loop to reach a desired configuration relative to target(s). Image-Based (IBVS) vs. Position-Based (PBVS).  
+  2. **Image-Based Visual Servoing (IBVS):** Controlling robot motion based on errors between current and desired feature positions *in the image plane*. Interaction Matrix (Image Jacobian) relating feature velocities to robot velocities.  
+  3. **Position-Based Visual Servoing (PBVS):** Reconstructing the 3D pose of the target relative to the camera, then controlling the robot based on errors in the 3D Cartesian space. Requires camera calibration and 3D reconstruction.  
+  4. **Hybrid Approaches (2.5D Visual Servoing):** Combining aspects of IBVS and PBVS to leverage their respective advantages (e.g., robustness of IBVS, decoupling of PBVS).  
+  5. **Stability and Robustness Issues:** Controlling camera rotation, dealing with field-of-view constraints, handling feature occlusion, ensuring stability of the control law. Adaptive visual servoing.  
+  6. **Applications in Agriculture:** Guiding manipulators for harvesting/pruning, vehicle guidance along crop rows, docking procedures.  
+
+* **Module 38: Handling Adverse Conditions: Low Light, Rain, Dust, Fog in CV (6 hours)**  
+  1. **Low Light Enhancement Techniques:** Histogram equalization, Retinex theory, deep learning approaches (e.g., Zero-DCE). Dealing with increased noise.  
+  2. **Modeling Rain Effects:** Rain streaks, raindrops on lens. Physics-based modeling, detection and removal algorithms (image processing, deep learning).  
+  3. **Modeling Fog/Haze Effects:** Atmospheric scattering models (Koschmieder's law), estimating transmission maps, dehazing algorithms (Dark Channel Prior, deep learning).  
+  4. **Handling Dust/Mud Occlusion:** Detecting partial sensor occlusion, image inpainting techniques, robust feature design less sensitive to partial occlusion. Sensor cleaning strategies (briefly).  
+  5. **Multi-Modal Sensor Fusion for Robustness:** Combining vision with LiDAR/Radar/Thermal which are less affected by certain adverse conditions. Fusion strategies under degraded visual input.  
+  6. **Dataset Creation & Domain Randomization:** Collecting data in adverse conditions, using simulation with domain randomization (weather, lighting) to train more robust deep learning models.  
+
+* **Module 39: Domain Adaptation and Transfer Learning for Ag-Vision (6 hours)**  
+  1. **The Domain Shift Problem:** Models trained on one dataset (source domain, e.g., simulation, different location/season) performing poorly on another (target domain, e.g., real robot, current field). Causes (illumination, viewpoint, crop variety/stage).  
+  2. **Transfer Learning & Fine-Tuning:** Using models pre-trained on large datasets (e.g., ImageNet) as a starting point, fine-tuning on smaller target domain datasets. Strategies for freezing/unfreezing layers.  
+  3. **Unsupervised Domain Adaptation (UDA):** Adapting models using labeled source data and *unlabeled* target data. Adversarial methods (minimizing domain discrepancy using discriminators), reconstruction-based methods.  
+  4. **Semi-Supervised Domain Adaptation:** Using labeled source data and a *small amount* of labeled target data along with unlabeled target data.  
+  5. **Self-Supervised Learning for Pre-training:** Using pretext tasks (e.g., rotation prediction, contrastive learning like MoCo/SimCLR) on large unlabeled datasets (potentially from target domain) to learn useful representations before fine-tuning.  
+  6. **Practical Considerations for Ag:** Data collection strategies across varying conditions, active learning to select informative samples for labeling, evaluating adaptation performance.  
+
+* **Module 40: Efficient Vision Processing on Embedded Systems (GPU, TPU, FPGA) (6 hours)**  
+  1. **Embedded Vision Platforms:** Overview of hardware options: Microcontrollers, SoCs (System-on-Chip) with integrated GPUs (e.g., NVIDIA Jetson), FPGAs (Field-Programmable Gate Arrays), VPUs (Vision Processing Units), TPUs (Tensor Processing Units).  
+  2. **Optimizing CV Algorithms:** Fixed-point arithmetic vs. floating-point, algorithm selection for efficiency (e.g., FAST vs SIFT), reducing memory footprint.  
+  3. **GPU Acceleration:** CUDA programming basics, using libraries like OpenCV CUDA module, cuDNN for deep learning. Parallel processing concepts. Memory transfer overheads.  
+  4. **Deep Learning Model Optimization:** Pruning (removing redundant weights/neurons), Quantization (using lower precision numbers, e.g., INT8), Knowledge Distillation (training smaller models to mimic larger ones). Frameworks like TensorRT.  
+  5. **FPGA Acceleration:** Hardware Description Languages (VHDL/Verilog), High-Level Synthesis (HLS). Implementing CV algorithms directly in hardware for high throughput/low latency. Reconfigurable computing benefits.  
+  6. **System-Level Optimization:** Pipelining tasks, optimizing data flow between components (CPU, GPU, FPGA), power consumption management for battery-powered robots.  
+
+* **Module 41: 3D Point Cloud Processing and Registration (ICP variants) (6 hours)**  
+  1. **Point Cloud Data Structures:** Organizing large point clouds (k-d trees, octrees) for efficient nearest neighbor search and processing. PCL (Point Cloud Library) overview.  
+  2. **Point Cloud Filtering:** Downsampling (voxel grid), noise removal revisited, outlier removal specific to 3D data.  
+  3. **Feature Extraction in 3D:** Normal estimation, curvature, 3D feature descriptors (FPFH, SHOT). Finding keypoints in point clouds.  
+  4. **Point Cloud Registration Problem:** Aligning two or more point clouds (scans) into a common coordinate frame. Coarse vs. fine registration.  
+  5. **Iterative Closest Point (ICP) Algorithm:** Basic formulation (find correspondences, compute transformation, apply, iterate). Variants (point-to-point, point-to-plane). Convergence properties and limitations (local minima).  
+  6. **Robust Registration Techniques:** Using features for initial alignment (e.g., SAC-IA), robust cost functions, globally optimal methods (e.g., Branch and Bound). Evaluating registration accuracy.  
+
+* **Module 42: Plant/Weed/Pest/Animal Identification via Advanced CV (6 hours)**  
+  1. **Fine-Grained Visual Classification (FGVC):** Challenges in distinguishing between visually similar species/varieties (subtle differences). Datasets for FGVC in agriculture.  
+  2. **FGVC Techniques:** Bilinear CNNs, attention mechanisms focusing on discriminative parts, specialized loss functions. Using high-resolution imagery.  
+  3. **Detection & Segmentation for Identification:** Applying object detectors (Module 34\) and segmentation models (Module 35\) specifically trained for identifying plants, weeds, pests (insects), or animals in agricultural scenes.  
+  4. **Dealing with Scale Variation:** Handling objects appearing at very different sizes (small insects vs. large plants). Multi-scale processing, feature pyramids.  
+  5. **Temporal Information for Identification:** Using video or time-series data to help identify based on growth patterns or behavior (e.g., insect movement). Recurrent neural networks (RNNs/LSTMs) combined with CNNs.  
+  6. **Real-World Challenges:** Occlusion by other plants/leaves, varying lighting conditions, mud/dirt on objects, species variation within fields. Need for robust, adaptable models.
+
+**Section 2.2: State Estimation & Sensor Fusion**
+
+* **Module 43: Bayesian Filtering: Kalman Filter (KF), Extended KF (EKF) (6 hours)**  
+  1. **Bayesian Filtering Framework:** Recursive estimation of state probability distribution using prediction and update steps based on Bayes' theorem. General concept.  
+  2. **The Kalman Filter (KF):** Assumptions (Linear system dynamics, linear measurement model, Gaussian noise). Derivation of prediction and update equations (state estimate, covariance matrix). Optimality under assumptions.  
+  3. **KF Implementation Details:** State vector definition, state transition matrix (A), control input matrix (B), measurement matrix (H), process noise covariance (Q), measurement noise covariance (R). Tuning Q and R.  
+  4. **Extended Kalman Filter (EKF):** Handling non-linear system dynamics or measurement models by linearizing around the current estimate using Jacobians (F, H matrices).  
+  5. **EKF Derivation & Implementation:** Prediction and update equations for EKF. Potential issues: divergence due to linearization errors, computational cost of Jacobians.  
+  6. **Applications:** Simple tracking problems, fusing GPS and odometry (linear case), fusing IMU and GPS (non-linear attitude \- EKF needed).  
+
+* **Module 44: Unscented Kalman Filter (UKF) and Particle Filters (PF) (6 hours)**  
+  1. **Limitations of EKF:** Linearization errors, difficulty with highly non-linear systems. Need for better approaches.  
+  2. **Unscented Transform (UT):** Approximating probability distributions using a minimal set of deterministically chosen "sigma points." Propagating sigma points through non-linear functions to estimate mean and covariance.  
+  3. **Unscented Kalman Filter (UKF):** Applying the Unscented Transform within the Bayesian filtering framework. Prediction and update steps using sigma points. No Jacobians required. Advantages over EKF.  
+  4. **Particle Filters (Sequential Monte Carlo):** Representing probability distributions using a set of weighted random samples (particles). Handling arbitrary non-linearities and non-Gaussian noise.  
+  5. **Particle Filter Algorithm:** Prediction (propagating particles through system model), Update (weighting particles based on measurement likelihood), Resampling (mitigating particle degeneracy \- importance sampling).  
+  6. **PF Variants & Applications:** Sampling Importance Resampling (SIR), choosing proposal distributions, number of particles trade-off. Applications in localization (Monte Carlo Localization), visual tracking, terrain estimation. Comparison of KF/EKF/UKF/PF.  
+
+* **Module 45: Multi-Modal Sensor Fusion Architectures (Centralized, Decentralized) (6 hours)**  
+  1. **Motivation for Multi-Modal Fusion:** Leveraging complementary strengths of different sensors (e.g., camera detail, LiDAR range, Radar weather penetration, IMU dynamics, GPS global position). Improving robustness and accuracy.  
+  2. **Levels of Fusion:** Raw data fusion, feature-level fusion, state-vector fusion, decision-level fusion. Trade-offs.  
+  3. **Centralized Fusion:** All raw sensor data (or features) are sent to a single fusion center (e.g., one large EKF/UKF/Graph) to compute the state estimate. Optimal but complex, single point of failure.  
+  4. **Decentralized Fusion:** Sensors (or subsets) process data locally, then share state estimates and covariances with a central node or amongst themselves. Information Filter / Covariance Intersection techniques. More scalable and robust.  
+  5. **Hierarchical/Hybrid Architectures:** Combining centralized and decentralized approaches (e.g., local fusion nodes feeding a global fusion node).  
+  6. **Challenges:** Time synchronization of sensor data, data association across sensors, calibration between sensors (spatio-temporal), managing different data rates and delays.  
+
+* **Module 46: Graph-Based SLAM (Simultaneous Localization and Mapping) (6 hours)**  
+  1. **SLAM Problem Formulation Revisited:** Estimating robot pose and map features simultaneously. Chicken-and-egg problem. Why filtering (EKF-SLAM) struggles with consistency.  
+  2. **Graph Representation:** Nodes representing robot poses and/or map landmarks. Edges representing constraints (odometry measurements between poses, landmark measurements from poses).  
+  3. **Front-End Processing:** Extracting constraints from sensor data (visual features, LiDAR scans, GPS, IMU preintegration). Computing measurement likelihoods/information matrices. Data association.  
+  4. **Back-End Optimization:** Formulating SLAM as a non-linear least-squares optimization problem on the graph. Minimizing the sum of squared errors from constraints.  
+  5. **Solving the Optimization:** Iterative methods (Gauss-Newton, Levenberg-Marquardt). Exploiting graph sparsity for efficient solution (Cholesky factorization, Schur complement). Incremental smoothing and mapping (iSAM, iSAM2).  
+  6. **Optimization Libraries & Implementation:** Using frameworks like g2o (General Graph Optimization) or GTSAM (Georgia Tech Smoothing and Mapping). Defining graph structures and factors.  
+
+* **Module 47: Robust SLAM in Dynamic and Feature-Poor Environments (6 hours)**  
+  1. **Challenges in Real-World SLAM:** Dynamic objects violating static world assumption, perceptual aliasing (similar looking places), feature-poor areas (long corridors, open fields), sensor noise/outliers.  
+  2. **Handling Dynamic Objects:** Detecting and removing dynamic elements from sensor data before SLAM processing (e.g., using semantic segmentation, motion cues). Robust back-end techniques less sensitive to outlier constraints.  
+  3. **Robust Loop Closure Detection:** Techniques beyond simple feature matching (Bag-of-Visual-Words \- BoVW, sequence matching) to handle viewpoint/illumination changes. Geometric consistency checks for validation.  
+  4. **SLAM in Feature-Poor Environments:** Relying more heavily on proprioceptive sensors (IMU, odometry), using LiDAR features (edges, planes) instead of points, incorporating other sensor modalities (radar). Maintaining consistency over long traverses.  
+  5. **Robust Back-End Optimization:** Using robust cost functions (M-estimators like Huber, Tukey) instead of simple least-squares to down-weight outlier constraints. Switchable constraints for loop closures.  
+  6. **Multi-Session Mapping & Lifelong SLAM:** Merging maps from different sessions, adapting the map over time as the environment changes. Place recognition across long time scales.  
+
+* **Module 48: Tightly-Coupled vs. Loosely-Coupled Fusion (e.g., VINS \- Visual-Inertial Systems) (6 hours)**  
+  1. **Fusion Concept Review:** Combining information from multiple sensors to get a better state estimate than using any single sensor alone.  
+  2. **Loosely-Coupled Fusion:** Each sensor subsystem (e.g., VO, GPS) produces an independent state estimate. These estimates are then fused (e.g., in a Kalman Filter) based on their uncertainties. Simpler to implement, sub-optimal, error propagation issues.  
+  3. **Tightly-Coupled Fusion:** Raw sensor measurements (or pre-processed features) from multiple sensors are used *directly* within a single state estimation framework (e.g., EKF, UKF, Graph Optimization). More complex, potentially more accurate, better handling of sensor failures.  
+  4. **Visual-Inertial Odometry/SLAM (VIO/VINS):** Key example of tight coupling. Fusing IMU measurements and visual features within an optimization framework (filter-based or graph-based).  
+  5. **VINS Implementation Details:** IMU preintegration theory (summarizing IMU data between visual frames), modeling IMU bias, scale estimation, joint optimization of poses, velocities, biases, and feature locations. Initialization challenges.  
+  6. **Comparing Tightly vs. Loosely Coupled:** Accuracy trade-offs, robustness to individual sensor failures, computational complexity, implementation difficulty. Choosing the right approach based on application requirements.  
+
+* **Module 49: Distributed State Estimation for Swarms (6 hours)**  
+  1. **Motivation:** Centralized fusion is not scalable or robust for large swarms. Need methods where robots estimate their state (and potentially states of neighbors or map features) using local sensing and communication.  
+  2. **Challenges:** Limited communication bandwidth/range, asynchronous communication, potential for communication failures/delays, unknown relative poses between robots initially.  
+  3. **Distributed Kalman Filtering (DKF):** Variants where nodes share information (estimates, measurements, innovations) to update local Kalman filters. Consensus-based DKF approaches. Maintaining consistency.  
+  4. **Covariance Intersection (CI):** Fusing estimates from different sources without needing cross-correlation information, providing a consistent (though potentially conservative) fused estimate. Use in decentralized systems.  
+  5. **Distributed Graph SLAM:** Robots build local pose graphs, share information about overlapping areas or relative measurements to form and optimize a global graph distributively. Communication strategies.  
+  6. **Information-Weighted Fusion:** Using the Information Filter formulation (inverse covariance) which is often more suitable for decentralized fusion due to additive properties of information.  
+
+* **Module 50: Maintaining Localization Integrity in GPS-Denied/Degraded Conditions (6 hours)**  
+  1. **Defining Integrity:** Measures of trust in the position estimate (e.g., Protection Levels \- PL). Requirement for safety-critical operations. RAIM concepts revisited.  
+  2. **Fault Detection & Exclusion (FDE):** Identifying faulty measurements (e.g., GPS multipath, IMU bias jump, VO failure) and excluding them from the localization solution. Consistency checks between sensors.  
+  3. **Multi-Sensor Fusion for Integrity:** Using redundancy from multiple sensor types (IMU, Odometry, LiDAR, Vision, Barometer) to provide checks on the primary localization source (often GPS initially). Detecting divergence.  
+  4. **Map-Based Localization for Integrity Check:** Matching current sensor readings (LiDAR scans, camera features) against a prior map to verify position estimate, especially when GPS is unreliable. Particle filters or ICP matching for map matching.  
+  5. **Solution Separation Monitoring:** Running multiple independent localization solutions (e.g., GPS-based, VIO-based) and monitoring their agreement. Triggering alerts if solutions diverge significantly.  
+  6. **Estimating Protection Levels:** Calculating bounds on the position error based on sensor noise models, fault detection capabilities, and system geometry. Propagating uncertainty correctly. Transitioning between localization modes based on integrity.
+
+---
 
 
-**PART 2: Advanced Perception & Sensing (Approx. 30 Modules)**
 
-* **Section 2.0: Sensor Technologies & Modeling (10 Modules)**
-    * Module 21: Advanced Camera Models and Calibration Techniques
-    * Module 22: LiDAR Principles, Data Processing, and Error Modeling
-    * Module 23: IMU Physics, Integration, Calibration, and Drift Compensation
-    * Module 24: GPS/GNSS Principles, RTK, Error Sources, and Mitigation
-    * Module 25: Radar Systems for Robotics: Principles and Applications in Occlusion/Weather
-    * Module 26: Proprioceptive Sensing (Encoders, Force/Torque Sensors)
-    * Module 27: Agricultural-Specific Sensors (Spectral, Chemical, Soil Probes) - Physics & Integration
-    * Module 28: Sensor Characterization: Noise Modeling and Performance Limits
-    * Module 29: Techniques for Sensor Degradation Detection and Compensation
-    * Module 30: Designing Sensor Payloads for Harsh Environments
-* **Section 2.1: Computer Vision for Field Robotics (12 Modules)**
-    * Module 31: Image Filtering, Feature Detection, and Matching (Advanced Techniques)
-    * Module 32: Stereo Vision and Depth Perception Algorithms
-    * Module 33: Visual Odometry and Structure from Motion (SfM)
-    * Module 34: Deep Learning for Computer Vision: CNNs, Object Detection (YOLO, Faster R-CNN variants)
-    * Module 35: Semantic Segmentation and Instance Segmentation (Mask R-CNN, U-Nets)
-    * Module 36: Object Tracking in Cluttered Environments (DeepSORT, Kalman Filters)
-    * Module 37: Vision-Based Navigation and Control (Visual Servoing)
-    * Module 38: Handling Adverse Conditions: Low Light, Rain, Dust, Fog in CV
-    * Module 39: Domain Adaptation and Transfer Learning for Ag-Vision
-    * Module 40: Efficient Vision Processing on Embedded Systems (GPU, TPU, FPGA)
-    * Module 41: 3D Point Cloud Processing and Registration (ICP variants)
-    * Module 42: Plant/Weed/Pest/Animal Identification via Advanced CV
-* **Section 2.2: State Estimation & Sensor Fusion (8 Modules)**
-    * Module 43: Bayesian Filtering: Kalman Filter (KF), Extended KF (EKF)
-    * Module 44: Unscented Kalman Filter (UKF) and Particle Filters (PF)
-    * Module 45: Multi-Modal Sensor Fusion Architectures (Centralized, Decentralized)
-    * Module 46: Graph-Based SLAM (Simultaneous Localization and Mapping)
-    * Module 47: Robust SLAM in Dynamic and Feature-Poor Environments
-    * Module 48: Tightly-Coupled vs. Loosely-Coupled Fusion (e.g., VINS - Visual-Inertial Systems)
-    * Module 49: Distributed State Estimation for Swarms
-    * Module 50: Maintaining Localization Integrity in GPS-Denied/Degraded Conditions
+
+
+
+
+
+
+
+
+
 
 **PART 3: Advanced Control & Dynamics (Approx. 25 Modules)**
 
