@@ -850,6 +850,385 @@ Intensive technical training on the design, implementation, and operation of rob
 
 ---
 
+**PART 5: Real-Time & Fault-Tolerant Systems Engineering**
+
+**Section 5.0: Real-Time Systems**
+
+* **Module 101: Real-Time Operating Systems (RTOS) Concepts (Preemption, Scheduling) (6 hours)**  
+  1. **Real-Time Systems Definitions:** Hard vs. Soft vs. Firm real-time constraints. Characteristics (Timeliness, Predictability, Concurrency). Event-driven vs. time-triggered architectures.  
+  2. **RTOS Kernel Architecture:** Monolithic vs. Microkernel RTOS designs. Key components: Scheduler, Task Management, Interrupt Handling, Timer Services, Inter-Process Communication (IPC).  
+  3. **Task/Thread Management:** Task states (Ready, Running, Blocked), context switching mechanism and overhead, task creation/deletion, Task Control Blocks (TCBs).  
+  4. **Scheduling Algorithms Overview:** Preemptive vs. Non-preemptive scheduling. Priority-based scheduling. Static vs. Dynamic priorities. Cooperative multitasking.  
+  5. **Priority Inversion Problem:** Scenario description, consequences (deadline misses). Solutions: Priority Inheritance Protocol (PIP), Priority Ceiling Protocol (PCP). Resource Access Protocols.  
+  6. **Interrupt Handling & Latency:** Interrupt Service Routines (ISRs), Interrupt Latency, Deferred Procedure Calls (DPCs)/Bottom Halves. Minimizing ISR execution time. Interaction between ISRs and tasks.  
+
+* **Module 102: Real-Time Scheduling Algorithms (RMS, EDF) (6 hours)**  
+  1. **Task Models for Real-Time Scheduling:** Periodic tasks (period, execution time, deadline), Aperiodic tasks, Sporadic tasks (minimum inter-arrival time). Task parameters.  
+  2. **Rate Monotonic Scheduling (RMS):** Static priority assignment based on task rates (higher rate \= higher priority). Assumptions (independent periodic tasks, deadline=period). Optimality among static priority algorithms.  
+  3. **RMS Schedulability Analysis:** Utilization Bound test (Liu & Layland criterion: U ≤ n(2^(1/n)-1)). Necessary vs. Sufficient tests. Response Time Analysis (RTA) for exact schedulability test.  
+  4. **Earliest Deadline First (EDF):** Dynamic priority assignment based on absolute deadlines (earlier deadline \= higher priority). Assumptions. Optimality among dynamic priority algorithms for uniprocessors.  
+  5. **EDF Schedulability Analysis:** Utilization Bound test (U ≤ 1). Necessary and Sufficient test for independent periodic tasks with deadline=period. Processor Demand Analysis for deadlines ≠ periods.  
+  6. **Handling Aperiodic & Sporadic Tasks:** Background scheduling, Polling Servers, Deferrable Servers, Sporadic Servers. Bandwidth reservation mechanisms. Integrating with fixed-priority (RMS) or dynamic-priority (EDF) systems.  
+
+* **Module 103: Worst-Case Execution Time (WCET) Analysis (6 hours)**  
+  1. **Importance of WCET:** Crucial input parameter for schedulability analysis. Definition: Upper bound on the execution time of a task on a specific hardware platform, independent of input data (usually).  
+  2. **Challenges in WCET Estimation:** Factors affecting execution time (processor architecture \- cache, pipeline, branch prediction; compiler optimizations; input data dependencies; measurement interference). Why simple measurement is insufficient.  
+  3. **Static WCET Analysis Methods:** Analyzing program code structure (control flow graph), processor timing models, constraint analysis (loop bounds, recursion depth). Abstract interpretation techniques. Tool examples (e.g., aiT, Chronos).  
+  4. **Measurement-Based WCET Analysis:** Running code on target hardware with specific inputs, measuring execution times. Hybrid approaches combining measurement and static analysis. Challenges in achieving sufficient coverage.  
+  5. **Probabilistic WCET Analysis:** Estimating execution time distributions rather than single upper bounds, useful for soft real-time systems or risk analysis. Extreme Value Theory application.  
+  6. **Reducing WCET & Improving Predictability:** Programming practices for real-time code (avoiding dynamic memory, bounding loops), compiler settings, using predictable hardware features (disabling caches or using cache locking).  
+
+* **Module 104: Real-Time Middleware: DDS Deep Dive (RTPS, QoS Policies) (6 hours)**  
+  1. **DDS Standard Recap:** Data-centric publish-subscribe model. Decoupling applications in time and space. Key entities (DomainParticipant, Topic, Publisher/Subscriber, DataWriter/DataReader).  
+  2. **Real-Time Publish-Subscribe (RTPS) Protocol:** DDS wire protocol standard. Structure (Header, Submessages \- DATA, HEARTBEAT, ACKNACK, GAP). Best-effort vs. Reliable communication mechanisms within RTPS.  
+  3. **DDS Discovery Mechanisms:** Simple Discovery Protocol (SDP) using well-known multicast/unicast addresses. Participant Discovery Phase (PDP) and Endpoint Discovery Phase (EDP). Timing and configuration. Dynamic discovery.  
+  4. **DDS QoS Deep Dive 1:** Policies affecting timing and reliability: DEADLINE (maximum expected interval), LATENCY\_BUDGET (desired max delay), RELIABILITY (Best Effort vs. Reliable), HISTORY (Keep Last vs. Keep All), RESOURCE\_LIMITS.  
+  5. **DDS QoS Deep Dive 2:** Policies affecting data consistency and delivery: DURABILITY (Transient Local, Transient, Persistent), PRESENTATION (Access Scope, Coherent Access, Ordered Access), OWNERSHIP (Shared vs. Exclusive) & OWNERSHIP\_STRENGTH.  
+  6. **DDS Implementation & Tuning:** Configuring QoS profiles for specific needs (e.g., low-latency control loops, reliable state updates, large data streaming). Using DDS vendor tools for monitoring and debugging QoS issues. Interoperability considerations.  
+
+* **Module 105: Applying Real-Time Principles in ROS 2 (6 hours)**  
+  1. **ROS 2 Architecture & Real-Time:** Executor model revisited (Static Single-Threaded Executor \- SSLExecutor), callback groups (Mutually Exclusive vs. Reentrant), potential for priority inversion within nodes. DDS as the real-time capable middleware.  
+  2. **Real-Time Capable RTOS for ROS 2:** Options like RT-PREEMPT patched Linux, QNX, VxWorks. Configuring the underlying OS for real-time performance (CPU isolation, interrupt shielding, high-resolution timers).  
+  3. **ros2\_control Framework:** Architecture for real-time robot control loops. Controller Manager, Hardware Interfaces (reading sensors, writing commands), Controllers (PID, joint trajectory). Real-time safe communication mechanisms within ros2\_control.  
+  4. **Memory Management for Real-Time ROS 2:** Avoiding dynamic memory allocation in real-time loops (e.g., using pre-allocated message memory, memory pools). Real-time safe C++ practices (avoiding exceptions, RTTI if possible). rclcpp real-time considerations.  
+  5. **Designing Real-Time Nodes:** Structuring nodes for predictable execution, assigning priorities to callbacks/threads, using appropriate executors and callback groups. Measuring execution times and latencies within ROS 2 nodes.  
+  6. **Real-Time Communication Tuning:** Configuring DDS QoS policies (Module 104\) within ROS 2 (rmw layer implementations) for specific communication needs (e.g., sensor data, control commands). Using tools to analyze real-time performance (e.g., ros2\_tracing).  
+
+* **Module 106: Timing Analysis and Performance Measurement Tools (6 hours)**  
+  1. **Sources of Latency in Robotic Systems:** Sensor delay, communication delay (network, middleware), scheduling delay (OS), execution time, actuation delay. End-to-end latency analysis.  
+  2. **Benchmarking & Profiling Tools:** Measuring execution time of code sections (CPU cycle counters, high-resolution timers), profiling tools (gprof, perf, Valgrind/Callgrind) to identify bottlenecks. Limitations for real-time analysis.  
+  3. **Tracing Tools for Real-Time Systems:** Event tracing mechanisms (e.g., LTTng, Trace Compass, ros2\_tracing). Instrumenting code to generate trace events (OS level, middleware level, application level). Visualizing execution flow and latencies.  
+  4. **Analyzing Traces:** Identifying scheduling issues (preemptions, delays), measuring response times, detecting priority inversions, quantifying communication latencies (e.g., DDS latency). Critical path analysis.  
+  5. **Hardware-Based Measurement:** Using logic analyzers or oscilloscopes to measure timing of hardware signals, interrupt response times, I/O latencies with high accuracy.  
+  6. **Statistical Analysis of Timing Data:** Handling variability in measurements. Calculating histograms, percentiles, maximum observed times. Importance of analyzing tails of the distribution for real-time guarantees.  
+
+* **Module 107: Lock-Free Data Structures and Real-Time Synchronization (6 hours)**  
+  1. **Problems with Traditional Locking (Mutexes):** Priority inversion (Module 101), deadlock potential, convoying, overhead. Unsuitability for hard real-time or lock-free contexts (ISRs).  
+  2. **Atomic Operations:** Hardware primitives (e.g., Compare-and-Swap \- CAS, Load-Link/Store-Conditional \- LL/SC, Fetch-and-Add). Using atomics for simple synchronization tasks (counters, flags). Memory ordering issues (fences/barriers).  
+  3. **Lock-Free Data Structures:** Designing data structures (queues, stacks, lists) that allow concurrent access without using locks, relying on atomic operations. Guaranteeing progress (wait-freedom vs. lock-freedom).  
+  4. **Lock-Free Ring Buffers (Circular Buffers):** Common pattern for single-producer, single-consumer (SPSC) communication between threads or between ISRs and threads without locking. Implementation details using atomic indices. Multi-producer/consumer variants (more complex).  
+  5. **Read-Copy-Update (RCU):** Synchronization mechanism allowing concurrent reads without locks, while updates create copies. Grace period management for freeing old copies. Use cases and implementation details.  
+  6. **Memory Management in Lock-Free Contexts:** Challenges in safely reclaiming memory (ABA problem). Epoch-based reclamation, hazard pointers. Trade-offs between locking and lock-free approaches (complexity, performance).  
+
+* **Module 108: Hardware Acceleration for Real-Time Tasks (FPGA, GPU) (6 hours)**  
+  1. **Motivation:** Offloading computationally intensive tasks (signal processing, control laws, perception algorithms) from the CPU to dedicated hardware for higher throughput or lower latency, improving real-time performance.  
+  2. **Field-Programmable Gate Arrays (FPGAs):** Architecture (Logic blocks, Interconnects, DSP slices, Block RAM). Hardware Description Languages (VHDL, Verilog). Programming workflow (Synthesis, Place & Route, Timing Analysis).  
+  3. **FPGA for Real-Time Acceleration:** Implementing custom hardware pipelines for algorithms (e.g., digital filters, complex control laws, image processing kernels). Parallelism and deterministic timing advantages. Interfacing FPGAs with CPUs (e.g., via PCIe, AXI bus). High-Level Synthesis (HLS) tools.  
+  4. **Graphics Processing Units (GPUs):** Massively parallel architecture (SIMT \- Single Instruction, Multiple Thread). CUDA programming model (Kernels, Grids, Blocks, Threads, Memory Hierarchy \- Global, Shared, Constant).  
+  5. **GPU for Real-Time Tasks:** Accelerating parallelizable computations (matrix operations, FFTs, particle filters, deep learning inference). Latency considerations (kernel launch overhead, data transfer time). Real-time scheduling on GPUs (limited). Using libraries (cuBLAS, cuFFT, TensorRT).  
+  6. **CPU vs. GPU vs. FPGA Trade-offs:** Development effort, power consumption, cost, flexibility, latency vs. throughput characteristics. Choosing the right accelerator for different robotic tasks. Heterogeneous computing platforms (SoCs with CPU+GPU+FPGA).
+
+**Section 5.1: Fault Tolerance & Dependability**
+
+* **Module 109: Concepts: Reliability, Availability, Safety, Maintainability (6 hours)**  
+  1. **Dependability Attributes:** Defining Reliability (continuity of correct service), Availability (readiness for correct service), Safety (absence of catastrophic consequences),1 Maintainability (ability to undergo repairs/modifications), Integrity (absence of improper alterations), Confidentiality. The 'ilities'.  
+  2. **Faults, Errors, Failures:** Fault (defect), Error (incorrect internal state), Failure (deviation from specified service). Fault classification (Permanent, Transient, Intermittent; Hardware, Software, Design, Interaction). The fault-error-failure chain.  
+  3. **Reliability Metrics:** Mean Time To Failure (MTTF), Mean Time Between Failures (MTBF \= MTTF \+ MTTR), Failure Rate (λ), Reliability function R(t) \= e^(-λt) (for constant failure rate). Bath Tub Curve.  
+  4. **Availability Metrics:** Availability A \= MTTF / MTBF. Steady-state vs. instantaneous availability. High availability system design principles (redundancy, fast recovery).  
+  5. **Safety Concepts:** Hazard identification, risk assessment (severity, probability), safety integrity levels (SILs), fail-safe vs. fail-operational design. Safety standards (e.g., IEC 61508).  
+  6. **Maintainability Metrics:** Mean Time To Repair (MTTR). Design for maintainability (modularity, diagnostics, accessibility). Relationship between dependability attributes.  
+
+* **Module 110: Fault Modeling and Failure Modes and Effects Analysis (FMEA) (6 hours)**  
+  1. **Need for Fault Modeling:** Understanding potential faults to design effective detection and tolerance mechanisms. Abstracting physical defects into logical fault models (e.g., stuck-at faults, Byzantine faults).  
+  2. **FMEA Methodology Overview:** Systematic, bottom-up inductive analysis to identify potential failure modes of components/subsystems and their effects on the overall system. Process steps.  
+  3. **FMEA Step 1 & 2: System Definition & Identify Failure Modes:** Defining system boundaries and functions. Brainstorming potential ways each component can fail (e.g., sensor fails high, motor shorts, software hangs, connector breaks).  
+  4. **FMEA Step 3 & 4: Effects Analysis & Severity Ranking:** Determining the local and system-level consequences of each failure mode. Assigning a Severity score (e.g., 1-10 scale based on impact on safety/operation).  
+  5. **FMEA Step 5 & 6: Cause Identification, Occurrence & Detection Ranking:** Identifying potential causes for each failure mode. Estimating Occurrence probability. Assessing effectiveness of existing Detection mechanisms. Assigning Occurrence and Detection scores.  
+  6. **Risk Priority Number (RPN) & Action Planning:** Calculating RPN \= Severity x Occurrence x Detection. Prioritizing high-RPN items for mitigation actions (design changes, improved detection, redundancy). FMECA (adding Criticality analysis). Limitations and best practices.  
+
+* **Module 111: Fault Detection and Diagnosis Techniques (6 hours)**  
+  1. **Fault Detection Goals:** Identifying the occurrence of a fault promptly and reliably. Minimizing false alarms and missed detections.  
+  2. **Limit Checking & Range Checks:** Simplest form \- checking if sensor values or internal variables are within expected ranges. Easy but limited coverage.  
+  3. **Model-Based Detection (Analytical Redundancy):** Comparing actual system behavior (sensor readings) with expected behavior from a mathematical model. Generating residuals (differences). Thresholding residuals for fault detection. Observer-based methods (using Kalman filters).  
+  4. **Signal-Based Detection:** Analyzing signal characteristics (trends, variance, frequency content \- PSD) for anomalies indicative of faults without an explicit system model. Change detection algorithms.  
+  5. **Fault Diagnosis (Isolation):** Determining the location and type of the fault once detected. Using structured residuals (designed to be sensitive to specific faults), fault signature matrices, expert systems/rule-based diagnosis.  
+  6. **Machine Learning for Fault Detection/Diagnosis:** Using supervised learning (classification) or unsupervised learning (anomaly detection \- Module 87\) on sensor data to detect or classify faults. Data requirements and challenges.  
+
+* **Module 112: Fault Isolation and System Reconfiguration (6 hours)**  
+  1. **Fault Isolation Strategies:** Review of techniques from Module 111 (structured residuals, fault signatures). Designing diagnosability into the system. Correlation methods. Graph-based diagnosis.  
+  2. **Fault Containment:** Preventing the effects of a fault from propagating to other parts of the system (e.g., using firewalls in software, electrical isolation in hardware).  
+  3. **System Reconfiguration Goal:** Modifying the system structure or operation automatically to maintain essential functionality or ensure safety after a fault is detected and isolated.  
+  4. **Reconfiguration Strategies:** Switching to backup components (standby sparing), redistributing tasks among remaining resources (e.g., in a swarm), changing control laws or operating modes (graceful degradation), isolating faulty components.  
+  5. **Decision Logic for Reconfiguration:** Pre-defined rules, state machines, or more complex decision-making algorithms to trigger and manage reconfiguration based on detected faults and system state. Ensuring stability during/after reconfiguration.  
+  6. **Verification & Validation of Reconfiguration:** Testing the fault detection, isolation, and reconfiguration mechanisms under various fault scenarios (simulation, fault injection testing). Ensuring reconfiguration doesn't introduce new hazards.  
+
+* **Module 113: Hardware Redundancy Techniques (Dual/Triple Modular Redundancy) (6 hours)**  
+  1. **Concept of Hardware Redundancy:** Using multiple hardware components (sensors, processors, actuators, power supplies) to tolerate failures in individual components. Spatial redundancy.  
+  2. **Static vs. Dynamic Redundancy:** Static: All components active, output determined by masking/voting (e.g., TMR). Dynamic: Spare components activated upon failure detection (standby sparing).  
+  3. **Dual Modular Redundancy (DMR):** Using two identical components. Primarily for fault detection (comparison). Limited fault tolerance unless combined with other mechanisms (e.g., rollback). Lockstep execution.  
+  4. **Triple Modular Redundancy (TMR):** Using three identical components with a majority voter. Can tolerate failure of any single component (masking). Voter reliability is critical. Common in aerospace/safety-critical systems.  
+  5. **N-Modular Redundancy (NMR):** Generalization of TMR using N components (N typically odd) and N-input voter. Can tolerate (N-1)/2 failures. Increased cost/complexity.  
+  6. **Standby Sparing:** Hot spares (powered on, ready immediately) vs. Cold spares (powered off, need activation). Detection and switching mechanism required. Coverage factor (probability switch works). Hybrid approaches (e.g., TMR with spares). Challenges: Common-mode failures.  
+
+* **Module 114: Software Fault Tolerance (N-Version Programming, Recovery Blocks) (6 hours)**  
+  1. **Motivation:** Hardware redundancy doesn't protect against software faults (bugs). Need techniques to tolerate faults in software design or implementation. Design Diversity.  
+  2. **N-Version Programming (NVP):** Developing N independent versions of a software module from the same specification by different teams/tools. Running versions in parallel, voting on outputs (majority or consensus). Assumes independent failures. Challenges (cost, correlated errors due to spec ambiguity).  
+  3. **Recovery Blocks (RB):** Structuring software with a primary routine, an acceptance test (to check correctness of output), and one or more alternate/backup routines. If primary fails acceptance test, state is restored and alternate is tried. Requires reliable acceptance test and state restoration.  
+  4. **Acceptance Tests:** Designing effective checks on the output reasonableness/correctness. Timing constraints, range checks, consistency checks. Coverage vs. overhead trade-off.  
+  5. **Error Handling & Exception Management:** Using language features (try-catch blocks, error codes) robustly. Designing error handling strategies (retry, log, default value, safe state). Relationship to fault tolerance.  
+  6. **Software Rejuvenation:** Proactively restarting software components periodically to prevent failures due to aging-related issues (memory leaks, state corruption).  
+
+* **Module 115: Checkpointing and Rollback Recovery (6 hours)**  
+  1. **Concept:** Saving the system state (checkpoint) periodically. If an error is detected, restoring the system to a previously saved consistent state (rollback) and retrying execution (potentially with a different strategy). Temporal redundancy.  
+  2. **Checkpointing Mechanisms:** Determining *what* state to save (process state, memory, I/O state). Coordinated vs. Uncoordinated checkpointing in distributed systems. Transparent vs. application-level checkpointing. Checkpoint frequency trade-off (overhead vs. recovery time).  
+  3. **Logging Mechanisms:** Recording inputs or non-deterministic events between checkpoints to enable deterministic replay after rollback. Message logging in distributed systems (pessimistic vs. optimistic logging).  
+  4. **Rollback Recovery Process:** Detecting error, identifying consistent recovery point (recovery line in distributed systems), restoring state from checkpoints, replaying execution using logs if necessary. Domino effect in uncoordinated checkpointing.  
+  5. **Hardware Support:** Hardware features that can aid checkpointing (e.g., memory protection, transactional memory concepts).  
+  6. **Applications & Limitations:** Useful for transient faults or software errors. Overhead of saving state. May not be suitable for hard real-time systems if recovery time is too long or unpredictable. Interaction with the external world during rollback.  
+
+* **Module 116: Byzantine Fault Tolerance Concepts (6 hours)**  
+  1. **Byzantine Faults:** Arbitrary or malicious faults where a component can exhibit any behavior, including sending conflicting information to different parts of the system. Worst-case fault model. Origin (Byzantine Generals Problem).  
+  2. **Challenges:** Reaching agreement (consensus) among correct processes in the presence of Byzantine faulty processes. Impossibility results (e.g., 3f+1 replicas needed to tolerate f Byzantine faults in asynchronous systems with authentication).  
+  3. **Byzantine Agreement Protocols:** Algorithms enabling correct processes to agree on a value despite Byzantine faults. Oral Messages (Lamport-Shostak-Pease) algorithm. Interactive Consistency. Role of authentication (digital signatures).  
+  4. **Practical Byzantine Fault Tolerance (PBFT):** State machine replication approach providing Byzantine fault tolerance in asynchronous systems with assumptions (e.g., \< 1/3 faulty replicas). Protocol phases (pre-prepare, prepare, commit). Use in distributed systems/blockchain.  
+  5. **Byzantine Fault Tolerance in Sensors:** Detecting faulty sensors that provide inconsistent or malicious data within a redundant sensor network. Byzantine filtering/detection algorithms.  
+  6. **Relevance to Robotics:** Ensuring consistency in distributed estimation/control for swarms, securing distributed systems against malicious nodes, robust sensor fusion with potentially faulty sensors. High overhead often limits applicability.  
+
+* **Module 117: Graceful Degradation Strategies for Swarms (6 hours)**  
+  1. **Swarm Robotics Recap:** Large numbers of relatively simple robots, decentralized control, emergent behavior. Inherent potential for fault tolerance due to redundancy.  
+  2. **Fault Impact in Swarms:** Failure of individual units is expected. Focus on maintaining overall swarm functionality or performance, rather than recovering individual units perfectly. Defining levels of degraded performance.  
+  3. **Task Reallocation:** Automatically redistributing tasks assigned to failed robots among remaining healthy robots. Requires robust task allocation mechanism (Module 85\) and awareness of robot status.  
+  4. **Formation Maintenance/Adaptation:** Algorithms allowing formations (Module 65\) to adapt to loss of units (e.g., shrinking the formation, reforming with fewer units, maintaining connectivity).  
+  5. **Distributed Diagnosis & Health Monitoring:** Robots monitoring their own health and potentially health of neighbors through local communication/observation. Propagating health status information through the swarm.  
+  6. **Adaptive Swarm Behavior:** Modifying collective behaviors (coverage patterns, search strategies) based on the number and capability of currently active robots to optimize performance under degradation. Designing algorithms robust to agent loss.  
+
+* **Module 118: Designing Robust State Machines and Error Handling Logic (6 hours)**  
+  1. **State Machines (FSMs/HFSMs) Recap:** Modeling system modes and transitions (Module 82). Use for high-level control and mode management.  
+  2. **Identifying Error States:** Explicitly defining states representing fault conditions or recovery procedures within the state machine.  
+  3. **Robust Transitions:** Designing transitions triggered by fault detection events. Ensuring transitions lead to appropriate error handling or safe states. Timeout mechanisms for detecting hangs.  
+  4. **Error Handling within States:** Implementing actions within states to handle non-critical errors (e.g., retries, logging) without necessarily changing the main operational state.  
+  5. **Hierarchical Error Handling:** Using HFSMs to structure error handling (e.g., low-level component failure handled locally, critical system failure propagates to higher-level safe mode). Defining escalation policies.  
+  6. **Verification & Testing:** Formal verification techniques (model checking) to prove properties of state machines (e.g., reachability of error states, absence of deadlocks). Simulation and fault injection testing to validate error handling logic.
+
+**Section 5.2: Cybersecurity for Robotic Systems**
+
+* **Module 119: Threat Modeling for Autonomous Systems (6 hours)**  
+  1. **Cybersecurity vs. Safety:** Overlap and differences. How security breaches can cause safety incidents in robotic systems. Importance of security for autonomous operation.  
+  2. **Threat Modeling Process Review:** Decompose system, Identify Threats (using STRIDE: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege), Rate Threats (using DREAD: Damage, Reproducibility, Exploitability, Affected Users, Discoverability), Identify Mitigations.  
+  3. **Identifying Assets & Trust Boundaries:** Determining critical components, data flows, and interfaces in a robotic system (sensors, actuators, compute units, network links, user interfaces, cloud connections). Where security controls are needed.  
+  4. **Applying STRIDE to Robotics:** Specific examples: Spoofing GPS/sensor data, Tampering with control commands/maps, Repudiating actions, Information Disclosure of sensor data/maps, DoS on communication/computation, Elevation of Privilege to gain control.  
+  5. **Attack Trees:** Decomposing high-level threats into specific attack steps. Identifying potential attack paths and required conditions. Useful for understanding attack feasibility and identifying mitigation points.  
+  6. **Threat Modeling Tools & Practices:** Using tools (e.g., Microsoft Threat Modeling Tool, OWASP Threat Dragon). Integrating threat modeling into the development lifecycle (Security Development Lifecycle \- SDL). Documenting threats and mitigations.  
+
+* **Module 120: Securing Communication Channels (Encryption, Authentication) (6 hours)**  
+  1. **Communication Security Goals:** Confidentiality (preventing eavesdropping), Integrity (preventing modification), Authentication (verifying identities of communicating parties), Availability (preventing DoS).  
+  2. **Symmetric Key Cryptography:** Concepts (shared secret key), Algorithms (AES), Modes of operation (CBC, GCM). Key distribution challenges. Use for encryption.  
+  3. **Asymmetric Key (Public Key) Cryptography:** Concepts (public/private key pairs), Algorithms (RSA, ECC). Use for key exchange (Diffie-Hellman), digital signatures (authentication, integrity, non-repudiation). Public Key Infrastructure (PKI) and Certificates.  
+  4. **Cryptographic Hash Functions:** Properties (one-way, collision resistant \- SHA-256, SHA-3). Use for integrity checking (Message Authentication Codes \- MACs like HMAC).  
+  5. **Secure Communication Protocols:** TLS/DTLS (Transport Layer Security / Datagram TLS) providing confidentiality, integrity, authentication for TCP/UDP communication. VPNs (Virtual Private Networks). Securing wireless links (WPA2/WPA3).  
+  6. **Applying to Robotics:** Securing robot-to-robot communication (DDS security \- Module 122), robot-to-cloud links, remote operator connections. Performance considerations (latency, computation overhead) on embedded systems.  
+
+* **Module 121: Secure Boot and Trusted Execution Environments (TEE) (6 hours)**  
+  1. **Secure Boot Concept:** Ensuring the system boots only trusted, signed software (firmware, bootloader, OS kernel, applications). Building a chain of trust from hardware root.  
+  2. **Hardware Root of Trust (HRoT):** Immutable component (e.g., in SoC) that performs initial verification. Secure boot mechanisms (e.g., UEFI Secure Boot, vendor-specific methods). Key management for signing software.  
+  3. **Measured Boot & Remote Attestation:** Measuring hashes of booted components and storing them securely (e.g., in TPM). Remotely verifying the system's boot integrity before trusting it. Trusted Platform Module (TPM) functionalities.  
+  4. **Trusted Execution Environments (TEEs):** Hardware-based isolation (e.g., ARM TrustZone, Intel SGX) creating a secure area (secure world) separate from the normal OS (rich execution environment \- REE). Protecting sensitive code and data (keys, algorithms) even if OS is compromised.  
+  5. **TEE Architecture & Use Cases:** Secure world OS/monitor, trusted applications (TAs), communication between normal world and secure world. Using TEEs for secure key storage, cryptographic operations, secure sensor data processing, trusted ML inference.  
+  6. **Challenges & Limitations:** Complexity of developing/deploying TEE applications, potential side-channel attacks against TEEs, limited resources within TEEs. Secure boot chain integrity.  
+
+* **Module 122: Vulnerabilities in ROS 2 / DDS and Mitigation (SROS2 Deep Dive) (6 hours)**  
+  1. **ROS 2/DDS Attack Surface:** Unauthenticated discovery, unencrypted data transmission, potential for message injection/tampering, DoS attacks (flooding discovery or data traffic), compromising individual nodes.  
+  2. **SROS2 Architecture Recap:** Leveraging DDS Security plugins. Authentication, Access Control, Cryptography. Enabling security via environment variables or launch parameters.  
+  3. **Authentication Plugin Details:** Using X.509 certificates for mutual authentication of DomainParticipants. Certificate Authority (CA) setup, generating/distributing certificates and keys. Identity management.  
+  4. **Access Control Plugin Details:** Defining permissions using XML-based governance files. Specifying allowed domains, topics (publish/subscribe), services (call/execute) per participant based on identity. Granularity and policy management.  
+  5. **Cryptographic Plugin Details:** Encrypting data payloads (topic data, service requests/replies) using symmetric keys (derived via DDS standard mechanism or pre-shared). Signing messages for integrity and origin authentication. Performance impact analysis.  
+  6. **SROS2 Best Practices & Limitations:** Secure key/certificate storage (using TEE \- Module 121), managing permissions policies, monitoring for security events. Limitations (doesn't secure node computation itself, potential vulnerabilities in plugin implementations or DDS vendor code).  
+
+* **Module 123: Intrusion Detection Systems for Robots (6 hours)**  
+  1. **Intrusion Detection System (IDS) Concepts:** Monitoring system activity (network traffic, system calls, resource usage) to detect malicious behavior or policy violations. IDS vs. Intrusion Prevention System (IPS).  
+  2. **Signature-Based IDS:** Detecting known attacks based on predefined patterns or signatures (e.g., specific network packets, malware hashes). Limited against novel attacks.  
+  3. **Anomaly-Based IDS:** Building a model of normal system behavior (using statistics or ML) and detecting deviations from that model. Can detect novel attacks but prone to false positives. Training phase required.  
+  4. **Host-Based IDS (HIDS):** Monitoring activity on a single robot/compute node (system calls, file integrity, logs).  
+  5. **Network-Based IDS (NIDS):** Monitoring network traffic between robots or between robot and external systems. Challenges in distributed/wireless robotic networks.  
+  6. **Applying IDS to Robotics:** Monitoring ROS 2/DDS traffic for anomalies (unexpected publishers/subscribers, unusual data rates/content), monitoring OS/process behavior, detecting sensor spoofing attempts, integrating IDS alerts with fault management system. Challenges (resource constraints, defining normal behavior).  
+
+* **Module 124: Secure Software Development Practices (6 hours)**  
+  1. **Security Development Lifecycle (SDL):** Integrating security activities throughout the software development process (requirements, design, implementation, testing, deployment, maintenance). Shift-left security.  
+  2. **Secure Design Principles:** Least privilege, defense in depth, fail-safe defaults, minimizing attack surface, separation of privilege, secure communication. Threat modeling (Module 119\) during design.  
+  3. **Secure Coding Practices:** Preventing common vulnerabilities (buffer overflows, injection attacks, insecure direct object references, race conditions). Input validation, output encoding, proper error handling, secure use of cryptographic APIs. Language-specific considerations (C/C++ memory safety).  
+  4. **Static Analysis Security Testing (SAST):** Using automated tools to analyze source code or binaries for potential security vulnerabilities without executing the code. Examples (Flawfinder, Checkmarx, SonarQube). Limitations (false positives/negatives).  
+  5. **Dynamic Analysis Security Testing (DAST):** Testing running application for vulnerabilities by providing inputs and observing outputs/behavior. Fuzz testing (providing malformed/unexpected inputs). Penetration testing.  
+  6. **Dependency Management & Supply Chain Security:** Tracking third-party libraries (including ROS packages, DDS implementations), checking for known vulnerabilities (CVEs), ensuring secure build processes. Software Bill of Materials (SBOM).  
+
+* **Module 125: Physical Security Considerations for Field Robots (6 hours)**  
+  1. **Threats:** Physical theft of robot/components, tampering with hardware (installing malicious devices, modifying sensors/actuators), unauthorized access to ports/interfaces, reverse engineering.  
+  2. **Tamper Detection & Response:** Using physical sensors (switches, light sensors, accelerometers) to detect enclosure opening or tampering. Logging tamper events, potentially triggering alerts or data wiping. Secure element storage for keys (TPM/TEE).  
+  3. **Hardware Obfuscation & Anti-Reverse Engineering:** Techniques to make hardware components harder to understand or modify (e.g., potting compounds, removing markings, custom ASICs). Limited effectiveness against determined attackers.  
+  4. **Securing Physical Interfaces:** Disabling or protecting debug ports (JTAG, UART), USB ports. Requiring authentication for physical access. Encrypting stored data (maps, logs, code) at rest.  
+  5. **Operational Security:** Secure storage and transport of robots, procedures for personnel access, monitoring robot location (GPS tracking), geofencing. Considerations for autonomous operation in remote areas.  
+  6. **Integrating Physical & Cyber Security:** How physical access can enable cyber attacks (e.g., installing keyloggers, accessing debug ports). Need for holistic security approach covering both domains.
+
+---
+
+**PART 6: Advanced Hardware, Mechatronics & Power**
+
+**Section 6.0: Mechatronic Design & Materials**
+
+* **Module 126: Advanced Mechanism Design for Robotics (6 hours)**  
+  1. **Kinematic Synthesis:** Type synthesis (choosing mechanism type), number synthesis (determining DoF \- Gruebler's/Kutzbach criterion), dimensional synthesis (finding link lengths for specific tasks, e.g., path generation, function generation). Graphical and analytical methods.  
+  2. **Linkage Analysis:** Position, velocity, and acceleration analysis of complex linkages (beyond simple 4-bar). Grashof criteria for linkage type determination. Transmission angle analysis for evaluating mechanical advantage and potential binding.  
+  3. **Cam Mechanisms:** Types of cams and followers, displacement diagrams (SVAJ analysis \- Stroke, Velocity, Acceleration, Jerk), profile generation, pressure angle, undercutting. Use in robotic end-effectors or specialized actuators.  
+  4. **Parallel Kinematic Mechanisms (PKMs):** Architecture (e.g., Stewart Platform, Delta robots), advantages (high stiffness, accuracy, payload capacity), challenges (limited workspace, complex kinematics/dynamics \- forward kinematics often harder than inverse). Singularity analysis.  
+  5. **Compliant Mechanisms:** Achieving motion through deflection of flexible members rather than rigid joints. Pseudo-Rigid-Body Model (PRBM) for analysis. Advantages (no backlash, reduced parts, potential for miniaturization). Material selection (polymers, spring steel).  
+  6. **Mechanism Simulation & Analysis Tools:** Using multibody dynamics software (e.g., MSC ADAMS, Simscape Multibody) for kinematic/dynamic analysis, interference checking, performance evaluation of designed mechanisms. Finite Element Analysis (FEA) for stress/deflection in compliant mechanisms.  
+
+* **Module 127: Actuator Selection and Modeling (Motors, Hydraulics, Pneumatics) (6 hours)**  
+  1. **DC Motor Fundamentals:** Brushed vs. Brushless DC (BLDC) motors. Principles of operation, torque-speed characteristics, back EMF. Permanent Magnet Synchronous Motors (PMSM) as common BLDC type.  
+  2. **Motor Sizing & Selection:** Calculating required torque, speed, power. Understanding motor constants (Torque constant Kt, Velocity constant Kv/Ke). Gearbox selection (Module 128 link). Thermal considerations (continuous vs. peak torque). Matching motor to load inertia.  
+  3. **Stepper Motors:** Principles of operation (microstepping), open-loop position control capabilities. Holding torque, detent torque. Limitations (resonance, potential step loss). Hybrid steppers.  
+  4. **Advanced Electric Actuators:** Servo motors (integrated motor, gearbox, controller, feedback), linear actuators (ball screw, lead screw, voice coil, linear motors), piezoelectric actuators (high precision, low displacement).  
+  5. **Hydraulic Actuation:** Principles (Pascal's law), components (pump, cylinder, valves, accumulator), advantages (high force density, stiffness), disadvantages (complexity, leaks, efficiency, need for hydraulic power unit \- HPU). Electrohydraulic control valves (servo/proportional). Application in heavy agricultural machinery.  
+  6. **Pneumatic Actuation:** Principles, components (compressor, cylinder, valves), advantages (low cost, fast actuation, clean), disadvantages (low stiffness/compressibility, difficult position control, efficiency). Electro-pneumatic valves. Application in grippers, simple automation.  
+
+* **Module 128: Drive Train Design and Transmission Systems (6 hours)**  
+  1. **Gear Fundamentals:** Gear terminology (pitch circle, module/diametral pitch, pressure angle), involute tooth profile, fundamental law of gearing. Gear materials and manufacturing processes.  
+  2. **Gear Types & Applications:** Spur gears (parallel shafts), Helical gears (smoother, higher load, axial thrust), Bevel gears (intersecting shafts), Worm gears (high reduction ratio, self-locking potential, efficiency). Planetary gear sets (epicyclic) for high torque density and coaxial shafts.  
+  3. **Gear Train Analysis:** Calculating speed ratios, torque transmission, efficiency of simple and compound gear trains. Planetary gear train analysis (tabular method, formula method). Backlash and its impact.  
+  4. **Bearing Selection:** Types (ball, roller \- cylindrical, spherical, tapered), load ratings (static/dynamic), life calculation (L10 life), mounting configurations (fixed/floating), preload. Selection based on load, speed, environment.  
+  5. **Shaft Design:** Stress analysis under combined loading (bending, torsion), fatigue considerations (stress concentrations, endurance limit), deflection analysis. Key/spline design for torque transmission. Material selection.  
+  6. **Couplings & Clutches:** Rigid vs. flexible couplings (accommodating misalignment), clutches for engaging/disengaging power transmission (friction clutches, electromagnetic clutches). Selection criteria. Lubrication requirements for gearboxes and bearings.  
+
+* **Module 129: Materials Selection for Harsh Environments (Corrosion, Abrasion, UV) (6 hours)**  
+  1. **Material Properties Overview:** Mechanical (Strength \- Yield/Ultimate, Stiffness/Modulus, Hardness, Toughness, Fatigue strength), Physical (Density, Thermal expansion, Thermal conductivity), Chemical (Corrosion resistance). Cost and manufacturability.  
+  2. **Corrosion Mechanisms:** Uniform corrosion, galvanic corrosion (dissimilar metals), pitting corrosion, crevice corrosion, stress corrosion cracking. Factors affecting corrosion rate (environment \- moisture, salts, chemicals like fertilizers/pesticides; temperature).  
+  3. **Corrosion Resistant Materials:** Stainless steels (austenitic, ferritic, martensitic, duplex \- properties and selection), Aluminum alloys (lightweight, good corrosion resistance \- passivation), Titanium alloys (excellent corrosion resistance, high strength-to-weight, cost), Polymers/Composites (inherently corrosion resistant).  
+  4. **Abrasion & Wear Resistance:** Mechanisms (abrasive, adhesive, erosive wear). Materials for abrasion resistance (high hardness steels, ceramics, hard coatings \- e.g., Tungsten Carbide, surface treatments like carburizing/nitriding). Selecting materials for soil-engaging components, wheels/tracks.  
+  5. **UV Degradation:** Effect of ultraviolet radiation on polymers and composites (embrittlement, discoloration, loss of strength). UV resistant polymers (e.g., specific grades of PE, PP, PVC, fluoropolymers) and coatings/additives. Considerations for outdoor robot enclosures.  
+  6. **Material Selection Process:** Defining requirements (mechanical load, environment, lifetime, cost), screening candidate materials, evaluating trade-offs, prototyping and testing. Using material selection charts (Ashby charts) and databases.  
+
+* **Module 130: Design for Manufacturing and Assembly (DFMA) for Robots (6 hours)**  
+  1. **DFMA Principles:** Minimize part count, design for ease of fabrication, use standard components, design for ease of assembly (handling, insertion, fastening), mistake-proof assembly (poka-yoke), minimize fasteners, design for modularity. Impact on cost, quality, lead time.  
+  2. **Design for Manufacturing (DFM):** Considering manufacturing process capabilities early in design. DFM for Machining (tolerances, features, tool access), DFM for Sheet Metal (bend radii, features near edges), DFM for Injection Molding (draft angles, uniform wall thickness, gating), DFM for 3D Printing (support structures, orientation, feature size).  
+  3. **Design for Assembly (DFA):** Minimizing assembly time and errors. Quantitative DFA methods (e.g., Boothroyd-Dewhurst). Designing parts for easy handling and insertion (symmetry, lead-ins, self-locating features). Reducing fastener types and counts (snap fits, integrated fasteners).  
+  4. **Tolerance Analysis:** Understanding geometric dimensioning and tolerancing (GD\&T) basics. Stack-up analysis (worst-case, statistical) to ensure parts fit and function correctly during assembly. Impact of tolerances on cost and performance.  
+  5. **Robotic Assembly Considerations:** Designing robots and components that are easy for other robots (or automated systems) to assemble. Gripping points, alignment features, standardized interfaces.  
+  6. **Applying DFMA to Robot Design:** Case studies analyzing robotic components (frames, enclosures, manipulators, sensor mounts) using DFMA principles. Redesign exercises for improvement. Balancing DFMA with performance/robustness requirements.  
+
+* **Module 131: Sealing and Ingress Protection (IP Rating) Design (6 hours)**  
+  1. **IP Rating System (IEC 60529):** Understanding the two digits (IPXX): First digit (Solid particle protection \- 0-6), Second digit (Liquid ingress protection \- 0-9K). Specific test conditions for each level (e.g., IP67 \= dust tight, immersion up to 1m). Relevance for agricultural robots (dust, rain, washing).  
+  2. **Static Seals \- Gaskets:** Types (compression gaskets, liquid gaskets/FIPG), material selection (elastomers \- NBR, EPDM, Silicone, Viton based on temperature, chemical resistance, compression set), calculating required compression, groove design for containment.  
+  3. **Static Seals \- O-Rings:** Principle of operation, material selection (similar to gaskets), sizing based on standard charts (AS568), calculating groove dimensions (width, depth) for proper compression (typically 20-30%), stretch/squeeze considerations. Face seals vs. radial seals.  
+  4. **Dynamic Seals:** Seals for rotating shafts (lip seals, V-rings, mechanical face seals) or reciprocating shafts (rod seals, wipers). Material selection (PTFE, elastomers), lubrication requirements, wear considerations. Design for preventing ingress *and* retaining lubricants.  
+  5. **Cable Glands & Connectors:** Selecting appropriate cable glands for sealing cable entries into enclosures based on cable diameter and required IP rating. IP-rated connectors (e.g., M12, MIL-spec) for external connections. Sealing around wires passing through bulkheads (potting, feedthroughs).  
+  6. **Testing & Verification:** Methods for testing enclosure sealing (e.g., water spray test, immersion test, air pressure decay test). Identifying leak paths (visual inspection, smoke test). Ensuring long-term sealing performance (material degradation, creep).  
+
+* **Module 132: Thermal Management for Electronics in Outdoor Robots (6 hours)**  
+  1. **Heat Sources in Robots:** Processors (CPU, GPU), motor drivers, power electronics (converters), batteries, motors. Solar loading on enclosures. Need for thermal management to ensure reliability and performance.  
+  2. **Heat Transfer Fundamentals:** Conduction (Fourier's Law, thermal resistance), Convection (Newton's Law of Cooling, natural vs. forced convection, heat transfer coefficient), Radiation (Stefan-Boltzmann Law, emissivity, view factors). Combined heat transfer modes.  
+  3. **Passive Cooling Techniques:** Natural convection (enclosure venting strategies, chimney effect), Heat sinks (material \- Al, Cu; fin design optimization), Heat pipes (phase change heat transfer), Thermal interface materials (TIMs \- grease, pads, epoxies) to reduce contact resistance. Radiative cooling (coatings).  
+  4. **Active Cooling Techniques:** Forced air cooling (fans \- selection based on airflow/pressure, noise), Liquid cooling (cold plates, pumps, radiators \- higher capacity but more complex), Thermoelectric Coolers (TECs \- Peltier effect, limited efficiency, condensation issues).  
+  5. **Thermal Modeling & Simulation:** Simple thermal resistance networks, Computational Fluid Dynamics (CFD) for detailed airflow and temperature prediction. Estimating component temperatures under different operating conditions and ambient temperatures (e.g., Iowa summer/winter extremes).  
+  6. **Design Strategies for Outdoor Robots:** Enclosure design for airflow/solar load management, component placement for optimal cooling, sealing vs. venting trade-offs, preventing condensation, selecting components with appropriate temperature ratings.  
+
+* **Module 133: Vibration Analysis and Mitigation (6 hours)**  
+  1. **Sources of Vibration in Field Robots:** Terrain interaction (bumps, uneven ground), motor/gearbox operation (imbalance, gear mesh frequencies), actuators, external sources (e.g., attached implements). Effects (fatigue failure, loosening fasteners, sensor noise, reduced performance).  
+  2. **Fundamentals of Vibration:** Single Degree of Freedom (SDOF) systems (mass-spring-damper). Natural frequency, damping ratio, resonance. Forced vibration, frequency response functions (FRFs).  
+  3. **Multi-Degree of Freedom (MDOF) Systems:** Equations of motion, mass/stiffness/damping matrices. Natural frequencies (eigenvalues) and mode shapes (eigenvectors). Modal analysis.  
+  4. **Vibration Measurement:** Accelerometers (piezoelectric, MEMS), velocity sensors, displacement sensors. Sensor mounting techniques. Data acquisition systems. Signal processing (FFT for frequency analysis, PSD).  
+  5. **Vibration Mitigation Techniques \- Isolation:** Using passive isolators (springs, elastomeric mounts) to reduce transmitted vibration. Selecting isolators based on natural frequency requirements (frequency ratio). Active vibration isolation systems.  
+  6. **Vibration Mitigation Techniques \- Damping:** Adding damping materials (viscoelastic materials) or tuned mass dampers (TMDs) to dissipate vibrational energy. Structural design for stiffness and damping. Avoiding resonance by design. Testing effectiveness of mitigation strategies.
+
+**Section 6.1: Power Systems & Energy Management**
+
+* **Module 134: Advanced Battery Chemistries and Performance Modeling (6 hours)**  
+  1. **Lithium-Ion Battery Fundamentals:** Basic electrochemistry (intercalation), key components (anode, cathode, electrolyte, separator). Nominal voltage, capacity (Ah), energy density (Wh/kg, Wh/L).  
+  2. **Li-ion Cathode Chemistries:** Properties and trade-offs of LCO (high energy density, lower safety/life), NMC (balanced), LFP (LiFePO4 \- high safety, long life, lower voltage/energy density), NCA, LMO. Relevance to robotics (power, safety, cycle life).  
+  3. **Li-ion Anode Chemistries:** Graphite (standard), Silicon anodes (higher capacity, swelling issues), Lithium Titanate (LTO \- high rate, long life, lower energy density).  
+  4. **Beyond Li-ion:** Introduction to Solid-State Batteries (potential for higher safety/energy density), Lithium-Sulfur, Metal-Air batteries. Current status and challenges.  
+  5. **Battery Modeling:** Equivalent Circuit Models (ECMs \- Rint, Thevenin models with RC pairs) for simulating voltage response under load. Parameter estimation for ECMs based on test data (e.g., pulse tests). Temperature dependence.  
+  6. **Battery Degradation Mechanisms:** Capacity fade and power fade. Calendar aging vs. Cycle aging. Mechanisms (SEI growth, lithium plating, particle cracking). Factors influencing degradation (temperature, charge/discharge rates, depth of discharge \- DoD, state of charge \- SoC range). Modeling degradation for State of Health (SoH) estimation.  
+
+* **Module 135: Battery Management Systems (BMS) Design and Algorithms (6 hours)**  
+  1. **BMS Functions:** Monitoring (voltage, current, temperature), Protection (over-voltage, under-voltage, over-current, over-temperature, under-temperature), State Estimation (SoC, SoH), Cell Balancing, Communication (e.g., via CAN bus). Ensuring safety and maximizing battery life/performance.  
+  2. **Cell Voltage & Temperature Monitoring:** Requirements for individual cell monitoring (accuracy, frequency). Sensor selection and placement. Isolation requirements.  
+  3. **State of Charge (SoC) Estimation Algorithms:** Coulomb Counting (integration of current, requires initialization/calibration, drift issues), Open Circuit Voltage (OCV) method (requires rest periods, temperature dependent), Model-based methods (using ECMs and Kalman Filters \- EKF/UKF \- to combine current integration and voltage measurements). Accuracy trade-offs.  
+  4. **State of Health (SoH) Estimation Algorithms:** Defining SoH (capacity fade, impedance increase). Methods based on capacity estimation (from full charge/discharge cycles), impedance spectroscopy, tracking parameter changes in ECMs, data-driven/ML approaches.  
+  5. **Cell Balancing:** Need for balancing due to cell variations. Passive balancing (dissipating energy from higher voltage cells through resistors). Active balancing (transferring charge between cells \- capacitive, inductive methods). Balancing strategies (during charge/discharge/rest).  
+  6. **BMS Hardware & Safety:** Typical architecture (MCU, voltage/current/temp sensors, communication interface, protection circuitry \- MOSFETs, fuses). Functional safety standards (e.g., ISO 26262 relevance). Redundancy in safety-critical BMS.  
+
+* **Module 136: Power Electronics for Motor Drives and Converters (DC-DC, Inverters) (6 hours)**  
+  1. **Power Semiconductor Devices:** Power MOSFETs, IGBTs, SiC/GaN devices. Characteristics (voltage/current ratings, switching speed, conduction losses, switching losses). Gate drive requirements. Thermal management.  
+  2. **DC-DC Converters:** Buck converter (step-down), Boost converter (step-up), Buck-Boost converter (step-up/down). Topologies, operating principles (continuous vs. discontinuous conduction mode \- CCM/DCM), voltage/current relationships, efficiency calculation. Control loops (voltage mode, current mode).  
+  3. **Isolated DC-DC Converters:** Flyback, Forward, Push-Pull, Half-Bridge, Full-Bridge converters. Use of transformers for isolation and voltage scaling. Applications (power supplies, battery chargers).  
+  4. **Motor Drives \- DC Motor Control:** H-Bridge configuration for bidirectional DC motor control. Pulse Width Modulation (PWM) for speed/torque control. Current sensing and control loops.  
+  5. **Motor Drives \- BLDC/PMSM Control:** Three-phase inverter topology. Six-step commutation (trapezoidal control) vs. Field Oriented Control (FOC) / Vector Control (sinusoidal control). FOC principles (Clarke/Park transforms, PI controllers for d-q currents). Hall sensors vs. sensorless FOC.  
+  6. **Electromagnetic Compatibility (EMC) in Power Electronics:** Sources of EMI (switching transients), filtering techniques (input/output filters \- LC filters), layout considerations for minimizing noise generation and coupling. Shielding.  
+
+* **Module 137: Fuel Cell Technology Deep Dive (PEMFC, SOFC) \- Integration Challenges (6 hours)**  
+  1. **Fuel Cell Principles:** Converting chemical energy (from fuel like hydrogen) directly into electricity via electrochemical reactions. Comparison with batteries and combustion engines. Efficiency advantages.  
+  2. **Proton Exchange Membrane Fuel Cells (PEMFC):** Low operating temperature (\~50-100°C), solid polymer electrolyte (membrane). Electrochemistry (Hydrogen Oxidation Reaction \- HOR, Oxygen Reduction Reaction \- ORR). Catalyst requirements (Platinum). Components (MEA, GDL, bipolar plates). Advantages (fast startup), Disadvantages (catalyst cost/durability, water management).  
+  3. **Solid Oxide Fuel Cells (SOFC):** High operating temperature (\~600-1000°C), solid ceramic electrolyte. Electrochemistry. Can use hydrocarbon fuels directly via internal reforming. Advantages (fuel flexibility, high efficiency), Disadvantages (slow startup, thermal stress/materials challenges).  
+  4. **Fuel Cell System Balance of Plant (BoP):** Components beyond the stack: Fuel delivery system (H2 storage/supply or reformer), Air management (compressor/blower), Thermal management (cooling system), Water management (humidification/removal, crucial for PEMFCs), Power electronics (DC-DC converter to regulate voltage).  
+  5. **Performance & Efficiency:** Polarization curve (voltage vs. current density), activation losses, ohmic losses, concentration losses. Factors affecting efficiency (temperature, pressure, humidity). System efficiency vs. stack efficiency.  
+  6. **Integration Challenges for Robotics:** Startup time, dynamic response (load following capability \- often hybridized with batteries), size/weight of system (BoP), hydrogen storage (Module 138), thermal signature, cost, durability/lifetime.  
+
+* **Module 138: H2/NH3 Storage and Handling Systems \- Technical Safety (6 hours)**  
+  1. **Hydrogen (H2) Properties & Safety:** Flammability range (wide), low ignition energy, buoyancy, colorless/odorless. Embrittlement of materials. Safety codes and standards (e.g., ISO 19880). Leak detection sensors. Ventilation requirements.  
+  2. **H2 Storage Methods \- Compressed Gas:** High-pressure tanks (350 bar, 700 bar). Type III (metal liner, composite wrap) and Type IV (polymer liner, composite wrap) tanks. Weight, volume, cost considerations. Refueling infrastructure.  
+  3. **H2 Storage Methods \- Liquid Hydrogen (LH2):** Cryogenic storage (\~20 K). High energy density by volume, but complex insulation (boil-off losses) and energy-intensive liquefaction process. Less common for mobile robotics.  
+  4. **H2 Storage Methods \- Material-Based:** Metal hydrides (absorbing H2 into metal lattice), Chemical hydrides (releasing H2 via chemical reaction), Adsorbents (physisorption onto high surface area materials). Potential for higher density/lower pressure, but challenges with kinetics, weight, thermal management, cyclability. Current status.  
+  5. **Ammonia (NH3) Properties & Safety:** Toxicity, corrosivity (esp. with moisture), flammability (narrower range than H2). Liquid under moderate pressure at ambient temperature (easier storage than H2). Handling procedures, sensors for leak detection.  
+  6. **NH3 Storage & Use:** Storage tanks (similar to LPG). Direct use in SOFCs or internal combustion engines, or decomposition (cracking) to produce H2 for PEMFCs (requires onboard reactor, catalyst, energy input). System complexity trade-offs vs. H2 storage.  
+
+* **Module 139: Advanced Solar Power Integration (Flexible PV, Tracking Systems) (6 hours)**  
+  1. **Photovoltaic (PV) Cell Technologies:** Crystalline Silicon (mono, poly \- dominant technology), Thin-Film (CdTe, CIGS, a-Si), Perovskites (emerging, high efficiency potential, stability challenges), Organic PV (OPV \- lightweight, flexible, lower efficiency/lifespan). Spectral response.  
+  2. **Maximum Power Point Tracking (MPPT):** PV I-V curve characteristics, dependence on irradiance and temperature. MPPT algorithms (Perturb & Observe, Incremental Conductance, Fractional OCV) to operate PV panel at maximum power output. Implementation in DC-DC converters.  
+  3. **Flexible PV Modules:** Advantages for robotics (conformable to curved surfaces, lightweight). Technologies (thin-film, flexible c-Si). Durability and encapsulation challenges compared to rigid panels. Integration methods (adhesives, lamination).  
+  4. **Solar Tracking Systems:** Single-axis vs. Dual-axis trackers. Increased energy yield vs. complexity, cost, power consumption of tracker mechanism. Control algorithms (sensor-based, time-based/astronomical). Suitability for mobile robots (complexity vs. benefit).  
+  5. **Shading Effects & Mitigation:** Impact of partial shading on PV module/array output (bypass diodes). Maximum power point ambiguity under partial shading. Module-Level Power Electronics (MLPE \- microinverters, power optimizers) for mitigation. Considerations for robots operating near crops/obstacles.  
+  6. **System Design & Energy Yield Estimation:** Sizing PV array and battery based on robot power consumption profile, expected solar irradiance (location \- e.g., Iowa solar resource, time of year), system losses. Using simulation tools (e.g., PVsyst concepts adapted). Optimizing panel orientation/placement on robot.  
+
+* **Module 140: Energy-Aware Planning and Control Algorithms (6 hours)**  
+  1. **Motivation:** Limited onboard energy storage (battery, fuel) necessitates optimizing energy consumption to maximize mission duration or range. Energy as a critical constraint.  
+  2. **Energy Modeling for Robots:** Developing models relating robot actions (moving, sensing, computing, actuating) to power consumption. Incorporating factors like velocity, acceleration, terrain type, payload. Empirical measurements vs. physics-based models.  
+  3. **Energy-Aware Motion Planning:** Modifying path/trajectory planning algorithms (Module 70, 73\) to minimize energy consumption instead of just time or distance. Cost functions incorporating energy models. Finding energy-optimal velocity profiles.  
+  4. **Energy-Aware Task Planning & Scheduling:** Considering energy costs and constraints when allocating tasks (Module 85\) or scheduling activities. Optimizing task sequences or robot assignments to conserve energy. Sleep/idle mode management.  
+  5. **Energy-Aware Coverage & Exploration:** Planning paths for coverage or exploration tasks that explicitly minimize energy usage while ensuring task completion. Adaptive strategies based on remaining energy. "Return-to-base" constraints for recharging.  
+  6. **Integrating Energy State into Control:** Adapting control strategies (e.g., reducing speed, changing gait, limiting peak power) based on current estimated State of Charge (SoC) or remaining fuel to extend operational time. Risk-aware decision making (Module 80\) applied to energy constraints.
+
+**Section 6.2: Communication Systems**
+
+* **Module 141: RF Principles and Antenna Design Basics (6 hours)**  
+  1. **Electromagnetic Waves:** Frequency, wavelength, propagation speed. Radio frequency (RF) spectrum allocation (ISM bands, licensed bands). Decibels (dB, dBm) for power/gain representation.  
+  2. **Signal Propagation Mechanisms:** Free Space Path Loss (FSPL \- Friis equation), reflection, diffraction, scattering. Multipath propagation and fading (fast vs. slow fading, Rayleigh/Rician fading). Link budget calculation components (Transmit power, Antenna gain, Path loss, Receiver sensitivity).  
+  3. **Antenna Fundamentals:** Key parameters: Radiation pattern (isotropic, omnidirectional, directional), Gain, Directivity, Beamwidth, Polarization (linear, circular), Impedance matching (VSWR), Bandwidth.  
+  4. **Common Antenna Types for Robotics:** Monopole/Dipole antennas (omnidirectional), Patch antennas (directional, low profile), Yagi-Uda antennas (high gain, directional), Helical antennas (circular polarization). Trade-offs.  
+  5. **Antenna Placement on Robots:** Impact of robot body/structure on radiation pattern, minimizing blockage, diversity techniques (using multiple antennas \- spatial, polarization diversity), considerations for ground plane effects.  
+  6. **Modulation Techniques Overview:** Transmitting digital data over RF carriers. Amplitude Shift Keying (ASK), Frequency Shift Keying (FSK), Phase Shift Keying (PSK \- BPSK, QPSK), Quadrature Amplitude Modulation (QAM).1 Concepts of bandwidth efficiency and power efficiency. Orthogonal Frequency Division Multiplexing (OFDM).  
+
+* **Module 142: Wireless Communication Protocols for Robotics (WiFi, LoRa, Cellular, Mesh) (6 hours)**  
+  1. **Wi-Fi (IEEE 802.11 Standards):** Focus on standards relevant to robotics (e.g., 802.11n/ac/ax/be). Physical layer (OFDM, MIMO) and MAC layer (CSMA/CA). Modes (Infrastructure vs. Ad-hoc/IBSS). Range, throughput, latency characteristics. Use cases (high bandwidth data transfer, local control).  
+  2. **LoRa/LoRaWAN:** Long Range, low power wide area network (LPWAN) technology. LoRa physical layer (CSS modulation). LoRaWAN MAC layer (Class A, B, C devices, network architecture \- gateways, network server). Very low data rates, long battery life. Use cases (remote sensing, simple commands for swarms).  
+  3. **Cellular Technologies (LTE/5G for Robotics):** LTE categories (Cat-M1, NB-IoT for low power/bandwidth IoT). 5G capabilities relevant to robotics: eMBB (Enhanced Mobile Broadband), URLLC (Ultra-Reliable Low-Latency Communication), mMTC (Massive Machine Type Communication). Network slicing. Coverage and subscription cost considerations.  
+  4. **Bluetooth & BLE (IEEE 802.15.1):** Short range communication. Bluetooth Classic vs. Bluetooth Low Energy (BLE). Profiles (SPP, GATT). Use cases (local configuration, diagnostics, short-range sensing). Bluetooth Mesh.  
+  5. **Zigbee & Thread (IEEE 802.15.4):** Low power, low data rate mesh networking standards often used in IoT and sensor networks. Comparison with LoRaWAN and BLE Mesh. Use cases (distributed sensing/control in swarms).  
+  6. **Protocol Selection Criteria:** Range, data rate, latency, power consumption, cost, network topology support, security features, ecosystem/interoperability. Matching protocol to robotic application requirements.  
+
+* **Module 143: Network Topologies for Swarms (Ad-hoc, Mesh) (6 hours)**  
+  1. **Network Topologies Overview:** Star, Tree, Bus, Ring, Mesh, Ad-hoc. Centralized vs. Decentralized topologies. Suitability for robotic swarms.  
+  2. **Infrastructure-Based Topologies (e.g., Wi-Fi Infrastructure Mode, Cellular):** Relying on fixed access points or base stations. Advantages (simpler node logic, potentially better coordination), Disadvantages (single point of failure, limited coverage, deployment cost).  
+  3. **Mobile Ad-hoc Networks (MANETs):** Nodes communicate directly (peer-to-peer) or through multi-hop routing without fixed infrastructure. Self-configuring, self-healing. Key challenge: Routing in dynamic topology.  
+  4. **Mesh Networking:** Subset of MANETs, often with more structured routing. Nodes act as routers for each other. Improves network coverage and robustness compared to star topology. Examples (Zigbee, Thread, BLE Mesh, Wi-Fi Mesh \- 802.11s).  
+  5. **Routing Protocols for MANETs/Mesh:** Proactive (Table-driven \- e.g., OLSR, DSDV) vs. Reactive (On-demand \- e.g., AODV, DSR) vs. Hybrid. Routing metrics (hop count, link quality, latency). Challenges (overhead, scalability, mobility).  
+  6. **Topology Control in Swarms:** Actively managing the network topology (e.g., by adjusting transmit power, selecting relay nodes, robot movement) to maintain connectivity, optimize performance, or reduce energy consumption.  
+
+* **Module 144: Techniques for Robust Communication in Difficult RF Environments (6 hours)**  
+  1. **RF Environment Challenges Recap:** Path loss, shadowing (obstacles like crops, terrain, buildings), multipath fading, interference (other radios, motors), limited spectrum. Impact on link reliability and throughput.  
+  2. **Diversity Techniques:** Sending/receiving signals over multiple independent paths to combat fading. Spatial diversity (multiple antennas \- MIMO, SIMO, MISO), Frequency diversity (frequency hopping, OFDM), Time diversity (retransmissions, interleaving), Polarization diversity.  
+  3. **Error Control Coding (ECC):** Adding redundancy to transmitted data to allow detection and correction of errors at the receiver. Forward Error Correction (FEC) codes (Convolutional codes, Turbo codes, LDPC codes, Reed-Solomon codes). Coding gain vs. bandwidth overhead. Automatic Repeat reQuest (ARQ) protocols (Stop-and-wait, Go-Back-N, Selective Repeat). Hybrid ARQ.  
+  4. **Spread Spectrum Techniques:** Spreading the signal over a wider frequency band to reduce interference susceptibility and enable multiple access. Direct Sequence Spread Spectrum (DSSS \- used in GPS, older Wi-Fi), Frequency Hopping Spread Spectrum (FHSS \- used in Bluetooth, LoRa). Processing gain.  
+  5. **Adaptive Modulation and Coding (AMC):** Adjusting modulation scheme (e.g., BPSK \-\> QPSK \-\> 16QAM) and coding rate based on estimated channel quality (e.g., SNR) to maximize throughput while maintaining target error rate. Requires channel feedback.  
+  6. **Cognitive Radio Concepts:** Sensing the local RF environment and dynamically adjusting transmission parameters (frequency, power, waveform) to avoid interference and utilize available spectrum efficiently. Opportunistic spectrum access. Regulatory challenges.  
+
+* **Module 145: Delay-Tolerant Networking (DTN) Concepts (6 hours)**  
+  1. **Motivation:** Handling communication in environments with frequent, long-duration network partitions or delays (e.g., remote field robots with intermittent satellite/cellular connectivity, swarms with sparse connectivity). Internet protocols (TCP/IP) assume end-to-end connectivity.  
+  2. **DTN Architecture:** Store-carry-forward paradigm. Nodes store messages (bundles) when no connection is available, carry them physically (as node moves), and forward them when a connection opportunity arises. Overlay network approach. Bundle Protocol (BP).  
+  3. **Bundle Protocol (BP):** Key concepts: Bundles (messages with metadata), Nodes, Endpoints (application identifiers \- EIDs), Convergence Layers (interfacing BP with underlying network protocols like TCP, UDP, Bluetooth). Custody Transfer (optional reliability mechanism).  
+  4. **DTN Routing Strategies:** Dealing with lack of contemporaneous end-to-end paths. Epidemic routing (flooding), Spray and Wait, Prophet (probabilistic routing based on encounter history), Custody-based routing, Schedule-aware routing (if contact opportunities are predictable).  
+  5. **DTN Security Considerations:** Authenticating bundles, ensuring integrity, access control in intermittently connected environments. Challenges beyond standard network security.  
+  6. **Applications for Robotics:** Communication for remote agricultural robots (data upload, command download when connectivity is sparse), inter-swarm communication in large or obstructed areas, data muling scenarios where robots physically transport data. Performance evaluation (delivery probability, latency, overhead).
+
+---
 
 
 
@@ -869,77 +1248,10 @@ Intensive technical training on the design, implementation, and operation of rob
 
 
 
-**PART 5: Real-Time & Fault-Tolerant Systems Engineering (Approx. 25 Modules)**
-
-* **Section 5.0: Real-Time Systems (8 Modules)**
-    * Module 101: Real-Time Operating Systems (RTOS) Concepts (Preemption, Scheduling)
-    * Module 102: Real-Time Scheduling Algorithms (RMS, EDF)
-    * Module 103: Worst-Case Execution Time (WCET) Analysis
-    * Module 104: Real-Time Middleware: DDS Deep Dive (RTPS, QoS Policies)
-    * Module 105: Applying Real-Time Principles in ROS 2
-    * Module 106: Timing Analysis and Performance Measurement Tools
-    * Module 107: Lock-Free Data Structures and Real-Time Synchronization
-    * Module 108: Hardware Acceleration for Real-Time Tasks (FPGA, GPU)
-* **Section 5.1: Fault Tolerance & Dependability (10 Modules)**
-    * Module 109: Concepts: Reliability, Availability, Safety, Maintainability
-    * Module 110: Fault Modeling and Failure Modes and Effects Analysis (FMEA)
-    * Module 111: Fault Detection and Diagnosis Techniques
-    * Module 112: Fault Isolation and System Reconfiguration
-    * Module 113: Hardware Redundancy Techniques (Dual/Triple Modular Redundancy)
-    * Module 114: Software Fault Tolerance (N-Version Programming, Recovery Blocks)
-    * Module 115: Checkpointing and Rollback Recovery
-    * Module 116: Byzantine Fault Tolerance Concepts
-    * Module 117: Graceful Degradation Strategies for Swarms
-    * Module 118: Designing Robust State Machines and Error Handling Logic
-* **Section 5.2: Cybersecurity for Robotic Systems (7 Modules)**
-    * Module 119: Threat Modeling for Autonomous Systems
-    * Module 120: Securing Communication Channels (Encryption, Authentication)
-    * Module 121: Secure Boot and Trusted Execution Environments (TEE)
-    * Module 122: Vulnerabilities in ROS 2 / DDS and Mitigation (SROS2 Deep Dive)
-    * Module 123: Intrusion Detection Systems for Robots
-    * Module 124: Secure Software Development Practices
-    * Module 125: Physical Security Considerations for Field Robots
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-**PART 6: Advanced Hardware, Mechatronics & Power (Approx. 20 Modules)**
-
-* **Section 6.0: Mechatronic Design & Materials (8 Modules)**
-    * Module 126: Advanced Mechanism Design for Robotics
-    * Module 127: Actuator Selection and Modeling (Motors, Hydraulics, Pneumatics)
-    * Module 128: Drive Train Design and Transmission Systems
-    * Module 129: Materials Selection for Harsh Environments (Corrosion, Abrasion, UV)
-    * Module 130: Design for Manufacturing and Assembly (DFMA) for Robots
-    * Module 131: Sealing and Ingress Protection (IP Rating) Design
-    * Module 132: Thermal Management for Electronics in Outdoor Robots
-    * Module 133: Vibration Analysis and Mitigation
-* **Section 6.1: Power Systems & Energy Management (7 Modules)**
-    * Module 134: Advanced Battery Chemistries and Performance Modeling
-    * Module 135: Battery Management Systems (BMS) Design and Algorithms
-    * Module 136: Power Electronics for Motor Drives and Converters (DC-DC, Inverters)
-    * Module 137: Fuel Cell Technology Deep Dive (PEMFC, SOFC) - Integration Challenges
-    * Module 138: H2/NH3 Storage and Handling Systems - Technical Safety
-    * Module 139: Advanced Solar Power Integration (Flexible PV, Tracking Systems)
-    * Module 140: Energy-Aware Planning and Control Algorithms
-* **Section 6.2: Communication Systems (5 Modules)**
-    * Module 141: RF Principles and Antenna Design Basics
-    * Module 142: Wireless Communication Protocols for Robotics (WiFi, LoRa, Cellular, Mesh)
-    * Module 143: Network Topologies for Swarms (Ad-hoc, Mesh)
-    * Module 144: Techniques for Robust Communication in Difficult RF Environments
-    * Module 145: Delay-Tolerant Networking (DTN) Concepts
 
 **PART 7: Swarm Intelligence & Distributed Coordination (Approx. 20 Modules)**
 
@@ -959,6 +1271,20 @@ Intensive technical training on the design, implementation, and operation of rob
 * Module 159: Verification and Validation of Swarm Behaviors
 * Module 160: Ethical Considerations in Swarm Autonomy (Technical Implications)
 * Module 161 - 165: Advanced Swarm Project Implementation Sprints (applying concepts)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **PART 8: Technical Challenges in Agricultural Applications (Approx. 20 Modules)**
 
