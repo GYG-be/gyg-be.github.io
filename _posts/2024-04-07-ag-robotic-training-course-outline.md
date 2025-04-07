@@ -17,29 +17,31 @@ Intensive technical training on the design, implementation, and operation of rob
 
 #### Section 1.0: Introduction & Course Philosophy
 
-##### Module 1: The Challenge: Autonomous Robotics in Unstructured, Dynamic Environments (6 hours)
-1. **Defining Unstructured Environments:** Quantifying environmental complexity (terrain variability, vegetation density, lack of defined paths). Comparison with structured industrial settings.  
-2. **Dynamic Elements:** Characterizing unpredictable changes (weather shifts, animal/human presence, crop growth dynamics, moving obstacles). Impact on perception and planning.  
-3. **Sensing Limitations:** Physics-based constraints on sensors (occlusion, poor illumination, sensor noise, range limits) in complex field conditions.  
-4. **Actuation Challenges:** Mobility on uneven/soft terrain (slip, traction loss), manipulation in cluttered spaces, energy constraints for field operations.  
-5. **The Need for Robustness & Autonomy:** Defining system requirements for operating without constant human intervention under uncertainty. Failure modes in field robotics.  
-6. **Agricultural Case Study (Technical Focus):** Analyzing specific tasks (e.g., precision weeding, scouting) purely through the lens of environmental and dynamic challenges impacting robot design and algorithms.  
-
-##### Module 2: Course Structure: Deep Technical Dive, Rigorous Evaluation (Philosophy Recap) (6 hours)
-1. **Curriculum Overview:** Structure of the 200 modules, technical pillars (Perception, Control, AI, Systems, Hardware, Swarms), interdependencies.  
+##### Module 1: Understanding Course Structure: Deep Technical Dive, Rigorous Evaluation (Philosophy Recap) (6 hours)
+1. **Curriculum Overview:** Read the entire set of 200 modules, consider the technical pillars involved (Perception, Control, AI, Systems, Hardware, Swarms), start thinking about the interdependencies.  
 2. **Learning Methodology:** Intensive Sprints, Hands-on Labs, Simulation-Based Development, Hardware Integration. Emphasis on practical implementation.  
 3. **Evaluation Framework:** Objective performance metrics, competitive benchmarking ("Robot Wars" concept), code reviews, system demonstrations. Link to Gauntlet AI philosophy.  
 4. **Extreme Ownership (Technical Context):** Responsibility for debugging complex systems, validating algorithms, ensuring hardware reliability, resource management in labs.  
 5. **Rapid Iteration & Prototyping:** Agile development principles applied to robotics, minimum viable system development, data-driven refinement.  
 6. **Toolchain Introduction:** Overview of required software (OS, IDEs, Simulators, CAD, specific libraries), hardware platforms, and lab equipment access protocols.  
 
+##### Module 2: The Challenge: Autonomous Robotics in Unstructured, Dynamic, Harsh Environments (6 hours)
+1. **Defining Unstructured Environments:** Quantifying environmental complexity (weather, animals, terrain variability, vegetation density, lack of defined paths, potential theft/security issue). Comparison with structured industrial settings.  
+2. **Dynamic Elements:** Characterizing unpredictable changes (weather shifts, animal/human presence, crop growth dynamics, moving obstacles). Impact on perception and planning. Risk mitigation strategies. Failure mode cataloguing and brainstorming. 
+3. **Sensing Limitations:** Physics-based constraints on sensors (occlusion, poor illumination, sensor noise, range limits) in complex field conditions.  
+4. **Actuation Challenges:** Mobility on uneven/soft terrain (slip, traction loss), manipulation in cluttered spaces, energy constraints for field operations.  
+5. **The Need for Robustness & Autonomy:** Defining system requirements for operating without constant human intervention under uncertainty. Failure modes in field robotics.  
+6. **Agricultural Case Study (Technical Focus):** Analyzing specific tasks (e.g., precision weeding, scouting) purely through the lens of environmental and dynamic challenges impacting robot design and algorithms. Drawing comparisons to other robotic applications in harsch, highly uncertain, uncontrolled environments, eg warfighting.
+7. **Curriculum Review/Adjustment:** Re-read the entire set of 200 modules AGAIN, consider the technical pillars involved (Perception, Control, AI, Systems, Hardware, Swarms), think again about the interdependencies ... are some areas missing? Do some deserve more weight.  
+
 ##### Module 3: Safety Protocols for Advanced Autonomous Systems Development & Testing (6 hours)
-1. **Risk Assessment Methodologies:** Identifying hazards in robotic systems (electrical, mechanical, software-induced, environmental). Hazard analysis techniques (HAZOP, FMEA Lite).  
+1. **Risk Assessment Methodologies:** Identifying hazards in robotic systems (electrical, mechanical, software-induced, environmental). Hazard analysis techniques (HAZOP, FMEA Lite). What are the applicable standards? What's required? What's smart or best practice?
 2. **Hardware Safety:** E-Stops, safety-rated components, interlocks, guarding, battery safety (LiPo handling protocols), safe power-up/down procedures.  
 3. **Software Safety:** Defensive programming, watchdog timers, sanity checks, safe state transitions, verification of safety-critical code. Requirements for autonomous decision-making safety.  
 4. **Field Testing Safety Protocols:** Establishing safe operating zones, remote monitoring, emergency procedures, communication protocols during tests, human-robot interaction safety.  
 5. **Simulation vs. Real-World Safety:** Validating safety mechanisms in simulation before deployment, understanding the limits of simulation for safety testing.  
 6. **Compliance & Standards (Technical Aspects):** Introduction to relevant technical safety standards (e.g., ISO 13849, ISO 10218) and documentation requirements for safety cases.
+7. **Curriculum Review/Adjustment:** Re-read the entire set of 200 modules AGAIN, consider the technical pillars involved (Perception, Control, AI, Systems, Hardware, Swarms), think again about the interdependencies ... are some areas missing? Do some deserve more weight.  
 
 #### Section 1.1: Mathematical & Physics Foundations
 
@@ -50,6 +52,7 @@ Intensive technical training on the design, implementation, and operation of rob
 4. **Singular Value Decomposition (SVD):** Calculation, geometric interpretation, properties. Application to manipulability analysis, solving least-squares problems, dimensionality reduction.  
 5. **Pseudo-Inverse & Least Squares:** Moore-Penrose pseudo-inverse. Solving overdetermined and underdetermined systems. Application to inverse kinematics and sensor calibration.  
 6. **Linear Transformations & Geometric Interpretation:** Rotations, scaling, shearing. Representing robot movements and coordinate frame changes. Application in kinematics and computer vision.  
+7. **Curriculum Review/Adjustment:** Re-read the entire set of 200 modules AGAIN, consider the technical pillars involved (Perception, Control, AI, Systems, Hardware, Swarms), think again about the interdependencies ... are some areas missing? Do some deserve more weight.  
 
 ##### Module 5: Multivariate Calculus and Differential Geometry for Robotics (6 hours)
 1. **Vector Calculus Review:** Gradient, Divergence, Curl. Line and surface integrals. Application to potential fields for navigation, sensor data analysis.  
@@ -58,6 +61,7 @@ Intensive technical training on the design, implementation, and operation of rob
 4. **Introduction to Differential Geometry:** Manifolds, tangent spaces, curves on manifolds. Application to representing robot configuration spaces (e.g., SO(3) for rotations).  
 5. **Lie Groups & Lie Algebras:** SO(3), SE(3) representations for rotation and rigid body motion. Exponential and logarithmic maps. Application to state estimation and motion planning on manifolds.  
 6. **Calculus on Manifolds:** Gradients and optimization on manifolds. Application to advanced control and estimation techniques.  
+7. **Curriculum Review/Adjustment:** Re-read the entire set of 200 modules AGAIN, consider the technical pillars involved (Perception, Control, AI, Systems, Hardware, Swarms), think again about the interdependencies ... are some areas missing? Do some deserve more weight.  
 
 ##### Module 6: Probability Theory and Stochastic Processes for Robotics (6 hours)
 1. **Foundations of Probability:** Sample spaces, events, conditional probability, Bayes' theorem. Application to reasoning under uncertainty.  
