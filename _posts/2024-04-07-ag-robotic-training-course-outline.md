@@ -6,6 +6,10 @@ categories: disrupt
 ---
 ## Swarm Robotics: Adaptability Engineering in Harsh Environments
 
+200 Modules. 1 Module/Day. 6 Topics/Module equates to 1 topic/hour for a six-hour training day. This only a roadmap ... anyone can come up with a roadmap better tailored to their particular needs and what kinds of things they want to explore. The pace is intense, some would say overwhelming ... anyone can slow down and take longer. The self-paced training is primarily AI-assisted and the process is about asking lots of questions that are somewhat bounded by a roadmap ... *but nobody needs to stick to that roadmap*. 
+
+The objective is familiarity with the topics presented in the context of agricultureal robotics, not exactly mastery. Part of the skills developed in autodidactic AI-assisted training is also coming up with good exercises or test projects in order to test understanding of knowledge. This course is not for mastery -- the mastery will be proven in hands-on practical demonstrations in the lab, working on a test bench or perhaps out in the field. The objective of this training is *knowing just enough to be dangerous,* so that one is ready work on the practical side.
+
 Intensive technical training on the design, implementation, and operation of robust, autonomous robotic systems, particularly swarms, for challenging agricultural tasks. Emphasis on real-time performance, fault tolerance, adaptive intelligence, and operation under uncertainty. This outline heavily emphasizes the core engineering and computer science disciplines required to build robust, intelligent robotic systems for challenging field environments, aligning with the requested technical depth and focus.
 
 ---
