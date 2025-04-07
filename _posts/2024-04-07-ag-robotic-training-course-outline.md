@@ -430,6 +430,425 @@ Intensive technical training on the design, implementation, and operation of rob
 
 ---
 
+**PART 3: Advanced Control & Dynamics**
+
+**Section 3.0: Robot Dynamics & Modeling**
+
+* **Module 51: Advanced Robot Kinematics (Denavit-Hartenberg, Screw Theory) (6 hours)**  
+  1. **Denavit-Hartenberg (D-H) Convention:** Standard D-H parameters (link length, link twist, link offset, joint angle). Assigning coordinate frames to manipulator links. Limitations (e.g., singularities near parallel axes).  
+  2. **Modified D-H Parameters:** Alternative convention addressing some limitations of standard D-H. Comparison and application examples.  
+  3. **Screw Theory Fundamentals:** Representing rigid body motion as rotation about and translation along an axis (a screw). Twists (spatial velocities) and Wrenches (spatial forces). Plücker coordinates.  
+  4. **Product of Exponentials (PoE) Formulation:** Representing forward kinematics using matrix exponentials of twists associated with each joint. Advantages over D-H (no need for link frames).  
+  5. **Jacobian Calculation using Screw Theory:** Deriving the spatial and body Jacobians relating joint velocities to twists using screw theory concepts. Comparison with D-H Jacobian.  
+  6. **Kinematic Singularities:** Identifying manipulator configurations where the Jacobian loses rank, resulting in loss of degrees of freedom. Analysis using D-H and Screw Theory Jacobians.  
+
+* **Module 52: Recursive Newton-Euler and Lagrangian Dynamics Formulation (6 hours)**  
+  1. **Lagrangian Dynamics Recap:** Review of Euler-Lagrange equations from Module 8\. Structure of the manipulator dynamics equation: M(q)q̈ \+ C(q,q̇)q̇ \+ G(q) \= τ. Properties (inertia matrix M, Coriolis/centrifugal matrix C, gravity vector G).  
+  2. **Properties of Robot Dynamics:** Skew-symmetry of (Ṁ \- 2C), energy conservation, passivity properties. Implications for control design.  
+  3. **Recursive Newton-Euler Algorithm (RNEA) \- Forward Pass:** Iteratively computing link velocities and accelerations (linear and angular) from the base to the end-effector using kinematic relationships.  
+  4. **RNEA \- Backward Pass:** Iteratively computing forces and torques exerted on each link, starting from the end-effector forces/torques back to the base, using Newton-Euler equations for each link. Calculating joint torques (τ).  
+  5. **Computational Efficiency:** Comparing the computational complexity of Lagrangian vs. RNEA methods for deriving and computing dynamics. RNEA's advantage for real-time computation.  
+  6. **Implementation & Application:** Implementing RNEA in code. Using dynamics models for simulation, feedforward control, and advanced control design.  
+
+* **Module 53: Modeling Flexible Manipulators and Soft Robots (6 hours)**  
+  1. **Limitations of Rigid Body Models:** When flexibility matters (lightweight arms, high speeds, high precision). Vibration modes, structural compliance.  
+  2. **Modeling Flexible Links:** Assumed Modes Method (AMM) using shape functions, Finite Element Method (FEM) for discretizing flexible links. Deriving equations of motion for flexible links.  
+  3. **Modeling Flexible Joints:** Incorporating joint elasticity (e.g., using torsional springs). Impact on dynamics and control (e.g., motor dynamics vs. link dynamics). Singular perturbation models.  
+  4. **Introduction to Soft Robotics:** Continuum mechanics basics, hyperelastic materials (Mooney-Rivlin, Neo-Hookean models), challenges in modeling continuously deformable bodies.  
+  5. **Piecewise Constant Curvature (PCC) Models:** Representing the shape of continuum robots using arcs of constant curvature. Kinematics and limitations of PCC models.  
+  6. **Cosserat Rod Theory:** More advanced modeling framework for slender continuum structures capturing bending, twisting, shearing, and extension. Introduction to the mathematical formulation.  
+
+* **Module 54: Terramechanics: Modeling Robot Interaction with Soil/Terrain (6 hours)**  
+  1. **Soil Characterization:** Soil types (sand, silt, clay), parameters (cohesion, internal friction angle, density, shear strength \- Mohr-Coulomb model), moisture content effects. Measuring soil properties (e.g., cone penetrometer, shear vane).  
+  2. **Pressure-Sinkage Models (Bekker Theory):** Modeling the relationship between applied pressure and wheel/track sinkage into deformable terrain. Bekker parameters (kc, kφ, n). Application to predicting rolling resistance.  
+  3. **Wheel/Track Shear Stress Models:** Modeling the shear stress developed between the wheel/track and the soil as a function of slip. Predicting maximum available tractive effort (drawbar pull).  
+  4. **Wheel/Track Slip Kinematics:** Defining longitudinal slip (wheels) and track slip. Impact of slip on tractive efficiency and steering.  
+  5. **Predicting Vehicle Mobility:** Combining pressure-sinkage and shear stress models to predict go/no-go conditions, maximum slope climbing ability, drawbar pull performance on specific soils. Limitations of Bekker theory.  
+  6. **Advanced Terramechanics Modeling:** Finite Element Method (FEM) / Discrete Element Method (DEM) for detailed soil interaction simulation. Empirical models (e.g., relating Cone Index to vehicle performance). Application to optimizing wheel/track design for agricultural robots.  
+
+* **Module 55: System Identification Techniques for Robot Models (6 hours)**  
+  1. **System Identification Problem:** Estimating parameters of a mathematical model (e.g., dynamic parameters M, C, G; terramechanic parameters) from experimental input/output data. Importance for model-based control.  
+  2. **Experiment Design:** Designing input signals (e.g., trajectories, torque profiles) to sufficiently excite the system dynamics for parameter identifiability. Persistency of excitation.  
+  3. **Linear Least Squares Identification:** Formulating the identification problem in a linear form (Y \= Φθ), where Y is measured output, Φ is a regressor matrix based on measured states, and θ is the vector of unknown parameters. Solving for θ.  
+  4. **Identifying Manipulator Dynamics Parameters:** Linear parameterization of robot dynamics (M, C, G). Using RNEA or Lagrangian form to construct the regressor matrix Φ based on measured joint positions, velocities, and accelerations. Dealing with noise in acceleration measurements.  
+  5. **Frequency Domain Identification:** Using frequency response data (Bode plots) obtained from experiments to fit transfer function models. Application to identifying joint flexibility, motor dynamics.  
+  6. **Nonlinear System Identification:** Techniques for identifying parameters in nonlinear models (e.g., iterative methods, Maximum Likelihood Estimation, Bayesian methods). Introduction to identifying friction models (Coulomb, viscous, Stribeck).  
+
+* **Module 56: Parameter Estimation and Uncertainty Quantification (6 hours)**  
+  1. **Statistical Properties of Estimators:** Bias, variance, consistency, efficiency. Cramer-Rao Lower Bound (CRLB) on estimator variance.  
+  2. **Maximum Likelihood Estimation (MLE):** Finding parameters that maximize the likelihood of observing the measured data given a model and noise distribution (often Gaussian). Relationship to least squares.  
+  3. **Bayesian Parameter Estimation:** Representing parameters as random variables with prior distributions. Using Bayes' theorem to find the posterior distribution given measurements (e.g., using Markov Chain Monte Carlo \- MCMC methods). Credible intervals.  
+  4. **Recursive Least Squares (RLS):** Adapting the least squares estimate online as new data arrives. Forgetting factors for tracking time-varying parameters.  
+  5. **Kalman Filtering for Parameter Estimation:** Augmenting the state vector with unknown parameters and using KF/EKF/UKF to estimate both states and parameters simultaneously (dual estimation).  
+  6. **Uncertainty Propagation:** How parameter uncertainty affects model predictions and control performance. Monte Carlo simulation, analytical methods (e.g., first-order Taylor expansion). Importance for robust control.
+
+**Section 3.1: Advanced Control Techniques**
+
+* **Module 57: Linear Control Review (PID Tuning, Frequency Domain Analysis) (6 hours)**  
+  1. **PID Control Revisited:** Proportional, Integral, Derivative terms. Time-domain characteristics (rise time, overshoot, settling time). Practical implementation issues (integral windup, derivative kick).  
+  2. **PID Tuning Methods:** Heuristic methods (Ziegler-Nichols), analytical methods based on process models (e.g., IMC tuning), optimization-based tuning. Tuning for load disturbance rejection vs. setpoint tracking.  
+  3. **Frequency Domain Concepts:** Laplace transforms, transfer functions, frequency response (magnitude and phase). Bode plots, Nyquist plots.  
+  4. **Stability Analysis in Frequency Domain:** Gain margin, phase margin. Nyquist stability criterion. Relationship between time-domain and frequency-domain specs.  
+  5. **Loop Shaping:** Designing controllers (e.g., lead-lag compensators) in the frequency domain to achieve desired gain/phase margins and bandwidth.  
+  6. **Application to Robot Joints:** Applying PID control to individual robot joints (assuming decoupled dynamics or inner torque loops). Limitations for multi-link manipulators.  
+
+* **Module 58: State-Space Control Design (Pole Placement, LQR/LQG) (6 hours)**  
+  1. **State-Space Representation:** Modeling systems using state (x), input (u), and output (y) vectors (ẋ \= Ax \+ Bu, y \= Cx \+ Du). Advantages over transfer functions (MIMO systems, internal states).  
+  2. **Controllability & Observability:** Determining if a system's state can be driven to any desired value (controllability) or if the state can be inferred from outputs (observability). Kalman rank conditions. Stabilizability and Detectability.  
+  3. **Pole Placement (State Feedback):** Designing a feedback gain matrix K (u \= \-Kx) to place the closed-loop system poles (eigenvalues of A-BK) at desired locations for stability and performance. Ackermann's formula. State estimation requirement.  
+  4. **Linear Quadratic Regulator (LQR):** Optimal control design minimizing a quadratic cost function balancing state deviation and control effort (∫(xᵀQx \+ uᵀRu)dt). Solving the Algebraic Riccati Equation (ARE) for the optimal gain K. Tuning Q and R matrices. Guaranteed stability margins.  
+  5. **State Estimation (Observers):** Luenberger observer design for estimating the state x when it's not directly measurable. Observer gain matrix L design. Separation principle (designing controller and observer independently).  
+  6. **Linear Quadratic Gaussian (LQG):** Combining LQR optimal control with an optimal state estimator (Kalman Filter) for systems with process and measurement noise. Performance and robustness considerations. Loop Transfer Recovery (LTR) concept.  
+
+* **Module 59: Nonlinear Control Techniques (Feedback Linearization, Sliding Mode Control) (6 hours)**  
+  1. **Challenges of Nonlinear Systems:** Superposition doesn't hold, stability is local or global, complex behaviors (limit cycles, chaos). Need for specific nonlinear control methods.  
+  2. **Feedback Linearization:** Transforming a nonlinear system's dynamics into an equivalent linear system via nonlinear state feedback and coordinate transformation. Input-state vs. input-output linearization. Zero dynamics. Applicability conditions (relative degree).  
+  3. **Application to Robot Manipulators:** Computed Torque Control as an example of feedback linearization using the robot dynamics model (M, C, G). Cancellation of nonlinearities. Sensitivity to model errors.  
+  4. **Sliding Mode Control (SMC):** Designing a sliding surface in the state space where the system exhibits desired behavior. Designing a discontinuous control law to drive the state to the surface and maintain it (reaching phase, sliding phase).  
+  5. **SMC Properties & Implementation:** Robustness to matched uncertainties and disturbances. Chattering phenomenon due to high-frequency switching. Boundary layer techniques to reduce chattering.  
+  6. **Lyapunov-Based Nonlinear Control:** Introduction to using Lyapunov functions (Module 68\) directly for designing stabilizing control laws for nonlinear systems (e.g., backstepping concept).  
+
+* **Module 60: Robust Control Theory (H-infinity, Mu-Synthesis) (6 hours)**  
+  1. **Motivation for Robust Control:** Dealing with model uncertainty (parameter variations, unmodeled dynamics) and external disturbances while guaranteeing stability and performance.  
+  2. **Modeling Uncertainty:** Unstructured uncertainty (additive, multiplicative, coprime factor) vs. Structured uncertainty (parameter variations). Representing uncertainty using weighting functions.  
+  3. **Performance Specifications:** Defining performance requirements (e.g., tracking error, disturbance rejection) using frequency-domain weights (Sensitivity function S, Complementary sensitivity T).  
+  4. **H-infinity (H∞) Control:** Designing controllers to minimize the H∞ norm of the transfer function from disturbances/references to errors/outputs, considering uncertainty models. Small Gain Theorem. Solving H∞ problems via Riccati equations or Linear Matrix Inequalities (LMIs).  
+  5. **Mu (μ) \- Synthesis (Structured Singular Value):** Handling structured uncertainty explicitly. D-K iteration for designing controllers that achieve robust performance against structured uncertainty. Conservatism issues.  
+  6. **Loop Shaping Design Procedure (LSDP):** Practical robust control design technique combining classical loop shaping ideas with robust stability considerations (using normalized coprime factor uncertainty).  
+
+* **Module 61: Adaptive Control Systems (MRAC, Self-Tuning Regulators) (6 hours)**  
+  1. **Motivation for Adaptive Control:** Adjusting controller parameters online to cope with unknown or time-varying system parameters or changing environmental conditions.  
+  2. **Model Reference Adaptive Control (MRAC):** Defining a stable reference model specifying desired closed-loop behavior. Designing an adaptive law (e.g., MIT rule, Lyapunov-based) to adjust controller parameters so the system output tracks the reference model output.  
+  3. **MRAC Architectures:** Direct vs. Indirect MRAC. Stability proofs using Lyapunov theory or passivity. Persistency of excitation condition for parameter convergence.  
+  4. **Self-Tuning Regulators (STR):** Combining online parameter estimation (e.g., RLS \- Module 56\) with a control law design based on the estimated parameters (e.g., pole placement, minimum variance control). Certainty equivalence principle.  
+  5. **Adaptive Backstepping:** Recursive technique for designing adaptive controllers for systems in strict-feedback form, commonly found in nonlinear systems.  
+  6. **Applications & Challenges:** Application to robot manipulators with unknown payloads, friction compensation, mobile robot control on varying terrain. Robustness issues (parameter drift, unmodeled dynamics). Combining robust and adaptive control ideas.  
+
+* **Module 62: Optimal Control and Trajectory Optimization (Pontryagin's Minimum Principle) (6 hours)**  
+  1. **Optimal Control Problem Formulation:** Defining system dynamics, cost functional (performance index), constraints (control limits, state constraints, boundary conditions). Goal: Find control input minimizing cost.  
+  2. **Calculus of Variations Review:** Finding extrema of functionals. Euler-Lagrange equation for functionals. Necessary conditions for optimality.  
+  3. **Pontryagin's Minimum Principle (PMP):** Necessary conditions for optimality in constrained optimal control problems. Hamiltonian function, costate equations (adjoint system), minimization of the Hamiltonian with respect to control input. Bang-bang control.  
+  4. **Hamilton-Jacobi-Bellman (HJB) Equation:** Dynamic programming approach to optimal control. Value function representing optimal cost-to-go. Relationship to PMP. Challenges in solving HJB directly (curse of dimensionality).  
+  5. **Numerical Methods \- Indirect Methods:** Solving the Two-Point Boundary Value Problem (TPBVP) resulting from PMP (e.g., using shooting methods). Sensitivity to initial guess.  
+  6. **Numerical Methods \- Direct Methods:** Discretizing the state and control trajectories, converting the optimal control problem into a large (sparse) nonlinear programming problem (NLP). Direct collocation, direct multiple shooting. Solved using NLP solvers (Module 9).  
+
+* **Module 63: Force and Impedance Control for Interaction Tasks (6 hours)**  
+  1. **Robot Interaction Problem:** Controlling robots that make physical contact with the environment (pushing, grasping, polishing, locomotion). Need to control both motion and forces.  
+  2. **Hybrid Motion/Force Control:** Dividing the task space into motion-controlled and force-controlled directions based on task constraints. Designing separate controllers for each subspace. Selection matrix approach. Challenges in switching and coordination.  
+  3. **Stiffness & Impedance Control:** Controlling the dynamic relationship between robot position/velocity and interaction force (Z \= F/v or F/x). Defining target impedance (stiffness, damping, inertia) appropriate for the task.  
+  4. **Impedance Control Implementation:** Outer loop specifying desired impedance behavior, inner loop (e.g., torque control) realizing the impedance. Admittance control (specifying desired motion in response to force).  
+  5. **Force Feedback Control:** Directly measuring contact forces and using force errors in the control loop (e.g., parallel force/position control). Stability issues due to contact dynamics.  
+  6. **Applications:** Controlling manipulator contact forces during assembly/polishing, grasp force control, compliant locomotion over uneven terrain, safe human-robot interaction.  
+
+* **Module 64: Control of Underactuated Systems (6 hours)**  
+  1. **Definition & Examples:** Systems with fewer actuators than degrees of freedom (e.g., pendulum-on-a-cart, Acrobot, quadrotor altitude/attitude, passive walkers, wheeled mobile robots with non-holonomic constraints). Control challenges.  
+  2. **Controllability of Underactuated Systems:** Partial feedback linearization, checking controllability conditions (Lie brackets). Systems may be controllable but not feedback linearizable.  
+  3. **Energy-Based Control Methods:** Using energy shaping (modifying potential energy) and damping injection to stabilize equilibrium points (e.g., swing-up control for pendulum). Passivity-based control.  
+  4. **Partial Feedback Linearization & Zero Dynamics:** Linearizing a subset of the dynamics (actuated degrees of freedom). Analyzing the stability of the remaining unactuated dynamics (zero dynamics). Collocated vs. non-collocated control.  
+  5. **Trajectory Planning for Underactuated Systems:** Finding feasible trajectories that respect the underactuated dynamics (differential flatness concept). Using optimal control to find swing-up or stabilization trajectories.  
+  6. **Application Examples:** Control of walking robots, stabilizing wheeled inverted pendulums, aerial manipulator control.  
+
+* **Module 65: Distributed Control Strategies for Multi-Agent Systems (6 hours)**  
+  1. **Motivation:** Controlling groups of robots (swarms) to achieve collective goals using only local sensing and communication. Scalability and robustness requirements.  
+  2. **Graph Theory for Multi-Agent Systems:** Representing communication topology using graphs (nodes=agents, edges=links). Laplacian matrix and its properties related to connectivity and consensus.  
+  3. **Consensus Algorithms:** Designing local control laws based on information from neighbors such that agent states converge to a common value (average consensus, leader-following consensus). Discrete-time and continuous-time protocols.  
+  4. **Formation Control:** Controlling agents to achieve and maintain a desired geometric shape. Position-based, displacement-based, distance-based approaches. Rigid vs. flexible formations.  
+  5. **Distributed Flocking & Swarming:** Implementing Boids-like rules (separation, alignment, cohesion) using distributed control based on local neighbor information. Stability analysis.  
+  6. **Distributed Coverage Control:** Deploying agents over an area according to a density function using centroidal Voronoi tessellations and gradient-based control laws.  
+
+* **Module 66: Learning-Based Control (Reinforcement Learning for Control) (6 hours)**  
+  1. **Motivation:** Using machine learning to learn control policies directly from interaction data, especially when accurate models are unavailable or complex nonlinearities exist.  
+  2. **Reinforcement Learning (RL) Framework:** Agents, environments, states, actions, rewards, policies (mapping states to actions). Markov Decision Processes (MDPs) review (Module 88). Goal: Learn policy maximizing cumulative reward.  
+  3. **Model-Free RL Algorithms:** Q-Learning (value-based, off-policy), SARSA (value-based, on-policy), Policy Gradient methods (REINFORCE, Actor-Critic \- A2C/A3C). Exploration vs. exploitation trade-off.  
+  4. **Deep Reinforcement Learning (DRL):** Using deep neural networks to approximate value functions (DQN) or policies (Policy Gradients). Handling continuous state/action spaces (DDPG, SAC, TRPO, PPO).  
+  5. **Challenges in Applying RL to Robotics:** Sample efficiency (real-world interaction is expensive/slow), safety during learning, sim-to-real transfer gap, reward function design.  
+  6. **Applications & Alternatives:** Learning complex locomotion gaits, robotic manipulation skills. Combining RL with traditional control (residual RL), imitation learning, model-based RL.  
+
+* **Module 67: Predictive Control (MPC) for Robots (6 hours)**  
+  1. **MPC Concept:** At each time step, predict the system's future evolution over a finite horizon, optimize a sequence of control inputs over that horizon minimizing a cost function subject to constraints, apply the first control input, repeat. Receding horizon control.  
+  2. **MPC Components:** Prediction model (linear or nonlinear), cost function (tracking error, control effort, constraint violation), optimization horizon (N), control horizon (M), constraints (input, state, output).  
+  3. **Linear MPC:** Using a linear prediction model, resulting in a Quadratic Program (QP) to be solved at each time step if cost is quadratic and constraints are linear. Efficient QP solvers.  
+  4. **Nonlinear MPC (NMPC):** Using a nonlinear prediction model, resulting in a Nonlinear Program (NLP) to be solved at each time step. Computationally expensive, requires efficient NLP solvers (e.g., based on SQP or Interior Point methods).  
+  5. **Implementation Aspects:** State estimation for feedback, handling disturbances, choosing horizons (N, M), tuning cost function weights, real-time computation constraints. Stability considerations (terminal constraints/cost).  
+  6. **Applications in Robotics:** Trajectory tracking for mobile robots/manipulators while handling constraints (obstacles, joint limits, actuator saturation), autonomous driving, process control.  
+
+* **Module 68: Stability Analysis for Nonlinear Systems (Lyapunov Theory) (6 hours)**  
+  1. **Nonlinear System Behavior Review:** Equilibrium points, limit cycles, stability concepts (local asymptotic stability, global asymptotic stability \- GAS, exponential stability).  
+  2. **Lyapunov Stability Theory \- Motivation:** Analyzing stability without explicitly solving the nonlinear differential equations. Analogy to energy functions.  
+  3. **Lyapunov Direct Method:** Finding a scalar positive definite function V(x) (Lyapunov function candidate) whose time derivative V̇(x) along system trajectories is negative semi-definite (for stability) or negative definite (for asymptotic stability).  
+  4. **Finding Lyapunov Functions:** Not straightforward. Techniques include Krasovskii's method, Variable Gradient method, physical intuition (using system energy). Quadratic forms V(x) \= xᵀPx for linear systems (Lyapunov equation AᵀP \+ PA \= \-Q).  
+  5. **LaSalle's Invariance Principle:** Extending Lyapunov's method to prove asymptotic stability even when V̇(x) is only negative semi-definite, by analyzing system behavior on the set where V̇(x) \= 0\.  
+  6. **Lyapunov-Based Control Design:** Using Lyapunov theory not just for analysis but also for designing control laws that guarantee stability by making V̇(x) negative definite (e.g., backstepping, SMC analysis, adaptive control stability proofs).
+
+**Section 3.2: Motion Planning & Navigation**
+
+* **Module 69: Configuration Space (C-space) Representation (6 hours)**  
+  1. **Concept of Configuration Space:** The space of all possible configurations (positions and orientations) of a robot. Degrees of freedom (DoF). Representing C-space mathematically (e.g., Rⁿ, SE(3), manifolds).  
+  2. **Mapping Workspace Obstacles to C-space Obstacles:** Transforming physical obstacles into forbidden regions in the configuration space (C-obstacles). Complexity of explicit C-obstacle representation.  
+  3. **Collision Detection:** Algorithms for checking if a given robot configuration is in collision with workspace obstacles. Bounding box hierarchies (AABB, OBB), GJK algorithm, Separating Axis Theorem (SAT). Collision checking for articulated robots.  
+  4. **Representing Free Space:** The set of collision-free configurations (C\_free). Implicit vs. explicit representations. Connectivity of C\_free. Narrow passages problem.  
+  5. **Distance Metrics in C-space:** Defining meaningful distances between robot configurations, considering both position and orientation. Metrics on SO(3)/SE(3). Importance for sampling-based planners.  
+  6. **Dimensionality Reduction:** Using techniques like PCA or manifold learning to find lower-dimensional representations of relevant C-space for planning, if applicable.  
+
+* *Module 70: Path Planning Algorithms (A, RRT*, Potential Fields, Lattice Planners) (6 hours)\*\*  
+  1. **Graph Search Algorithms:** Discretizing C-space (grid). Dijkstra's algorithm, A\* search (using heuristics like Euclidean distance). Properties (completeness, optimality). Variants (Weighted A\*, Anytime A\*).  
+  2. **Sampling-Based Planners:** Probabilistic Roadmaps (PRM) \- learning phase (sampling, connecting nodes) and query phase. Rapidly-exploring Random Trees (RRT) \- incrementally building a tree towards goal. RRT\* \- asymptotically optimal variant ensuring path quality improves with more samples. Bidirectional RRT.  
+  3. **Artificial Potential Fields:** Defining attractive potentials towards the goal and repulsive potentials around obstacles. Robot follows the negative gradient. Simple, reactive, but prone to local minima. Solutions (random walks, virtual obstacles).  
+  4. **Lattice Planners (State Lattices):** Discretizing the state space (including velocity/orientation) using a predefined set of motion primitives that respect robot kinematics/dynamics. Searching the lattice graph (e.g., using A\*). Useful for kinodynamic planning.  
+  5. **Comparison of Planners:** Completeness, optimality, computational cost, memory usage, handling high dimensions, dealing with narrow passages. When to use which planner.  
+  6. **Hybrid Approaches:** Combining different planning strategies (e.g., using RRT to escape potential field local minima).  
+
+* **Module 71: Motion Planning Under Uncertainty (POMDPs Intro) (6 hours)**  
+  1. **Sources of Uncertainty:** Sensing noise/errors, localization uncertainty, uncertain obstacle locations/intentions, actuation errors, model uncertainty. Impact on traditional planners.  
+  2. **Belief Space Planning:** Planning in the space of probability distributions over states (belief states) instead of deterministic states. Updating beliefs using Bayesian filtering (Module 43).  
+  3. **Partially Observable Markov Decision Processes (POMDPs):** Formal framework for planning under state uncertainty and sensing uncertainty. Components (states, actions, observations, transition probabilities, observation probabilities, rewards). Goal: Find policy maximizing expected cumulative reward.  
+  4. **Challenges of Solving POMDPs:** Belief space is infinite dimensional and continuous. Exact solutions are computationally intractable ("curse of dimensionality," "curse of history").  
+  5. **Approximate POMDP Solvers:** Point-Based Value Iteration (PBVI), SARSOP (Sampled Approximately Recursive Strategy Optimization), Monte Carlo Tree Search (POMCP). Using particle filters to represent beliefs.  
+  6. **Alternative Approaches:** Planning with probabilistic collision checking, belief space RRTs, contingency planning (planning for different outcomes). Considering risk in planning.  
+
+* **Module 72: Collision Avoidance Strategies (Velocity Obstacles, DWA) (6 hours)**  
+  1. **Reactive vs. Deliberative Collision Avoidance:** Short-term adjustments vs. full replanning. Need for reactive layers for unexpected obstacles.  
+  2. **Dynamic Window Approach (DWA):** Sampling feasible velocities (linear, angular) within a dynamic window constrained by robot acceleration limits. Evaluating sampled velocities based on objective function (goal progress, distance to obstacles, velocity magnitude). Selecting best velocity. Short planning horizon.  
+  3. **Velocity Obstacles (VO):** Computing the set of relative velocities that would lead to a collision with an obstacle within a time horizon, assuming obstacle moves at constant velocity. Geometric construction.  
+  4. **Reciprocal Velocity Obstacles (RVO / ORCA):** Extending VO for multi-agent scenarios where all agents take responsibility for avoiding collisions reciprocally. Optimal Reciprocal Collision Avoidance (ORCA) computes collision-free velocities efficiently.  
+  5. **Time-To-Collision (TTC) Based Methods:** Estimating time until collision based on relative position/velocity. Triggering avoidance maneuvers when TTC drops below a threshold.  
+  6. **Integration with Global Planners:** Using reactive methods like DWA or ORCA as local planners/controllers that follow paths generated by global planners (A\*, RRT\*), ensuring safety against immediate obstacles.  
+
+* **Module 73: Trajectory Planning and Smoothing Techniques (6 hours)**  
+  1. **Path vs. Trajectory:** Path is a geometric sequence of configurations; Trajectory is a path parameterized by time, specifying velocity/acceleration profiles. Need trajectories for execution.  
+  2. **Trajectory Generation Methods:** Polynomial splines (cubic, quintic) to interpolate between waypoints with velocity/acceleration continuity. Minimum jerk/snap trajectories.  
+  3. **Time Optimal Path Following:** Finding the fastest trajectory along a given geometric path subject to velocity and acceleration constraints (e.g., using bang-bang control concepts or numerical optimization). Path-Velocity Decomposition.  
+  4. **Trajectory Optimization Revisited:** Using numerical optimization (Module 62\) to find trajectories directly that minimize cost (time, energy, control effort) while satisfying kinematic/dynamic constraints and avoiding obstacles (e.g., CHOMP, TrajOpt).  
+  5. **Trajectory Smoothing:** Smoothing paths/trajectories obtained from planners (which might be jerky) to make them feasible and smooth for execution (e.g., using shortcutting, B-splines, optimization).  
+  6. **Executing Trajectories:** Using feedback controllers (PID, LQR, MPC) to track the planned trajectory accurately despite disturbances and model errors. Feedforward control using planned accelerations.  
+
+* **Module 74: Navigation in Unstructured and Off-Road Environments (6 hours)**  
+  1. **Challenges Recap:** Uneven terrain, vegetation, mud/sand, poor visibility, lack of distinct features, GPS issues. Specific problems for agricultural navigation.  
+  2. **Terrain Traversability Analysis:** Using sensor data (LiDAR, stereo vision, radar) to classify terrain into traversable/non-traversable regions or estimate traversal cost/risk based on slope, roughness, soil type (from terramechanics).  
+  3. **Planning on Costmaps:** Representing traversability cost on a grid map. Using A\* or other graph search algorithms to find minimum cost paths.  
+  4. **Dealing with Vegetation:** Techniques for planning through or around tall grass/crops (modeling as soft obstacles, risk-aware planning). Sensor limitations in dense vegetation.  
+  5. **Adaptive Navigation Strategies:** Adjusting speed, planning parameters, or sensor usage based on terrain type, visibility, or localization confidence. Switching between planning modes.  
+  6. **Long-Distance Autonomous Navigation:** Strategies for handling large environments, map management, global path planning combined with local reactivity, persistent localization over long traverses.  
+
+* **Module 75: Multi-Robot Path Planning and Deconfliction (6 hours)**  
+  1. **Centralized vs. Decentralized Multi-Robot Planning:** Centralized planner finds paths for all robots simultaneously (optimal but complex). Decentralized: each robot plans individually and coordinates.  
+  2. **Coupled vs. Decoupled Planning:** Coupled: Plan in the joint configuration space of all robots (intractable). Decoupled: Plan for each robot independently, then resolve conflicts.  
+  3. **Prioritized Planning:** Assigning priorities to robots, lower priority robots plan to avoid higher priority ones. Simple, but can be incomplete or suboptimal. Variants (dynamic priorities).  
+  4. **Coordination Techniques (Rule-Based):** Simple rules like traffic laws (keep right), leader-follower, reciprocal collision avoidance (ORCA \- Module 72). Scalable but may lack guarantees.  
+  5. **Conflict-Based Search (CBS):** Decoupled approach finding optimal collision-free paths. Finds individual optimal paths, detects conflicts, adds constraints to resolve conflicts, replans. Optimal and complete (for certain conditions). Variants (ECBS).  
+  6. **Combined Task Allocation and Path Planning:** Integrating high-level task assignment (Module 85\) with low-level path planning to ensure allocated tasks have feasible, collision-free paths.
+
+---
+
+**PART 4: AI, Planning & Reasoning Under Uncertainty**
+
+**Section 4.0: Planning & Decision Making**
+
+* **Module 76: Task Planning Paradigms (Hierarchical, Behavior-Based) (6 hours)**  
+  1. **Defining Task Planning:** Sequencing high-level actions to achieve goals, distinct from low-level motion planning. Representing world state and actions.  
+  2. **Hierarchical Planning:** Decomposing complex tasks into sub-tasks recursively. Hierarchical Task Networks (HTN) formalism (tasks, methods, decomposition). Advantages (efficiency, structure).  
+  3. **Behavior-Based Planning/Control Recap:** Reactive architectures (Subsumption, Motor Schemas). Emergent task achievement through interaction of simple behaviors. Coordination mechanisms (suppression, activation).  
+  4. **Integrating Hierarchical and Reactive Systems:** Three-layer architectures revisited (deliberative planner, sequencer/executive, reactive skill layer). Managing interactions between layers. Example: Plan high-level route, sequence navigation waypoints, reactively avoid obstacles.  
+  5. **Contingency Planning:** Planning for potential failures or uncertain outcomes. Generating conditional plans or backup plans. Integrating sensing actions into plans.  
+  6. **Temporal Planning:** Incorporating time constraints (deadlines, durations) into task planning. Temporal logics (e.g., PDDL extensions for time). Scheduling actions over time.  
+
+* **Module 77: Automated Planning (STRIPS, PDDL) (6 hours)**  
+  1. **STRIPS Representation:** Formalizing planning problems using predicates (state facts), operators/actions (preconditions, add effects, delete effects). Example domains (Blocks World, Logistics).  
+  2. **Planning Domain Definition Language (PDDL):** Standard language for representing planning domains and problems. Syntax for types, predicates, actions, goals, initial state. PDDL extensions (typing, numerics, time).  
+  3. **Forward State-Space Search:** Planning by searching from the initial state towards a goal state using applicable actions. Algorithms (Breadth-First, Depth-First, Best-First Search). The role of heuristics.  
+  4. **Heuristic Search Planning:** Admissible vs. non-admissible heuristics. Delete relaxation heuristics (h\_add, h\_max), FF heuristic (FastForward). Improving search efficiency.  
+  5. **Backward Search (Regression Planning):** Searching backward from the goal state towards the initial state. Calculating weakest preconditions. Challenges with non-reversible actions or complex goals.  
+  6. **Plan Graph Methods (Graphplan):** Building a layered graph representing reachable states and actions over time. Using the graph to find plans or derive heuristics. Mutual exclusion relationships (mutexes).  
+
+* **Module 78: Decision Making Under Uncertainty (MDPs, POMDPs) (6 hours)**  
+  1. **Markov Decision Processes (MDPs) Review:** Formal definition (S: States, A: Actions, T: Transition Probabilities P(s'|s,a), R: Rewards R(s,a,s'), γ: Discount Factor). Goal: Find optimal policy π\*(s) maximizing expected discounted reward.  
+  2. **Value Functions & Bellman Equations:** State-value function V(s), Action-value function Q(s,a). Bellman optimality equations relating values of adjacent states/actions.  
+  3. **Solving MDPs:** Value Iteration algorithm, Policy Iteration algorithm. Convergence properties. Application to situations with known models but stochastic outcomes.  
+  4. **Partially Observable MDPs (POMDPs) Review:** Formal definition (adding Ω: Observations, Z: Observation Probabilities P(o|s',a)). Planning based on belief states b(s) (probability distribution over states).  
+  5. **Belief State Updates:** Applying Bayes' theorem to update the belief state given an action and subsequent observation (Bayesian filtering recap).  
+  6. **Solving POMDPs (Challenges & Approaches):** Value functions over continuous belief space. Review of approximate methods: Point-Based Value Iteration (PBVI), SARSOP, POMCP (Monte Carlo Tree Search in belief space). Connection to Module 71\.  
+
+* **Module 79: Game Theory Concepts for Multi-Agent Interaction (6 hours)**  
+  1. **Introduction to Game Theory:** Modeling strategic interactions between rational agents. Players, actions/strategies, payoffs/utilities. Normal form vs. Extensive form games.  
+  2. **Solution Concepts:** Dominant strategies, Nash Equilibrium (NE). Existence and computation of NE in simple games (e.g., Prisoner's Dilemma, Coordination Games). Pure vs. Mixed strategies.  
+  3. **Zero-Sum Games:** Games where one player's gain is another's loss. Minimax theorem. Application to adversarial scenarios.  
+  4. **Non-Zero-Sum Games:** Potential for cooperation or conflict. Pareto optimality. Application to coordination problems in multi-robot systems.  
+  5. **Stochastic Games & Markov Games:** Extending MDPs to multiple agents where transitions and rewards depend on joint actions. Finding equilibria in dynamic multi-agent settings.  
+  6. **Applications in Robotics:** Modeling multi-robot coordination, collision avoidance, competitive tasks (e.g., pursuit-evasion), negotiation for resource allocation. Challenges (rationality assumption, computation of equilibria).  
+
+* **Module 80: Utility Theory and Risk-Aware Decision Making (6 hours)**  
+  1. **Utility Theory Basics:** Representing preferences using utility functions. Expected Utility Maximization as a principle for decision making under uncertainty (stochastic outcomes with known probabilities).  
+  2. **Constructing Utility Functions:** Properties (monotonicity), risk attitudes (risk-averse, risk-neutral, risk-seeking) represented by concave/linear/convex utility functions. Eliciting utility functions.  
+  3. **Decision Trees & Influence Diagrams:** Graphical representations for structuring decision problems under uncertainty, calculating expected utilities.  
+  4. **Defining and Measuring Risk:** Risk as variance, Value at Risk (VaR), Conditional Value at Risk (CVaR)/Expected Shortfall. Incorporating risk measures into decision making beyond simple expected utility.  
+  5. **Risk-Sensitive Planning & Control:** Modifying MDP/POMDP formulations or control objectives (e.g., in MPC) to account for risk preferences (e.g., minimizing probability of failure, optimizing worst-case outcomes). Robust optimization concepts.  
+  6. **Application to Field Robotics:** Making decisions about navigation routes (risk of getting stuck), task execution strategies (risk of failure/damage), resource management under uncertain conditions (battery, weather).  
+
+* **Module 81: Symbolic Reasoning and Knowledge Representation for Robotics (6 hours)**  
+  1. **Motivation:** Enabling robots to reason about tasks, objects, properties, and relationships at a higher, symbolic level, complementing geometric/numerical reasoning.  
+  2. **Knowledge Representation Formalisms:** Semantic Networks, Frame Systems, Description Logics (DL), Ontologies (e.g., OWL \- Web Ontology Language). Representing concepts, individuals, roles/properties, axioms/constraints.  
+  3. **Logical Reasoning:** Propositional Logic, First-Order Logic (FOL). Inference rules (Modus Ponens, Resolution). Automated theorem proving basics. Soundness and completeness.  
+  4. **Reasoning Services:** Consistency checking, classification/subsumption reasoning (determining if one concept is a sub-concept of another), instance checking (determining if an individual belongs to a concept). Using reasoners (e.g., Pellet, HermiT).  
+  5. **Integrating Symbolic Knowledge with Geometric Data:** Grounding symbols in sensor data (Symbol Grounding Problem). Associating semantic labels with geometric maps or object detections. Building Scene Graphs (Module 96 link).  
+  6. **Applications:** High-level task planning using symbolic representations (PDDL link), semantic understanding of scenes, knowledge-based reasoning for complex manipulation or interaction tasks, explaining robot behavior.  
+
+* **Module 82: Finite State Machines and Behavior Trees for Robot Control (6 hours)**  
+  1. **Finite State Machines (FSMs):** Formal definition (States, Inputs/Events, Transitions, Outputs/Actions). Representing discrete modes of operation. Hierarchical FSMs (HFSMs).  
+  2. **Implementing FSMs:** Switch statements, state pattern (OOP), statechart tools. Use in managing robot states (e.g., initializing, executing task, fault recovery). Limitations (scalability, reactivity).  
+  3. **Behavior Trees (BTs):** Tree structure representing complex tasks. Nodes: Action (execution), Condition (check), Control Flow (Sequence, Fallback/Selector, Parallel, Decorator). Ticking mechanism.  
+  4. **BT Control Flow Nodes:** Sequence (-\>): Execute children sequentially until one fails. Fallback/Selector (?): Execute children sequentially until one succeeds. Parallel (=\>): Execute children concurrently.  
+  5. **BT Action & Condition Nodes:** Leaf nodes performing checks (conditions) or actions (e.g., move\_to, grasp). Return status: Success, Failure, Running. Modularity and reusability.  
+  6. **Advantages of BTs over FSMs:** Modularity, reactivity (ticks propagate changes quickly), readability, ease of extension. Popular in game AI and robotics (e.g., BehaviorTree.CPP library in ROS). Use as robot executive layer.  
+
+* **Module 83: Integrated Task and Motion Planning (TAMP) (6 hours)**  
+  1. **Motivation & Problem Definition:** Many tasks require reasoning about both discrete choices (e.g., which object to pick, which grasp to use) and continuous motions (collision-free paths). Interdependence: motion feasibility affects task choices, task choices constrain motion.  
+  2. **Challenges:** High-dimensional combined search space (discrete task variables \+ continuous configuration space). Need for efficient integration.  
+  3. **Sampling-Based TAMP:** Extending sampling-based motion planners (RRT\*) to include discrete task actions. Sampling both motions and actions, checking feasibility using collision detection and symbolic constraints.  
+  4. **Optimization-Based TAMP:** Formulating TAMP as a mathematical optimization problem involving both discrete and continuous variables (Mixed Integer Nonlinear Program \- MINLP). Using optimization techniques to find feasible/optimal plans (e.g., TrajOpt, LGP).  
+  5. **Logic-Geometric Programming (LGP):** Combining symbolic logic for task constraints with geometric optimization for motion planning within a unified framework.  
+  6. **Applications & Scalability:** Robot manipulation planning (pick-and-place with grasp selection), assembly tasks, mobile manipulation. Computational complexity remains a major challenge. Heuristic approaches.  
+
+* **Module 84: Long-Horizon Planning and Replanning Strategies (6 hours)**  
+  1. **Challenges of Long-Horizon Tasks:** Increased uncertainty accumulation over time, computational complexity of planning far ahead, need to react to unexpected events.  
+  2. **Hierarchical Planning Approaches:** Using task decomposition (HTN \- Module 77\) to manage complexity. Planning abstractly at high levels, refining details at lower levels.  
+  3. **Planning Horizon Management:** Receding Horizon Planning (like MPC \- Module 67, but potentially at task level), anytime planning algorithms (finding a feasible plan quickly, improving it over time).  
+  4. **Replanning Triggers:** When to replan? Plan invalidation (obstacle detected), significant deviation from plan, new goal received, periodic replanning. Trade-off between reactivity and plan stability.  
+  5. **Replanning Techniques:** Repairing existing plans vs. planning from scratch. Incremental search algorithms (e.g., D\* Lite) for efficient replanning when costs change. Integrating replanning with execution monitoring.  
+  6. **Learning for Long-Horizon Planning:** Using RL or imitation learning to learn high-level policies or heuristics that guide long-horizon planning, reducing search complexity.  
+
+* **Module 85: Distributed Task Allocation Algorithms (Auction-Based) (6 hours)**  
+  1. **Multi-Robot Task Allocation (MRTA) Problem:** Assigning tasks to robots in a swarm to optimize collective performance (e.g., minimize completion time, maximize tasks completed). Constraints (robot capabilities, deadlines).  
+  2. **Centralized vs. Decentralized Allocation:** Central planner assigns all tasks vs. robots negotiate/bid for tasks among themselves. Focus on decentralized for scalability/robustness.  
+  3. **Behavior-Based Allocation:** Simple approaches based on robot state and local task availability (e.g., nearest available robot takes task). Potential for suboptimal solutions.  
+  4. **Market-Based / Auction Algorithms:** Robots bid on tasks based on their estimated cost/utility to perform them. Auctioneer (can be distributed) awards tasks to winning bidders. Iterative auctions.  
+  5. **Auction Types & Protocols:** Single-item auctions (First-price, Second-price), Multi-item auctions (Combinatorial auctions), Contract Net Protocol (task announcement, bidding, awarding). Communication requirements.  
+  6. **Consensus-Based Bundle Algorithm (CBBA):** Decentralized auction algorithm where robots iteratively bid on tasks and update assignments, converging to a conflict-free allocation. Guarantees and performance.
+
+**Section 4.1: Machine Learning for Robotics**
+
+* **Module 86: Supervised Learning for Perception Tasks (Review/Advanced) (6 hours)**  
+  1. **Supervised Learning Paradigm Review:** Training models on labeled data (input-output pairs). Classification vs. Regression. Loss functions, optimization (SGD).  
+  2. **Deep Learning for Perception Recap:** CNNs for image classification, object detection, segmentation (Modules 34, 35). Using pre-trained models and fine-tuning. Data augmentation importance.  
+  3. **Advanced Classification Techniques:** Handling class imbalance (cost-sensitive learning, resampling), multi-label classification. Evaluating classifiers (Precision, Recall, F1-score, ROC curves).  
+  4. **Advanced Regression Techniques:** Non-linear regression (e.g., using NNs), quantile regression (estimating uncertainty bounds). Evaluating regressors (RMSE, MAE, R-squared).  
+  5. **Dealing with Noisy Labels:** Techniques for training robust models when training data labels may be incorrect or inconsistent.  
+  6. **Specific Applications in Ag-Robotics:** Training classifiers for crop/weed types, pest identification; training regressors for yield prediction, biomass estimation, soil parameter mapping from sensor data.  
+
+* **Module 87: Unsupervised Learning for Feature Extraction and Anomaly Detection (6 hours)**  
+  1. **Unsupervised Learning Paradigm:** Finding patterns or structure in unlabeled data. Dimensionality reduction, clustering, density estimation.  
+  2. **Dimensionality Reduction:** Principal Component Analysis (PCA) revisited, Autoencoders (using NNs to learn compressed representations). t-SNE / UMAP for visualization. Application to sensor data compression/feature extraction.  
+  3. **Clustering Algorithms:** K-Means clustering, DBSCAN (density-based), Hierarchical clustering. Evaluating cluster quality. Application to grouping similar field regions or robot behaviors.  
+  4. **Density Estimation:** Gaussian Mixture Models (GMMs), Kernel Density Estimation (KDE). Modeling the probability distribution of data.  
+  5. **Anomaly Detection Methods:** Statistical methods (thresholding based on standard deviations), distance-based methods (k-NN outliers), density-based methods (LOF \- Local Outlier Factor), One-Class SVM. Autoencoders for reconstruction-based anomaly detection.  
+  6. **Applications in Robotics:** Detecting novel/unexpected objects or terrain types, monitoring robot health (detecting anomalous sensor readings or behavior patterns), feature learning for downstream tasks.  
+
+* **Module 88: Reinforcement Learning (Q-Learning, Policy Gradients, Actor-Critic) (6 hours)**  
+  1. **RL Problem Setup & MDPs Review:** Agent, Environment, State (S), Action (A), Reward (R), Transition (T), Policy (π). Goal: Maximize expected cumulative discounted reward. Value functions (V, Q). Bellman equations.  
+  2. **Model-Based vs. Model-Free RL:** Learning a model (T, R) vs. learning policy/value function directly. Pros and cons. Dyna-Q architecture.  
+  3. **Temporal Difference (TD) Learning:** Learning value functions from experience without a model. TD(0) update rule. On-policy (SARSA) vs. Off-policy (Q-Learning) TD control. Exploration strategies (ε-greedy, Boltzmann).  
+  4. **Function Approximation:** Using function approximators (linear functions, NNs) for V(s) or Q(s,a) when state space is large/continuous. Fitted Value Iteration, DQN (Deep Q-Network) concept.  
+  5. **Policy Gradient Methods:** Directly learning a parameterized policy π\_θ(a|s). REINFORCE algorithm (Monte Carlo policy gradient). Variance reduction techniques (baselines).  
+  6. **Actor-Critic Methods:** Combining value-based and policy-based approaches. Actor learns the policy, Critic learns a value function (V or Q) to evaluate the policy and reduce variance. A2C/A3C architectures.  
+
+* **Module 89: Deep Reinforcement Learning for Robotics (DDPG, SAC) (6 hours)**  
+  1. **Challenges of Continuous Action Spaces:** Q-Learning requires maximizing over actions, infeasible for continuous actions. Policy gradients can have high variance.  
+  2. **Deep Deterministic Policy Gradient (DDPG):** Actor-Critic method for continuous actions. Uses deterministic actor policy, off-policy learning with replay buffer (like DQN), target networks for stability.  
+  3. **Twin Delayed DDPG (TD3):** Improvements over DDPG addressing Q-value overestimation (Clipped Double Q-Learning), delaying policy updates, adding noise to target policy actions for smoothing.  
+  4. **Soft Actor-Critic (SAC):** Actor-Critic method based on maximum entropy RL framework (encourages exploration). Uses stochastic actor policy, soft Q-function update, learns temperature parameter for entropy bonus. State-of-the-art performance and stability.  
+  5. **Practical Implementation Details:** Replay buffers, target networks, hyperparameter tuning (learning rates, discount factor, network architectures), normalization techniques (state, reward).  
+  6. **Application Examples:** Learning locomotion gaits, continuous control for manipulators, navigation policies directly from sensor inputs (end-to-end learning).  
+
+* **Module 90: Imitation Learning and Learning from Demonstration (6 hours)**  
+  1. **Motivation:** Learning policies from expert demonstrations, potentially easier/safer than exploration-heavy RL.  
+  2. **Behavioral Cloning (BC):** Supervised learning approach. Training a policy π(a|s) to directly mimic expert actions given states from demonstrations. Simple, but suffers from covariate shift (errors compound if robot deviates from demonstrated states).  
+  3. **Dataset Aggregation (DAgger):** Iterative approach to mitigate covariate shift. Train policy via BC, execute policy, query expert for corrections on visited states, aggregate data, retrain.  
+  4. **Inverse Reinforcement Learning (IRL):** Learning the expert's underlying reward function R(s,a) from demonstrations, assuming expert acts optimally. Can then use RL to find optimal policy for the learned reward function. More robust to suboptimal demos than BC. MaxEnt IRL.  
+  5. **Generative Adversarial Imitation Learning (GAIL):** Using a Generative Adversarial Network (GAN) framework where a discriminator tries to distinguish between expert trajectories and robot-generated trajectories, and the policy (generator) tries to fool the discriminator. Doesn't require explicit reward function learning.  
+  6. **Applications:** Teaching manipulation skills (grasping, tool use), driving behaviors, complex navigation maneuvers from human demonstrations (teleoperation, kinesthetic teaching).  
+
+* **Module 91: Sim-to-Real Transfer Techniques in ML for Robotics (6 hours)**  
+  1. **The Reality Gap Problem:** Differences between simulation and real world (dynamics, sensing, appearance) causing policies trained in sim to fail in reality. Sample efficiency requires sim training.  
+  2. **System Identification for Simulators:** Improving simulator fidelity by identifying real-world physical parameters (mass, friction, motor constants \- Module 55\) and incorporating them into the simulator model.  
+  3. **Domain Randomization (DR):** Training policies in simulation across a wide range of randomized parameters (dynamics, appearance, lighting, noise) to force the policy to become robust and generalize to the real world (which is seen as just another variation).  
+  4. **Domain Adaptation Methods for Sim-to-Real:** Applying UDA techniques (Module 39\) to align representations or adapt policies between simulation (source) and real-world (target) domains, often using unlabeled real-world data. E.g., adversarial adaptation for visual inputs.  
+  5. **Grounded Simulation / Residual Learning:** Learning corrections (residual dynamics or policy adjustments) on top of a base simulator/controller using limited real-world data.  
+  6. **Practical Strategies:** Progressive complexity in simulation, careful selection of randomized parameters, combining DR with adaptation methods, metrics for evaluating sim-to-real transfer success.  
+
+* **Module 92: Online Learning and Adaptation for Changing Environments (6 hours)**  
+  1. **Need for Online Adaptation:** Real-world environments change over time (weather, crop growth, tool wear, robot dynamics changes). Pre-trained policies may become suboptimal or fail.  
+  2. **Online Supervised Learning:** Updating supervised models (classifiers, regressors) incrementally as new labeled data becomes available in the field. Concept drift detection. Passive vs. Active learning strategies.  
+  3. **Online Reinforcement Learning:** Continuously updating value functions or policies as the robot interacts with the changing environment. Balancing continued exploration with exploitation of current policy. Safety considerations paramount.  
+  4. **Adaptive Control Revisited:** Connection between online learning and adaptive control (Module 61). Using ML techniques (e.g., NNs, GPs) within adaptive control loops to learn system dynamics or adjust controller gains online.  
+  5. **Meta-Learning (Learning to Learn):** Training models on a variety of tasks/environments such that they can adapt quickly to new variations with minimal additional data (e.g., MAML \- Model-Agnostic Meta-Learning). Application to rapid adaptation in the field.  
+  6. **Lifelong Learning Systems:** Systems that continuously learn, adapt, and accumulate knowledge over long operational periods without catastrophic forgetting of previous knowledge. Challenges and approaches (e.g., elastic weight consolidation).  
+
+* **Module 93: Gaussian Processes for Regression and Control (6 hours)**  
+  1. **Motivation:** Bayesian non-parametric approach for regression and modeling uncertainty. Useful for modeling complex functions from limited data, common in robotics.  
+  2. **Gaussian Processes (GPs) Basics:** Defining a GP as a distribution over functions. Mean function and covariance function (kernel). Kernel engineering (e.g., RBF, Matern kernels) encoding assumptions about function smoothness.  
+  3. **GP Regression:** Performing Bayesian inference to predict function values (and uncertainty bounds) at new input points given training data (input-output pairs). Calculating predictive mean and variance.  
+  4. **GP Hyperparameter Optimization:** Learning kernel hyperparameters (length scales, variance) and noise variance from data using marginal likelihood optimization.  
+  5. **Sparse Gaussian Processes:** Techniques (e.g., FITC, DTC) for handling large datasets where standard GP computation (O(N³)) becomes infeasible. Using inducing points.  
+  6. **Applications in Robotics:** Modeling system dynamics (GP-Dynamical Models), trajectory planning under uncertainty, Bayesian optimization (Module 94), learning inverse dynamics for control, terrain mapping/classification.  
+
+* **Module 94: Bayesian Optimization for Parameter Tuning (6 hours)**  
+  1. **The Parameter Tuning Problem:** Finding optimal hyperparameters (e.g., controller gains, ML model parameters, simulation parameters) for systems where evaluating performance is expensive (e.g., requires real-world experiments). Black-box optimization.  
+  2. **Bayesian Optimization (BO) Framework:** Probabilistic approach. Build a surrogate model (often a Gaussian Process \- Module 93\) of the objective function based on evaluated points. Use an acquisition function to decide where to sample next to maximize information gain or improvement.  
+  3. **Surrogate Modeling with GPs:** Using GPs to model the unknown objective function P(θ) \-\> performance. GP provides predictions and uncertainty estimates.  
+  4. **Acquisition Functions:** Guiding the search for the next point θ to evaluate. Common choices: Probability of Improvement (PI), Expected Improvement (EI), Upper Confidence Bound (UCB). Balancing exploration (sampling uncertain regions) vs. exploitation (sampling promising regions).  
+  5. **BO Algorithm:** Initialize with few samples, build GP model, find point maximizing acquisition function, evaluate objective at that point, update GP model, repeat. Handling constraints.  
+  6. **Applications:** Tuning PID/MPC controllers, optimizing RL policy hyperparameters, finding optimal parameters for computer vision algorithms, tuning simulation parameters for sim-to-real transfer.  
+
+* **Module 95: Interpretable and Explainable AI (XAI) for Robotics (6 hours)**  
+  1. **Need for Explainability:** Understanding *why* an AI/ML model (especially deep learning) makes a particular decision or prediction. Important for debugging, validation, safety certification, user trust.  
+  2. **Interpretable Models:** Models that are inherently understandable (e.g., linear regression, decision trees, rule-based systems). Trade-off with performance for complex tasks.  
+  3. **Post-hoc Explanations:** Techniques for explaining predictions of black-box models (e.g., deep NNs). Model-specific vs. model-agnostic methods.  
+  4. **Local Explanations:** Explaining individual predictions. LIME (Local Interpretable Model-agnostic Explanations) \- approximating black-box locally with interpretable model. SHAP (SHapley Additive exPlanations) \- game theory approach assigning importance scores to features.  
+  5. **Global Explanations:** Understanding the overall model behavior. Feature importance scores, partial dependence plots. Explaining CNNs: Saliency maps, Grad-CAM (visualizing important image regions).  
+  6. **XAI for Robotics Challenges:** Explaining sequential decisions (RL policies), explaining behavior based on multi-modal inputs, providing explanations useful for roboticists (debugging) vs. end-users. Linking explanations to causal reasoning (Module 99).
+
+**Section 4.2: Reasoning & Scene Understanding**
+
+* **Module 96: Semantic Mapping: Associating Meaning with Geometric Maps (6 hours)**  
+  1. **Motivation:** Geometric maps (occupancy grids, point clouds) lack semantic understanding (what objects are, their properties). Semantic maps enable higher-level reasoning and task planning.  
+  2. **Integrating Semantics:** Combining geometric SLAM (Module 46\) with object detection/segmentation (Modules 34, 35). Associating semantic labels (crop, weed, fence, water trough) with map elements (points, voxels, objects).  
+  3. **Representations for Semantic Maps:** Labeled grids/voxels, object-based maps (storing detected objects with pose, category, attributes), Scene Graphs (nodes=objects/rooms, edges=relationships like 'inside', 'on\_top\_of', 'connected\_to').  
+  4. **Data Association for Semantic Objects:** Tracking semantic objects over time across multiple views/detections, handling data association uncertainty. Consistency between geometric and semantic information.  
+  5. **Building Semantic Maps Online:** Incrementally adding semantic information to the map as the robot explores and perceives. Updating object states and relationships. Handling uncertainty in semantic labels.  
+  6. **Using Semantic Maps:** Task planning grounded in semantics (e.g., "spray all weeds in row 3", "go to the water trough"), human-robot interaction (referring to objects by name/type), improved context for navigation.  
+
+* **Module 97: Object Permanence and Occlusion Reasoning (6 hours)**  
+  1. **The Object Permanence Problem:** Robots need to understand that objects continue to exist even when temporarily out of sensor view (occluded). Crucial for tracking, planning, interaction.  
+  2. **Short-Term Occlusion Handling:** Using state estimation (Kalman Filters \- Module 36\) to predict object motion during brief occlusions based on prior dynamics. Re-associating tracks after reappearance.  
+  3. **Long-Term Occlusion & Object Memory:** Maintaining representations of occluded objects in memory (e.g., as part of a scene graph or object map). Estimating uncertainty about occluded object states.  
+  4. **Reasoning about Occlusion Events:** Using geometric scene understanding (e.g., from 3D map) to predict *when* and *where* an object might become occluded or reappear based on robot/object motion.  
+  5. **Physics-Based Reasoning:** Incorporating basic physics (gravity, object stability, containment) to reason about the likely state or location of occluded objects.  
+  6. **Learning-Based Approaches:** Using LSTMs or other recurrent models to learn object persistence and motion patterns, potentially predicting reappearance or future states even after occlusion.  
+
+* **Module 98: Activity Recognition and Intent Prediction (Plants, Animals, Obstacles) (6 hours)**  
+  1. **Motivation:** Understanding dynamic elements in the environment beyond just detection/tracking. Recognizing ongoing activities or predicting future behavior is crucial for safe and efficient operation.  
+  2. **Human Activity Recognition Techniques:** Applying methods developed for human activity recognition (HAR) to agricultural contexts. Skeleton tracking, pose estimation, temporal models (RNNs, LSTMs, Transformers) on visual or other sensor data.  
+  3. **Animal Behavior Analysis:** Tracking livestock or wildlife, classifying behaviors (grazing, resting, distressed), detecting anomalies indicating health issues. Using vision, audio, or wearable sensors.  
+  4. **Plant Phenotyping & Growth Monitoring:** Tracking plant growth stages, detecting stress responses (wilting), predicting yield based on observed development over time using time-series sensor data (visual, spectral).  
+  5. **Obstacle Intent Prediction:** Predicting future motion of dynamic obstacles (other vehicles, animals, humans) based on current state and context (e.g., path constraints, typical behaviors). Using motion models, social force models, or learning-based approaches (e.g., trajectory forecasting).  
+  6. **Integrating Predictions into Planning:** Using activity recognition or intent predictions to inform motion planning (Module 72\) and decision making (Module 78\) for safer and more proactive behavior.  
+
+* **Module 99: Causal Inference in Robotic Systems (6 hours)**  
+  1. **Correlation vs. Causation:** Understanding the difference. Why robots need causal reasoning to predict effects of actions, perform diagnosis, and transfer knowledge effectively. Limitations of purely correlational ML models.  
+  2. **Structural Causal Models (SCMs):** Representing causal relationships using Directed Acyclic Graphs (DAGs) and structural equations. Concepts: interventions (do-calculus), counterfactuals.  
+  3. **Causal Discovery:** Learning causal graphs from observational and/or interventional data. Constraint-based methods (PC algorithm), score-based methods. Challenges with hidden confounders.  
+  4. **Estimating Causal Effects:** Quantifying the effect of an intervention (e.g., changing a control parameter) on an outcome, controlling for confounding variables. Methods like backdoor adjustment, propensity scores.  
+  5. **Causality in Reinforcement Learning:** Using causal models to improve sample efficiency, transferability, and robustness of RL policies. Causal representation learning.  
+  6. **Applications in Robotics:** Diagnosing system failures (finding root causes), predicting the effect of interventions (e.g., changing irrigation strategy on yield), ensuring fairness and robustness in ML models by understanding causal factors, enabling better sim-to-real transfer.  
+
+* **Module 100: Building and Querying Knowledge Bases for Field Robots (6 hours)**  
+  1. **Motivation:** Consolidating diverse information (semantic maps, object properties, task knowledge, learned models, causal relationships) into a structured knowledge base (KB) for complex reasoning.  
+  2. **Knowledge Base Components:** Ontology/Schema definition (Module 81), Fact/Instance Store (Assertional Box \- ABox), Reasoning Engine (Terminological Box \- TBox reasoner, potentially rule engine).  
+  3. **Populating the KB:** Grounding symbolic knowledge by linking ontology concepts to perceived objects/regions (Module 96), storing task execution results, learning relationships from data. Handling uncertainty and temporal aspects.  
+  4. **Query Languages:** SPARQL for querying RDF/OWL ontologies, Datalog or Prolog for rule-based querying. Querying spatial, temporal, and semantic relationships.  
+  5. **Integrating Reasoning Mechanisms:** Combining ontology reasoning (DL reasoner) with rule-based reasoning (e.g., SWRL \- Semantic Web Rule Language) or probabilistic reasoning for handling uncertainty.  
+  6. **Application Architecture:** Designing robotic systems where perception modules populate the KB, planning/decision-making modules query the KB, and execution modules update the KB. Using the KB for explanation generation (XAI). Example queries for agricultural tasks.
+
+---
 
 
 
@@ -442,67 +861,13 @@ Intensive technical training on the design, implementation, and operation of rob
 
 
 
-**PART 3: Advanced Control & Dynamics (Approx. 25 Modules)**
 
-* **Section 3.0: Robot Dynamics & Modeling (6 Modules)**
-    * Module 51: Advanced Robot Kinematics (Denavit-Hartenberg, Screw Theory)
-    * Module 52: Recursive Newton-Euler and Lagrangian Dynamics Formulation
-    * Module 53: Modeling Flexible Manipulators and Soft Robots
-    * Module 54: Terramechanics: Modeling Robot Interaction with Soil/Terrain
-    * Module 55: System Identification Techniques for Robot Models
-    * Module 56: Parameter Estimation and Uncertainty Quantification
-* **Section 3.1: Advanced Control Techniques (12 Modules)**
-    * Module 57: Linear Control Review (PID Tuning, Frequency Domain Analysis)
-    * Module 58: State-Space Control Design (Pole Placement, LQR/LQG)
-    * Module 59: Nonlinear Control Techniques (Feedback Linearization, Sliding Mode Control)
-    * Module 60: Robust Control Theory (H-infinity, Mu-Synthesis)
-    * Module 61: Adaptive Control Systems (MRAC, Self-Tuning Regulators)
-    * Module 62: Optimal Control and Trajectory Optimization (Pontryagin's Minimum Principle)
-    * Module 63: Force and Impedance Control for Interaction Tasks
-    * Module 64: Control of Underactuated Systems
-    * Module 65: Distributed Control Strategies for Multi-Agent Systems
-    * Module 66: Learning-Based Control (Reinforcement Learning for Control)
-    * Module 67: Predictive Control (MPC) for Robots
-    * Module 68: Stability Analysis for Nonlinear Systems (Lyapunov Theory)
-* **Section 3.2: Motion Planning & Navigation (7 Modules)**
-    * Module 69: Configuration Space (C-space) Representation
-    * Module 70: Path Planning Algorithms (A*, RRT*, Potential Fields, Lattice Planners)
-    * Module 71: Motion Planning Under Uncertainty (POMDPs Intro)
-    * Module 72: Collision Avoidance Strategies (Velocity Obstacles, DWA)
-    * Module 73: Trajectory Planning and Smoothing Techniques
-    * Module 74: Navigation in Unstructured and Off-Road Environments
-    * Module 75: Multi-Robot Path Planning and Deconfliction
 
-**PART 4: AI, Planning & Reasoning Under Uncertainty (Approx. 25 Modules)**
 
-* **Section 4.0: Planning & Decision Making (10 Modules)**
-    * Module 76: Task Planning Paradigms (Hierarchical, Behavior-Based)
-    * Module 77: Automated Planning (STRIPS, PDDL)
-    * Module 78: Decision Making Under Uncertainty (MDPs, POMDPs)
-    * Module 79: Game Theory Concepts for Multi-Agent Interaction
-    * Module 80: Utility Theory and Risk-Aware Decision Making
-    * Module 81: Symbolic Reasoning and Knowledge Representation for Robotics
-    * Module 82: Finite State Machines and Behavior Trees for Robot Control
-    * Module 83: Integrated Task and Motion Planning (TAMP)
-    * Module 84: Long-Horizon Planning and Replanning Strategies
-    * Module 85: Distributed Task Allocation Algorithms (Auction-Based)
-* **Section 4.1: Machine Learning for Robotics (10 Modules)**
-    * Module 86: Supervised Learning for Perception Tasks (Review/Advanced)
-    * Module 87: Unsupervised Learning for Feature Extraction and Anomaly Detection
-    * Module 88: Reinforcement Learning (Q-Learning, Policy Gradients, Actor-Critic)
-    * Module 89: Deep Reinforcement Learning for Robotics (DDPG, SAC)
-    * Module 90: Imitation Learning and Learning from Demonstration
-    * Module 91: Sim-to-Real Transfer Techniques in ML for Robotics
-    * Module 92: Online Learning and Adaptation for Changing Environments
-    * Module 93: Gaussian Processes for Regression and Control
-    * Module 94: Bayesian Optimization for Parameter Tuning
-    * Module 95: Interpretable and Explainable AI (XAI) for Robotics
-* **Section 4.2: Reasoning & Scene Understanding (5 Modules)**
-    * Module 96: Semantic Mapping: Associating Meaning with Geometric Maps
-    * Module 97: Object Permanence and Occlusion Reasoning
-    * Module 98: Activity Recognition and Intent Prediction (Plants, Animals, Obstacles)
-    * Module 99: Causal Inference in Robotic Systems
-    * Module 100: Building and Querying Knowledge Bases for Field Robots
+
+
+
+
 
 **PART 5: Real-Time & Fault-Tolerant Systems Engineering (Approx. 25 Modules)**
 
@@ -534,6 +899,21 @@ Intensive technical training on the design, implementation, and operation of rob
     * Module 123: Intrusion Detection Systems for Robots
     * Module 124: Secure Software Development Practices
     * Module 125: Physical Security Considerations for Field Robots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **PART 6: Advanced Hardware, Mechatronics & Power (Approx. 20 Modules)**
 
