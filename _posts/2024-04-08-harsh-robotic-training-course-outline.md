@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Swarm Robotics: Adaptability Engineering in Harsh Environments"
-date:   2025-04-07 9:30:01
-categories: disrupt
+title:  "Harsh Environment Robotic Operating System Development Course"
+date:   2025-04-08 20:00:01
+categories: training
 ---
-## Swarm Robotics: Adaptability Engineering in Harsh Environments
+## Harsh Environment Robotic Operating System Development Course: Adaptability Engineering In Swarm Robotics
 
 200 Modules. 1 Module/Day. 6 Topics/Module equates to 1 topic/hour for a six-hour training day. This only a roadmap ... anyone can come up with a roadmap better tailored to their particular needs and what kinds of things they want to explore. The pace is intense, some would say overwhelming ... anyone can slow down and take longer. The self-paced training is primarily AI-assisted and the process is about asking lots of questions that are somewhat bounded by a roadmap ... *but nobody needs to stick to that roadmap*. 
 
