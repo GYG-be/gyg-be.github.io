@@ -112,7 +112,10 @@ Intensive technical training on the design, implementation, and operation of rob
 5. **Introduction to Hamiltonian Mechanics:** Legendre transform, Hamilton's equations. Canonical coordinates. Relationship to Lagrangian mechanics. (Focus on concepts, less derivation).  
 6. **Applications in Control:** Using energy-based methods for stability analysis and control design (e.g., passivity-based control concepts).  
 
-#### Module 9: Optimization Techniques in Robotics (Numerical Methods) (6 hours)
+#### Module 9
+
+[Optimization Techniques in Robotics (Numerical Methods)](https://x.com/i/grok/share/mpTZ4aoVRszh8hCq0ZjxeOkV6)
+
 1. **Optimization Problem Formulation:** Objective functions, constraints (equality, inequality), decision variables. Types of optimization problems (LP, QP, NLP, Convex).  
 2. **Unconstrained Optimization:** Gradient Descent, Newton's method, Quasi-Newton methods (BFGS). Line search techniques.  
 3. **Constrained Optimization:** Lagrange multipliers, Karush-Kuhn-Tucker (KKT) conditions. Penalty and barrier methods.  
@@ -120,7 +123,10 @@ Intensive technical training on the design, implementation, and operation of rob
 5. **Numerical Linear Algebra for Optimization:** Solving large linear systems (iterative methods), computing matrix factorizations efficiently.  
 6. **Applications in Robotics:** Trajectory optimization, parameter tuning, model fitting, optimal control formulations (brief intro to direct methods).  
 
-#### Module 10: Signal Processing Fundamentals for Sensor Data (6 hours)
+#### Module 10
+
+[Signal Processing Fundamentals for Sensor Data](https://x.com/i/grok/share/bkPQ0KzhwCkWKlbNlryPhSK9B)
+
 1. **Signals & Systems:** Continuous vs. discrete time signals, system properties (linearity, time-invariance), convolution.  
 2. **Sampling & Reconstruction:** Nyquist-Shannon sampling theorem, aliasing, anti-aliasing filters, signal reconstruction.  
 3. **Fourier Analysis:** Continuous and Discrete Fourier Transform (CFT/DFT), Fast Fourier Transform (FFT). Frequency domain representation, spectral analysis.  
@@ -129,6 +135,7 @@ Intensive technical training on the design, implementation, and operation of rob
 6. **Introduction to Adaptive Filtering:** Basic concepts of LMS (Least Mean Squares) algorithm. Application to noise cancellation.  
 
 #### Module 11: Information Theory Basics for Communication and Sensing (6 hours)
+
 1. **Entropy & Mutual Information:** Quantifying uncertainty and information content in random variables. Application to sensor selection, feature relevance.  
 2. **Data Compression Concepts:** Lossless vs. lossy compression, Huffman coding, relationship to entropy (source coding theorem). Application to efficient data transmission/storage.  
 3. **Channel Capacity:** Shannon's channel coding theorem, capacity of noisy channels (e.g., AWGN channel). Limits on reliable communication rates.  
