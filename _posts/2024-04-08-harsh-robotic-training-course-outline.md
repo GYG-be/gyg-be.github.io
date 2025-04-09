@@ -236,7 +236,7 @@ Intensive technical training on the design, implementation, and operation of rob
 3. **IMU Error Modeling:** Bias (static, dynamic/instability), scale factor errors (non-linearity), random noise (Angle/Velocity Random Walk - ARW/VRW), temperature effects, g-sensitivity.  
 4. **Allan Variance Analysis:** Characterizing IMU noise sources (Quantization, ARW, Bias Instability, VRW, Rate Ramp) from static sensor data. Practical calculation and interpretation.  
 5. **IMU Calibration Techniques:** Multi-position static tests for bias/scale factor estimation, temperature calibration, turntable calibration for advanced errors.  
-6. **Orientation Tracking (Attitude Estimation):** Direct integration issues (drift), complementary filters, Kalman filters (EKF/UKF) fusing gyro/accelerometer(/magnetometer) data. Quaternion kinematics for integration.  
+6. **Orientation Tracking (Attitude Estimation):** Direct integration issues (drift), complementary filters, [Kalman filters](https://hrosdev.github.io/Kalman-and-Bayesian-Filters-in-Python/) (EKF/UKF) fusing gyro/accelerometer(/magnetometer) data. Quaternion kinematics for integration.  
 
 #### Module 24: GPS/GNSS Principles, RTK, Error Sources, and Mitigation (6 hours)
 1. **GNSS Fundamentals:** Constellations (GPS, GLONASS, Galileo, BeiDou), signal structure (C/A code, P-code, carrier phase), trilateration concept. Standard Positioning Service (SPS).  
@@ -336,10 +336,10 @@ Intensive technical training on the design, implementation, and operation of rob
 5. **Instance Segmentation:** Detecting individual object instances and predicting pixel-level masks for each (differentiating between two weeds of the same type).  
 6. **Mask R-CNN Architecture:** Extending Faster R-CNN with a parallel mask prediction branch using RoIAlign. Training and evaluation (mask mAP). Other approaches (YOLACT).  
 
-#### Module 36: Object Tracking in Cluttered Environments (DeepSORT, Kalman Filters) (6 hours)
+#### Module 36: Object Tracking in Cluttered Environments (DeepSORT, [Kalman filters](https://hrosdev.github.io/Kalman-and-Bayesian-Filters-in-Python/)) (6 hours)
 1. **Tracking Problem Formulation:** Tracking objects across video frames, maintaining identities, handling occlusion, appearance changes, entries/exits.  
 2. **Tracking-by-Detection Paradigm:** Using an object detector in each frame and associating detections across frames. The data association challenge.  
-3. **Motion Modeling & Prediction:** Constant velocity/acceleration models, Kalman Filters (KF) / Extended Kalman Filters (EKF) for predicting object states (position, velocity).  
+3. **Motion Modeling & Prediction:** Constant velocity/acceleration models, [Kalman filters](https://hrosdev.github.io/Kalman-and-Bayesian-Filters-in-Python/) (KF) / Extended [Kalman filters](https://hrosdev.github.io/Kalman-and-Bayesian-Filters-in-Python/) (EKF) for predicting object states (position, velocity).  
 4. **Appearance Modeling:** Using visual features (color histograms, deep features from CNNs) to represent object appearance for association. Handling appearance changes.  
 5. **Data Association Methods:** Hungarian algorithm for optimal assignment (using motion/appearance costs), Intersection over Union (IoU) tracking, greedy assignment.  
 6. **DeepSORT Algorithm:** Combining Kalman Filter motion prediction with deep appearance features (from a ReID network) and the Hungarian algorithm for robust tracking. Handling track lifecycle management.  
@@ -445,7 +445,7 @@ Intensive technical training on the design, implementation, and operation of rob
 #### Module 49: Distributed State Estimation for Swarms (6 hours)
 1. **Motivation:** Centralized fusion is not scalable or robust for large swarms. Need methods where robots estimate their state (and potentially states of neighbors or map features) using local sensing and communication.  
 2. **Challenges:** Limited communication bandwidth/range, asynchronous communication, potential for communication failures/delays, unknown relative poses between robots initially.  
-3. **Distributed Kalman Filtering (DKF):** Variants where nodes share information (estimates, measurements, innovations) to update local Kalman filters. Consensus-based DKF approaches. Maintaining consistency.  
+3. **Distributed Kalman Filtering (DKF):** Variants where nodes share information (estimates, measurements, innovations) to update local [Kalman filters](https://hrosdev.github.io/Kalman-and-Bayesian-Filters-in-Python/). Consensus-based DKF approaches. Maintaining consistency.  
 4. **Covariance Intersection (CI):** Fusing estimates from different sources without needing cross-correlation information, providing a consistent (though potentially conservative) fused estimate. Use in decentralized systems.  
 5. **Distributed Graph SLAM:** Robots build local pose graphs, share information about overlapping areas or relative measurements to form and optimize a global graph distributively. Communication strategies.  
 6. **Information-Weighted Fusion:** Using the Information Filter formulation (inverse covariance) which is often more suitable for decentralized fusion due to additive properties of information.  
@@ -844,7 +844,7 @@ Intensive technical training on the design, implementation, and operation of rob
 
 #### Module 97: Object Permanence and Occlusion Reasoning (6 hours)
 1. **The Object Permanence Problem:** Robots need to understand that objects continue to exist even when temporarily out of sensor view (occluded). Crucial for tracking, planning, interaction.  
-2. **Short-Term Occlusion Handling:** Using state estimation (Kalman Filters - Module 36) to predict object motion during brief occlusions based on prior dynamics. Re-associating tracks after reappearance.  
+2. **Short-Term Occlusion Handling:** Using state estimation ([Kalman filters](https://hrosdev.github.io/Kalman-and-Bayesian-Filters-in-Python/) - Module 36) to predict object motion during brief occlusions based on prior dynamics. Re-associating tracks after reappearance.  
 3. **Long-Term Occlusion & Object Memory:** Maintaining representations of occluded objects in memory (e.g., as part of a scene graph or object map). Estimating uncertainty about occluded object states.  
 4. **Reasoning about Occlusion Events:** Using geometric scene understanding (e.g., from 3D map) to predict *when* and *where* an object might become occluded or reappear based on robot/object motion.  
 5. **Physics-Based Reasoning:** Incorporating basic physics (gravity, object stability, containment) to reason about the likely state or location of occluded objects.  
@@ -963,7 +963,7 @@ Intensive technical training on the design, implementation, and operation of rob
 #### Module 111: Fault Detection and Diagnosis Techniques (6 hours)
 1. **Fault Detection Goals:** Identifying the occurrence of a fault promptly and reliably. Minimizing false alarms and missed detections.  
 2. **Limit Checking & Range Checks:** Simplest form - checking if sensor values or internal variables are within expected ranges. Easy but limited coverage.  
-3. **Model-Based Detection (Analytical Redundancy):** Comparing actual system behavior (sensor readings) with expected behavior from a mathematical model. Generating residuals (differences). Thresholding residuals for fault detection. Observer-based methods (using Kalman filters).  
+3. **Model-Based Detection (Analytical Redundancy):** Comparing actual system behavior (sensor readings) with expected behavior from a mathematical model. Generating residuals (differences). Thresholding residuals for fault detection. Observer-based methods (using [Kalman filters](https://hrosdev.github.io/Kalman-and-Bayesian-Filters-in-Python/)).  
 4. **Signal-Based Detection:** Analyzing signal characteristics (trends, variance, frequency content - PSD) for anomalies indicative of faults without an explicit system model. Change detection algorithms.  
 5. **Fault Diagnosis (Isolation):** Determining the location and type of the fault once detected. Using structured residuals (designed to be sensitive to specific faults), fault signature matrices, expert systems/rule-based diagnosis.  
 6. **Machine Learning for Fault Detection/Diagnosis:** Using supervised learning (classification) or unsupervised learning (anomaly detection - Module 87) on sensor data to detect or classify faults. Data requirements and challenges.  
@@ -1163,7 +1163,7 @@ Intensive technical training on the design, implementation, and operation of rob
 #### Module 135: Battery Management Systems (BMS) Design and Algorithms (6 hours)
 1. **BMS Functions:** Monitoring (voltage, current, temperature), Protection (over-voltage, under-voltage, over-current, over-temperature, under-temperature), State Estimation (SoC, SoH), Cell Balancing, Communication (e.g., via CAN bus). Ensuring safety and maximizing battery life/performance.  
 2. **Cell Voltage & Temperature Monitoring:** Requirements for individual cell monitoring (accuracy, frequency). Sensor selection and placement. Isolation requirements.  
-3. **State of Charge (SoC) Estimation Algorithms:** Coulomb Counting (integration of current, requires initialization/calibration, drift issues), Open Circuit Voltage (OCV) method (requires rest periods, temperature dependent), Model-based methods (using ECMs and Kalman Filters - EKF/UKF - to combine current integration and voltage measurements). Accuracy trade-offs.  
+3. **State of Charge (SoC) Estimation Algorithms:** Coulomb Counting (integration of current, requires initialization/calibration, drift issues), Open Circuit Voltage (OCV) method (requires rest periods, temperature dependent), Model-based methods (using ECMs and [Kalman filters](https://hrosdev.github.io/Kalman-and-Bayesian-Filters-in-Python/) - EKF/UKF - to combine current integration and voltage measurements). Accuracy trade-offs.  
 4. **State of Health (SoH) Estimation Algorithms:** Defining SoH (capacity fade, impedance increase). Methods based on capacity estimation (from full charge/discharge cycles), impedance spectroscopy, tracking parameter changes in ECMs, data-driven/ML approaches.  
 5. **Cell Balancing:** Need for balancing due to cell variations. Passive balancing (dissipating energy from higher voltage cells through resistors). Active balancing (transferring charge between cells - capacitive, inductive methods). Balancing strategies (during charge/discharge/rest).  
 6. **BMS Hardware & Safety:** Typical architecture (MCU, voltage/current/temp sensors, communication interface, protection circuitry - MOSFETs, fuses). Functional safety standards (e.g., ISO 26262 relevance). Redundancy in safety-critical BMS.  
