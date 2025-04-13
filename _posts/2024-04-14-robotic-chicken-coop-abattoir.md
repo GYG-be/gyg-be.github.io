@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Swarm Robotic Livestock Mgmt System -- Animal In Agroforestry Understory"
+title:  "Swarm Robotic Mgmt Systems -- Livestock Grazing Agroforestry Understory"
 date:   2025-04-12 22:00:01
 categories: specification
 ---
