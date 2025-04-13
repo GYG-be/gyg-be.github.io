@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Swarm Robotic Mgmt Systems -- Livestock Grazing Agroforestry Understory"
+title:  "Swarm Robotic Mgmt Systems -- Small Multi-Species Livestock Grazing Agroforestry Understory"
 date:   2025-04-12 22:00:01
 categories: specification
 ---
 
 # ROUGH DRAFT
 
-# Design Specifications & Engineering Requirements Swarm Robotic Livestock Management System   
+# Design Specifications & Engineering Requirements Swarm Robotic Small Multi-Species Livestock Management System   
 **Version:** 0.0  
 **Date:** April 14, 2025  
 
