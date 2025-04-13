@@ -77,7 +77,8 @@ categories: specification
 18. [Appendices](#18-appendices)
     - 18.1 [Technical Diagrams](#181-technical-diagrams)
     - 18.2 [Component Specifications](#182-component-specifications)
-    - 18.3 [Reference Studies](#183-reference-studies)
+    - 18.3 [Case Studies and Investigation](#183-further-investigation-and-case-studies)
+    - 18.4 [References](#184-general-references-for-swarm-robotic-livestock-management-system)
 
 ## 1. EXECUTIVE SUMMARY
 
@@ -2206,7 +2207,7 @@ All subsystems are interconnected through:
 - Forestry management attachments
 - Sanitation system components
 
-### 18.3 Reference Studies
+### 18.3 Further Investigation and Case Studies
 
 #### 18.3.1 Animal Welfare Research
 - Species-specific behavioral needs studies
@@ -2229,13 +2230,6 @@ All subsystems are interconnected through:
 - Autonomous navigation in natural environments
 - Human-robot collaboration frameworks
 
+#### 18.4 General References For Swarm Robotic Livestock Management Systems
 
-
-
-
-
-
-
-
-
-
+In addition to other [repositories in the HROS.dev organization](https://github.com/orgs/HROSdev/repositories), we are starting to put together a [list of awesome Swarm Robotics Resources](https://github.com/HROSdev/awesome-swarm-robotics), which will focus particularly on the problem of herding/controlling/protecting livestock in extensive harsh, predator-rich chaotic outdoor environents. 
