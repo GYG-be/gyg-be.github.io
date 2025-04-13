@@ -85,7 +85,9 @@ categories: specification
 
 ## 0. Abridged Desription the DEMONSTRATION PROJECT and Need For The Specification
 
-This specification outlines the development and operation of a functional, **secure** 4-season prototype designed to accommodate 500 chickens, quail, pheasant, or rabbits with a maximum initial investment of $30,000, excluding land acquisition or rental costs. The DEMONSTRATION PROJECT will utilize 5 acres of premium tillable cropland in Northwest Iowa dedicated to a multi-species agroforestry operation featuring chestnuts, plums, cherries, raspberries, and gooseberries, with poultry or rabbits grazing the understory.
+This ROUGH DRAFT what will become a working specification outlines the development and operation of a functional, **secure** 4-season prototype designed to accommodate 500 chickens, quail, pheasant, or rabbits with a maximum initial investment of $30,000, excluding land acquisition or rental costs. The DEMONSTRATION PROJECT will utilize 5 acres of premium tillable cropland in Northwest Iowa dedicated to a multi-species agroforestry operation featuring chestnuts, plums, cherries, raspberries, and gooseberries, with poultry or rabbits grazing the understory.
+
+***THESE NUMBER ARE HIGHLY SPECULATIVE***
 
 ## Budget Allocation
 - $5,000 for initial nursery stock
@@ -95,6 +97,13 @@ This specification outlines the development and operation of a functional, **sec
   - $5,000 for the drive system
   - $5,000 for power system and battery storage
   - $5,000 for auxiliary systems (control, communication, security, and animal welfare monitoring)
+
+## Demo Project Income / Expense
+- $2,000/yr cropland rent, rent paid by livestock component, although the primary purpose of that land is grow nursery stock
+- $2,000/yr in breeding stock/hatchery/multi-species small animal acquistion
+- $2,000/yr in feed costs, repairs, operational expense
+- $4,000/yr invested in improving/upgrading system
+- $10,000/year revenue from meat sold or CSA dues from members supporting project
 
 ## System Characteristics
 The production system will be EXTENSIVE rather than intensive, ensuring the operation remains virtually odor-free and produces minimal noise—significantly less than typical mowing activities on a standard city block. The mobile coop will navigate the area to herd, protect, and enclose the animals while utilizing an electric system capable of pumping water from shallow wells on the property.
