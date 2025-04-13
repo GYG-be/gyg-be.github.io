@@ -720,4 +720,983 @@ All subsystems are interconnected through:
 1. **Command Messages**:
    - Real-time control commands
    - Scheduled operations
-   -
+   - Configuration updates
+   - Priority overrides
+   - Emergency protocols
+
+2. **Telemetry Messages**:
+   - System status reports
+   - Position and movement data
+   - Environmental conditions
+   - Power system status
+   - Animal welfare metrics
+   - Security status
+
+3. **Data Messages**:
+   - Sensor readings and aggregated data
+   - Analysis results
+   - Map updates
+   - Learning model updates
+   - Historical records
+   - Maintenance information
+
+4. **Management Messages**:
+   - Configuration parameters
+   - Software updates
+   - Security credentials
+   - Diagnostic commands
+   - Calibration procedures
+   - System logs
+
+#### 7.3.3 Protocol Features
+- Guaranteed delivery with acknowledgment for critical messages
+- Message prioritization based on operational importance
+- Bandwidth adaptation based on network conditions
+- Compression for large data transfers
+- Fragmentation and reassembly for large messages
+- Duplicate detection and elimination
+- Sequence numbering for ordered delivery
+- Heartbeat mechanism for connection monitoring
+
+## 8. ANIMAL WELFARE SYSTEMS
+
+### 8.1 Environmental Monitoring
+
+#### 8.1.1 Atmospheric Conditions
+- **Temperature Monitoring**:
+  - Sensor Type: Digital temperature sensors (±0.5°C accuracy)
+  - Location: Minimum 3 sensors per coop at different heights
+  - Sampling Rate: Once per minute, averaged over 5 minutes
+  - Alerting: User-configurable thresholds with SMS/app notification
+  - Control: Automated adjustment of ventilation and heating
+  
+- **Humidity Monitoring**:
+  - Sensor Type: Digital relative humidity sensors (±3% accuracy)
+  - Location: Co-located with temperature sensors
+  - Sampling Rate: Once per minute, averaged over 5 minutes
+  - Alerting: User-configurable thresholds with notification
+  - Control: Automated adjustment of ventilation and heating
+
+- **Air Quality Monitoring**:
+  - Parameters Measured:
+    - Ammonia: 0-50ppm range, ±1ppm accuracy
+    - Carbon dioxide: 0-5000ppm range, ±50ppm accuracy
+    - Methane: 0-1000ppm range, ±10ppm accuracy
+    - Particulate matter: PM2.5 and PM10
+  - Sampling Rate: Once per 5 minutes
+  - Alerting: Automated notification when thresholds exceeded
+  - Control: Activation of ventilation and filtering systems
+
+#### 8.1.2 Space Conditions
+- **Lighting Monitoring**:
+  - Parameters: Intensity (lux), spectrum, photoperiod
+  - Control: Automated adjustment based on species requirements
+  - Natural Light Integration: Sensors to detect and utilize ambient light
+  - Override: Manual control for specific management activities
+
+- **Noise Monitoring**:
+  - Frequency Range: 20Hz-20kHz
+  - Analysis: Detection of distress calls or unusual patterns
+  - Control: Notification of potential welfare issues
+
+- **Spatial Monitoring**:
+  - Distribution of animals within the coop
+  - Detection of crowding or isolation
+  - Activity level monitoring
+  - Rest area utilization
+
+#### 8.1.3 Environmental Control Systems
+- **Ventilation System**:
+  - Capacity: Complete air exchange every 5 minutes at maximum
+  - Control: Variable speed based on environmental conditions
+  - Filtration: Dust and pathogen reduction capabilities
+  - Emergency Backup: Passive ventilation during power loss
+
+- **Heating System** (if required for climate):
+  - Type: Resistive electric with thermal mass
+  - Capacity: Maintain internal temperature 10°C above ambient
+  - Efficiency: Minimum 90% electrical to heat conversion
+  - Zoning: Capability to create temperature gradients within coop
+
+- **Cooling System** (if required for climate):
+  - Type: Evaporative or forced air
+  - Capacity: Maintain internal temperature 5°C below ambient
+  - Water Efficiency: Minimum 10 hours operation on stored water
+  - Control: Variable output based on temperature differential
+
+### 8.2 Feed & Water Management
+
+#### 8.2.1 Feed Systems
+- **Storage Capacity**:
+  - Chicken Units: Minimum 50kg (approximately 7 days at full capacity)
+  - Rabbit Units: Minimum 30kg (approximately 7 days at full capacity)
+  
+- **Dispensing Mechanism**:
+  - Type: Auger or chain system with portion control
+  - Accuracy: ±5% by weight per feeding
+  - Distribution: Multiple feeding stations to prevent competition
+  - Schedule: Species-appropriate timing with seasonal adjustments
+  
+- **Monitoring**:
+  - Consumption Tracking: Per feeding station with anomaly detection
+  - Inventory Management: Real-time stock levels with predictive ordering
+  - Nutritional Analysis: Capability to blend feed types for optimal nutrition
+  - Quality Control: Moisture and contaminant monitoring
+
+#### 8.2.2 Water Systems
+- **Storage Capacity**:
+  - Minimum 100L per unit (approximately 7 days supply)
+  - Insulated storage to prevent freezing/overheating
+  
+- **Treatment System**:
+  - Filtration: Sediment and chemical filtration
+  - Disinfection: UV treatment or appropriate chemical treatment
+  - Quality Monitoring: Conductivity, pH, and turbidity sensors
+  
+- **Dispensing System**:
+  - Type: Nipple drinkers for both species with catch trays
+  - Pressure Regulation: Consistent flow regardless of storage level
+  - Freeze Protection: Heating elements for cold climate operation
+  - Leak Detection: Flow monitoring with automatic shutoff
+  
+- **Monitoring**:
+  - Consumption Tracking: Individual and total consumption rates
+  - Quality Alerts: Notification when parameters outside acceptable range
+  - Maintenance Scheduling: Based on usage patterns and water quality
+
+#### 8.2.3 Foraging Support
+- **Pasture Management**:
+  - Automated movement between foraging areas to prevent overgrazing
+  - Recovery period scheduling for vegetation regrowth
+  - Seasonal adjustments to foraging patterns
+  - Integration with forestry management for optimal understory usage
+  
+- **Supplemental Foraging**:
+  - Scattered feed delivery to encourage natural foraging behavior
+  - Provision of appropriate live feed (insects) for chickens
+  - Automated distribution of browsing materials for rabbits
+  - Monitoring of foraging activity and adjustment of supplementation
+
+### 8.3 Health Monitoring
+
+#### 8.3.1 Individual Monitoring
+- **Identification System**:
+  - RFID tags for each animal
+  - Computer vision backup identification using physical features
+  - Tracking of individual feeding and drinking patterns
+  
+- **Physiological Monitoring**:
+  - Automated weighing stations with individual recognition
+  - Temperature monitoring through infrared scanning
+  - Respiratory rate estimation through computer vision
+  - Egg production tracking for laying hens
+  
+- **Behavioral Monitoring**:
+  - Activity level tracking (active vs. resting time)
+  - Social interaction patterns
+  - Abnormal behavior detection (feather pecking, isolation, etc.)
+  - Diurnal pattern analysis
+
+#### 8.3.2 Population Health Management
+- **Disease Surveillance**:
+  - Early detection algorithms based on behavioral changes
+  - Monitoring for common disease indicators
+  - Isolation capabilities for potentially ill individuals
+  - Environmental sampling for pathogen detection
+  
+- **Reproductive Management**:
+  - Nesting box monitoring for chickens
+  - Kindling box monitoring for rabbits
+  - Environmental optimization during breeding periods
+  - offspring tracking and development monitoring
+  
+- **Nutrition Management**:
+  - Diet adjustment based on life stage and production status
+  - Seasonal nutritional requirements
+  - Supplementation protocols based on monitoring data
+  - Feed conversion efficiency tracking
+
+#### 8.3.3 Veterinary Support
+- **Remote Diagnostics**:
+  - High-resolution cameras for remote inspection
+  - Sharing of monitoring data with veterinary professionals
+  - Sample collection capabilities for laboratory testing
+  
+- **Treatment Capabilities**:
+  - Automated medication delivery through water system
+  - Individual treatment tracking and recording
+  - Quarantine protocols and facilities
+  - Environmental remediation after disease events
+
+## 9. FORESTRY OPERATIONS
+
+### 9.1 Species Management
+
+#### 9.1.1 Tree Monitoring
+- **Identification System**:
+  - Species recognition through computer vision
+  - Individual tree tracking with unique identifiers
+  - Growth stage classification
+  - Geospatial mapping of all trees in system
+  
+- **Health Assessment**:
+  - Multispectral imaging for chlorophyll and water stress analysis
+  - Disease and pest detection through visual inspection
+  - Growth rate monitoring through periodic measurements
+  - Root zone monitoring through soil sensors
+  
+- **Production Monitoring**:
+  - Flowering and fruiting stage tracking
+  - Yield estimation through computer vision
+  - Quality assessment through spectral analysis
+  - Harvest timing optimization
+
+#### 9.1.2 Understory Management
+- **Vegetation Classification**:
+  - Species identification of understory plants
+  - Beneficial vs. competitive species determination
+  - Mapping of understory composition
+  - Seasonal changes in understory growth
+  
+- **Livestock Integration**:
+  - Coordination between coop movement and understory management
+  - Protection of sensitive or young plantings
+  - Promotion of beneficial grazing/foraging behaviors
+  - Monitoring of animal impact on understory health
+  
+- **Succession Management**:
+  - Planning and execution of selective clearing
+  - Promotion of beneficial volunteer species
+  - Suppression of invasive or problematic species
+  - Documentation of understory changes over time
+
+### 9.2 Pruning & Maintenance
+
+#### 9.2.1 Pruning Capabilities
+- **Technical Specifications**:
+  - Cutting Capacity: Up to 5cm diameter branches
+  - Reach: Adjustable up to 4m height
+  - Precision: ±1cm positioning accuracy
+  - Cutting Quality: Clean cuts with minimal tearing
+  
+- **Pruning Strategies**:
+  - Structural pruning for young trees
+  - Maintenance pruning for established trees
+  - Fruit tree specific pruning patterns
+  - Coppicing and pollarding where appropriate
+  
+- **Waste Management**:
+  - Collection of pruned material
+  - Chipping capability for mulch production
+  - Sorting of materials by size for different uses
+  - Integration with compost systems
+
+#### 9.2.2 Tree Health Interventions
+- **Monitoring-Based Interventions**:
+  - Targeted pruning based on disease detection
+  - Removal of pest-infested sections
+  - Air circulation improvement in dense canopies
+  - Light penetration management
+  
+- **Preventative Maintenance**:
+  - Removal of dead or dying branches
+  - Structural improvement cuts
+  - Cross-branching prevention
+  - Winter damage prevention
+
+#### 9.2.3 Specialty Operations
+- **Grafting Assistance**:
+  - Tool preparation and handling
+  - Cut precision for scion and rootstock
+  - Graft union wrapping
+  - Post-grafting care and monitoring
+  
+- **Training Systems**:
+  - Implementation of espalier techniques
+  - Creation and maintenance of trellising
+  - Installation of support systems
+  - Adjustments based on growth patterns
+
+### 9.3 Harvest Operations
+
+#### 9.3.1 Fruit & Nut Harvesting
+- **Detection Capabilities**:
+  - Ripeness assessment through color and spectral analysis
+  - Size and quality estimation
+  - Positioning for optimized harvest approach
+  - Yield mapping and forecasting
+  
+- **Harvesting Mechanisms**:
+  - Gentle gripper systems for sensitive fruits
+  - Vibration-based collection for nuts and small fruits
+  - Cutting systems for stem-attached fruits
+  - Collection systems to prevent ground contact
+  
+- **Post-Harvest Handling**:
+  - Sorting by size, ripeness, and quality
+  - Initial cleaning and debris removal
+  - Transport to processing area
+  - Documentation of harvest quantity and quality
+
+#### 9.3.2 Specialty Forest Products
+- **Identification and Collection**:
+  - Mushroom identification and harvesting
+  - Medicinal plant recognition and appropriate harvesting
+  - Sap collection system installation and monitoring
+  - Pollination support services
+  
+- **Sustainable Practices**:
+  - Rotation of harvest areas
+  - Maintenance of minimum viable populations
+  - Propagation of harvested species
+  - Impact assessment and adjustment
+
+#### 9.3.3 Timber Management
+- **Assessment Capabilities**:
+  - Growth rate monitoring
+  - Quality assessment through non-destructive testing
+  - Volume estimation
+  - Optimal harvest timing determination
+  
+- **Small-Scale Harvesting**:
+  - Precision felling for selected stems
+  - Processing of logs up to 20cm diameter
+  - Integration with livestock operations for clearing
+  - Replanting and regeneration management
+
+## 10. ROBOTIC ABATTOIR DESIGN
+
+### 10.1 Processing Workflow
+
+#### 10.1.1 Pre-Processing
+- **Animal Handling**:
+  - Stress-minimizing transport from coop to processing area
+  - Quiet holding area with environmental controls
+  - Individual movement tracking to prevent crowding
+  - Calming measures including appropriate lighting and sounds
+  
+- **Pre-Slaughter Assessment**:
+  - Health verification through visual inspection
+  - Weight and condition recording
+  - Individual identification correlation
+  - Processing parameter adjustment based on size/condition
+
+#### 10.1.2 Primary Processing
+- **Humane Stunning**:
+  - Species-appropriate methods meeting AVMA guidelines
+  - Monitoring of stunning effectiveness
+  - Backup stunning capability with automatic activation
+  - Verification of unconsciousness before further processing
+  
+- **Exsanguination**:
+  - Precision cutting with robotic assistance
+  - Blood collection and containment system
+  - Monitoring of complete exsanguination
+  - Timed progression to ensure death before further processing
+  
+- **Initial Processing**:
+  - Species-specific handling procedures
+  - Chickens: Scalding, defeathering, head/feet removal
+  - Rabbits: Pelt removal, head/feet removal
+  - Automated transition between stations
+
+#### 10.1.3 Secondary Processing
+- **Evisceration**:
+  - Precision cutting with computer vision guidance
+  - Separation of edible and inedible offal
+  - Contamination prevention systems
+  - Inspection capability with imaging and recording
+  
+- **Carcass Cleaning**:
+  - Multi-stage washing system
+  - Antimicrobial application if required
+  - Final inspection for cleanliness
+  - Chilling system for temperature reduction
+  
+- **Portioning**:
+  - Computer vision guided cutting
+  - Customizable cutting patterns
+  - Weight and yield recording
+  - Sorting by cut type
+
+#### 10.1.4 Packaging & Storage
+- **Packaging Operations**:
+  - Vacuum packaging capability
+  - Labeling with traceback information
+  - Weight verification and recording
+  - Quality control imaging
+  
+- **Cooling & Storage**:
+  - Rapid chilling to food safety temperatures
+  - Temperature and humidity controlled storage
+  - Inventory management system
+  - Shelf-life monitoring and rotation
+
+### 10.2 Sanitation Systems
+
+#### 10.2.1 Operational Sanitation
+- **During-Process Cleaning**:
+  - Tool washing and sanitizing between animals
+  - Continuous removal of byproducts from work area
+  - Water recycling with appropriate filtration
+  - Drainage systems designed to prevent pooling
+  
+- **Surface Materials**:
+  - Food-grade stainless steel for all product contact surfaces
+  - Non-porous, sanitizable materials for structural components
+  - Sloped surfaces to prevent liquid accumulation
+  - Sealed joints and connections to prevent harborage
+
+#### 10.2.2 Facility Sanitation
+- **Clean-in-Place Systems**:
+  - Automated washing of processing equipment
+  - Sanitizer application and verification
+  - Temperature monitoring during sanitizing
+  - Chemical concentration verification
+  
+- **Environmental Sanitation**:
+  - Automated floor washing and sanitizing
+  - Air filtration and treatment
+  - Surface sampling for verification
+  - UV sterilization of work areas after cleaning
+
+#### 10.2.3 Waste Management
+- **Liquid Waste**:
+  - Blood collection and processing
+  - Washwater filtration and treatment
+  - Nutrient recovery systems
+  - Compliant disposal or recycling
+  
+- **Solid Waste**:
+  - Separation by category (feathers, offal, etc.)
+  - Composting capability for appropriate materials
+  - Rendering preparation for others
+  - Temporary storage with odor control
+
+### 10.3 Ethical Considerations
+
+#### 10.3.1 Animal Welfare Prioritization
+- **Design Principles**:
+  - Minimization of stress throughout process
+  - Immediate and effective stunning
+  - Verification of unconsciousness before further processing
+  - Continual monitoring for welfare assurance
+  
+- **Operational Practices**:
+  - Low-stress handling only
+  - Appropriate environmental conditions
+  - No live animal shackling or inversion
+  - Regular welfare auditing with documentation
+
+#### 10.3.2 Human-Robot Collaboration
+- **Role Delineation**:
+  - Robots: Repetitive, physically demanding, or precision tasks
+  - Humans: Oversight, quality assurance, ethical decisions
+  - Shared responsibilities with clear communication
+  - Emergency intervention capabilities
+  
+- **Work Environment**:
+  - Noise reduction compared to conventional processing
+  - Ergonomic design for human interactions
+  - Reduced exposure to hazardous conditions
+  - Enhanced safety through separation of humans from dangerous operations
+
+#### 10.3.3 Transparency & Documentation
+- **Process Recording**:
+  - Video documentation of critical control points
+  - Complete traceability from farm to package
+  - Data logging of all processing parameters
+  - Welfare metric collection and reporting
+  
+- **Regulatory Compliance**:
+  - Design meeting or exceeding all applicable regulations
+  - Self-audit capabilities with documentation
+  - Preparation for third-party verification
+  - Continuous improvement framework
+
+## 11. SECURITY SYSTEMS DESIGN
+
+### 11.1 Perimeter Security
+
+#### 11.1.1 Physical Barriers
+- **Coop Enclosure**:
+  - Material: Galvanized welded wire mesh, minimum 14-gauge
+  - Aperture: Maximum 1.5cm × 1.5cm to prevent predator access
+  - Height: 1.2m from ground level
+  - Underground Extension: 30cm buried apron extending outward
+  
+- **Access Points**:
+  - Double-door entry system for human access
+  - Automated sliding doors for animal access
+  - Spring-loaded, self-closing mechanisms
+  - Positive latching on all access points
+
+#### 11.1.2 Detection Systems
+- **Sensor Types**:
+  - Passive infrared motion detection (10m range)
+  - Microwave motion detection for weather resistance
+  - Vibration sensors on physical barriers
+  - Ground pressure sensors around perimeter
+  - Audio detection with classification capabilities
+  
+- **Coverage Requirements**:
+  - 360° coverage around each mobile coop
+  - Overlapping detection zones
+  - Adjustable sensitivity based on environmental conditions
+  - Day/night calibration differences
+  
+- **Alert Processing**:
+  - Local processing for initial classification
+  - Multi-sensor fusion for confirmation
+  - False positive reduction algorithms
+  - Escalation based on threat assessment
+
+#### 11.1.3 Response Capabilities
+- **Deterrent Hierarchy**:
+  1. Visual deterrents (LED flashing)
+  2. Audio deterrents (predator-specific sounds)
+  3. Movement of the coop (if safe for animals)
+  4. Electric shock deterrent (graduated intensity)
+  
+- **Integration with Swarm**:
+  - Coordinated response from multiple units
+  - Formation of defensive arrangements
+  - Shared alerting and monitoring
+  - Collective deterrent activation when appropriate
+
+### 11.2 Supercapacitive Shock System
+
+#### 11.2.1 Technical Specifications
+- **Capacitor Bank**:
+  - Capacity: 500F minimum at 16V
+  - Charge Time: < 30 seconds from depleted
+  - Discharge Control: Precision timing circuit
+  - Safety Features: Automatic discharge if tampered with
+  
+- **Shock Delivery System**:
+  - Conductor Type: Stainless steel wires, 1mm diameter
+  - Spacing: 8cm between conductors
+  - Mounting: Insulated standoffs from main structure
+  - Height: Adjustable positioning for target species
+
+#### 11.2.2 Operational Parameters
+- **Energy Levels**:
+  - Small Predators (foxes, raccoons): 0.5-1.0 Joules
+  - Medium Predators (coyotes, dogs): 1.0-2.0 Joules
+  - Large Predators (wolves, bears): 2.0-4.0 Joules
+  - Human Deterrent Mode: 0.5 Joules maximum with reduced duration
+  
+- **Activation Control**:
+  - Threat-specific activation
+  - Time-of-day adjusted parameters
+  - Weather compensation (increased energy in wet conditions)
+  - Automatic safety reductions when authorized personnel nearby
+
+#### 11.2.3 Safety Features
+- **Prevention Measures**:
+  - Warning indicators before activation (lights and sounds)
+  - Animal discrimination to prevent non-target shock
+  - Automatic deactivation during maintenance activities
+  - Dead short protection
+  
+- **Monitoring Systems**:
+  - Continuous ground fault monitoring
+  - Current flow detection and logging
+  - System integrity checks hourly
+  - Automated notification of system faults
+
+### 11.3 Threat Detection & Response
+
+#### 11.3.1 Threat Classification
+- **Predator Identification**:
+  - Species recognition through computer vision
+  - Behavioral pattern analysis
+  - Historical threat correlation
+  - Threat level assignment
+  
+- **Human Classification**:
+  - Authorized vs. unauthorized determination
+  - Behavioral intent assessment
+  - Appropriate response selection
+  - Notification protocols
+  
+- **Environmental Threats**:
+  - Weather event detection and classification
+  - Fire detection capabilities
+  - Flood or water level monitoring
+  - Other environmental hazard detection
+
+#### 11.3.2 Response Protocols
+- **Predator Responses**:
+  - Progressive deterrent activation
+  - Coop movement away from threat if appropriate
+  - Formation of defensive arrangements with multiple coops
+  - Alert notification to operators
+  
+- **Human Intrusion Responses**:
+  - Warning notifications (visual and audible)
+  - Recording of intrusion event
+  - Non-harmful deterrent activation
+  - Escalation to authorities if configured
+  
+- **Environmental Responses**:
+  - Movement to safe locations during severe weather
+  - Fire avoidance procedures
+  - Flood elevation seeking
+  - General hazard avoidance behaviors
+
+#### 11.3.3 Incident Documentation
+- **Data Collection**:
+  - Video recording of incidents
+  - Sensor logs during events
+  - System response documentation
+  - Outcome recording
+  
+- **Analysis Capabilities**:
+  - Pattern recognition across incidents
+  - Effectiveness assessment
+  - Improvement recommendations
+  - Regulatory compliance documentation
+
+## 12. SOFTWARE ARCHITECTURE
+
+### 12.1 Swarm Intelligence
+
+#### 12.1.1 Coordination Mechanisms
+- **Consensus Algorithms**:
+  - Distributed leader election
+  - Task allocation through bidding processes
+  - Shared environmental mapping
+  - Collective decision making for resource allocation
+  
+- **Communication Patterns**:
+  - Peer-to-peer messaging between units
+  - Broadcasting for emergency or global information
+  - Subscription-based updates for relevant information
+  - Hierarchical communication for complex tasks
+
+#### 12.1.2 Collective Behaviors
+- **Grazing Coordination**:
+  - Distribution of coops to optimize foraging area
+  - Rotation scheduling to prevent overgrazing
+  - Path planning to minimize soil impact
+  - Coordination with forestry operations
+  
+- **Defensive Formations**:
+  - Threat-based positioning of units
+  - Creation of secure zones for livestock
+  - Coordinated deterrent activation
+  - Fallback positioning if threats persist
+  
+- **Resource Sharing**:
+  - Power sharing during uneven generation
+  - Water distribution optimization
+  - Feed resource balancing
+  - Maintenance schedule coordination
+
+#### 12.1.3 Scalability Features
+- **Dynamic Discovery**:
+  - Automatic detection of new units
+  - Capability sharing and registration
+  - Role assignment based on unit capabilities
+  - Integration into existing workflows
+  
+- **Fault Tolerance**:
+  - Continued operation with unit failures
+  - Responsibility reassignment when units offline
+  - Graceful degradation of capabilities
+  - Recovery procedures when units rejoin
+
+### 12.2 Machine Learning Components
+
+#### 12.2.1 Perception Systems
+- **Computer Vision**:
+  - Object detection and classification
+  - Animal health assessment
+  - Plant health analysis
+  - Environmental condition assessment
+  - Anomaly detection in normal patterns
+  
+- **Sensor Fusion**:
+  - Multi-sensor data integration
+  - Confidence-weighted decision making
+  - Complementary sensor compensation
+  - Environmental factor adjustment
+
+#### 12.2.2 Behavioral Models
+- **Animal Behavior**:
+  - Species-specific normal behavior baselines
+  - Individual variation accounting
+  - Detection of welfare indicators
+  - Prediction of needs based on patterns
+  
+- **System Optimization**:
+  - Energy usage optimization
+  - Movement efficiency improvements
+  - Maintenance prediction
+  - Resource utilization optimization
+
+#### 12.2.3 Continuous Learning
+- **Training Mechanisms**:
+  - Initial deployment with pre-trained models
+  - On-site fine-tuning with local data
+  - Supervised learning through operator feedback
+  - Reinforcement learning for optimization tasks
+  
+- **Knowledge Sharing**:
+  - Model synchronization across units
+  - Experience sharing between deployments
+  - Centralized improvement distribution
+  - Privacy-preserving federated learning
+
+### 12.3 User Interface Design
+
+#### 12.3.1 Control Interfaces
+- **Mobile Application**:
+  - Cross-platform (iOS and Android)
+  - Role-based access control
+  - Real-time status visualization
+  - Remote operation capabilities
+  - Alert management
+  
+- **Web Dashboard**:
+  - Responsive design for various devices
+  - Data visualization and reporting
+  - System configuration interface
+  - Historical data analysis
+  - Task scheduling and monitoring
+
+#### 12.3.2 Monitoring Capabilities
+- **Real-time Monitoring**:
+  - System status indicators
+  - Animal welfare metrics
+  - Environmental conditions
+  - Security status
+  - Operational activities
+  
+- **Reporting Functions**:
+  - Daily operation summaries
+  - Production metrics
+  - Health and welfare reports
+  - Maintenance requirements
+  - Incident documentation
+
+#### 12.3.3 Human-System Interaction
+- **Operational Modes**:
+  - Fully autonomous operation
+  - Supervised autonomy with approval requirements
+  - Teleoperation for specific tasks
+  - Manual control for maintenance
+  
+- **Knowledge Management**:
+  - Contextual help and documentation
+  - Operational best practices
+  - Troubleshooting guides
+  - Training materials and simulations
+
+## 13. REGULATORY COMPLIANCE
+
+### 13.1 Agricultural Regulations
+
+#### 13.1.1 Livestock Management
+- **Housing Requirements**:
+  - Minimum space per animal
+    - Chickens: 0.14m² per bird minimum for free-range
+    - Rabbits: 0.56m² per adult minimum
+  - Access to outdoors requirements
+  - Shelter from elements provisions
+  - Compliance documentation
+  
+- **Feed and Water Regulations**:
+  - Approved feed ingredients
+  - Medication documentation and withdrawal periods
+  - Water quality requirements
+  - Record keeping requirements
+
+#### 13.1.2 Land Use Compliance
+- **Zoning Considerations**:
+  - Agricultural zoning requirements
+  - Mobile structure regulations
+  - Setback requirements from property lines
+  - Waste management regulations
+  
+- **Environmental Impact**:
+  - Watershed protection measures
+  - Soil conservation practices
+  - Wildlife interaction management
+  - Invasive species prevention
+
+#### 13.1.3 Transportation Regulations
+- **On-Farm Movement**:
+  - Animal transport welfare requirements
+  - Equipment movement restrictions
+  - Public road crossing procedures
+  - Temporary containment requirements
+  
+- **Processing Transport**:
+  - Pre-slaughter handling regulations
+  - Transport time limitations
+  - Environmental condition requirements
+  - Documentation requirements
+
+### 13.2 Animal Welfare Standards
+
+#### 13.2.1 Species-Specific Requirements
+- **Chicken Standards**:
+  - Access to dust bathing materials
+  - Perching space requirements
+  - Nesting box specifications
+  - Feeder and waterer space requirements
+  
+- **Rabbit Standards**:
+  - Gnawing material provision
+  - Hiding space requirements
+  - Appropriate flooring materials
+  - Social housing considerations
+
+#### 13.2.2 Management Practices
+- **Health Protocols**:
+  - Preventative health measures
+  - Treatment documentation
+  - Mortality handling procedures
+  - Disease outbreak protocols
+  
+- **Handling Guidelines**:
+  - Low-stress handling techniques
+  - Appropriate restraint methods
+  - Transportation considerations
+  - End-of-life protocols
+
+#### 13.2.3 Certification Standards
+- **Organic Certification**:
+  - Feed requirements
+  - Outdoor access specifications
+  - Medication restrictions
+  - Record keeping requirements
+  
+- **Humane Certification**:
+  - Welfare assessment parameters
+  - Enrichment requirements
+  - Space and housing specifications
+  - Handling and processing guidelines
+
+### 13.3 Radio Frequency Compliance
+
+#### 13.3.1 Frequency Allocations
+- **Operational Bands**:
+  - 900MHz ISM band utilization
+  - 2.4GHz ISM band utilization
+  - 5GHz band utilization where applicable
+  - Cellular band usage compliance
+  
+- **Power Limitations**:
+  - Maximum transmit power by band
+  - Power spectral density limitations
+  - Out-of-band emission restrictions
+  - Directional gain limitations
+
+#### 13.3.2 Equipment Certification
+- **Radio Equipment**:
+  - FCC certification requirements
+  - CE marking where applicable
+  - Equipment testing documentation
+  - Modification restrictions
+  
+- **Installation Requirements**:
+  - Antenna placement regulations
+  - RF exposure limitations
+  - Interference prevention measures
+  - Warning signage requirements
+
+#### 13.3.3 Operational Compliance
+- **Interference Management**:
+  - Monitoring for harmful interference
+  - Resolution procedures
+  - Coordination with nearby systems
+  - Reporting requirements
+  
+- **Documentation Requirements**:
+  - Equipment inventory
+  - Frequency utilization records
+  - Operator licensing if required
+  - Inspection preparation materials
+
+## 14. MAINTENANCE & SERVICING
+
+### 14.1 Preventative Maintenance
+
+#### 14.1.1 Scheduled Maintenance
+- **Daily Operations**:
+  - Automated self-diagnostic routines
+  - Sensor calibration verification
+  - Basic cleaning procedures
+  - Visual inspection via cameras
+  
+- **Weekly Operations**:
+  - Battery system performance testing
+  - Motor and drive system inspection
+  - Filter cleaning or replacement
+  - Software update checks
+  
+- **Monthly Operations**:
+  - Comprehensive structural inspection
+  - Electrical system testing
+  - Security system verification
+  - Lubrication of mechanical components
+  
+- **Quarterly Operations**:
+  - Drive system overhaul
+  - Solar panel cleaning and inspection
+  - Full calibration of all sensors
+  - Performance benchmarking
+
+#### 14.1.2 Condition-Based Maintenance
+- **Monitoring Parameters**:
+  - Motor current draw patterns
+  - Battery charge/discharge curves
+  - Mechanical vibration signatures
+  - Temperature patterns during operation
+  
+- **Predictive Algorithms**:
+  - Failure prediction based on performance trends
+  - Component life estimation
+  - Optimal replacement scheduling
+  - Maintenance priority determination
+
+#### 14.1.3 Maintenance Management
+- **Documentation System**:
+  - Maintenance history for each unit
+  - Component replacement tracking
+  - Calibration records
+  - Performance trend analysis
+  
+- **Inventory Management**:
+  - Critical spare parts tracking
+  - Consumption rate analysis
+  - Reorder point automation
+  - Obsolescence management
+
+### 14.2 Field Repairs
+
+#### 14.2.1 Modular Design
+- **Replacement Modules**:
+  - Drive system modules
+  - Control system modules
+  - Sensor packages
+  - Power system components
+  - Animal welfare systems
+  
+- **Tool Requirements**:
+  - Standard tool set for field repairs
+  - Diagnostic equipment specifications
+  - Specialized tool requirements
+  - Safety equipment for repairs
+
+#### 14.2.2 Repair Procedures
+- **Diagnostic Protocols**:
+  - Systematic troubleshooting guides
+  - Remote diagnostic capabilities
+  - Sensor data analysis for fault identification
+  - Visual inspection guidelines
+  
+- **Repair Documentation**
