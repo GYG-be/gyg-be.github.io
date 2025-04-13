@@ -113,6 +113,20 @@ The 5-acre demonstration size approximates a city block, though the system is no
 
 While city block dimensions vary by location, age, and topography, most are ***approximately*** 660 feet by 330 feet or 217,800 square feet, which equals exactly 5 acres.
 
+## Example of 7 hexagon coups
+
+7*75 is 525 chickens.
+
+[A hexagon with a 12 ft side OR one that would fit inside a circle of diameter 24 feet, would have 375 sq ft](https://www.omnicalculator.com/math/hexagon), ie more than enough space for 75 ENCLOSED chickens and feeders/waters. 
+
+Except, that of course, the chickens ordinarily would not be enclosed, but roaming outside the structure, so the stocking rate could be higher.
+
+A hexagon coop this size means that the rows of trees would need to be at least 30 ft or so apart in order to for the coop to fit / move in trees.  Of course, the tree rows could look something like this:  
+
+|||___|||___|||
+
+The trees, when grown, would need to be pruned to let the coops work in the forestry operation.
+
 
 ## 1. EXECUTIVE SUMMARY
 
