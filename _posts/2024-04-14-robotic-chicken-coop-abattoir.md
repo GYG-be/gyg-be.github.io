@@ -13,6 +13,7 @@ categories: specification
 
 ## TABLE OF CONTENTS
 
+0. [Abridged Version](#0-abridged-desription-the-demonstration-project-and-need-for-the-specification)
 1. [Executive Summary](#1-executive-summary)
 2. [Project Scope & Objectives](#2-project-scope--objectives)
 3. [System Architecture Overview](#3-system-architecture-overview)
@@ -82,11 +83,27 @@ categories: specification
 
 
 
-# The Abbridged Version Describing the DEMONSTRATION PROJECT
+## 0. Abridged Desription the DEMONSTRATION PROJECT and Need For The Specification
 
-This specification will describe how to build and operate a functional, **secure** 4-season prototype with 500 chickens, quail, pheasant or rabbits with maximum intital expenditure of $30,000. This initial expenditure does not include land rent or land acquistion costs. The proving grounds for this DEMONSTRATION PROJECT will include 5 A of highly tillable, high-producing cropland in NW Iowa that are to be dedicated to a multi-species planting of chestnuts, plums, cherries, rasberrries, gooseberries; the poultry or rabbits will graze the understory of the agroforestry operation. $5,000 will be spent on the initial nursery stock. The electric system of the robotic coop will provide the power to pump water from shallow wells on this land. The 5A demonstration size was chosen because it is roughly equal to the size of a city block. Each city and its typical blocks sizes vary with its age and topography, of course, but it's safe to say that most are ***approximately*** on the order of something somewhat close to 660 feet by 330 feet or 217,800 square feet which is exactly 5 acres.
+This specification outlines the development and operation of a functional, **secure** 4-season prototype designed to accommodate 500 chickens, quail, pheasant, or rabbits with a maximum initial investment of $30,000, excluding land acquisition or rental costs. The DEMONSTRATION PROJECT will utilize 5 acres of premium tillable cropland in Northwest Iowa dedicated to a multi-species agroforestry operation featuring chestnuts, plums, cherries, raspberries, and gooseberries, with poultry or rabbits grazing the understory.
 
-It is expected $5000 will need to be spent to acquire initial stock of animals. The mobile coop unit itself should be doable for less than $20,000 total, although that might prove to be a stretch.  The approximate budget for the initial 4-season structure and fencing enclosures and feeding/watering systems for 500 small animals is approximately $5,000; the drive system might be possible for $5,000; and we should be able to develop power system and battery storage also about $5,000.  Finally $5,000 is expected for the rest of the systems including control and communication, security and animal protection/welfare monitoring.
+## Budget Allocation
+- $5,000 for initial nursery stock
+- $5,000 for animal acquisition
+- $20,000 for the mobile coop unit, broken down as:
+  - $5,000 for the 4-season structure, fencing enclosures, and feeding/watering systems
+  - $5,000 for the drive system
+  - $5,000 for power system and battery storage
+  - $5,000 for auxiliary systems (control, communication, security, and animal welfare monitoring)
+
+## System Characteristics
+The production system will be EXTENSIVE rather than intensive, ensuring the operation remains virtually odor-free and produces minimal noise—significantly less than typical mowing activities on a standard city block. The mobile coop will navigate the area to herd, protect, and enclose the animals while utilizing an electric system capable of pumping water from shallow wells on the property.
+
+## Scale and Application
+The 5-acre demonstration size approximates a city block, though the system is not constrained to a square configuration and could comprise contiguous lots totaling a similar area. HROS.dev components and systems will be developed for nationwide distribution, supporting a vision of food security for a population of 2,500 where residents obtain 96% of their nutrition from sources beyond poultry/rabbits.
+
+While city block dimensions vary by location, age, and topography, most are ***approximately*** 660 feet by 330 feet or 217,800 square feet, which equals exactly 5 acres.
+
 
 ## 1. EXECUTIVE SUMMARY
 
