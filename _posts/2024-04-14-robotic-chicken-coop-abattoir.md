@@ -125,7 +125,7 @@ Of course, the chickens in this system ordinarily would not be enclosed, but roa
 
 A hexagon coop this size means that the rows of trees would need to be at least 30 ft or so apart in order to for the coop to fit / move in trees.  Of course, the tree rows could look something like this:  
 
-|||___|||___|||
+1iii1___1iii1___1iii1
 
 The trees, when grown, would need to be pruned to let the coops work in the forestry operation.
 
