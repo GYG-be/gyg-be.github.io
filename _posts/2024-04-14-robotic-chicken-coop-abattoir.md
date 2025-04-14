@@ -115,6 +115,8 @@ While city block dimensions vary by location, age, and topography, most are ***a
 
 ## Example of 7 hexagon coups
 
+![Hexagon Coop Cluster](https://github.com/HROSdev/HROSdev.github.io/blob/master/_posts/hexcoop.png "Hexagon Coop Cluster")
+
 7*75 is 525 chickens.
 
 [A hexagon with a 12 ft side OR one that would fit inside a circle of diameter 24 feet, would have 375 sq ft](https://www.omnicalculator.com/math/hexagon), ie more than enough space for 75 ENCLOSED chickens and feeders/waters. 
