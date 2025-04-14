@@ -113,15 +113,15 @@ The 5-acre demonstration size approximates a city block, though the system is no
 
 While city block dimensions vary by location, age, and topography, most are ***approximately*** 660 feet by 330 feet or 217,800 square feet, which equals exactly 5 acres.
 
-## Example of 7 hexagon coups
+## Example of [7 hexagon coups](https://github.com/HROSdev/HROSdev.github.io/blob/master/_posts/hexcoop.png)
 
-![Hexagon Coop Cluster](https://github.com/HROSdev/HROSdev.github.io/blob/master/_posts/hexcoop.png "Hexagon Coop Cluster")
+7 x 75 = 525 chickens in 7 coops.
 
-7*75 is 525 chickens.
+[A hexagon with a 12 ft side OR one that would fit inside a circle of diameter 24 feet, would have 375 sq ft](https://www.omnicalculator.com/math/hexagon), which is more than enough space for 75 ENCLOSED chickens and feeders/waters, ie sufficient space even if they chickens never go to the tree understory, ie similar to the always under-roof [PastureBird approach](https://cdn.accentuate.io/95900303594/22309994299626/Pasturebird-Slider-2-v1645735838711.jpeg).
 
-[A hexagon with a 12 ft side OR one that would fit inside a circle of diameter 24 feet, would have 375 sq ft](https://www.omnicalculator.com/math/hexagon), ie more than enough space for 75 ENCLOSED chickens and feeders/waters. 
+We use the agroforesty understory for grazing and much SMALLER coops. We have experience with livestock structures in the the SIGNIFICANTLY higher winds found on the north central Cornbelt. Thus, we have learned the need to anchor a smaller, flatter shelters with radically less of high-wind target for kiting the whole enterprise into the next township.
 
-Except, that of course, the chickens ordinarily would not be enclosed, but roaming outside the structure, so the stocking rate could be higher.
+Of course, the chickens in this system ordinarily would not be enclosed, but roaming outside the structure, so the stocking rate could significantly be higher, ie the chikens, practically nest on top of one another at night.
 
 A hexagon coop this size means that the rows of trees would need to be at least 30 ft or so apart in order to for the coop to fit / move in trees.  Of course, the tree rows could look something like this:  
 
