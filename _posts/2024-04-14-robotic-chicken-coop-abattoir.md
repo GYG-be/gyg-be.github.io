@@ -123,7 +123,7 @@ We use the agroforesty understory for grazing and much SMALLER coops. We have ex
 
 Of course, the chickens in this system ordinarily would not be enclosed, but roaming outside the structure, so the stocking rate could significantly be higher, ie the chikens, practically nest on top of one another at night.
 
-A hexagon coop this size means that the rows of trees would need to be at least 30 ft or so apart in order to for the coop to fit / move in trees.  Of course, the tree rows, interspersed with berries could look something like this, to form aisles for the mobile coops, but the point is, as is the practice of livestock graziers, to use the traffic patterns of the animals and not to allow those traffic patterns to add any non-value-added traffic damage on paths to/from the pasture:  
+A hexagon coop this size means that the rows of trees would need to be at least 30 ft or so apart in order to for the coop to fit / move in trees.  Of course, the tree rows, interspersed with berries could look something like this, to form aisles for the mobile coops, but the point is, as is the practice of livestock graziers, to use/control the traffic patterns of the animals to seed new microgreens for them AND to never allow those traffic patterns to systematically add repetitive non-value-added traffic damage on animal paths to/from the pasture:  
 
 1.x.1 ___ 1.x.1 ___ 1.x.1
 
