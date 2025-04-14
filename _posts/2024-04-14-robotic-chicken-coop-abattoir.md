@@ -89,7 +89,7 @@ This ROUGH DRAFT what will become a working specification outlines the developme
 
 ***THESE NUMBER ARE HIGHLY SPECULATIVE***
 
-## Budget Allocation
+### Budget Allocation
 - $5,000 for initial nursery stock
 - $5,000 for animal acquisition
 - $20,000 for the mobile coop unit, broken down as:
@@ -98,24 +98,24 @@ This ROUGH DRAFT what will become a working specification outlines the developme
   - $5,000 for power system and battery storage
   - $5,000 for auxiliary systems (control, communication, security, and animal welfare monitoring)
 
-## Demo Project Income / Expense
+### Demo Project Income / Expense
 - $2,000/yr cropland rent, rent paid by livestock component, although the primary purpose of that land is grow nursery stock
 - $2,000/yr in breeding stock/hatchery/multi-species small animal acquistion
 - $2,000/yr in feed costs, repairs, operational expense
 - $4,000/yr invested in improving/upgrading system
 - $10,000/year revenue from meat sold or CSA dues from members supporting project
 
-## System Characteristics
+### System Characteristics
 The production system will be EXTENSIVE rather than intensive, ensuring the operation remains virtually odor-free and produces minimal noise—significantly less than typical mowing activities on a standard city block. The mobile coop will navigate the area to herd, protect, and enclose the animals while utilizing an electric system capable of pumping water from shallow wells on the property.
 
-## Scale and Application
+### Scale and Application
 The 5-acre demonstration size approximates a city block, though the system is not constrained to a square configuration and could comprise contiguous lots totaling a similar area. HROS.dev components and systems will be developed for nationwide distribution, supporting a vision of food security for a population of 2,500 where residents obtain 96% of their nutrition from sources beyond poultry/rabbits.
 
 While city block dimensions vary by location, age, and topography, most are ***approximately*** 660 feet by 330 feet or 217,800 square feet, which equals exactly 5 acres.
 
-## Example of [7 hexagon coups](https://github.com/HROSdev/HROSdev.github.io/blob/master/_posts/hexcoop.png)
+### Example
 
-7 x 75 = 525 chickens in 7 coops.
+7 x 75 = 525 chickens ... [7 hexagon coups](https://github.com/HROSdev/HROSdev.github.io/blob/master/_posts/hexcoop.png)
 
 [A hexagon with a 12 ft side OR one that would fit inside a circle of diameter 24 feet, would have 375 sq ft](https://www.omnicalculator.com/math/hexagon), which is more than enough space for 75 ENCLOSED chickens and feeders/waters, ie sufficient space even if they chickens never go to the tree understory, ie similar to the always under-roof [PastureBird approach](https://cdn.accentuate.io/95900303594/22309994299626/Pasturebird-Slider-2-v1645735838711.jpeg).
 
