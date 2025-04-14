@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Swarm Robotic Mgmt Systems -- Small Multi-Species Livestock Grazing Agroforestry Understory"
-date:   2025-04-12 22:00:01
+date:   2025-04-12 18:00:01
 categories: specification
 ---
 
