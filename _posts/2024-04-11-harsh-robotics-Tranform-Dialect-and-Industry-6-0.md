@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MLIR Performance In Harsh Environments And Why Advances Like MLIR Transform Dialect Are So Relevant to Swarm Robotics AI"
-date:   2025-04-14 00:00:01
+date:   2025-04-11 04:00:01
 categories: research
 ---
 HARSH environments are especially chaotic and even threatening to not just the robots, but the mission. 
