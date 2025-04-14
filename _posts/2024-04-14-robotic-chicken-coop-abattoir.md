@@ -9,7 +9,7 @@ categories: specification
 
 # Design Specifications & Engineering Requirements Swarm Robotic Small Multi-Species Livestock Management System   
 **Version:** 0.0  
-**Date:** April 14, 2025  
+**Date:** April 12, 2025  
 
 ## TABLE OF CONTENTS
 
