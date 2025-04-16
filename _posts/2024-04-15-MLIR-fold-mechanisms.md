@@ -10,17 +10,24 @@ As a result of our more general [interest in MLIR's impact upon AI optimization]
 
 Folding, in the context of compiler design, typically refers to the compile-time evaluation of expressions or subexpressions whose values can be determined statically. Of course, this concept is hardly new or all that revolutionary, but has been a fundamental optimization technique in compilers for decades.
 
-To understand exactly what folding is or how it has been incorporated in traditional compilers, we can think about several examples of folding techniques:
+To understand exactly what folding is or how it has been incorporated in traditional compilers, we can think about the simplest possible example 
 
-1. **Constant Folding**: Evaluating expressions composed entirely of constants at compile time rather than runtime.
-   
-2. **Algebraic Simplification**: Applying algebraic identities to simplify expressions (e.g., x + 0 = x).
-   
-3. **Strength Reduction**: Replacing expensive operations with equivalent cheaper ones (e.g., replacing multiplication by powers of 2 with shifts).
+Consider the following code snippet in C++
 
-In most ***traditional*** compilers, these optimizations are typically implemented as part of larger passes, ie there's basically zero computational cost ... and thus our reason for interest in what might be an area where there is more low hanging fruit, or perhaps *fruit that is hanging just a weensy bit higher than the previous low-hanging fruit*.
+    int result = 2 * 5 + 10 / 2;
 
-Since, we are especially curious about doing more with fold mechanisms, we want to look at the [evolution and future directions for fold mechanisms](#10-evolution-and-future-directions), but FIRST it is probably well worth our while if we first understand more of the background on fold mechanisms; thus, that is what this post is about. 
+A compiler with constant folding enabled could replace the above line with:
+
+
+    int result = 15;
+
+In other words, at compile time or when the folding is done, the expression 2 * 5 + 10 / 2 is evaluated and replaced with just 15 ... that example is almost too obvious, but it furnishes the gist of what is done.  Beyond such **constant folding** or evaluating expressions composed entirely of constants at compile time rather than runtime, other variants or simplistic examples of folding techniques include **algebraic simplification** or applying algebraic identities to simplify expressions (e.g., x + 0 = x) OR **strength reduction** or replacing expensive operations with equivalent cheaper ones (e.g., replacing multiplication by powers of 2 with shifts).
+
+In most ***traditional*** compilers, these optimizations are typically implemented as part of larger passes, ie there's basically zero additional computational cost ... in fact, folding likely even reduces compile time computational cost, ie like like eliminating the easy stuff to free up resources or shrink the size of the todo list ... and thus our reason for interest in what might be an area where there is more low hanging fruit, or perhaps *fruit that is hanging just a weensy bit higher than the previous low-hanging fruit*.
+
+Fundamentally, it's about eliminating busy work ... even if computers make automating busy work so easy that nobody ever bothers to eliminate the extra overhead of more busywork, ie the [most important lesson from DeepSeek](https://x.com/i/grok/share/KO3ZNqYR1F53yJR56LDY2arQc).
+
+Since, we are especially curious about doing a lot more with fold mechanisms, or perhaps other compilier or pre-compiler simplification strategies things that are very similar to fold mechanisms, we want to look at the [evolution and future directions for fold mechanisms](#10-evolution-and-future-directions), but FIRST it is probably well worth our while if we first understand more of the background on fold mechanisms; thus, that is what this post is about. 
 
 ### Table of Contents
 
