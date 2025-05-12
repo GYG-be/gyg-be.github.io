@@ -2,7 +2,7 @@
 
 ## Professional Development Program for Agricultural Robotics Innovation
 
-The HROS.dev training initiative draws inspiration from [Gauntlet AI](https://www.gauntletai.com/program-faq), an intensive 10-week training program offered at no cost to participants, designed to develop the next generation of AI-enabled technical leaders. Successful Gauntlet graduates receive competitive compensation packages, including potential employment opportunities as AI Engineers with annual salaries of approximately $200,000 in Austin, Texas, or [**potentially more advantageous arrangements**](https://x.com/jasonleowsg/status/1905910023777407293).
+Our HROS.dev training initiative draws inspiration from [Gauntlet AI](https://www.gauntletai.com/program-faq), an intensive 10-week training program offered at no cost to participants, designed to develop the next generation of AI-enabled technical leaders. Successful Gauntlet graduates receive competitive compensation packages, including potential employment opportunities as AI Engineers with annual salaries of approximately $200,000 in Austin, Texas, or [**potentially more advantageous arrangements**](https://x.com/jasonleowsg/status/1905910023777407293).
 
 Our approach is a program builds upon this model while establishing a distinct focus and objective. While we acknowledge that some participants may choose career paths that allow them to concentrate on technology, engineering, and scientific advancement rather than entrepreneurship, our initiative extends beyond developing highly-skilled technical professionals.
 
