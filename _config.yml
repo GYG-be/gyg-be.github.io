@@ -1,9 +1,0 @@
-# Site settings
-title: HROS.dev
-email: MarkBruns@MarkBruns.com
-description: HARSH (Hazardous, Austere, Remote, Severe, and Hostile) Robotic Operating System Development
-twitter_username: MarkBruns
-github_username:  HROSdev
-
-# Build settings
-markdown: kramdown
