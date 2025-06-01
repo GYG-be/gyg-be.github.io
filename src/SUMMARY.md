@@ -7,6 +7,7 @@
 - [MLIR Compiler Fold Mechanisms](./C.md)
 - [Swarm Robotic Mgmt Systems -- Small Multi-Species Livestock Grazing Agroforestry Understory](./D.md)
 - [Virtual Fence Collars for Livestock: A Potential Swarm Robotics Application](./E.md)
+- [Patentable Technology Frontiers for HARSH Robotic Operating Systems](./F.md)
 - [Develop Locally, Deploy To The Cloud](./chapter_5.md)
     - [Section 1: Foundations of Local Development for ML/AI](nested/sub-chapter_5.1.md)
     - [Section 2: Hardware Optimization Strategies](nested/sub-chapter_5.2.md)
