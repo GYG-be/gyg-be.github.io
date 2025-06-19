@@ -1,8 +1,8 @@
 # Summary
 
-[Harsh Environment Robotic Operating System Development](Manifesto.md)
+[WHY HROS.dev?](Manifesto.md)
 
-- [WHY HROS.dev?](./F.md)
+- [Professional Development Program for HARSH Robotics Innovation](./F.md)
 - [Swarm Revolution: Smaller, Lighter, Swarms Of Autonomous Systems To Transform Agriculture](./A.md)
 - [MLIR Performance Reqmts For Harsh Environments](./B.md)
 - [MLIR Compiler Fold Mechanisms](./C.md)
