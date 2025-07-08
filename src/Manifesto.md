@@ -33,15 +33,6 @@ The fact that our Creator loves us BECAUSE OF our spectacular capacity for error
 
 Now, just because the Creator made me to disrupt and blast things apart doesn't mean I have license to simply wreck things for the sake of wrecking them. The beauty of the whole creative vision is that I, like every other member of my species, am not only destined but GUARANTEED to eventually fail in royal, grandiose fashion—in a manner that GUARANTEES my death ... I'd rather that my demise were not slow, but if it is, then that's just another magnificient opportunity.
 
-***How MAGNIFICENT IS THAT?!***
-
-Your existence is PROOF that a Creator exists ... I don't really know much about that Creator, except that I am definitely not Him. Your death will be PROOF that your Creator really knew what He was doing when He designed the self-destruct mechanism! The clever part of the whole game is that your finite and seemingly random lifespan made it possible for you to actually appreciate, love, and praise your Creator with every second of otherwise pointless existence ... that's MORE proof that your Creator exists and is watching you read this. 
-
-After all, why value your life if the stupid thing is going to goes on forever? And would you really value it as much if it might not end at any second?
-
-Life is infinitely more MAGNIFICENT when you think about it—especially without resenting the fact that your death as a hopelessly flawed being is guaranteed and pretty much totally beyond your control! You might not believe me, but trust me on this: you cannot even manage to end your own existence if the Creator does not allow you to succeed in that ultimate act of rebellion. Each MOMENT that you exists belongs to your Creator, so why not be in more perfect communion with Him?
-
-HROS.dev is about fully embracing failure and learning as much as we possibly can from every failure ... if things are going to fail anyway, why not use those failures to create something better, ie the whole reason you got to this point, right?  You were created to fail -- so why not be part of the creative process of using failures. ***How MAGNIFICENT is it to be alive for this?!***
 
 ## Table of Contents
 
