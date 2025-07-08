@@ -1,7 +1,7 @@
-# HARSH (Heterogenous Autonomous Remote Swarming Hostile) Robotic Operating System Development
+# HARSH (Heterogeneous Autonomous Remote Swarming Hostile) Robotic Operating System Development
 
-## Heterogenous
-Most fundamentally, HROS is about [heterogenous computing]([modular](https://docs.modular.com/mojo/faq/#why-is-it-called-mojo)} and less complex, simpler ways to innovate programming models for all kinds of different accelerators and other computing heterogeneous systems that are only just STARTING to become pervasive in AI today.
+## Heterogeneous
+Most fundamentally, HROS is about [Heterogeneous computing]([modular](https://docs.modular.com/mojo/faq/#why-is-it-called-mojo)} and less complex, simpler ways to innovate programming models for all kinds of different accelerators and other computing heterogeneous systems that are only just STARTING to become pervasive in AI today.
 
 ## Autonomous
 
@@ -19,24 +19,10 @@ Instead of single systems, we look at swarms of redundant modular systems in whi
 
 Security is really big deal. We have to assume that malevolent actors are constantly try to wreck what we are doing.
 
-## Preamble
-
-The Creator, in His infinite wisdom, has shown us the process of creating a Universe and all the laws upon which it stands. If you want to accomplish anything significant, you're going to need to produce some spectacular FAILURES along the way. These failures teach us and let us exploit the catastrophic unravelings that inevitably occur.
-
-Some developments that appear to be catastrophic, ignominious mistakes would certainly seem regrettable to the short-sighted—the human species, for example.
-
-***But our Creator LOVES magnificent failures like humans!***
-
-*Because monumental failures accomplish things* ... and perhaps because our Creator is simply a merciful, LOVING Creator with reasons beyond our comprehension.
-
-The fact that our Creator loves us BECAUSE OF our spectacular capacity for error is reason enough for me to love the fact that I was ever created. *And, if I were not created, YOU would not be reading this instead of doing some other stupid thing that you do, ie you reading this and me writing this is indeed the highest and best use of our time.*
-
-Now, just because the Creator made me to disrupt and blast things apart doesn't mean I have license to simply wreck things for the sake of wrecking them. The beauty of the whole creative vision is that I, like every other member of my species, am not only destined but GUARANTEED to eventually fail in royal, grandiose fashion—in a manner that GUARANTEES my death ... I'd rather that my demise were not slow, but if it is, then that's just another magnificient opportunity.
-
 
 ## Table of Contents
 
-1. [Preamble **↑**](#why-hrosdev)
+1. [HARSH **↑**](#heterogeneous)
 2. [The Paradox of The Phoenix Principle](#the-paradox-of-the-phoenix-principle)
 3. [From Waterfall to Whitewater](#from-waterfall-to-whitewater)
 4. [The Epistemology of the Explosion](#the-epistemology-of-the-explosion)
