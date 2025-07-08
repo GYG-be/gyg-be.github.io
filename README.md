@@ -1,12 +1,28 @@
 # Harsh Environment Robotic Operating System Development
 
+## Heterogenous
+Most fundamentally, HROS is about [heterogenous computing]([modular](https://docs.modular.com/mojo/faq/#why-is-it-called-mojo)} and less complex, simpler ways to innovate programming models for all kinds of different accelerators and other computing heterogeneous systems that are only just STARTING to become pervasive in AI today.
+
+## Autonomous
+
+Computing systems, that truly stand alone, but may possibly have humans in the loop remotely, that [learn how to learn](https://www.youtube.com/watch?v=dYRmZdwi9mo) in new, different environments that were only partially understood when the hardware was built 
+
+## Remote 
+
+Outer space or or other remote environments where human technicians either cannot survive or are so off-road that it might be dangerous for humans to get to.
+
+## Swarming
+
+Instead of single systems, we look at swarms of redundant modular systems in which the different individual nodes experiment, fail, and learn from each other's failures
+
+## Hostile
+
+Security is really big deal. We have to assume that malevolent actors are constantly try to wreck what we are doing.
+
+---
 ## Professional Development Program for Agricultural Robotics Innovation
 
-Our HROS.dev training initiative draws inspiration from [Gauntlet AI](https://www.gauntletai.com/program-faq), an intensive 10-week training program offered at no cost to participants, designed to develop the next generation of AI-enabled technical leaders. Successful Gauntlet graduates receive competitive compensation packages, including potential employment opportunities as AI Engineers with annual salaries of approximately $200,000 in Austin, Texas, or [**potentially more advantageous arrangements**](https://x.com/jasonleowsg/status/1905910023777407293).
-
-Our approach is a program builds upon this model while establishing a distinct focus and objective. While we acknowledge that some participants may choose career paths that allow them to concentrate on technology, engineering, and scientific advancement rather than entrepreneurship, our initiative extends beyond developing highly-skilled technical professionals.
-
-**The primary objective of this program is to cultivate founders of new ventures who will shape the future of agricultural robotics. Understanding the transformative impact this technology will have on agricultural economics and operational frameworks is critical to our mission.**
+The HROS.dev training initiative draws inspiration from [Gauntlet AI](https://www.gauntletai.com/program-faq), an intensive 10-week training program offered at no cost to participants, designed to develop the next generation of AI-enabled technical leaders. Successful Gauntlet graduates receive competitive compensation packages, including potential employment opportunities as AI Engineers with annual salaries of approximately $200,000 in Austin, Texas, or [**potentially more advantageous arrangements**](https://x.com/jasonleowsg/status/1905910023777407293).
 
 Anticipated outcomes include:
 
@@ -15,9 +31,7 @@ Anticipated outcomes include:
 - Fundamental transformation of at least one conventional agricultural process
 - Establishment of a talent development ecosystem that rivals Silicon Valley for rural innovation
 
-As articulated in the [FFA Creed](https://www.ffa.org/about/ffa-creed/), agricultural advancement will not emerge from incremental improvements but through transformative innovation driven by determined entrepreneurs who possess expertise in both technology and agricultural systems. This program aims to develop the founders who will create employment opportunities for thousands while revolutionizing food production systems across America and globally.
 
----
 #### Course: Adaptability Engineering In Swarm Robotics
 
 200 Modules. 1 Module/Day. 6 Topics/Module equates to 1 topic/hour for a six-hour training day. This only a roadmap ... anyone can come up with a roadmap better tailored to their particular needs and what kinds of things they want to explore. The pace is intense, some would say overwhelming ... anyone can slow down and take longer. The self-paced training is primarily AI-assisted and the process is about asking lots of questions that are somewhat bounded by a roadmap ... *but nobody needs to stick to that roadmap*. 

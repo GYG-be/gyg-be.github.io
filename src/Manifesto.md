@@ -1,14 +1,23 @@
-# WHY HROS.dev?
+# HARSH (Heterogenous Autonomous Remote Swarming Hostile) Robotic Operating System Development
 
-**H**ARSH (Hazardous, Autonomous, Remote, Swarming, and Hostile) 
+## Heterogenous
+Most fundamentally, HROS is about [heterogenous computing]([modular](https://docs.modular.com/mojo/faq/#why-is-it-called-mojo)} and less complex, simpler ways to innovate programming models for all kinds of different accelerators and other computing heterogeneous systems that are only just STARTING to become pervasive in AI today.
 
-**R**obotic 
+## Autonomous
 
-**O**perating
+Computing systems, that truly stand alone, but may possibly have humans in the loop remotely, that [learn how to learn](https://www.youtube.com/watch?v=dYRmZdwi9mo) in new, different environments that were only partially understood when the hardware was built 
 
-**S**ystems?
+## Remote 
 
-Why develop H.R.O.S.?
+Outer space or or other remote environments where human technicians either cannot survive or are so off-road that it might be dangerous for humans to get to.
+
+## Swarming
+
+Instead of single systems, we look at swarms of redundant modular systems in which the different individual nodes experiment, fail, and learn from each other's failures
+
+## Hostile
+
+Security is really big deal. We have to assume that malevolent actors are constantly try to wreck what we are doing.
 
 ## Preamble
 
