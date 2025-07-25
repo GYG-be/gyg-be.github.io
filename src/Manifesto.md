@@ -19,7 +19,7 @@ The 200-module onboarding curriculum balances cutting-edge technology developmen
 
 This core track emphasizes hands-on development of AR/VR systems optimized for field service environments, representing 65% of the curriculum with strong emphasis on building from scratch while integrating existing solutions strategically.
 
-#### **Phase 1: Foundation Technologies (Modules 1-30)**
+#### [**Phase 1: Foundation Technologies (Modules 1-30)**](https://docs.google.com/document/d/1Vsh5zlWPNrwm1SLQTEbCb-TkQm9hOyW7eT0M8oFfW5o/edit?usp=sharing)
 
 **Modules 1-6: AR/VR Hardware and Platform Fundamentals**
 1. **Meta Quest Development Environment Setup**
