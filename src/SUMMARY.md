@@ -2,7 +2,7 @@
 
 [WHY GYG.be?](Manifesto.md)
 
-- [The Symbiotic Stack: A Strategic Blueprint for an API-First Career Accelerator for Remote Technology Professionals](./chapter_2.md)
+- [50-Day Plan To Build The PAAS](./chapter_2.md)
     - [Day 1-2 Rust/Tauri](nested/sub-chapter_2.1.md)
     - [Day 3-4 LLMs and LLMops](nested/sub-chapter_2.2.md)
     - [Day 5-6 Ingesting APIs](nested/sub-chapter_2.3.md)
