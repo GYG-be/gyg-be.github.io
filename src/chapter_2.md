@@ -1,4 +1,4 @@
-# Chapter 2 -- The 50-Day Plan For Building A Personal Assistant Agentic System (PAAS)
+# 50-Day Plan For Building A Personal Assistant Agentic System (PAAS)
 
 The BIG REASON to build a PAAS is for radically improved intelligence gathering.
 
