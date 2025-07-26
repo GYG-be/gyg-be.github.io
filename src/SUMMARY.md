@@ -1,9 +1,8 @@
 # Summary
 
-[WHY ArtificialDad.NET?](Manifesto.md)
+[WHY GYG.be?](Manifesto.md)
 
-- [MLIR Performance Reqmts For Harsh Environments](./B.md)
-- [MLIR Compiler Fold Mechanisms](./C.md)
+- [The Symbiotic Stack: A Strategic Blueprint for an API-First Career Accelerator for Remote Technology Professionals](./B.md)
 - [Develop Locally, Deploy To The Cloud](./chapter_5.md)
     - [Section 1: Foundations of Local Development for ML/AI](nested/sub-chapter_5.1.md)
     - [Section 2: Hardware Optimization Strategies](nested/sub-chapter_5.2.md)
