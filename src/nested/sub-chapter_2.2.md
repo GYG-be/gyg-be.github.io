@@ -1,6 +1,4 @@
-# Chapter 2 -- The 100-Day Plan For Building A Personal Assistant Agentic System (PAAS)
-
-### Phase 2: AI-Powered Core Features (Days 31-60)
+# Phase 2: AI-Powered Core Features (Days 31-60)
 
 **Week 5-6: Advanced Skill Analysis and Extraction**
 - Integrate Mojo/Max components for advanced NLP-based skill extraction from resumes and professional profiles
