@@ -1,6 +1,6 @@
 # Examples of Job Search or Remote Work Apps, Systems, or Dashboards Using LLMs
 
-*We [asked Grok 4](https://grok.com/share/c2hhcmQtMg%3D%3D_20840cdd-dcb2-4347-9aee-fd910824e739) ... then followed up with a Gemini prompt to:
+*We [asked Grok 4](https://grok.com/share/c2hhcmQtMg%3D%3D_20840cdd-dcb2-4347-9aee-fd910824e739) ... then followed up with a [Gemini prompt](https://gemini.google.com/app/980de1b573531e6a) to:
 
 - Synthesize our provided text, links, and social media snippets to establish a baseline understanding of how LLMs are currently used in job search and remote work applications.
 - Expand the list of examples by searching for additional commercial platforms, open-source projects, and startups in this space. Categorize them by their primary function: job seeker tools, recruiter/HR platforms, or remote work dashboards.
