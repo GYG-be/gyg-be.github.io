@@ -8,5 +8,5 @@
     - [Phase 2:AI-Powered Core Features](nested/sub-chapter_2.2.md)
     - [Phase 3: Wellness Integration and Advanced Features](nested/sub-chapter_2.3.md)
     - [Phase 4: Platform Optimization and Market Launch](nested/sub-chapter_2.4.md)
-- [Active GitHub Repositories with Both "jobsearch" and "remote-work" Topics](./chapter_3.md)    
-- [Examples of Job Search or Remote Work Apps, Systems, or Dashboards Using LLMs](./chapter_4.md)    
+- [Active GitHub Dev Communities In "jobsearch" and "remote-work" Repositories](./chapter_3.md)    
+- [LLM-Powered Systems in Talent Acquisition / Remote Work](./chapter_4.md)    
