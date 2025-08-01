@@ -1,3 +1,5 @@
+# Appendix 2: Improving Upon What Others Are Doing
+
 ## Active GitHub Repositories with Both "jobsearch" and "remote-work" Topics
 
 ### 1. [**remoteintech/remote-jobs**](https://github.com/remoteintech/remote-jobs)
