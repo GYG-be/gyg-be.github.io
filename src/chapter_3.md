@@ -62,7 +62,6 @@ The C4 model provides a clear, hierarchical view of the system's structure.
   3. The **Job Posting Source**, which is typically a public URL that the user provides for analysis.  
 * **Level 2: Container Diagram:** Decomposing the system reveals several interacting containers (services), each with a distinct responsibility and technology choice.
 
-\!([https://i.imgur.com/example-container-diagram.png](https://i.imgur.com/example-container-diagram.png)) *(Note: A visual diagram would be inserted here in a final document.)*
 
 1\.  \*\*Web Application (Frontend):\*\* A Single-Page Application (SPA) delivered to the user's browser. It is built using \*\*Rust compiled to WebAssembly (WASM)\*\*, likely with a framework like Yew or Leptos. This choice enables high performance, a responsive UI, and potential code sharing with the backend, aligning with the GYG-be ethos of using modern, efficient technology.  
 2\.  \*\*API Gateway (Rust):\*\* A backend service built with a Rust web framework like \*\*Axum\*\*.\[12\] It serves as the single entry point for the frontend, exposing a secure REST or GraphQL API. It authenticates requests and orchestrates calls to the various internal microservices. Axum is chosen for its tight integration with the Tokio ecosystem, strong community support, and ergonomic design.  
