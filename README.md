@@ -8,13 +8,13 @@ The GyG-Platform-as-a-Service (GPaaS) is built upon three interconnected pillars
 
 In other words, ***we have to [dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) our own dogfood, or otherwise, we end up swallowing somebody else's leftovers,*** but that does not mean that we can't learn a lot from others.
 
-We want to build a PERSONAL job search utility that is APPROXIMATELY like @KelleyClaude.
+We want to build a PERSONAL job search utility that is APPROXIMATELY like [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI).
 
 The following is a 100-point ToDo list of what we will need to do.
 
-1. Research what @KellyClaudeAI does by reviewing its X profile and recent posts.
-2. Identify key features of @KellyClaudeAI, such as job matching, resume parsing, and automated applications.
-3. Compare @KellyClaudeAI to similar tools like LinkedIn Job Search, Indeed AI, or Claude-based scripts.
+1. Research what [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI) does by reviewing its X profile and recent posts.
+2. Identify key features of [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI), such as job matching, resume parsing, and automated applications.
+3. Compare [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI) to similar tools like LinkedIn Job Search, Indeed AI, or Claude-based scripts.
 4. Study Anthropic's Claude API documentation for integration possibilities.
 5. Explore job board APIs (e.g., Indeed, LinkedIn, Glassdoor) for data access.
 6. Investigate web scraping libraries like BeautifulSoup or Scrapy for job listings.
