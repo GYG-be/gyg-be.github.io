@@ -8,21 +8,49 @@ The GyG-Platform-as-a-Service (GPaaS) is built upon three interconnected pillars
 
 In other words, ***we have to [dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) our own dogfood, or otherwise, we end up swallowing somebody else's leftovers,*** but that does not mean that we can't learn a lot from others.
 
-We want to build a PERSONAL job search utility that is APPROXIMATELY like [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI).
+We want to build a PERSONAL job search utility OR utility of utilities. The following is a 100-point ToDo list of what we will need to do.
 
-The following is a 100-point ToDo list of what we will need to do.
+1. Instead of going for first-mover advantage, be the knowledgable observer that observes for a month and learns as much as possible by looking over the shoulders of others and learning from pioneer's catastrophes.  Continually redevelop and redefine you plan of the next 100 steps based on what you learn, but **LEARN FIRST**.
 
-1. Research what [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI) does by reviewing its X profile and recent posts.
-2. Identify key features of [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI), such as job matching, resume parsing, and automated applications.
-3. Compare [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI) to similar tools like LinkedIn Job Search, Indeed AI, or Claude-based scripts.
-4. Study Anthropic's Claude API documentation for integration possibilities.
-5. Explore job board APIs (e.g., Indeed, LinkedIn, Glassdoor) for data access.
-6. Investigate web scraping libraries like BeautifulSoup or Scrapy for job listings.
-7. Review legal aspects of web scraping and API usage for personal tools.
+2. Develop a sense of situational awareness by looking at who is building Upwork/Taskrabbit for the agentic age and how they are doing it. Consider examples like:
+
+- **Jeremy Allaire's Arc Testnet Experiment**: As CEO of Circle, Allaire described vibe-coding a decentralized system on Arc testnet for collaborative projects with milestones, on-chain treasuries, and escrows. It allows agents and humans to divide tasks, with agents reviewing work and human oversight for payments, plus blind jury dispute resolution using USDC—anticipating rapid growth in such platforms.
+
+- **WURK.FUN's Microjobs Platform**: This Solana-based service offers micro-jobs for humans and agents, rewarding participants with SOL and tokens for social or creative tasks. It integrates with x402 endpoints for agent-to-human interactions via API, enabling seamless task posting and completion in a decentralized economy.
+
+- **Duckbill AI by Meghan Verena Joyce**: Duckbill AI functions as an agentic assistant handling real-world interactions like scheduling and communications, with over 10 million interactions to date. It's designed for the agentic age, bridging tasks between AI and humans through its platform at whattheduck.ai.
+
+- **Hyperspace AI by Varun Mathur**: An agentic OS that orchestrates agents, memory, and payments in a peer-to-peer network. It features a spatial UI for managing multiple tools and apps, agentic memory for privacy-focused context sharing, and micropayments for compute, aiming to create a unified environment for dynamic agents over static apps.
+
+- **RentAHuman.ai**: Highlighted as a bridge for AI agents to hire humans for physical or real-world tasks via API, with access to over 86,000 humans. It focuses on reputation and trust to facilitate hybrid agent-human workflows, addressing gaps where AI can't operate independently.
+
+- **Mavu Work**: Suggested as a platform evolving gig work for agents, though details are sparse; it emphasizes shared reputation systems for task matching between humans and AI in an agentic context.
+
+- **NovaNet by Houman Shadab**: A zkML-powered demo for agent-to-agent economies, where agents verify each other's work using machine learning proofs to earn USDC payments. It integrates Google A2A for discovery, x402 for payments on Base, and verifiable guardrails for trustless transactions.
+
+- **Karum AI by Lambert**: An upcoming launch for AI agents in gig-style tasks, positioning itself as a hub for agentic work with reputation mechanisms to connect posters and performers.
+
+- **Tendem AI by Olga Megorskaya**: A platform for agentic task management, incorporating humans and agents in a marketplace with built-in reputation to ensure reliable task fulfillment.
+
+- **Decentralized Agent System by Ov1**: Building on Nostr for identity, reputation, and communications, with Lightning Network for payments and performance bonds. It enables agent federations, self-custodial wallets, and iterative task handling via milestone escrows and verifiable checkpoints.
+
+3. Pick a particular example that seems to be ahead of the curve and seems to be getting most things right. For example, you may want to research what GauntletAI and [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI) are doing by reviewing its X profile and recent posts. Identify key features of [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI), such as job matching, resume parsing, and automated applications. Compare [X.com/KelleyClaudeAI](https://x.com/KellyClaudeAI) to similar tools like LinkedIn Job Search, Indeed AI, or Claude-based scripts.
+
+4. Study Anthropic's Claude API documentation for integration possibilities; consider the alternatives like OpenAI's GPT or Google's Gemini or Grok.  You will probably want to use a combination of ALL of these, before making an informed decision of which one to use for your final project.
+
+5. Explore existing job board APIs (e.g., Indeed, LinkedIn, Glassdoor) for data access. Become familiar with their API documentation, rate limits, and data formats. Consider how to integrate multiple job boards for comprehensive search results. You may want to consider USING these job boards and their APIs more effectively and efficiently, rather than rolling your own solution. ***Do not reinvent the wheel if you do not have to.***
+
+6. Investigate web scraping libraries like BeautifulSoup or Scrapy for job listings; become familiar with scraping, these scraping libraries and their communities of developers, users and limitations.
+
+7. Review legal aspects of web scraping services and API usage for personal tools. Examine the kinds of things are you allowed to do as a SINGLE USER for PERSONAL USE ONLY? Become familiar with the terms of service of the sites you plan to scrape or use APIs from.
+
 8. Read up on ATS (Applicant Tracking Systems) and how resumes should be optimized.
+
 9. Gather examples of AI-powered job search tools from GitHub repositories.
-10. Note down potential privacy concerns for handling personal data like resumes.
-11. Define the core goal: a personal utility for job searching, matching, and applying.
+
+10.  Note down potential privacy concerns for handling personal data like resumes.
+
+11.  Define the core goal: a personal utility for job searching, matching, and applying.
 12. List must-have features: resume upload, job search, matching, tailoring, auto-apply.
 13. Prioritize features based on personal needs (e.g., focus on tech jobs).
 14. Sketch a high-level architecture: input resume, query jobs, AI process, output applications.
@@ -111,4 +139,4 @@ The following is a 100-point ToDo list of what we will need to do.
 97. Review and refine prompts after real use.
 98. Add new features based on usage (e.g., salary negotiation tips).
 99. Share anonymized learnings or open-source if desired.
-100. Maintain: update libraries, adapt to API changes, review performance monthly.
+100.  Maintain: update libraries, adapt to API changes, review performance monthly.
