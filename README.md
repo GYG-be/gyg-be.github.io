@@ -38,7 +38,7 @@ We want to build a PERSONAL job search utility OR utility of utilities. The foll
 
 4. Study Anthropic's Claude API documentation for integration possibilities; consider the alternatives like OpenAI's GPT or Google's Gemini or Grok.  You will probably want to use a combination of ALL of these, before making an informed decision of which one to use for your final project.
 
-5. Explore existing job board APIs (e.g., Indeed, LinkedIn, Glassdoor) for data access. Become familiar with their API documentation, rate limits, and data formats. Consider how to integrate multiple job boards for comprehensive search results. You may want to consider USING these job boards and their APIs more effectively and efficiently, rather than rolling your own solution. ***Do not reinvent the wheel if you do not have to.***
+5. Explore existing startup founder and job board APIs (e.g., StartupSchool, AngelList, Ycombinator, Indeed, LinkedIn, Glassdoor) for data access. Become familiar with their API documentation, rate limits, and data formats. Consider how to integrate multiple job boards for comprehensive search results. You may want to consider USING these job boards and their APIs more effectively and efficiently, rather than rolling your own solution. ***Do not reinvent the wheel if you do not have to.***
 
 6. Investigate web scraping libraries like BeautifulSoup or Scrapy for job listings; become familiar with scraping, these scraping libraries and their communities of developers, users and limitations.
 
