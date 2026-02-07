@@ -1,4 +1,4 @@
-# **Chapter 4: Transforming Talent Acquisition: From Automated Workflows to Market Disruption**
+# **Archived Original GYG Plan: Transforming Talent Acquisition: From Automated Workflows to Market Disruption**
 
 ### **Introduction**
 

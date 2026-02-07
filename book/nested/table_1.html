@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Phase 4: User Interface and Control (Tasks 66–80) - GitYourGyg ... API-First AI-Assisted Career Accelerator</title>
+        <title>Table 1: Core Technology Stack Summary - GitYourGyg ... API-First AI-Assisted Career Accelerator</title>
 
 
         <!-- Custom HTML head -->
@@ -155,89 +155,26 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h2 id="phase-4-user-interface-and-control-tasks-6680"><a class="header" href="#phase-4-user-interface-and-control-tasks-6680"><strong>Phase 4: User Interface and Control (Tasks 66–80)</strong></a></h2>
-<p>The agent needs a cockpit. The user experience should be "High-Level Direction, Low-Level Automation."<br />
-<strong>Task 66: Build "Command Center" Dashboard</strong></p>
-<ul>
-<li><strong>Tech Stack:</strong> Next.js (Frontend) + FastAPI (Backend).</li>
-<li><strong>Views:</strong>
-<ul>
-<li><strong>Inbox:</strong> New matches waiting for triage.</li>
-<li><strong>Active:</strong> Applications sent, awaiting reply.</li>
-<li><strong>Scheduled:</strong> Upcoming interviews.</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 67: "Swipe" Interface (Tinder for Jobs)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Implement the CoffeeSpace mechanic.</li>
-<li><strong>Value:</strong> Swiping is faster than reading lists. It also generates training data (Right Swipe = Positive Signal) to update the User Vector.</li>
-</ul>
-<p><strong>Task 68: Telegram/Slack Bot Integration</strong></p>
-<ul>
-<li><strong>Objective:</strong> Push notifications.</li>
-<li><strong>Flow:</strong> Agent sends: "New High Match (95%).. Apply?" User replies: "Yes." Agent executes.</li>
-</ul>
-<p><strong>Task 69: Profile Editor &amp; Document Vault</strong></p>
-<ul>
-<li><strong>Functionality:</strong> Drag-and-drop interface for Resumes, Transcripts, and Portfolios.</li>
-</ul>
-<p><strong>Task 70: "Agent Logs" Transparency Viewer</strong></p>
-<ul>
-<li><strong>Objective:</strong> Trust building.</li>
-<li><strong>Display:</strong> A terminal-like stream showing the agent's actions: "Scraping YC... Found 5 profiles... Filtering... 1 Match."</li>
-</ul>
-<p><strong>Task 71: Approval Queue Implementation</strong></p>
-<ul>
-<li><strong>Logic:</strong> A "Drafts" folder. The user can bulk-approve or edit messages before they are sent.</li>
-</ul>
-<p><strong>Task 72: Analytics Dashboard</strong></p>
-<ul>
-<li><strong>Metrics:</strong> Funnel visualization. Matches -&gt; Swiped Right -&gt; Applied -&gt; Interviewed -&gt; Offers.</li>
-</ul>
-<p><strong>Task 73: "Magic Link" Authentication</strong></p>
-<ul>
-<li><strong>Tool:</strong> Auth0 or Supabase Auth. Passwordless login for ease of use.</li>
-</ul>
-<p><strong>Task 74: Mobile-Responsive Design</strong></p>
-<ul>
-<li><strong>Objective:</strong> Triage on the go. The "Swipe" interface must be mobile-first.</li>
-</ul>
-<p><strong>Task 75: Voice Interface (Whisper API)</strong></p>
-<ul>
-<li><strong>Objective:</strong> "Agent, pause the search for co-founders, I'm going on vacation."</li>
-</ul>
-<p><strong>Task 76: "Daily Digest" Email Generator</strong></p>
-<ul>
-<li><strong>Format:</strong> A structured email summary at 8:00 AM. "3 new jobs, 1 co-founder match, 2 interview requests."</li>
-</ul>
-<p><strong>Task 77: Granular Settings &amp; Preferences</strong></p>
-<ul>
-<li><strong>Controls:</strong> Sliders for "Risk Tolerance," "Equity vs Salary," "Remote Importance."</li>
-</ul>
-<p><strong>Task 78: "Vacation Mode" Toggle</strong></p>
-<ul>
-<li><strong>Logic:</strong> Pauses all outgoing actions and auto-replies to incoming messages with a delay notice.</li>
-</ul>
-<p><strong>Task 79: Data Export Feature</strong></p>
-<ul>
-<li><strong>Format:</strong> CSV/JSON export of all applications for the user's records.</li>
-</ul>
-<p><strong>Task 80: Integration with Productivity Tools (Notion/Airtable)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Sync status.</li>
-<li><strong>Logic:</strong> When the agent applies, it creates a row in the user's Notion "Job Search" database.</li>
-</ul>
-
+                        <h3 id="table-1-core-technology-stack-summary"><a class="header" href="#table-1-core-technology-stack-summary"><strong>Table 1: Core Technology Stack Summary</strong></a></h3>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Component</th><th style="text-align: left">Technology</th><th style="text-align: left">Rationale</th></tr></thead><tbody>
+<tr><td style="text-align: left"><strong>Orchestration</strong></td><td style="text-align: left">CrewAI + LangGraph</td><td style="text-align: left">CrewAI for high-level roles; LangGraph for complex state machines.</td></tr>
+<tr><td style="text-align: left"><strong>Scraping</strong></td><td style="text-align: left">Firecrawl + Apify</td><td style="text-align: left">Firecrawl for LLM-ready markdown; Apify for difficult SPAs (LinkedIn).</td></tr>
+<tr><td style="text-align: left"><strong>Discovery</strong></td><td style="text-align: left">Exa.ai</td><td style="text-align: left">Semantic search finds companies keyword search misses.</td></tr>
+<tr><td style="text-align: left"><strong>Database</strong></td><td style="text-align: left">Weaviate</td><td style="text-align: left">Hybrid search (Vector + Keyword) is essential for job matching.</td></tr>
+<tr><td style="text-align: left"><strong>LLM</strong></td><td style="text-align: left">GPT-4o / Claude 3.5</td><td style="text-align: left">GPT-4o for logic/JSON; Claude 3.5 Sonnet for writing/nuance.</td></tr>
+<tr><td style="text-align: left"><strong>UI</strong></td><td style="text-align: left">Streamlit / Next.js</td><td style="text-align: left">Streamlit for rapid internal tools; Next.js for production dashboard.</td></tr>
+<tr><td style="text-align: left"><strong>Browser</strong></td><td style="text-align: left">Playwright</td><td style="text-align: left">Robust handling of dynamic content and stealth plugins.</td></tr>
+</tbody></table>
+</div>
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
-                            <a rel="prev" href="../nested/sub-chapter_2.3.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="../nested/sub-chapter_2.5.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
 
-                            <a rel="next prefetch" href="../nested/sub-chapter_2.5.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next prefetch" href="../nested/table_2.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <i class="fa fa-angle-right"></i>
                             </a>
 
@@ -247,11 +184,11 @@
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                    <a rel="prev" href="../nested/sub-chapter_2.3.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="../nested/sub-chapter_2.5.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
 
-                    <a rel="next prefetch" href="../nested/sub-chapter_2.5.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next prefetch" href="../nested/table_2.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <i class="fa fa-angle-right"></i>
                     </a>
             </nav>

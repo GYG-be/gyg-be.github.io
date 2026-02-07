@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Phase 4: User Interface and Control (Tasks 66–80) - GitYourGyg ... API-First AI-Assisted Career Accelerator</title>
+        <title>Phase 5: Deployment, Security, and Scale (Tasks 81–100) - GitYourGyg ... API-First AI-Assisted Career Accelerator</title>
 
 
         <!-- Custom HTML head -->
@@ -155,89 +155,97 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h2 id="phase-4-user-interface-and-control-tasks-6680"><a class="header" href="#phase-4-user-interface-and-control-tasks-6680"><strong>Phase 4: User Interface and Control (Tasks 66–80)</strong></a></h2>
-<p>The agent needs a cockpit. The user experience should be "High-Level Direction, Low-Level Automation."<br />
-<strong>Task 66: Build "Command Center" Dashboard</strong></p>
+                        <h2 id="phase-5-deployment-security-and-scale-tasks-81100"><a class="header" href="#phase-5-deployment-security-and-scale-tasks-81100"><strong>Phase 5: Deployment, Security, and Scale (Tasks 81–100)</strong></a></h2>
+<p><strong>Task 81: Unit Testing of Scrapers</strong></p>
 <ul>
-<li><strong>Tech Stack:</strong> Next.js (Frontend) + FastAPI (Backend).</li>
-<li><strong>Views:</strong>
-<ul>
-<li><strong>Inbox:</strong> New matches waiting for triage.</li>
-<li><strong>Active:</strong> Applications sent, awaiting reply.</li>
-<li><strong>Scheduled:</strong> Upcoming interviews.</li>
+<li><strong>Strategy:</strong> Maintain "Golden HTML" files (static snapshots of target sites). Run tests against these to ensure parsing logic works even if the live site is down.</li>
 </ul>
-</li>
-</ul>
-<p><strong>Task 67: "Swipe" Interface (Tinder for Jobs)</strong></p>
+<p><strong>Task 82: Integration Testing of Workflows</strong></p>
 <ul>
-<li><strong>SMART Objective:</strong> Implement the CoffeeSpace mechanic.</li>
-<li><strong>Value:</strong> Swiping is faster than reading lists. It also generates training data (Right Swipe = Positive Signal) to update the User Vector.</li>
+<li><strong>Strategy:</strong> Mock the LLM responses to test the state machine logic without incurring API costs.</li>
 </ul>
-<p><strong>Task 68: Telegram/Slack Bot Integration</strong></p>
+<p><strong>Task 83: Load Testing</strong></p>
 <ul>
-<li><strong>Objective:</strong> Push notifications.</li>
-<li><strong>Flow:</strong> Agent sends: "New High Match (95%).. Apply?" User replies: "Yes." Agent executes.</li>
+<li><strong>Objective:</strong> Ensure the system can handle scraping 50 sites concurrently without crashing.</li>
 </ul>
-<p><strong>Task 69: Profile Editor &amp; Document Vault</strong></p>
+<p><strong>Task 84: Rate Limit Simulation</strong></p>
 <ul>
-<li><strong>Functionality:</strong> Drag-and-drop interface for Resumes, Transcripts, and Portfolios.</li>
+<li><strong>Strategy:</strong> Simulate 429 errors from APIs to ensure the backoff logic works.</li>
 </ul>
-<p><strong>Task 70: "Agent Logs" Transparency Viewer</strong></p>
+<p><strong>Task 85: OWASP Security Audit</strong></p>
 <ul>
-<li><strong>Objective:</strong> Trust building.</li>
-<li><strong>Display:</strong> A terminal-like stream showing the agent's actions: "Scraping YC... Found 5 profiles... Filtering... 1 Match."</li>
+<li><strong>Focus:</strong> Prevent SQL Injection in the dashboard and XSS in the description renderer.</li>
 </ul>
-<p><strong>Task 71: Approval Queue Implementation</strong></p>
+<p><strong>Task 86: GDPR/CCPA Compliance</strong></p>
 <ul>
-<li><strong>Logic:</strong> A "Drafts" folder. The user can bulk-approve or edit messages before they are sent.</li>
+<li><strong>Action:</strong> Ensure the "Delete Account" button actually wipes all scraped data associated with the user.</li>
 </ul>
-<p><strong>Task 72: Analytics Dashboard</strong></p>
+<p><strong>Task 87: Dockerization</strong></p>
 <ul>
-<li><strong>Metrics:</strong> Funnel visualization. Matches -&gt; Swiped Right -&gt; Applied -&gt; Interviewed -&gt; Offers.</li>
+<li><strong>Deliverable:</strong> docker-compose.yml defining the Agent, DB, Scraper Service, and UI.</li>
 </ul>
-<p><strong>Task 73: "Magic Link" Authentication</strong></p>
+<p><strong>Task 88: Cloud Deployment (AWS/GCP)</strong></p>
 <ul>
-<li><strong>Tool:</strong> Auth0 or Supabase Auth. Passwordless login for ease of use.</li>
+<li><strong>Architecture:</strong> Deploy on AWS ECS (Fargate) for serverless container management. Use RDS for the relational DB.</li>
 </ul>
-<p><strong>Task 74: Mobile-Responsive Design</strong></p>
+<p><strong>Task 89: CI/CD Pipelines (GitHub Actions)</strong></p>
 <ul>
-<li><strong>Objective:</strong> Triage on the go. The "Swipe" interface must be mobile-first.</li>
+<li><strong>Flow:</strong> Commit -&gt; Test -&gt; Build Image -&gt; Deploy to Staging.</li>
 </ul>
-<p><strong>Task 75: Voice Interface (Whisper API)</strong></p>
+<p><strong>Task 90: Monitoring &amp; Observability (Prometheus/Grafana)</strong></p>
 <ul>
-<li><strong>Objective:</strong> "Agent, pause the search for co-founders, I'm going on vacation."</li>
+<li><strong>Metrics:</strong> "Scraper Success Rate," "LLM Latency," "API Cost per Day."</li>
 </ul>
-<p><strong>Task 76: "Daily Digest" Email Generator</strong></p>
+<p><strong>Task 91: Cost Monitoring and Alerts</strong></p>
 <ul>
-<li><strong>Format:</strong> A structured email summary at 8:00 AM. "3 new jobs, 1 co-founder match, 2 interview requests."</li>
+<li><strong>Objective:</strong> Alert if OpenAI spend exceeds $5/day.</li>
 </ul>
-<p><strong>Task 77: Granular Settings &amp; Preferences</strong></p>
+<p><strong>Task 92: "Kill Switch" Implementation</strong></p>
 <ul>
-<li><strong>Controls:</strong> Sliders for "Risk Tolerance," "Equity vs Salary," "Remote Importance."</li>
+<li><strong>Importance:</strong> Immediate hardware/software stop if the agent goes rogue (e.g., spamming applications).</li>
 </ul>
-<p><strong>Task 78: "Vacation Mode" Toggle</strong></p>
+<p><strong>Task 93: Beta User Onboarding</strong></p>
 <ul>
-<li><strong>Logic:</strong> Pauses all outgoing actions and auto-replies to incoming messages with a delay notice.</li>
+<li><strong>Objective:</strong> Recruit 5 "Alpha" users to test the match quality.</li>
 </ul>
-<p><strong>Task 79: Data Export Feature</strong></p>
+<p><strong>Task 94: Feedback Loop (RLHF)</strong></p>
 <ul>
-<li><strong>Format:</strong> CSV/JSON export of all applications for the user's records.</li>
+<li><strong>Logic:</strong> Use the "Swipe" data to fine-tune the embedding model (retrieval ranking).</li>
 </ul>
-<p><strong>Task 80: Integration with Productivity Tools (Notion/Airtable)</strong></p>
+<p><strong>Task 95: Documentation</strong></p>
 <ul>
-<li><strong>SMART Objective:</strong> Sync status.</li>
-<li><strong>Logic:</strong> When the agent applies, it creates a row in the user's Notion "Job Search" database.</li>
+<li><strong>Deliverable:</strong> API docs and a "User Guide" explaining how to write a "Manifesto" for the agent.</li>
+</ul>
+<p><strong>Task 96: Open Source Strategy</strong></p>
+<ul>
+<li><strong>Decision:</strong> Open source the generic scrapers (to get community fixes) but keep the matching logic proprietary.</li>
+</ul>
+<p><strong>Task 97: Community Building</strong></p>
+<ul>
+<li><strong>Action:</strong> Create a Discord for users to share "Agent Wins."</li>
+</ul>
+<p><strong>Task 98: Roadmap Planning (V2)</strong></p>
+<ul>
+<li><strong>Future:</strong> "Auto-Interview" with AI avatars? "Salary Negotiation" bot?</li>
+</ul>
+<p><strong>Task 99: Final System Polish</strong></p>
+<ul>
+<li><strong>Action:</strong> UI cleanup, loading states, error messages.</li>
+</ul>
+<p><strong>Task 100: Launch</strong></p>
+<ul>
+<li><strong>Action:</strong> Release the Kraken.</li>
 </ul>
 
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
-                            <a rel="prev" href="../nested/sub-chapter_2.3.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="../nested/sub-chapter_2.4.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
 
-                            <a rel="next prefetch" href="../nested/sub-chapter_2.5.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next prefetch" href="../nested/table_1.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <i class="fa fa-angle-right"></i>
                             </a>
 
@@ -247,11 +255,11 @@
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                    <a rel="prev" href="../nested/sub-chapter_2.3.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="../nested/sub-chapter_2.4.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
 
-                    <a rel="next prefetch" href="../nested/sub-chapter_2.5.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next prefetch" href="../nested/table_1.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <i class="fa fa-angle-right"></i>
                     </a>
             </nav>

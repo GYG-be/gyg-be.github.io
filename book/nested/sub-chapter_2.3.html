@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Phase 3: Wellness Integration and Advanced Features - GitYourGyg ... API-First AI-Assisted Career Accelerator</title>
+        <title>Phase 3: The Intelligence Core – Agentic Workflows (Tasks 36–65) - GitYourGyg ... API-First AI-Assisted Career Accelerator</title>
 
 
         <!-- Custom HTML head -->
@@ -155,20 +155,176 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="phase-3-wellness-integration-and-advanced-features-days-61-80"><a class="header" href="#phase-3-wellness-integration-and-advanced-features-days-61-80">Phase 3: Wellness Integration and Advanced Features (Days 61-80)</a></h1>
-<p><strong>Week 9-10: Financial Wellness Integration</strong></p>
+                        <h2 id="phase-3-the-intelligence-core--agentic-workflows-tasks-3665"><a class="header" href="#phase-3-the-intelligence-core--agentic-workflows-tasks-3665"><strong>Phase 3: The Intelligence Core – Agentic Workflows (Tasks 36–65)</strong></a></h2>
+<p>With the data ingested and structured, we build the "brain." This phase utilizes <strong>CrewAI</strong> to create a team of specialized AI agents that mimic a human recruiting team: a Researcher (Scout), an Analyst (Matchmaker), and a Copywriter (Outreach).</p>
+<h3 id="31-orchestration-framework-setup"><a class="header" href="#31-orchestration-framework-setup"><strong>3.1 Orchestration Framework Setup</strong></a></h3>
+<p><strong>Task 36: Initialize CrewAI Environment</strong></p>
 <ul>
-<li>Implement AI-powered budgeting system with spending pattern analysis and career-aligned recommendations</li>
-<li>Develop investment recommendation engine tailored to tech professional income patterns and risk profiles</li>
-<li>Create automated financial planning with career progression modeling and salary optimization</li>
-<li>Integrate tax optimization strategies connected to professional development goals and education expenses</li>
+<li><strong>SMART Objective:</strong> Configure the CrewAI runtime environment by Week 7.</li>
+<li><strong>Configuration:</strong> Define the agents.yaml and tasks.yaml files.</li>
+<li><strong>Framework Choice:</strong> CrewAI is selected for its ability to define "Personas". A "Senior Recruiter" persona performs better at evaluating resumes than a generic LLM.</li>
 </ul>
-<p><strong>Week 11-12: Emotional Wellness and AI Coaching</strong></p>
+<p><strong>Task 37: Develop "The Scout" Agent (Researcher)</strong></p>
 <ul>
-<li>Deploy conversational AI coaching system using advanced NLP for personalized guidance and feedback</li>
-<li>Implement sentiment analysis and stress detection from communication patterns and behavioral data</li>
-<li>Create real-time emotional state monitoring with intervention systems for mental health support</li>
-<li>Develop integration with wearable devices for comprehensive wellness tracking</li>
+<li><strong>Role:</strong> Market Researcher.</li>
+<li><strong>Goal:</strong> "Find the top 20 new opportunities today that match the User's Vector."</li>
+<li><strong>Tools:</strong> VectorSearchTool (queries Weaviate), ExaSearchTool (queries the web).</li>
+<li><strong>Logic:</strong> The Scout filters the raw stream. It creates a shortlist.</li>
+</ul>
+<p><strong>Task 38: Develop "The Matchmaker" Agent (Analyst)</strong></p>
+<ul>
+<li><strong>Role:</strong> Career Coach / Venture Associate.</li>
+<li><strong>Goal:</strong> "Rigorously evaluate the shortlist. Calculate a Match Score (0-100) based on the user's hard constraints and soft preferences."</li>
+<li><strong>Chain of Thought:</strong> "The user wants a remote job. This job is remote. The user knows React. This job needs Vue. Score penalty: -10. Final Score: 85."</li>
+</ul>
+<p><strong>Task 39: Develop "The Networker" Agent (Outreach)</strong></p>
+<ul>
+<li><strong>Role:</strong> PR Specialist.</li>
+<li><strong>Goal:</strong> "Draft the initial communication for the approved matches."</li>
+<li><strong>Capabilities:</strong> Must be able to switch tone—formal for a bank job, casual for a crypto bounty, passionate for a co-founder intro.</li>
+</ul>
+<h3 id="32-specialized-workflows-langgraph"><a class="header" href="#32-specialized-workflows-langgraph"><strong>3.2 specialized Workflows (LangGraph)</strong></a></h3>
+<p>For complex, multi-step processes where the agent might need to "go back" or handle errors, <strong>LangGraph</strong> is the superior tool.<br />
+<strong>Task 40: Job Application State Machine</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Map the application lifecycle.</li>
+<li><strong>States:</strong> New -&gt; Researched -&gt; Drafted -&gt; User_Approved -&gt; Applied -&gt; FollowUp_Scheduled.</li>
+<li><strong>Error Handling:</strong> If the "Apply" step fails (e.g., form error), the state reverts to Error_Review for human intervention.</li>
+</ul>
+<p><strong>Task 41: Co-Founder Dating Workflow</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Manage the delicate "warm intro" process.</li>
+<li><strong>Logic:</strong>
+<ul>
+<li>Step 1: Check user's LinkedIn connections for mutuals.</li>
+<li>Step 2: If Mutuals &gt; 0, draft an "Ask for Intro" message to the connection.</li>
+<li>Step 3: If Mutuals = 0, draft a cold message referencing a specific detail in the target's profile ("I saw your talk at PyCon...").</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 42: Bounty Hunter Workflow</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Real-time reaction.</li>
+<li><strong>Logic:</strong>
+<ul>
+<li>Event: New Bounty Detected via RSS.</li>
+<li>Check: Does user have required skills?</li>
+<li>Action: If Match &gt; 90%, send immediate Telegram push notification. (Bounties are time-sensitive).</li>
+</ul>
+</li>
+</ul>
+<h3 id="33-advanced-matching-and-filtering-logic"><a class="header" href="#33-advanced-matching-and-filtering-logic"><strong>3.3 Advanced Matching and Filtering Logic</strong></a></h3>
+<p><strong>Task 43: "North Star" Alignment Scoring</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Implement mission-based matching.</li>
+<li><strong>Technique:</strong> Calculate the semantic distance between the User’s "Manifesto" (a text blob describing their values) and the Company’s "Mission Statement."</li>
+</ul>
+<p><strong>Task 44: "Anti-Goal" Filtering</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Filter out deal-breakers.</li>
+<li><strong>Logic:</strong> Hard filters for industries (e.g., "Gambling," "Defense") or keywords ("Legacy Code," "On-call").</li>
+</ul>
+<p><strong>Task 45: Tech Stack Compatibility Matrix</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Granular skill matching.</li>
+<li><strong>Logic:</strong> Differentiate between "Required" and "Nice to have."
+<ul>
+<li>User has React, Job wants React -&gt; +20 points.</li>
+<li>User has React, Job wants Angular -&gt; -5 points (transferable skill).</li>
+<li>User has React, Job wants C++ -&gt; -50 points (mismatch).</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 46: Experience Calibration (Inflation/Deflation)</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Normalize titles.</li>
+<li><strong>Insight:</strong> A "VP" at a 5-person startup is equivalent to a "Senior" at Google. The agent must calibrate titles based on company size data (fetched via Firecrawl/Apify).</li>
+</ul>
+<p><strong>Task 47: Founder "Psychometric" Profiling</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Analyze co-founder bios for red flags.</li>
+<li><strong>Implementation:</strong> LLM analysis of bios. Flags: "Vague about equity," "History of failed ventures," "Aggressive language."</li>
+</ul>
+<h3 id="34-llm-integration-and-optimization"><a class="header" href="#34-llm-integration-and-optimization"><strong>3.4 LLM Integration and Optimization</strong></a></h3>
+<p><strong>Task 48: LLM Selection (OpenAI vs Claude)</strong></p>
+<ul>
+<li><strong>Decision:</strong> Use <strong>Claude 3.5 Sonnet</strong> for the "Networker" agent (better nuance/writing) and <strong>GPT-4o</strong> for the "Matchmaker" (better reasoning/json-mode).</li>
+</ul>
+<p><strong>Task 49: Semantic Caching</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Reduce API costs by 30%.</li>
+<li><strong>Implementation:</strong> Use GPTCache. If the agent analyzes the same job description twice (e.g., from two different boards), return the cached analysis.</li>
+</ul>
+<p><strong>Task 50: Fine-Tuning "The Coach" (Optional)</strong></p>
+<ul>
+<li><strong>Objective:</strong> If base models fail to capture the user's voice, fine-tune a Llama-3-8B model on the user's past emails and cover letters.</li>
+</ul>
+<h3 id="35-autonomous-action-execution"><a class="header" href="#35-autonomous-action-execution"><strong>3.5 Autonomous Action Execution</strong></a></h3>
+<p><strong>Task 51: Resume Customization Engine</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Generate a tailored resume for every application.</li>
+<li><strong>Implementation:</strong> The agent maintains a "Master Resume" JSON. It selects the relevant projects/bullets for the specific job and renders a new PDF using a LaTeX template.</li>
+</ul>
+<p><strong>Task 52: Cover Letter Generator</strong></p>
+<ul>
+<li><strong>Technique:</strong> "One-Shot" prompting. "Here is the job. Here is the user's writing style. Write a cover letter that mentions [Company News X]."</li>
+</ul>
+<p><strong>Task 53: LinkedIn Connection Request Personalizer</strong></p>
+<ul>
+<li><strong>Constraint:</strong> 300 characters max.</li>
+<li><strong>Logic:</strong> "Hi [Name], I saw you're building [Product]. I'm a dev dealing with [Problem] and would love to connect."</li>
+</ul>
+<p><strong>Task 54: Proposal Generator for Upwork</strong></p>
+<ul>
+<li><strong>Logic:</strong> Address the client's problem in the <em>first line</em>. "I see you need a Python script to scrape YC. I have a Firecrawl setup ready to do this..."</li>
+</ul>
+<p><strong>Task 55: Calendar Scheduling Agent</strong></p>
+<ul>
+<li><strong>Objective:</strong> Coordinate meetings.</li>
+<li><strong>Integration:</strong> Google Calendar API. When a positive reply is detected, the agent sends a Calendly link or proposes times.</li>
+</ul>
+<p><strong>Task 56: "Form Filler" Scripts (Selenium)</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Automate Greenhouse/Lever forms.</li>
+<li><strong>Implementation:</strong> Maintain a library of Selenium scripts for the top 5 ATS platforms. These have predictable DOMs (id="first_name").</li>
+</ul>
+<p><strong>Task 57: CAPTCHA Solving Integration</strong></p>
+<ul>
+<li><strong>Tool:</strong> 2Captcha or CapSolver API.</li>
+<li><strong>Logic:</strong> If CAPTCHA detected -&gt; Pause -&gt; Send to API -&gt; Wait for Token -&gt; Inject Token.</li>
+</ul>
+<p><strong>Task 58: Cold Email Infrastructure</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Ensure deliverability.</li>
+<li><strong>Implementation:</strong> Use a dedicated subdomain for agentic outreach to protect the user's main domain reputation.</li>
+</ul>
+<p><strong>Task 59: Follow-Up Management</strong></p>
+<ul>
+<li><strong>Logic:</strong> If no reply in 3 days -&gt; Send polite bump. Max 2 follow-ups.</li>
+</ul>
+<p><strong>Task 60: Interview Prep Agent</strong></p>
+<ul>
+<li><strong>Output:</strong> A "Dossier" PDF. Contains: Interviewer bios, recent company news, potential culture questions, and suggested questions to ask.</li>
+</ul>
+<p><strong>Task 61: Negotiation Advisor</strong></p>
+<ul>
+<li><strong>Logic:</strong> When an offer is received, the agent searches levels.fyi for comparable salaries and suggests a counter-offer range.</li>
+</ul>
+<p><strong>Task 62: Portfolio "Project" Generator</strong></p>
+<ul>
+<li><strong>Logic:</strong> For gig work, auto-select the 3 most relevant portfolio items to attach to the bid.</li>
+</ul>
+<p><strong>Task 63: Reference Checker</strong></p>
+<ul>
+<li><strong>Logic:</strong> For potential co-founders, the agent searches for "Back-channel" references—people in the user's network who overlap with the target's past companies.</li>
+</ul>
+<p><strong>Task 64: "Stealth" Mode Operations</strong></p>
+<ul>
+<li><strong>Logic:</strong> Ensure all LinkedIn views are done in "Private Mode" (if possible) or via the API to prevent "XYZ viewed your profile" notifications revealing the user.</li>
+</ul>
+<p><strong>Task 65: Error Handling and Retry Logic</strong></p>
+<ul>
+<li><strong>Implementation:</strong> Dead Letter Queue. If an application fails, log it, alert the user, and retry later.</li>
 </ul>
 
                     </main>

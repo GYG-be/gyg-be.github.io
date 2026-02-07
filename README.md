@@ -10,7 +10,7 @@ In other words, ***we have to [dogfood](https://en.wikipedia.org/wiki/Eating_you
 
 We want to build a PERSONAL job search utility OR utility of utilities. The following is a 100-point ToDo list of what we will need to do.
 
-1. Instead of going for first-mover advantage, be the knowledgable observer that observes for a month and learns as much as possible by looking over the shoulders of others and learning from pioneer's catastrophes.  Continually redevelop and redefine you plan of the next 100 steps based on what you learn, but **LEARN FIRST**.
+1. **LEARN FIRST!** Instead of going for first-mover advantage, be the knowledgable observer that observes for a month and learns as much as possible by looking over the shoulders of others and learning from pioneer's catastrophes.  Continually redevelop and redefine you plan of the next 100 steps based on what you learn, but **LEARN FIRST**.
 
 2. Develop a sense of situational awareness by looking at who is building Upwork/Taskrabbit for the agentic age and how they are doing it. Consider examples like:
 
