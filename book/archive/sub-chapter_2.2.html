@@ -1,0 +1,375 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Archived, Now Complementary GYG Plan: Phase 2 - Observe. Build. Gather intelligence. Define your luck surface area.</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Observe. Build. Gather intelligence. Define your luck surface area.</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h2 id="phase-2-data-infrastructure-and-acquisition-layer-tasks-1635"><a class="header" href="#phase-2-data-infrastructure-and-acquisition-layer-tasks-1635"><strong>Phase 2: Data Infrastructure and Acquisition Layer (Tasks 16–35)</strong></a></h2>
+<p>The "senses" of the agent. This phase focuses on building the pipelines that ingest raw data from the web and convert it into the structured UniversalOpportunity schema defined in Phase 1. Given the diversity of sources, a "one size fits all" scraper is impossible. We will implement a tiered acquisition strategy.</p>
+<h3 id="21-tier-1-intelligent-web-scraping-the-universal-scraper"><a class="header" href="#21-tier-1-intelligent-web-scraping-the-universal-scraper"><strong>2.1 Tier 1: Intelligent Web Scraping (The "Universal Scraper")</strong></a></h3>
+<p><strong>Task 16: Deploy Firecrawl for Generalized LLM-Ready Extraction</strong> Traditional scrapers break when CSS classes change. Firecrawl is designed to convert websites into Markdown, which is the native language of LLMs.</p>
+<ul>
+<li><strong>SMART Objective:</strong> Deploy a self-hosted Firecrawl instance by Week 5 capable of crawling any given company careers page and extracting job details with 95% accuracy.</li>
+<li><strong>Technical Implementation:</strong>
+<ul>
+<li>The agent uses the "Map" feature of Firecrawl to find sub-pages (e.g., /careers/engineering).</li>
+<li>It uses the "Scrape" feature to extract the content as Markdown.</li>
+<li><strong>Sub-Task:</strong> Configure concurrency limits to avoid overwhelming target servers (Ethical Scraping).</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 17: Implement Apify Actors for "Hard Targets"</strong> Platforms like LinkedIn and Wellfound use sophisticated anti-bot measures (fingerprinting, CAPTCHAs). Building custom scrapers for these is a maintenance nightmare.</p>
+<ul>
+<li><strong>SMART Objective:</strong> Integrate Apify’s specialized actors for LinkedIn, Wellfound, and Glassdoor.</li>
+<li><strong>Wellfound Strategy:</strong> Use the radeance/wellfound-job-listings-scraper which handles the complex pagination and infinite scroll of Wellfound’s React application.</li>
+<li><strong>LinkedIn Strategy:</strong> Use linkedin-jobs-scraper via Apify. Note the limitation: LinkedIn scrapers often require a valid session cookie. The agent must include a secure vault to store and rotate these cookies.</li>
+<li><strong>Sub-Task:</strong> Set up a webhook listener to receive data from Apify actors asynchronously.</li>
+</ul>
+<p><strong>Task 18: Develop Headless Browser Agents (Playwright) for SPAs</strong> Some platforms, particularly YC Matching, act as Single Page Applications (SPAs) where data is loaded dynamically after user interaction (clicks).</p>
+<ul>
+<li><strong>SMART Objective:</strong> Build a Playwright-based agent to navigate the YC Co-Founder Matching portal.</li>
+<li><strong>Technical Implementation:</strong>
+<ul>
+<li>The agent launches a browser context with storageState injected (pre-authenticated cookies).</li>
+<li>It simulates human-like mouse movements to avoid bot detection.</li>
+<li>It intercepts network responses (XHR/Fetch) to capture the JSON data payloads directly, rather than parsing the DOM.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 19: Integrate Exa.ai for Semantic Discovery</strong> Keyword search is insufficient. A user looking for "companies building AI agents" might miss a company that describes itself as "automating workflows with LLMs."</p>
+<ul>
+<li><strong>SMART Objective:</strong> Integrate Exa.ai (formerly Metaphor) to enable embedding-based search for company discovery.</li>
+<li><strong>Value Proposition:</strong> Exa allows the agent to search for "link similar to this one," enabling it to expand a seed list of interesting companies into a broader market map.</li>
+<li><strong>Sub-Task:</strong> Implement a nightly "Discovery Routine" that queries Exa for new domains matching the user's interest vector.</li>
+</ul>
+<h3 id="22-tier-2-official-and-quasi-official-apis"><a class="header" href="#22-tier-2-official-and-quasi-official-apis"><strong>2.2 Tier 2: Official and Quasi-Official APIs</strong></a></h3>
+<p><strong>Task 20: Upwork API and RSS Hybrid Strategy</strong> Upwork’s API is restrictive. However, they provide RSS feeds for specific search queries.</p>
+<ul>
+<li><strong>SMART Objective:</strong> Implement a polling engine that checks Upwork RSS feeds every 15 minutes for new gigs.</li>
+<li><strong>Sub-Task:</strong> Use the Upwork API (if access granted) only for the "Apply" phase to conserve rate limits. Use RSS for the "Discovery" phase.</li>
+</ul>
+<p><strong>Task 21: Web3 Data Ingestion (Allo Protocol &amp; Immunefi)</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Build an indexer for the Gitcoin Allo Protocol.</li>
+<li><strong>Technical Implementation:</strong> The Allo Protocol emits events on-chain when new pools are created. The agent can listen to these events or query a subgraph (The Graph) to detect new grant rounds instantly.</li>
+<li><strong>Sub-Task:</strong> Scrape Immunefi’s bounty list JSON (often exposed in their frontend app bundle) to get real-time bounty data.</li>
+</ul>
+<p><strong>Task 22: TaskRabbit and Dolly Location Monitoring</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Build a location-aware scraper for local gigs.</li>
+<li><strong>Technical Implementation:</strong>
+<ul>
+<li>TaskRabbit shows different tasks based on Zip Code. The agent must iterate through the user's target zip codes.</li>
+<li>For Dolly, the agent simulates a "Get Quote" request to see availability and pricing in the area.</li>
+</ul>
+</li>
+</ul>
+<h3 id="23-data-processing-and-storage-layer"><a class="header" href="#23-data-processing-and-storage-layer"><strong>2.3 Data Processing and Storage Layer</strong></a></h3>
+<p><strong>Task 23: Vector Database Implementation (Weaviate)</strong> To match opportunities semantically, we need a Vector DB. Weaviate is selected for its hybrid search capabilities (combining symbolic filters with vector similarity).</p>
+<ul>
+<li><strong>SMART Objective:</strong> specific Weaviate schema deployment by Week 6.</li>
+<li><strong>Schema Strategy:</strong>
+<ul>
+<li><strong>Class:</strong> Opportunity</li>
+<li><strong>Vector:</strong> Embedding of the description + title.</li>
+<li><strong>Properties:</strong> salary (int), equity (float), skills (text array), source (string).</li>
+<li><strong>Sub-Task:</strong> Configure the text2vec-openai module for automatic embedding generation.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 24: Opportunity Normalization Engine</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Develop a Python pipeline to normalize disparate compensation models.</li>
+<li><strong>Logic:</strong>
+<ul>
+<li>Convert "Hourly Rate" to "Annualized Salary" (Rate * 2000).</li>
+<li>Convert "Equity %" to "Estimated Value" (Equity * Estimated_Valuation).</li>
+<li><em>Note:</em> Estimated Valuation can be fetched from a minimalist Crunchbase lookup or heuristic based on funding stage (Seed = $10M cap).</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 25: Deduplication and Entity Resolution</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Eliminate duplicate listings across platforms.</li>
+<li><strong>Logic:</strong> If Company Name (fuzzy match) AND Job Title (fuzzy match) are &gt; 90% similar, merge the records. Prefer the source with more data (e.g., prefer Wellfound over a LinkedIn aggregators).</li>
+</ul>
+<p><strong>Task 26: Skill and Attribute Extraction (LLM-Based)</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Extract structured attributes from unstructured text.</li>
+<li><strong>Implementation:</strong> Pass the job description to a small, fast LLM (e.g., gpt-4o-mini).
+<ul>
+<li><strong>Prompt:</strong> "Extract the following as JSON: required_skills, years_experience, remote_policy (Remote/Hybrid/Onsite), visa_sponsorship (True/False)."</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 27: Sentiment and "Vibe" Analysis</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Score every opportunity for "Culture Signals."</li>
+<li><strong>Implementation:</strong> Analyze text for keywords indicating toxicity ("fast-paced," "rockstar," "work hard play hard") vs. health ("work-life balance," "learning budget").</li>
+<li><strong>Sub-Task:</strong> Cross-reference company name with Glassdoor ratings if scraped.</li>
+</ul>
+<p><strong>Task 28: Proxy Rotation Infrastructure</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Achieve &lt; 1% failure rate due to IP blocks.</li>
+<li><strong>Technical Implementation:</strong> Route all scraping traffic through a residential proxy network (e.g., Bright Data). Implement exponential backoff for retries.</li>
+</ul>
+<p><strong>Task 29: User Profile Vectorization</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Create a detailed vector representation of the user.</li>
+<li><strong>Implementation:</strong> Ingest the user’s Resume, LinkedIn PDF, and Portfolio. Chunk this text and embed it into the same vector space as the opportunities.</li>
+</ul>
+<p><strong>Task 30: Automated Scheduler (n8n Integration)</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Orchestrate the data pipeline.</li>
+<li><strong>Tool:</strong> n8n.</li>
+<li><strong>Workflow:</strong>
+<ul>
+<li>Trigger: Every 6 hours.</li>
+<li>Step 1: Run Apify Actors.</li>
+<li>Step 2: Run Firecrawl on tracked company lists.</li>
+<li>Step 3: Run Normalizer.</li>
+<li>Step 4: Update Vector DB.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 31: PII Redaction Module</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Automatically strip emails/phones from scraped co-founder profiles before storage.</li>
+<li><strong>Reasoning:</strong> Minimizes GDPR liability.</li>
+</ul>
+<p><strong>Task 32: Secure Credential Vault</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Implement AWS Secrets Manager to store LinkedIn cookies and Upwork API keys.</li>
+</ul>
+<p><strong>Task 33: Compliance Logging</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Maintain an immutable log of every URL scraped and the robots.txt status at the time of access.</li>
+</ul>
+<p><strong>Task 34: "Stealth" Browser Fingerprinting</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Configure Playwright to pass strict bot detection tests (e.g., pixelscan.net).</li>
+<li><strong>Technique:</strong> Use puppeteer-extra-plugin-stealth techniques adapted for Playwright.</li>
+</ul>
+<p><strong>Task 35: Data Retention Policy</strong></p>
+<ul>
+<li><strong>SMART Objective:</strong> Auto-archive opportunities older than 30 days to ensure freshness.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../archive/sub-chapter_2.1.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../archive/sub-chapter_2.3.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../archive/sub-chapter_2.1.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../archive/sub-chapter_2.3.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

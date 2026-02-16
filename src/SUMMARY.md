@@ -11,4 +11,12 @@
     - [Table 2: Opportunity Normalization Schema Example](nested/table_2.md)
     - [Works Cited](nested/annotated_bibliography.md)
     - [Appendix 1: Example Of Professional Bootcamp: HARSH Robotics Development](nested/appendix_1.md)       
-    - [Archived Original GYG Plan: Automating Workflows](nested/original_alternative.md)
+    - [Archived, Now Complementary GYG Plan: Phase 1](archive/sub-chapter_2.1.md)       
+    - [Archived, Now Complementary GYG Plan: Phase 2](archive/sub-chapter_2.2.md)       
+    - [Archived, Now Complementary GYG Plan: Phase 3](archive/sub-chapter_2.3.md)       
+    - [Archived, Now Complementary GYG Plan: Phase 4](archive/sub-chapter_2.4.md)       
+    - [Archived, Now Complementary GYG Plan: Phase 5](archive/sub-chapter_2.5.md)
+
+
+
+
