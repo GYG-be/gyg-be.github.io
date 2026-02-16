@@ -156,33 +156,43 @@
                 <div id="content" class="content">
                     <main>
                         <h3 id="phase-1-infrastructure--core-gateway-setup-points-110"><a class="header" href="#phase-1-infrastructure--core-gateway-setup-points-110">Phase 1: Infrastructure &amp; Core Gateway Setup (Points 1–10)</a></h3>
-<p><strong>Point 1: Hardware Foundation: Deploy a dedicated local server (e.g., Mac Mini or Intel i7 with 32GB RAM) to host the OpenClaw Gateway.</strong><br />
-Weaknesses: Relies on consumer-grade hardware that may struggle with sustained 24/7 loads if model inference scales; power consumption and heat could lead to downtime without proper cooling.<br />
-Opportunities: Extend to hybrid setups with Raspberry Pi clusters for redundancy or edge computing, or integrate with affordable ARM-based boards like NVIDIA Jetson for GPU-accelerated local inference without breaking the bank.</p>
+<p><strong>Point 1: Hardware Foundation: Deploy a dedicated, but throwaway local server (e.g., Mac Mini or Intel i7 with 32GB RAM) to host the OpenClaw Gateway.</strong></p>
+<p>Weaknesses: Relies on consumer-grade hardware that may struggle with sustained 24/7 loads if model inference scales; power consumption and heat could lead to downtime without proper cooling.</p>
+<p>Alternatives: Use dockerized OpenClaw on different hardware or a cloud VMs (not ust AWS, GCP, Azure, but CoreWeave, Lambda Labs, RunPod, ThunderCompute, VAST.AI or <a href="https://share.google/aimode/lCwgCGPKnLoMUPU9H">other alternatives</a>) for better uptime and scalability, albeit with potential cost and data privacy trade-offs.</p>
+<p>Opportunities: If so inclined to explore RustLang [or similar low-level languages] to build components that enable the extension to hybrid setups with Raspberry Pi clusters [or similar hdw] for redundancy or edge computing, or integrate with super-affordable ARM-based boards that might be even better than NVIDIA Jetson for GPU-accelerated local inference without breaking the bank.</p>
+<hr />
 <p><strong>Point 2: Environment Isolation: Install Linux or macOS and run OpenClaw as a background daemon (systemd or LaunchAgent) to ensure 24/7 "Heartbeat" monitoring.</strong><br />
 Weaknesses: macOS LaunchAgents can be finicky with permissions updates post-OS upgrades; lacks built-in failover if the host crashes.<br />
 Opportunities: Add containerization via Podman (lighter than Docker) for true isolation, or script auto-restarts with cron jobs tied to uptime monitors like Uptime Kuma for proactive alerts.</p>
+<hr />
 <p><strong>Point 3: Local Inference Engine: Install Ollama to run models like Mistral 7B or Llama 3 locally, ensuring data regarding your job searches remains private.</strong><br />
 Weaknesses: Ollama's model quantization can degrade performance on non-GPU setups, leading to slow scans; limited to open models, missing proprietary fine-tunes for niche analysis.<br />
 Opportunities: Layer in Hugging Face Transformers for custom fine-tuning on your CV data, or use ExLlama for faster quantized inference to handle larger models like Llama 3 70B on modest hardware.</p>
+<hr />
 <p><strong>Point 4: OpenClaw Installation: Clone the OpenClaw repository and initialize the workspace under ~/.openclaw.</strong><br />
 Weaknesses: Assumes repository stability; if OpenClaw evolves rapidly, manual merges could break custom configs.<br />
 Opportunities: Automate with a GitHub Actions workflow for CI/CD pulls, or fork the repo to pin versions while adding your Donovan-inspired branches for easy community contributions.</p>
+<hr />
 <p><strong>Point 5: Messaging Gateway: Connect a private Telegram or WhatsApp bot as your "interface" to receive opportunity alerts remotely.</strong><br />
 Weaknesses: Platform APIs have rate limits and ToS risks (e.g., WhatsApp bans bots easily); single-point failure if the bot token leaks.<br />
 Opportunities: Diversify with Matrix/Element for self-hosted, end-to-end encrypted bots, or integrate Signal's CLI for ultra-secure, ephemeral alerts that auto-delete after reading.</p>
+<hr />
 <p><strong>Point 6: Soul Configuration: Create a SOUL.md file defining the agent’s "personality" as a strategic OSS analyst focused on high-leverage opportunities.</strong><br />
 Weaknesses: Static personality files risk prompt drift over time; may over-emphasize "OSS analyst" traits, biasing toward military-style rigidity over agile startup vibes.<br />
 Opportunities: Make it dynamic with JSON schemas for A/B testing personalities (e.g., switch to "VC scout" for funding alerts), or use embeddings to evolve the soul based on successful past interactions.</p>
+<hr />
 <p><strong>Point 7: Memory Layer: Initialize the MEMORIES.md file to store your CV, past project successes, and specific "Ideal Candidate Profile" (ICP).</strong><br />
 Weaknesses: Markdown is human-readable but inefficient for semantic search; no versioning means lost history if edits overwrite key details.<br />
 Opportunities: Migrate to a vector DB like FAISS for fuzzy matching ICPs to leads, or add Git for versioned memories to track how your profile evolves quarterly.</p>
+<hr />
 <p><strong>Point 8: Workspace Hardening: Implement Clawctl for sandboxing and human-in-the-loop (HITL) approvals before the agent sends any outgoing emails or applications.</strong><br />
 Weaknesses: Clawctl's sandboxing might not catch all edge cases in browser automation; HITL could bottleneck high-volume scans.<br />
 Opportunities: Extend with Firejail for finer-grained Linux sandboxes, or add probabilistic HITL (e.g., auto-approve low-risk gigs under $5K) using a simple decision tree.</p>
+<hr />
 <p><strong>Point 9: Heartbeat Calibration: Set the HEARTBEAT.md checklist to trigger an "Area Scan" every 30–60 minutes.</strong><br />
 Weaknesses: Fixed intervals ignore peak times (e.g., missing evening VC tweets); resource-intensive on low-spec hardware.<br />
 Opportunities: Adaptive scheduling via APScheduler, triggered by external events like market hours or RSS pings, to optimize for energy and relevance.</p>
+<hr />
 <p><strong>Point 10: Skill Registry Access: Connect to ClawHub to download baseline skills for browser automation and file operations.</strong><br />
 Weaknesses: ClawHub dependency introduces external risks (downtime, deprecated skills); no offline caching for core functions.<br />
 Opportunities: Mirror key skills locally with a private repo, or contribute Donovan-themed skills back to ClawHub for community feedback and co-evolution.</p>
