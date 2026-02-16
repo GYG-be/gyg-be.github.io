@@ -84,9 +84,11 @@ Donovan's bluntness, transparency, and fearless disregard for powerful figures c
 
 ## V. The Donovan Legacy
 
-Donovan, more than any other individual of his era, transformed American intelligence from a collection of **fragmented, secretive cliques buried in military bureaucracies** into a **decentralized, data-driven, frontline institution**.
+It is the MOST solid, effective, proven way to think about gathering intelligence ... there's no comparison ... other approaches that you come across show evidence of copying or adapting certain principles, most often **by accident**. You will want to understand the SOURCE, not the copies or high level abstractified versions of Donovan's Legacy.
 
-His achievements—often accomplished behind enemy lines, under fire, and against relentless bureaucratic opposition through the [COI](https://en.wikipedia.org/wiki/Office_of_the_Coordinator_of_Information) and [OSS](https://en.wikipedia.org/wiki/Office_of_Strategic_Services)—were pivotal to winning World War II. His ideas ultimately shaped the CIA, vindicating his vision even after Truman's costly mistake.
+Donovan, more than any other individual of his era, transformed American intelligence from a collection of **fragmented, secretive cliques buried in military bureaucracies** into a **decentralized, data-driven, frontline institution**. Obviously, this affected and benefited from practical applications by Mossad and others, but Donovan's vision is the most comprehensive and more importantly it is now available for you to study and guide your implementation of ***shiniest*** new tech.
+
+Donovan's old school achievements—often accomplished behind enemy lines, under fire, and against relentless bureaucratic opposition through the [COI](https://en.wikipedia.org/wiki/Office_of_the_Coordinator_of_Information) and [OSS](https://en.wikipedia.org/wiki/Office_of_Strategic_Services)—were pivotal to winning World War II. His ideas ultimately shaped everything in the intelligence world, vindicating his vision even after Truman's disastrous, hopelessly myopic mistake of disbanding OSS in September, 1945.
 
 ---
 
