@@ -1,70 +1,82 @@
-## **Phase 4: User Interface and Control (Tasks 66–80)**
+### Phase 4: Social Graph & Co-founder Discovery (Points 46–65)
 
-The agent needs a cockpit. The user experience should be "High-Level Direction, Low-Level Automation."  
-**Task 66: Build "Command Center" Dashboard**
+**Point 46: MoltBook Integration: Monitor MoltBook for "Agentic Societies" or trending technical debates that signal where founders are concentrating.**  
+Weaknesses: "MoltBook" obscure (niche?); assumes platform relevance to all niches.  
+Opportunities: Generalize to Indie Hackers or Product Hunt, with topic modeling for debate extraction.
 
-* **Tech Stack:** Next.js (Frontend) \+ FastAPI (Backend).  
-* **Views:**  
-  * **Inbox:** New matches waiting for triage.  
-  * **Active:** Applications sent, awaiting reply.  
-  * **Scheduled:** Upcoming interviews.
+**Point 47: Founder Sentiment Tracking: Track the X/LinkedIn posts of potential co-founders to detect "frustration signals" with current projects.**  
+Weaknesses: Signal noise high (e.g., venting vs. real pain); platform changes disrupt tracking.  
+Opportunities: Keyword evolution tracking with LDA, alerting on frustration lexicon shifts.
 
-**Task 67: "Swipe" Interface (Tinder for Jobs)**
+**Point 48: Relational Mapping: Use Neo4j or Graphiti to identify "Triplets" (Entity A - knows - Entity B) to find mutual introductions.**  
+Weaknesses: Graphs incomplete without proprietary data; computation heavy for large nets.  
+Opportunities: Prune to 2-hop queries, exporting to Gephi for manual warm-up scripting.
 
-* **SMART Objective:** Implement the CoffeeSpace mechanic.  
-* **Value:** Swiping is faster than reading lists. It also generates training data (Right Swipe \= Positive Signal) to update the User Vector.
+**Point 49: Co-founder Matching: Use an LLM to score "Complementary Skills" by comparing your MEMORIES.md with a founder's public technical history.**  
+Weaknesses: LLM scoring subjective; misses soft skills like conflict resolution.  
+Opportunities: Multi-modal scoring with skill ontologies (e.g., ESCO), including Git commit styles for collab fit.
 
-**Task 68: Telegram/Slack Bot Integration**
+**Point 50: Hacker News (PN) Pulse: Scrape "Who is Hiring" and "Show HN" threads, prioritizing founders who engage in deep technical discourse.**  
+Weaknesses: Scraping Y Combinator sites risks blocks; "deep discourse" hard to quantify.  
+Opportunities: RSS + comment depth metrics (e.g., reply chains >5), filtering for your keywords.
 
-* **Objective:** Push notifications.  
-* **Flow:** Agent sends: "New High Match (95%).. Apply?" User replies: "Yes." Agent executes.
+**Point 51: Digital Footprint Analysis: Use OSINT Industries to find the alternative social accounts (Telegram/Discord) where founders discuss raw ideas.**  
+Weaknesses: OSINT tools pricey/unreliable; ethical gray area for deep dives.  
+Opportunities: Free alternatives like Holehe for email enumeration, focused on public Discords via crawler bots.
 
-**Task 69: Profile Editor & Document Vault**
+**Point 52: Subdomain Enumeration: Use WhoisXML to find a startup's hidden staging sites (e.g., dev.startup.com), revealing upcoming product launches.**  
+Weaknesses: WhoisXML costly; many subdomains are noise (e.g., marketing).  
+Opportunities: Sublist3r for free enum, with HTTP probing for active dev endpoints signaling hires.
 
-* **Functionality:** Drag-and-drop interface for Resumes, Transcripts, and Portfolios.
+**Point 53: Episodic Memory Processing: Store every interaction with a potential co-founder as an "Episode" in OpenClaw to track relationship evolution.**  
+Weaknesses: Episodes bloat without summarization; no multi-party context.  
+Opportunities: Compress via auto-TL;DR, with timeline visualizations in Mermaid diagrams.
 
-**Task 70: "Agent Logs" Transparency Viewer**
+**Point 54: Network Centrality Calculation: Identify the most connected "hub" individuals in your niche using PageRank-style metrics.**  
+Weaknesses: PageRank biases popular over influential; static snapshots miss dynamics.  
+Opportunities: Temporal PageRank with NetworkX, re-run bi-weekly on evolving graphs.
 
-* **Objective:** Trust building.  
-* **Display:** A terminal-like stream showing the agent's actions: "Scraping YC... Found 5 profiles... Filtering... 1 Match."
+**Point 55: Virtual Presence: Set the agent to "attend" webinars and summarize the Q&A sessions for high-signal technical questions from attendees.**  
+Weaknesses: Bot "attendance" detectable/unethical; summaries lose nuance.  
+Opportunities: YouTube API for post-event transcripts, with speaker diarization for Q&A isolation.
 
-**Task 71: Approval Queue Implementation**
+**Point 56: "Old Boy" Network Emulation: Search for alumni of specific high-intensity companies (e.g., early SpaceX or Stripe) who are now "Between roles".**  
+Weaknesses: Alumni data gated (e.g., LinkedIn Premium); assumes shared culture fits all.  
+Opportunities: Public Crunchbase exits + X searches, with affinity scoring from shared hashtags.
 
-* **Logic:** A "Drafts" folder. The user can bulk-approve or edit messages before they are sent.
+**Point 57: Stealth Mode Discovery: Scrape domain registration databases for specific keywords related to your niche to find companies before they launch a landing page.**  
+Weaknesses: WHOIS privacy hides many; keywords too broad yield spam.  
+Opportunities: DNSDumpster for passive recon, combined with GitHub org scans for early code leaks.
 
-**Task 72: Analytics Dashboard**
+**Point 58: Contributor Role Hunting: Monitor Discord "Dev" channels for project leads complaining about specific technical blockers you can solve.**  
+Weaknesses: Discord APIs limited without invites; real-time monitoring drains resources.  
+Opportunities: Public server crawlers like discord.py, with sentiment alerts on blocker keywords.
 
-* **Metrics:** Funnel visualization. Matches \-\> Swiped Right \-\> Applied \-\> Interviewed \-\> Offers.
+**Point 59: Founder/CEO Travel Tracking: If an aviation sensor (ADSB) shows a founder frequenting a specific VC hub, time your outreach to that VC's portfolio.**  
+Weaknesses: ADSB coverage spotty; correlates travel to intent loosely.  
+Opportunities: Aggregate with calendar leaks (e.g., Calendly public links) for meeting inferences.
 
-**Task 73: "Magic Link" Authentication**
+**Point 60: Simulated Decision Modeling: Use Simile AI logic to forecast how a founder might react to a "Co-founder" pitch based on their past career moves.**  
+Weaknesses: "Simile AI" vague; simulations overfit historical data.  
+Opportunities: Use decision tree libs like scikit-learn, trained on anonymized pitch datasets from AngelList.
 
-* **Tool:** Auth0 or Supabase Auth. Passwordless login for ease of use.
+**Point 61: Social Media Engagement Mapping: Identify which "serious contributors" are upvoting specific niche technologies on X or BlueSky.**  
+Weaknesses: Upvote data not public; platforms throttle scrapes.  
+Opportunities: Proxy via retweet graphs, with community detection for contributor clusters.
 
-**Task 74: Mobile-Responsive Design**
+**Point 62: Podcast Analysis: Use Whisper to transcribe and summarize interviews of founders to extract their "unsolved problems" list.**  
+Weaknesses: Whisper accuracy dips on accents; summaries miss follow-ups.  
+Opportunities: Chain with GPT for problem extraction, indexing episodes in a searchable podcast KG.
 
-* **Objective:** Triage on the go. The "Swipe" interface must be mobile-first.
+**Point 63: Community Detection: Use graph learning to find "cliques" of developers working on the next big framework.**  
+Weaknesses: Louvain algos sensitive to edge weights; misses loose affiliations.  
+Opportunities: Add modularity optimization with igraph, visualizing cliques as outreach targets.
 
-**Task 75: Voice Interface (Whisper API)**
+**Point 64: Obfuscated Role Search: Look for roles described with "odd" requirements that match your unique Donovan-style background.**  
+Weaknesses: "Odd" is subjective; risks missing disguised gems in plain sight.  
+Opportunities: Anomaly detection on JD embeddings, flagging deviations from norm baselines.
 
-* **Objective:** "Agent, pause the search for co-founders, I'm going on vacation."
+**Point 65: Trust Verification: Use Maltego to verify a potential co-founder's history across multiple business registrations.**  
+Weaknesses: Maltego steep learning curve/cost; incomplete global coverage.  
+Opportunities: Open-source alt like Recon-ng, automated for batch verifications with report templates.
 
-**Task 76: "Daily Digest" Email Generator**
-
-* **Format:** A structured email summary at 8:00 AM. "3 new jobs, 1 co-founder match, 2 interview requests."
-
-**Task 77: Granular Settings & Preferences**
-
-* **Controls:** Sliders for "Risk Tolerance," "Equity vs Salary," "Remote Importance."
-
-**Task 78: "Vacation Mode" Toggle**
-
-* **Logic:** Pauses all outgoing actions and auto-replies to incoming messages with a delay notice.
-
-**Task 79: Data Export Feature**
-
-* **Format:** CSV/JSON export of all applications for the user's records.
-
-**Task 80: Integration with Productivity Tools (Notion/Airtable)**
-
-* **SMART Objective:** Sync status.  
-* **Logic:** When the agent applies, it creates a row in the user's Notion "Job Search" database.

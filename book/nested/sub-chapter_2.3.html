@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Phase 3: The Intelligence Core – Agentic Workflows (Tasks 36–65) - GitYourGyg ... GYG Manifesto</title>
+        <title>Phase 3: Donovan-Style &quot;Primary Data&quot; Sensors (Points 26–45) - Observe. Build. Gather intelligence. Define your luck surface area.</title>
 
 
         <!-- Custom HTML head -->
@@ -123,7 +123,7 @@
                         </button>
                     </div>
 
-                    <h1 class="menu-title">GitYourGyg ... GYG Manifesto</h1>
+                    <h1 class="menu-title">Observe. Build. Gather intelligence. Define your luck surface area.</h1>
 
                     <div class="right-buttons">
                         <a href="../print.html" title="Print this book" aria-label="Print this book">
@@ -155,177 +155,67 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h2 id="phase-3-the-intelligence-core--agentic-workflows-tasks-3665"><a class="header" href="#phase-3-the-intelligence-core--agentic-workflows-tasks-3665"><strong>Phase 3: The Intelligence Core – Agentic Workflows (Tasks 36–65)</strong></a></h2>
-<p>With the data ingested and structured, we build the "brain." This phase utilizes <strong>CrewAI</strong> to create a team of specialized AI agents that mimic a human recruiting team: a Researcher (Scout), an Analyst (Matchmaker), and a Copywriter (Outreach).</p>
-<h3 id="31-orchestration-framework-setup"><a class="header" href="#31-orchestration-framework-setup"><strong>3.1 Orchestration Framework Setup</strong></a></h3>
-<p><strong>Task 36: Initialize CrewAI Environment</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Configure the CrewAI runtime environment by Week 7.</li>
-<li><strong>Configuration:</strong> Define the agents.yaml and tasks.yaml files.</li>
-<li><strong>Framework Choice:</strong> CrewAI is selected for its ability to define "Personas". A "Senior Recruiter" persona performs better at evaluating resumes than a generic LLM.</li>
-</ul>
-<p><strong>Task 37: Develop "The Scout" Agent (Researcher)</strong></p>
-<ul>
-<li><strong>Role:</strong> Market Researcher.</li>
-<li><strong>Goal:</strong> "Find the top 20 new opportunities today that match the User's Vector."</li>
-<li><strong>Tools:</strong> VectorSearchTool (queries Weaviate), ExaSearchTool (queries the web).</li>
-<li><strong>Logic:</strong> The Scout filters the raw stream. It creates a shortlist.</li>
-</ul>
-<p><strong>Task 38: Develop "The Matchmaker" Agent (Analyst)</strong></p>
-<ul>
-<li><strong>Role:</strong> Career Coach / Venture Associate.</li>
-<li><strong>Goal:</strong> "Rigorously evaluate the shortlist. Calculate a Match Score (0-100) based on the user's hard constraints and soft preferences."</li>
-<li><strong>Chain of Thought:</strong> "The user wants a remote job. This job is remote. The user knows React. This job needs Vue. Score penalty: -10. Final Score: 85."</li>
-</ul>
-<p><strong>Task 39: Develop "The Networker" Agent (Outreach)</strong></p>
-<ul>
-<li><strong>Role:</strong> PR Specialist.</li>
-<li><strong>Goal:</strong> "Draft the initial communication for the approved matches."</li>
-<li><strong>Capabilities:</strong> Must be able to switch tone—formal for a bank job, casual for a crypto bounty, passionate for a co-founder intro.</li>
-</ul>
-<h3 id="32-specialized-workflows-langgraph"><a class="header" href="#32-specialized-workflows-langgraph"><strong>3.2 specialized Workflows (LangGraph)</strong></a></h3>
-<p>For complex, multi-step processes where the agent might need to "go back" or handle errors, <strong>LangGraph</strong> is the superior tool.<br />
-<strong>Task 40: Job Application State Machine</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Map the application lifecycle.</li>
-<li><strong>States:</strong> New -&gt; Researched -&gt; Drafted -&gt; User_Approved -&gt; Applied -&gt; FollowUp_Scheduled.</li>
-<li><strong>Error Handling:</strong> If the "Apply" step fails (e.g., form error), the state reverts to Error_Review for human intervention.</li>
-</ul>
-<p><strong>Task 41: Co-Founder Dating Workflow</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Manage the delicate "warm intro" process.</li>
-<li><strong>Logic:</strong>
-<ul>
-<li>Step 1: Check user's LinkedIn connections for mutuals.</li>
-<li>Step 2: If Mutuals &gt; 0, draft an "Ask for Intro" message to the connection.</li>
-<li>Step 3: If Mutuals = 0, draft a cold message referencing a specific detail in the target's profile ("I saw your talk at PyCon...").</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 42: Bounty Hunter Workflow</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Real-time reaction.</li>
-<li><strong>Logic:</strong>
-<ul>
-<li>Event: New Bounty Detected via RSS.</li>
-<li>Check: Does user have required skills?</li>
-<li>Action: If Match &gt; 90%, send immediate Telegram push notification. (Bounties are time-sensitive).</li>
-</ul>
-</li>
-</ul>
-<h3 id="33-advanced-matching-and-filtering-logic"><a class="header" href="#33-advanced-matching-and-filtering-logic"><strong>3.3 Advanced Matching and Filtering Logic</strong></a></h3>
-<p><strong>Task 43: "North Star" Alignment Scoring</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Implement mission-based matching.</li>
-<li><strong>Technique:</strong> Calculate the semantic distance between the User’s "Manifesto" (a text blob describing their values) and the Company’s "Mission Statement."</li>
-</ul>
-<p><strong>Task 44: "Anti-Goal" Filtering</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Filter out deal-breakers.</li>
-<li><strong>Logic:</strong> Hard filters for industries (e.g., "Gambling," "Defense") or keywords ("Legacy Code," "On-call").</li>
-</ul>
-<p><strong>Task 45: Tech Stack Compatibility Matrix</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Granular skill matching.</li>
-<li><strong>Logic:</strong> Differentiate between "Required" and "Nice to have."
-<ul>
-<li>User has React, Job wants React -&gt; +20 points.</li>
-<li>User has React, Job wants Angular -&gt; -5 points (transferable skill).</li>
-<li>User has React, Job wants C++ -&gt; -50 points (mismatch).</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 46: Experience Calibration (Inflation/Deflation)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Normalize titles.</li>
-<li><strong>Insight:</strong> A "VP" at a 5-person startup is equivalent to a "Senior" at Google. The agent must calibrate titles based on company size data (fetched via Firecrawl/Apify).</li>
-</ul>
-<p><strong>Task 47: Founder "Psychometric" Profiling</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Analyze co-founder bios for red flags.</li>
-<li><strong>Implementation:</strong> LLM analysis of bios. Flags: "Vague about equity," "History of failed ventures," "Aggressive language."</li>
-</ul>
-<h3 id="34-llm-integration-and-optimization"><a class="header" href="#34-llm-integration-and-optimization"><strong>3.4 LLM Integration and Optimization</strong></a></h3>
-<p><strong>Task 48: LLM Selection (OpenAI vs Claude)</strong></p>
-<ul>
-<li><strong>Decision:</strong> Use <strong>Claude 3.5 Sonnet</strong> for the "Networker" agent (better nuance/writing) and <strong>GPT-4o</strong> for the "Matchmaker" (better reasoning/json-mode).</li>
-</ul>
-<p><strong>Task 49: Semantic Caching</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Reduce API costs by 30%.</li>
-<li><strong>Implementation:</strong> Use GPTCache. If the agent analyzes the same job description twice (e.g., from two different boards), return the cached analysis.</li>
-</ul>
-<p><strong>Task 50: Fine-Tuning "The Coach" (Optional)</strong></p>
-<ul>
-<li><strong>Objective:</strong> If base models fail to capture the user's voice, fine-tune a Llama-3-8B model on the user's past emails and cover letters.</li>
-</ul>
-<h3 id="35-autonomous-action-execution"><a class="header" href="#35-autonomous-action-execution"><strong>3.5 Autonomous Action Execution</strong></a></h3>
-<p><strong>Task 51: Resume Customization Engine</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Generate a tailored resume for every application.</li>
-<li><strong>Implementation:</strong> The agent maintains a "Master Resume" JSON. It selects the relevant projects/bullets for the specific job and renders a new PDF using a LaTeX template.</li>
-</ul>
-<p><strong>Task 52: Cover Letter Generator</strong></p>
-<ul>
-<li><strong>Technique:</strong> "One-Shot" prompting. "Here is the job. Here is the user's writing style. Write a cover letter that mentions [Company News X]."</li>
-</ul>
-<p><strong>Task 53: LinkedIn Connection Request Personalizer</strong></p>
-<ul>
-<li><strong>Constraint:</strong> 300 characters max.</li>
-<li><strong>Logic:</strong> "Hi [Name], I saw you're building [Product]. I'm a dev dealing with [Problem] and would love to connect."</li>
-</ul>
-<p><strong>Task 54: Proposal Generator for Upwork</strong></p>
-<ul>
-<li><strong>Logic:</strong> Address the client's problem in the <em>first line</em>. "I see you need a Python script to scrape YC. I have a Firecrawl setup ready to do this..."</li>
-</ul>
-<p><strong>Task 55: Calendar Scheduling Agent</strong></p>
-<ul>
-<li><strong>Objective:</strong> Coordinate meetings.</li>
-<li><strong>Integration:</strong> Google Calendar API. When a positive reply is detected, the agent sends a Calendly link or proposes times.</li>
-</ul>
-<p><strong>Task 56: "Form Filler" Scripts (Selenium)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Automate Greenhouse/Lever forms.</li>
-<li><strong>Implementation:</strong> Maintain a library of Selenium scripts for the top 5 ATS platforms. These have predictable DOMs (id="first_name").</li>
-</ul>
-<p><strong>Task 57: CAPTCHA Solving Integration</strong></p>
-<ul>
-<li><strong>Tool:</strong> 2Captcha or CapSolver API.</li>
-<li><strong>Logic:</strong> If CAPTCHA detected -&gt; Pause -&gt; Send to API -&gt; Wait for Token -&gt; Inject Token.</li>
-</ul>
-<p><strong>Task 58: Cold Email Infrastructure</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Ensure deliverability.</li>
-<li><strong>Implementation:</strong> Use a dedicated subdomain for agentic outreach to protect the user's main domain reputation.</li>
-</ul>
-<p><strong>Task 59: Follow-Up Management</strong></p>
-<ul>
-<li><strong>Logic:</strong> If no reply in 3 days -&gt; Send polite bump. Max 2 follow-ups.</li>
-</ul>
-<p><strong>Task 60: Interview Prep Agent</strong></p>
-<ul>
-<li><strong>Output:</strong> A "Dossier" PDF. Contains: Interviewer bios, recent company news, potential culture questions, and suggested questions to ask.</li>
-</ul>
-<p><strong>Task 61: Negotiation Advisor</strong></p>
-<ul>
-<li><strong>Logic:</strong> When an offer is received, the agent searches levels.fyi for comparable salaries and suggests a counter-offer range.</li>
-</ul>
-<p><strong>Task 62: Portfolio "Project" Generator</strong></p>
-<ul>
-<li><strong>Logic:</strong> For gig work, auto-select the 3 most relevant portfolio items to attach to the bid.</li>
-</ul>
-<p><strong>Task 63: Reference Checker</strong></p>
-<ul>
-<li><strong>Logic:</strong> For potential co-founders, the agent searches for "Back-channel" references—people in the user's network who overlap with the target's past companies.</li>
-</ul>
-<p><strong>Task 64: "Stealth" Mode Operations</strong></p>
-<ul>
-<li><strong>Logic:</strong> Ensure all LinkedIn views are done in "Private Mode" (if possible) or via the API to prevent "XYZ viewed your profile" notifications revealing the user.</li>
-</ul>
-<p><strong>Task 65: Error Handling and Retry Logic</strong></p>
-<ul>
-<li><strong>Implementation:</strong> Dead Letter Queue. If an application fails, log it, alert the user, and retry later.</li>
-</ul>
+                        <h3 id="phase-3-donovan-style-primary-data-sensors-points-2645"><a class="header" href="#phase-3-donovan-style-primary-data-sensors-points-2645">Phase 3: Donovan-Style "Primary Data" Sensors (Points 26–45)</a></h3>
+<p><strong>Point 26: SEC Filing Monitor: Create a skill to monitor the EDGAR database for Form 8-K (material events) and 10-K (risk factors) filings.</strong><br />
+Weaknesses: EDGAR's RSS is delayed; parsing complex XBRL requires expertise.<br />
+Opportunities: Use SEC-API Python lib for real-time pushes, extending to international filings via ESMA for global reach.</p>
+<p><strong>Point 27: Strategic Signal Detection: Program the agent to flag 8-K filings mentioning "Executive Resignations" as an immediate opening for a mid-term contributor.</strong><br />
+Weaknesses: False positives from non-relevant resignations (e.g., board-only); no context on replacement urgency.<br />
+Opportunities: NLP entity linking to your skills, plus cross-check with LinkedIn for interim hires already in place.</p>
+<p><strong>Point 28: Patent Landscape Analysis: Use an LLM to scan WIPO/USPTO for new patent filings by target startups to identify emerging tech needs before they hire.</strong><br />
+Weaknesses: Patents lag real needs by 18+ months; LLM summaries can miss technical nuances.<br />
+Opportunities: Integrate Patent2Net for graph-based trend mapping, predicting hire waves from citation networks.</p>
+<p><strong>Point 29: Choke-Point Analysis: Identify companies with high "Technical Debt" by analyzing their public GitHub issue-to-commit ratios.</strong><br />
+Weaknesses: Ratios ignore closed issues or private repos; biased toward open-source heavy firms.<br />
+Opportunities: Weight by issue age/priority labels, extending to SonarQube scans if APIs allow for debt scoring.</p>
+<p><strong>Point 30: Infrastructure Mapping: Use BuiltWith or Netcraft skills to detect when a startup switches its tech stack (e.g., migrating to AWS), signaling a need for specialized contractors.</strong><br />
+Weaknesses: Detection is retrospective; misses cloud-agnostic shifts like serverless.<br />
+Opportunities: Real-time via Cloudflare Radar or AWS Cost Explorer APIs (if public), alerting on config drifts.</p>
+<p><strong>Point 31: Maritime/Aviation Logic: For logistics gigs, use MarineTraffic or PiAware (ADSB) to track shipments or executive travel to "hot" manufacturing zones.</strong><br />
+Weaknesses: Privacy/ToS issues with tracking individuals; data noise from unrelated flights.<br />
+Opportunities: Anonymize to aggregate trends (e.g., flight volumes to Shenzhen), tying to supply chain APIs like Flexport.</p>
+<p><strong>Point 32: Funding Alert Automation: Monitor Crunchbase or Polymarket to identify startups that just secured Series A funding.</strong><br />
+Weaknesses: Crunchbase lags; Polymarket is prediction-market speculative, not factual.<br />
+Opportunities: Primary source via SEC Form D filings, with Polymarket as sentiment overlay for hire probability.</p>
+<p><strong>Point 33: Job Change Tracking: Monitor LinkedIn for leadership transitions; a new CTO often brings in a new "6-month" implementation team.</strong><br />
+Weaknesses: LinkedIn scraping is brittle and ToS-violating; misses non-public moves.<br />
+Opportunities: Official LinkedIn API alerts, cross-referenced with Mastodon for open-source leaders' migrations.</p>
+<p><strong>Point 34: SEC Risk Factor Extraction: Summarize the "Risk Factors" section of a potential employer's 10-K to prepare "solutions" for the interview.</strong><br />
+Weaknesses: Summaries lack depth for technical risks; annual 10-Ks miss quarterly updates.<br />
+Opportunities: Quarterly 10-Q focus, with agent-generated "counter-risk" pitches benchmarked against peer filings.</p>
+<p><strong>Point 35: WCC-Style Cartel Mapping: Use Graphiti to map overlapping board members between your current targets and past employers.</strong><br />
+Weaknesses: Graphiti may overfit small networks; data staleness from public sources.<br />
+Opportunities: Enrich with OpenCorporates for global director links, visualizing as interactive Neo4j blooms.</p>
+<p><strong>Point 36: Industrial Intelligence: Scan technical journals for mentions of new manufacturing methods that require your specific "serious contributor" skills.</strong><br />
+Weaknesses: Journal paywalls block access; LLM scans miss interdisciplinary links.<br />
+Opportunities: ArXiv preprints for early signals, with citation graphs to predict adoption curves.</p>
+<p><strong>Point 37: Competitor Sentiment Analysis: Monitor Reddit for negative sentiment regarding a competitor's product; use this to pitch yourself as the person to fix it at a rival.</strong><br />
+Weaknesses: Reddit echo chambers skew sentiment; no quantification of virality.<br />
+Opportunities: Multi-forum (e.g., + Hacker News) with VADER sentiment scoring, alerting on threshold spikes.</p>
+<p><strong>Point 38: Bypassing Mass Media: Explicitly block "News" domains in your search parameters to focus only on primary filings and social-graph signals.</strong><br />
+Weaknesses: Over-blocking misses validated leaks (e.g., TechCrunch exclusives); primary sources can be manipulated too.<br />
+Opportunities: Tiered trust scores (primary=100%, vetted media=70%), with anomaly detection for "too good to be true" scoops.</p>
+<p><strong>Point 39: Entity Resolution: Use a Knowledge Graph Query Agent to link a "stealth startup" founder to their previous successful exits.</strong><br />
+Weaknesses: Graph queries scale poorly without indexing; false merges from common names.<br />
+Opportunities: Embed with spaCy for fuzzy resolution, querying Wikidata for exit validations.</p>
+<p><strong>Point 40: Trend Prediction: Use Blue Silk AI patterns to forecast which tech discussions will escalate into hiring booms within 90 days.</strong><br />
+Weaknesses: "Blue Silk AI" unclear (typo?); predictions are probabilistic, risking over-reliance.<br />
+Opportunities: Clarify to Bluesky trends or use Google Trends API, backtested against historical hire data.</p>
+<p><strong>Point 41: Visual Intelligence: If a startup posts a "team photo," use vision models to identify the office hardware and environment for culture-fit analysis.</strong><br />
+Weaknesses: Privacy-invasive; vision models error-prone on low-res images.<br />
+Opportunities: Ethical pivot to public logos/badges detection, inferring stack from visible whiteboards.</p>
+<p><strong>Point 42: Financial Health Scoring: Calculate a company’s "burn rate" proxy using employee growth data vs. funding dates.</strong><br />
+Weaknesses: Proxies inaccurate without revenue data; ignores cash reserves.<br />
+Opportunities: Incorporate PitchBook estimates, with Monte Carlo sims for stability forecasts.</p>
+<p><strong>Point 43: Sourcing Alternatives: If a gig is filled, use an agent to find "Secondary Suppliers" or partners of that company who might have identical needs.</strong><br />
+Weaknesses: Supply chain data sparse for stealth firms; assumes linear needs transfer.<br />
+Opportunities: CB Insights partner graphs, with similarity scoring via tech stack overlap.</p>
+<p><strong>Point 44: Sentiment Divergence: Flag cases where the CEO’s public X (Twitter) posts contradict the "Risk Factors" in their SEC filings.</strong><br />
+Weaknesses: Contextual sarcasm missed by sentiment tools; X data ephemeral.<br />
+Opportunities: Temporal analysis (e.g., post-filing spikes), cross with earnings calls via transcripts.</p>
+<p><strong>Point 45: Strategic Action Plan: Generate a Donovan-style "Meticulously Prepared Study" for your top 3 targets each Monday morning.</strong><br />
+Weaknesses: Weekly cadence may miss intra-week pivots; studies risk info overload.<br />
+Opportunities: Daily micro-briefs via email digests, with executive summaries prioritized by urgency score.</p>
 
                     </main>
 

@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Phase 4: User Interface and Control (Tasks 66–80) - GitYourGyg ... GYG Manifesto</title>
+        <title>Phase 4: Social Graph &amp; Co-founder Discovery (Points 46–65) - Observe. Build. Gather intelligence. Define your luck surface area.</title>
 
 
         <!-- Custom HTML head -->
@@ -123,7 +123,7 @@
                         </button>
                     </div>
 
-                    <h1 class="menu-title">GitYourGyg ... GYG Manifesto</h1>
+                    <h1 class="menu-title">Observe. Build. Gather intelligence. Define your luck surface area.</h1>
 
                     <div class="right-buttons">
                         <a href="../print.html" title="Print this book" aria-label="Print this book">
@@ -155,79 +155,67 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h2 id="phase-4-user-interface-and-control-tasks-6680"><a class="header" href="#phase-4-user-interface-and-control-tasks-6680"><strong>Phase 4: User Interface and Control (Tasks 66–80)</strong></a></h2>
-<p>The agent needs a cockpit. The user experience should be "High-Level Direction, Low-Level Automation."<br />
-<strong>Task 66: Build "Command Center" Dashboard</strong></p>
-<ul>
-<li><strong>Tech Stack:</strong> Next.js (Frontend) + FastAPI (Backend).</li>
-<li><strong>Views:</strong>
-<ul>
-<li><strong>Inbox:</strong> New matches waiting for triage.</li>
-<li><strong>Active:</strong> Applications sent, awaiting reply.</li>
-<li><strong>Scheduled:</strong> Upcoming interviews.</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 67: "Swipe" Interface (Tinder for Jobs)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Implement the CoffeeSpace mechanic.</li>
-<li><strong>Value:</strong> Swiping is faster than reading lists. It also generates training data (Right Swipe = Positive Signal) to update the User Vector.</li>
-</ul>
-<p><strong>Task 68: Telegram/Slack Bot Integration</strong></p>
-<ul>
-<li><strong>Objective:</strong> Push notifications.</li>
-<li><strong>Flow:</strong> Agent sends: "New High Match (95%).. Apply?" User replies: "Yes." Agent executes.</li>
-</ul>
-<p><strong>Task 69: Profile Editor &amp; Document Vault</strong></p>
-<ul>
-<li><strong>Functionality:</strong> Drag-and-drop interface for Resumes, Transcripts, and Portfolios.</li>
-</ul>
-<p><strong>Task 70: "Agent Logs" Transparency Viewer</strong></p>
-<ul>
-<li><strong>Objective:</strong> Trust building.</li>
-<li><strong>Display:</strong> A terminal-like stream showing the agent's actions: "Scraping YC... Found 5 profiles... Filtering... 1 Match."</li>
-</ul>
-<p><strong>Task 71: Approval Queue Implementation</strong></p>
-<ul>
-<li><strong>Logic:</strong> A "Drafts" folder. The user can bulk-approve or edit messages before they are sent.</li>
-</ul>
-<p><strong>Task 72: Analytics Dashboard</strong></p>
-<ul>
-<li><strong>Metrics:</strong> Funnel visualization. Matches -&gt; Swiped Right -&gt; Applied -&gt; Interviewed -&gt; Offers.</li>
-</ul>
-<p><strong>Task 73: "Magic Link" Authentication</strong></p>
-<ul>
-<li><strong>Tool:</strong> Auth0 or Supabase Auth. Passwordless login for ease of use.</li>
-</ul>
-<p><strong>Task 74: Mobile-Responsive Design</strong></p>
-<ul>
-<li><strong>Objective:</strong> Triage on the go. The "Swipe" interface must be mobile-first.</li>
-</ul>
-<p><strong>Task 75: Voice Interface (Whisper API)</strong></p>
-<ul>
-<li><strong>Objective:</strong> "Agent, pause the search for co-founders, I'm going on vacation."</li>
-</ul>
-<p><strong>Task 76: "Daily Digest" Email Generator</strong></p>
-<ul>
-<li><strong>Format:</strong> A structured email summary at 8:00 AM. "3 new jobs, 1 co-founder match, 2 interview requests."</li>
-</ul>
-<p><strong>Task 77: Granular Settings &amp; Preferences</strong></p>
-<ul>
-<li><strong>Controls:</strong> Sliders for "Risk Tolerance," "Equity vs Salary," "Remote Importance."</li>
-</ul>
-<p><strong>Task 78: "Vacation Mode" Toggle</strong></p>
-<ul>
-<li><strong>Logic:</strong> Pauses all outgoing actions and auto-replies to incoming messages with a delay notice.</li>
-</ul>
-<p><strong>Task 79: Data Export Feature</strong></p>
-<ul>
-<li><strong>Format:</strong> CSV/JSON export of all applications for the user's records.</li>
-</ul>
-<p><strong>Task 80: Integration with Productivity Tools (Notion/Airtable)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Sync status.</li>
-<li><strong>Logic:</strong> When the agent applies, it creates a row in the user's Notion "Job Search" database.</li>
-</ul>
+                        <h3 id="phase-4-social-graph--co-founder-discovery-points-4665"><a class="header" href="#phase-4-social-graph--co-founder-discovery-points-4665">Phase 4: Social Graph &amp; Co-founder Discovery (Points 46–65)</a></h3>
+<p><strong>Point 46: MoltBook Integration: Monitor MoltBook for "Agentic Societies" or trending technical debates that signal where founders are concentrating.</strong><br />
+Weaknesses: "MoltBook" obscure (niche?); assumes platform relevance to all niches.<br />
+Opportunities: Generalize to Indie Hackers or Product Hunt, with topic modeling for debate extraction.</p>
+<p><strong>Point 47: Founder Sentiment Tracking: Track the X/LinkedIn posts of potential co-founders to detect "frustration signals" with current projects.</strong><br />
+Weaknesses: Signal noise high (e.g., venting vs. real pain); platform changes disrupt tracking.<br />
+Opportunities: Keyword evolution tracking with LDA, alerting on frustration lexicon shifts.</p>
+<p><strong>Point 48: Relational Mapping: Use Neo4j or Graphiti to identify "Triplets" (Entity A - knows - Entity B) to find mutual introductions.</strong><br />
+Weaknesses: Graphs incomplete without proprietary data; computation heavy for large nets.<br />
+Opportunities: Prune to 2-hop queries, exporting to Gephi for manual warm-up scripting.</p>
+<p><strong>Point 49: Co-founder Matching: Use an LLM to score "Complementary Skills" by comparing your MEMORIES.md with a founder's public technical history.</strong><br />
+Weaknesses: LLM scoring subjective; misses soft skills like conflict resolution.<br />
+Opportunities: Multi-modal scoring with skill ontologies (e.g., ESCO), including Git commit styles for collab fit.</p>
+<p><strong>Point 50: Hacker News (PN) Pulse: Scrape "Who is Hiring" and "Show HN" threads, prioritizing founders who engage in deep technical discourse.</strong><br />
+Weaknesses: Scraping Y Combinator sites risks blocks; "deep discourse" hard to quantify.<br />
+Opportunities: RSS + comment depth metrics (e.g., reply chains &gt;5), filtering for your keywords.</p>
+<p><strong>Point 51: Digital Footprint Analysis: Use OSINT Industries to find the alternative social accounts (Telegram/Discord) where founders discuss raw ideas.</strong><br />
+Weaknesses: OSINT tools pricey/unreliable; ethical gray area for deep dives.<br />
+Opportunities: Free alternatives like Holehe for email enumeration, focused on public Discords via crawler bots.</p>
+<p><strong>Point 52: Subdomain Enumeration: Use WhoisXML to find a startup's hidden staging sites (e.g., dev.startup.com), revealing upcoming product launches.</strong><br />
+Weaknesses: WhoisXML costly; many subdomains are noise (e.g., marketing).<br />
+Opportunities: Sublist3r for free enum, with HTTP probing for active dev endpoints signaling hires.</p>
+<p><strong>Point 53: Episodic Memory Processing: Store every interaction with a potential co-founder as an "Episode" in OpenClaw to track relationship evolution.</strong><br />
+Weaknesses: Episodes bloat without summarization; no multi-party context.<br />
+Opportunities: Compress via auto-TL;DR, with timeline visualizations in Mermaid diagrams.</p>
+<p><strong>Point 54: Network Centrality Calculation: Identify the most connected "hub" individuals in your niche using PageRank-style metrics.</strong><br />
+Weaknesses: PageRank biases popular over influential; static snapshots miss dynamics.<br />
+Opportunities: Temporal PageRank with NetworkX, re-run bi-weekly on evolving graphs.</p>
+<p><strong>Point 55: Virtual Presence: Set the agent to "attend" webinars and summarize the Q&amp;A sessions for high-signal technical questions from attendees.</strong><br />
+Weaknesses: Bot "attendance" detectable/unethical; summaries lose nuance.<br />
+Opportunities: YouTube API for post-event transcripts, with speaker diarization for Q&amp;A isolation.</p>
+<p><strong>Point 56: "Old Boy" Network Emulation: Search for alumni of specific high-intensity companies (e.g., early SpaceX or Stripe) who are now "Between roles".</strong><br />
+Weaknesses: Alumni data gated (e.g., LinkedIn Premium); assumes shared culture fits all.<br />
+Opportunities: Public Crunchbase exits + X searches, with affinity scoring from shared hashtags.</p>
+<p><strong>Point 57: Stealth Mode Discovery: Scrape domain registration databases for specific keywords related to your niche to find companies before they launch a landing page.</strong><br />
+Weaknesses: WHOIS privacy hides many; keywords too broad yield spam.<br />
+Opportunities: DNSDumpster for passive recon, combined with GitHub org scans for early code leaks.</p>
+<p><strong>Point 58: Contributor Role Hunting: Monitor Discord "Dev" channels for project leads complaining about specific technical blockers you can solve.</strong><br />
+Weaknesses: Discord APIs limited without invites; real-time monitoring drains resources.<br />
+Opportunities: Public server crawlers like discord.py, with sentiment alerts on blocker keywords.</p>
+<p><strong>Point 59: Founder/CEO Travel Tracking: If an aviation sensor (ADSB) shows a founder frequenting a specific VC hub, time your outreach to that VC's portfolio.</strong><br />
+Weaknesses: ADSB coverage spotty; correlates travel to intent loosely.<br />
+Opportunities: Aggregate with calendar leaks (e.g., Calendly public links) for meeting inferences.</p>
+<p><strong>Point 60: Simulated Decision Modeling: Use Simile AI logic to forecast how a founder might react to a "Co-founder" pitch based on their past career moves.</strong><br />
+Weaknesses: "Simile AI" vague; simulations overfit historical data.<br />
+Opportunities: Use decision tree libs like scikit-learn, trained on anonymized pitch datasets from AngelList.</p>
+<p><strong>Point 61: Social Media Engagement Mapping: Identify which "serious contributors" are upvoting specific niche technologies on X or BlueSky.</strong><br />
+Weaknesses: Upvote data not public; platforms throttle scrapes.<br />
+Opportunities: Proxy via retweet graphs, with community detection for contributor clusters.</p>
+<p><strong>Point 62: Podcast Analysis: Use Whisper to transcribe and summarize interviews of founders to extract their "unsolved problems" list.</strong><br />
+Weaknesses: Whisper accuracy dips on accents; summaries miss follow-ups.<br />
+Opportunities: Chain with GPT for problem extraction, indexing episodes in a searchable podcast KG.</p>
+<p><strong>Point 63: Community Detection: Use graph learning to find "cliques" of developers working on the next big framework.</strong><br />
+Weaknesses: Louvain algos sensitive to edge weights; misses loose affiliations.<br />
+Opportunities: Add modularity optimization with igraph, visualizing cliques as outreach targets.</p>
+<p><strong>Point 64: Obfuscated Role Search: Look for roles described with "odd" requirements that match your unique Donovan-style background.</strong><br />
+Weaknesses: "Odd" is subjective; risks missing disguised gems in plain sight.<br />
+Opportunities: Anomaly detection on JD embeddings, flagging deviations from norm baselines.</p>
+<p><strong>Point 65: Trust Verification: Use Maltego to verify a potential co-founder's history across multiple business registrations.</strong><br />
+Weaknesses: Maltego steep learning curve/cost; incomplete global coverage.<br />
+Opportunities: Open-source alt like Recon-ng, automated for batch verifications with report templates.</p>
 
                     </main>
 

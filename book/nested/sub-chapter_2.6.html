@@ -3,8 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Page not found - Observe. Build. Gather intelligence. Define your luck surface area.</title>
-        <base href="/">
+        <title>Phase 6: Maintenance &amp; Strategic Refinement (Points 86–100) - Observe. Build. Gather intelligence. Define your luck surface area.</title>
 
 
         <!-- Custom HTML head -->
@@ -13,33 +12,33 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff">
 
-        <link rel="icon" href="favicon.svg">
-        <link rel="shortcut icon" href="favicon.png">
-        <link rel="stylesheet" href="css/variables.css">
-        <link rel="stylesheet" href="css/general.css">
-        <link rel="stylesheet" href="css/chrome.css">
-        <link rel="stylesheet" href="css/print.css" media="print">
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
 
         <!-- Fonts -->
-        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
-        <link rel="stylesheet" href="fonts/fonts.css">
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
 
         <!-- Highlight.js Stylesheets -->
-        <link rel="stylesheet" id="highlight-css" href="highlight.css">
-        <link rel="stylesheet" id="tomorrow-night-css" href="tomorrow-night.css">
-        <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
+        <link rel="stylesheet" id="highlight-css" href="../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../ayu-highlight.css">
 
         <!-- Custom theme stylesheets -->
 
 
         <!-- Provide site root and default themes to javascript -->
         <script>
-            const path_to_root = "";
+            const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
         </script>
         <!-- Start loading toc.js asap -->
-        <script src="toc.js"></script>
+        <script src="../toc.js"></script>
     </head>
     <body>
     <div id="body-container">
@@ -92,7 +91,7 @@
             <!-- populated by js -->
             <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
             <noscript>
-                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
             </noscript>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -127,7 +126,7 @@
                     <h1 class="menu-title">Observe. Build. Gather intelligence. Define your luck surface area.</h1>
 
                     <div class="right-buttons">
-                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
                             <i id="print-button" class="fa fa-print"></i>
                         </a>
 
@@ -156,14 +155,64 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="document-not-found-404"><a class="header" href="#document-not-found-404">Document not found (404)</a></h1>
-<p>This URL is invalid, sorry. Please use the navigation bar or search to continue.</p>
+                        <h3 id="phase-6-maintenance--strategic-refinement-points-86100"><a class="header" href="#phase-6-maintenance--strategic-refinement-points-86100">Phase 6: Maintenance &amp; Strategic Refinement (Points 86–100)</a></h3>
+<p><strong>Point 86: Hallucination Mitigation: Implement a "Faithfulness Metric" to ensure the agent doesn't invent job requirements.</strong><br />
+Weaknesses: Metrics like RAGAS are compute-heavy; no real-time enforcement.<br />
+Opportunities: Self-consistency checks (multiple generations), with rollback on failures.</p>
+<p><strong>Point 87: Data Provenance Tagging: Mark all leads as "Primary" (SEC/WIPO) or "Secondary" (Media/Social) to maintain Donovan-level rigor.</strong><br />
+Weaknesses: Tagging manual-prone; hybrids blur lines.<br />
+Opportunities: Automated via source metadata, with query filters for purity levels.</p>
+<p><strong>Point 88: Security Audit: Regularly rotate the API keys and credentials stored in OpenClaw's YAML config files.</strong><br />
+Weaknesses: YAML plaintext risky; audits infrequent miss drifts.<br />
+Opportunities: Vault integration (e.g., HashiCorp), with weekly scans via Trivy.</p>
+<p><strong>Point 89: Prompt Optimization: Use "Chain of Thought" or "Tree of Thoughts" for complex matching logic.</strong><br />
+Weaknesses: Increases token costs; ToT can explode combinatorially.<br />
+Opportunities: Pruned ToT with beam search, benchmarked on custom eval sets.</p>
+<p><strong>Point 90: Local Vector Search: Use ChromaDB or Pinecone locally to index your growing archive of company research.</strong><br />
+Weaknesses: Local Pinecone not truly local (cloud?); index drift without refreshes.<br />
+Opportunities: Qdrant for hybrid search, with upsert hooks on new data.</p>
+<p><strong>Point 91: Model Drift Monitoring: Set an alert if the agent's "Match Accuracy" falls below 90%.</strong><br />
+Weaknesses: Accuracy hard to ground-truth; alerts fatigue if noisy.<br />
+Opportunities: Canary tasks (known leads) for ongoing eval, with auto-retrain triggers.</p>
+<p><strong>Point 92: Adversarial Testing: Occasionally "feed" the agent fake, low-quality jobs to ensure its filters are working.</strong><br />
+Weaknesses: Fakes may poison memory if not isolated; limited coverage.<br />
+Opportunities: Dedicated test suite in Pytest, with coverage reports on filter branches.</p>
+<p><strong>Point 93: Ethical Guardrails: Configure the agent to never scrape data from private password-protected employee areas (staying within OSINT limits).</strong><br />
+Weaknesses: Guardrails bypassable via skill mods; no logging for audits.<br />
+Opportunities: Constitutional AI prompts, with ethical review checklists per phase.</p>
+<p><strong>Point 94: Human-in-the-Loop (HITL) Scaling: Only automate outreach for "Short-term Gigs"; keep 6-month and co-founder roles as "Manual Send" only.</strong><br />
+Weaknesses: Scaling HITL creates bottlenecks as volume grows.<br />
+Opportunities: Delegate low-stakes to semi-auto (drafts only), with escalation queues.</p>
+<p><strong>Point 95: Docker/K8s Deployment: Package your OpenClaw setup in a Docker container for "One-click" migration if you need to scale to a cloud NPU.</strong><br />
+Weaknesses: K8s overkill for solo; container bloat from deps.<br />
+Opportunities: Slim base images with multi-arch builds, Helm charts for cloud deploys.</p>
+<p><strong>Point 96: Temporal Fact Tracking: Use Graphiti to track how a company's tech stack evolves over months to catch the "pivot" point.</strong><br />
+Weaknesses: Evolution signals weak without baselines; graphs memory-intensive.<br />
+Opportunities: Delta queries for change detection, alerting on &gt;20% stack shifts.</p>
+<p><strong>Point 97: Source Provenance Policy: Establish a policy that mandates human validation before any "Synthetic Data" is added to your core ICP.</strong><br />
+Weaknesses: Human validation slows; synthetics useful for gaps.<br />
+Opportunities: Tiered validation (low-risk auto), with provenance blockchain for audits.</p>
+<p><strong>Point 98: Continuous Benchmarking: Measure "Time Saved" and "Response Rate Improvement" monthly to justify the infrastructure cost ($5–$10/day in tokens).</strong><br />
+Weaknesses: Metrics self-reported biased; ignores opportunity costs.<br />
+Opportunities: Automated dashboards in Grafana, with cohort comparisons to manual baselines.</p>
+<p><strong>Point 99: Keel of the Ship: As Donovan advised, "Lay the keel" by starting with one narrow skill (e.g., SEC monitoring) before building the full mesh.</strong><br />
+Weaknesses: Phased rollout risks incomplete value early; motivation dip if slow wins.<br />
+Opportunities: MVP loops with user stories, celebrating micro-milestones like first alert.</p>
+<p><strong>Point 100: The Strategic Individual: Conduct a monthly "Self-Intelligence Audit" to ensure your private network is providing a definitive information advantage over the "Mass Media" public.</strong><br />
+Weaknesses: Audits subjective; no quantifiable "advantage" metric.<br />
+Opportunities: Score via lead conversion rates vs. public sources, with network health KPIs like intro success.</p>
 
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../nested/sub-chapter_2.5.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
 
+                            <a rel="next prefetch" href="../nested/table_1.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
 
                         <div style="clear: both"></div>
                     </nav>
@@ -171,7 +220,13 @@
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../nested/sub-chapter_2.5.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
 
+                    <a rel="next prefetch" href="../nested/table_1.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
             </nav>
 
         </div>
@@ -200,13 +255,13 @@
         </script>
 
 
-        <script src="elasticlunr.min.js"></script>
-        <script src="mark.min.js"></script>
-        <script src="searcher.js"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="clipboard.min.js"></script>
-        <script src="highlight.js"></script>
-        <script src="book.js"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 

@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>GYG Project Architectural Vision: 100-Day Sprint For Agentic Platform-Architecture-as-a-Service - GitYourGyg ... GYG Manifesto</title>
+        <title>100 Days: Observe. Build. Gather intelligence. - Observe. Build. Gather intelligence. Define your luck surface area.</title>
 
 
         <!-- Custom HTML head -->
@@ -123,7 +123,7 @@
                         </button>
                     </div>
 
-                    <h1 class="menu-title">GitYourGyg ... GYG Manifesto</h1>
+                    <h1 class="menu-title">Observe. Build. Gather intelligence. Define your luck surface area.</h1>
 
                     <div class="right-buttons">
                         <a href="print.html" title="Print this book" aria-label="Print this book">
@@ -155,631 +155,91 @@
 
                 <div id="content" class="content">
                     <main>
-                        <p><em>Never mind that humans should be taught at a very young age how to make themselves useful, enjoy being productive and, very importantly, negotiate their salary so that they get paid per negotiated contract for their useful efforts, ie THAT difficiency in parenting and educational systems is a topic for another manifesto. The ENTIRE process of educating humans and building educational systems, looking in the rear view mirror, for careers that existed five, ten, twenty-five or even fifty years ago is HOPELESSLY and PAINFULLY broken.</em></p>
-<p><strong>We have to skip right past the backward looking education and jobsearch processes to get to what MUST be done</strong></p>
-<p>This manifesto focuses on the <em>professional</em> and the <em>opportunity discovery process</em> and how we find work first and build our careers with education and professional development that is actually relevant in the digital age.</p>
-<p>The digital labor market has fractured into a constellation of specialized silos.</p>
-<p>To find temporary short-term work or gig labor, one turns to the location-specific taxonomies of TaskRabbit.</p>
-<p>To secure high-value technical work, one must monitor the bidding wars of Upwork or the bounty boards of Gitcoin.</p>
-<p>To find a co-founder, one navigates the "blind" dating mechanics of Y Combinator’s matching platform or the swipe-based interface of CoffeeSpace.</p>
-<p>To network the whole thing together, we are supposed to use a creepy business-oriented social network like LinkedIn, which is evidently inspired by the elbow-rubbing techniques that the founder of LinkedIn learned on Jeffrey Epstein's island.</p>
-<p>We all know already that finding work has traditionally been a matter of who you know, specifically who you've already worked with and who knows your capabilities ... but in the digital age, it is increasingly necessary to find new connections, to work with new colleagues, to build trust and establish credibility in new communities by doing work that demonstrates an ability to accomplish things and build trust in months rather than decades.</p>
-<p>This fragmentation of the digital labor market imposes a severe cognitive tax on the professional, forcing the professional to act as a human router to optimize one's career progression, constantly switching contexts, normalizing data formats across different platforms, and manually executing repetitive outreach tasks.</p>
-<p>Project GYG proposes a radical reconsideration, simplification and consolidation of this landscape through the development of the "Opportunity Finder"—an autonomous AI agent designed to act as a universal proxy for the user.</p>
-<p>This system is not merely an aggregator; it is an open source collection of prompts and code starters necessary for building personalized agentic entities capable of semantic reasoning, autonomous negotiation, and cross-platform execution.</p>
-<p>The objective is to invert the current "pull" model of opportunity discovery into a "push" model, where the agent continuously scouts, filters, and prepares opportunities for a simple binary decision by the human principal.</p>
-<h1 id="gyg-project-architectural-vision"><a class="header" href="#gyg-project-architectural-vision">GYG Project Architectural Vision</a></h1>
-<p>The following report details the exhaustive architectural vision in the form of a100-task execution plan required to build the GYG "push" model, in which user configured AI agents continuously scouts, filters, and prepares opportunities for a simple binary decision by the human principal.</p>
-<p>The description of our plan attempts to dissect the technical, legal, and operational challenges of integrating disparate platforms—from the API-friendly ecosystem of Web3 bounties to the "walled gardens" of corporate job boards. The architecture leverages a multi-agent orchestration framework (CrewAI/LangGraph) supported by a robust data acquisition layer (Firecrawl, Apify) and a semantic reasoning core powered by Large Language Models (LLMs).</p>
-<h2 id="phase-1-strategic-reconnaissance-and-platform-deconstruction-tasks-115"><a class="header" href="#phase-1-strategic-reconnaissance-and-platform-deconstruction-tasks-115"><strong>Phase 1: Strategic Reconnaissance and Platform Deconstruction (Tasks 1–15)</strong></a></h2>
-<p>The foundation of the Opportunity Finder lies in a deep, forensic understanding of the platforms it seeks to emulate and integrate. We cannot build a universal interface without first reverse-engineering the logic, data structures, and user flows of the target ecosystems. This phase focuses on dissecting the "Big Three" verticals: Co-founder Matching, Gig Economy, and Employment.</p>
-<h3 id="11-co-founder-ecosystem-analysis-and-logic-cloning"><a class="header" href="#11-co-founder-ecosystem-analysis-and-logic-cloning"><strong>1.1 Co-Founder Ecosystem Analysis and Logic Cloning</strong></a></h3>
-<p>The co-founder market is distinct from the job market; it is driven by "potential" rather than "track record," and "chemistry" rather than "skills." Platforms like Y Combinator (YC) Matching and CoffeeSpace have codified these intangible qualities into specific algorithmic interactions.<br />
-<strong>Task 1: Reverse-Engineer YC Co-Founder Matching Attributes</strong> The YC Co-Founder Matching platform represents the gold standard for high-potential networking. Unlike standard job boards, it operates on a "double-blind" logic where interest must be mutual before identities are fully revealed.</p>
-<ul>
-<li><strong>SMART Objective:</strong> By Week 2, produce a yc_scoring_model.json document that identifies 100% of the hidden weighting variables used in YC profiles (e.g., prestige markers, location rigidity) to inform the Agent’s internal scoring algorithm.</li>
-<li><strong>Technical Execution:</strong> The agent must recognize that YC profiles prioritize "north star" metrics. Snippets indicate that profiles highlight specific prestige markers: "Harvard Law," "E7 at DoorDash," or "Y Combinator Alum". The agent must be trained to parse these non-standard credentials—identifying that "E7 at DoorDash" implies a specific level of engineering seniority equivalent to a CTO at a smaller startup.</li>
-<li><strong>Sub-Task:</strong> Create a taxonomy of "Prestige Signals" extracted from 500 YC profiles to weight the agent's ranking logic.</li>
-<li><strong>Sub-Task:</strong> Analyze the "blind" workflow to determine at what stage the agent can intervene. Since the platform requires an invite-accept-match cycle , the agent cannot simply "scrape contact info." It must be designed to manage the <em>state</em> of the connection request.</li>
-</ul>
-<p><strong>Task 2: Deconstruct CoffeeSpace’s Semantic Matching Engine</strong> CoffeeSpace differentiates itself by using a "swipe" mechanic similar to dating apps and an underlying semantic matching engine that looks beyond keywords.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Complete a comparative analysis of CoffeeSpace’s "swipe" logic vs. traditional search by Week 3, identifying three specific UX features to clone for the agent’s "Triage Mode."</li>
-<li><strong>Strategic Insight:</strong> CoffeeSpace’s value proposition is "mission alignment". The Opportunity Finder must not just match "Python" with "Python"; it must match "Decentralized AI" with "Privacy-First Architecture." The agent requires a "Mission Vector" in its database schema to replicate this.</li>
-<li><strong>Sub-Task:</strong> Analyze CoffeeSpace’s onboarding questionnaire to recreate their psychometric profiling (e.g., risk tolerance, work style).</li>
-<li><strong>Sub-Task:</strong> Investigate the integration of Proxycurl by CoffeeSpace for automated LinkedIn enrichment. This feature is critical for reducing user onboarding friction and should be cloned.</li>
-</ul>
-<p><strong>Task 3: Analyze Starthawk’s Search and Messaging Protocol</strong> Starthawk offers a more traditional directory-based search with direct messaging capabilities.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Map the Starthawk messaging API (or DOM structure) to enable the agent to autonomously draft and queue introduction messages.</li>
-<li><strong>Strategic Insight:</strong> Starthawk allows filtering by specific criteria like "has idea" vs. "no idea". This binary distinction is crucial for the agent to route opportunities correctly—a user looking to <em>join</em> a startup needs different matches than one looking to <em>found</em> one.</li>
-<li><strong>Sub-Task:</strong> Define a "Readiness State" attribute in the Opportunity Schema based on Starthawk’s filters.</li>
-</ul>
-<p><strong>Task 4: Establish Privacy and "Stealth Mode" Protocols</strong> Many users of co-founder platforms are currently employed and browsing in "stealth mode." The agent acts as a proxy, but its automated behavior must not de-anonymize the principal.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Define a "Zero-Knowledge" interaction protocol by Week 3 that ensures no identifiable data is transmitted to third-party platforms during the scraping/querying phase.</li>
-<li><strong>Technical Constraint:</strong> YC profiles are private to approved users. The agent must operate via an authenticated session that is strictly gated.</li>
-<li><strong>Sub-Task:</strong> Implement a "Local-Only" processing rule where profile data is downloaded and analyzed locally, rather than sending candidate data to external LLM APIs without PII redaction.</li>
-</ul>
-<h3 id="12-gig-economy-and-bounty-platform-analysis"><a class="header" href="#12-gig-economy-and-bounty-platform-analysis"><strong>1.2 Gig Economy and Bounty Platform Analysis</strong></a></h3>
-<p>The gig economy presents a different challenge: high volume, low latency, and rigid categorization.<br />
-<strong>Task 5: Map TaskRabbit and Dolly Service Taxonomies</strong> TaskRabbit and Dolly (focused on delivery) utilize strict categorical hierarchies. A user offering "labor" cannot simply be listed; they must be listed under "Heavy Lifting," "Assembly," or "Moving."</p>
-<ul>
-<li><strong>SMART Objective:</strong> Create a unified GigCategory ontology that maps 100% of TaskRabbit skills and Dolly vehicle types to a standardized internal format.</li>
-<li><strong>Research Insight:</strong> Dolly requires specific vehicle attributes (Pickup, Box Truck). The agent needs to know the user's asset inventory (e.g., "Do you own a truck?") to unlock these opportunities.</li>
-<li><strong>Sub-Task:</strong> Scrape the full category trees of both platforms to build a translation layer (e.g., "I have a drill" -&gt; TaskRabbit "Mounting &amp; Installation").</li>
-</ul>
-<p><strong>Task 6: Deconstruct Upwork’s Bidding and "Connects" Economy</strong> Upwork gamifies the proposal process with "Connects" (a virtual currency required to apply). Indiscriminate auto-applying will drain the user's budget instantly.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Develop a "Return on Connects" (RoC) scoring model that predicts the probability of a reply before the agent spends credits.</li>
-<li><strong>Strategic Insight:</strong> Speed is a factor, but "proposal relevance" is higher. The agent must be capable of parsing the job description and answering specific screening questions, which are common on Upwork.</li>
-<li><strong>Sub-Task:</strong> Analyze 100 successful Upwork proposals to identify common structural elements (e.g., "Restating the problem in the first sentence").</li>
-</ul>
-<p><strong>Task 7: Scout Web3 Bounty Ecosystems (Gitcoin &amp; Immunefi)</strong> For technical users, the highest value "gigs" are often bug bounties or development grants on platforms like Gitcoin and Immunefi. These operate on radically different mechanics—often permissionless and result-based.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Integrate the Gitcoin Allo Protocol data structure into the agent’s scouting radar by Week 4.</li>
-<li><strong>Technical Context:</strong> Gitcoin uses the Allo Protocol for capital allocation. The agent can query indexers or the blockchain directly to find active grant rounds, bypassing the need for UI scraping.</li>
-<li><strong>Sub-Task:</strong> Map Immunefi’s severity scales (Critical, High, Medium) to dollar value estimates to normalize them against hourly freelance rates.</li>
-</ul>
-<h3 id="13-job-market-and-niche-platform-analysis"><a class="header" href="#13-job-market-and-niche-platform-analysis"><strong>1.3 Job Market and Niche Platform Analysis</strong></a></h3>
-<p><strong>Task 8: Analyze "Hidden" Job Markets (Pallet, Community Boards)</strong> High-quality startup roles often appear on curated boards like Pallet or in private Slack/Discord communities before hitting Indeed.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Identify and catalog the top 50 niche Pallet boards and community servers relevant to the user's domain.</li>
-<li><strong>Strategic Insight:</strong> Pallet boards are community-specific (e.g., "Bankless Jobs"). The agent needs a "Community Discovery" module to find these fragmented URLs.</li>
-<li><strong>Sub-Task:</strong> Evaluate the feasibility of scraping Pallet, which uses a specific infrastructure distinct from standard ATSs.</li>
-</ul>
-<p><strong>Task 9: Assess Technical Limitations of Major Job Boards (LinkedIn, Indeed)</strong> The major platforms are hostile to automation. Official APIs are generally restricted to enterprise partners.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Determine the "Safe Operating Limits" for scraping LinkedIn and Indeed to avoid account bans.</li>
-<li><strong>Research Insight:</strong> PhantomBuster suggests a limit of ~80 profiles/day for LinkedIn scraping. The agent must enforce strict rate-limiting logic.</li>
-<li><strong>Sub-Task:</strong> Evaluate the Indeed Job Sync API documentation to see if "Read-Only" access is possible for personal use (unlikely, necessitating scraping).</li>
-</ul>
-<p><strong>Task 10: Define the Unified "Opportunity Schema"</strong> To allow the user to compare a $50k bounty, a $150k job, and a co-founder role with 50% equity, the data must be normalized.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Draft the JSON schema for the UniversalOpportunity object, covering 95% of fields across all target platforms.</li>
-<li><strong>Schema Design:</strong>
-<ul>
-<li>type:</li>
-<li>compensation_type:</li>
-<li>risk_profile: [Low, Medium, High] (Derived from platform/stage)</li>
-<li>remote_policy:</li>
-<li>source_metadata: {...platform_specific_fields }</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 11: User Intake Strategy (SMART Goal Conversion)</strong> Users rarely state their goals clearly. "I want a better job" is not actionable.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Design an onboarding interaction that forces the user to define constraints (e.g., "Min $120k," "Max 30 min commute").</li>
-<li><strong>Sub-Task:</strong> Create a "Trade-off Slider" UI (e.g., Equity vs. Salary) to weigh the matching algorithm.</li>
-</ul>
-<p><strong>Task 12: Compliance and Legal Framework</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Establish a legal compliance matrix for the agent’s operation.</li>
-<li><strong>Legal Context:</strong> While scraping public data is generally protected (<em>HiQ vs LinkedIn</em>), scraping behind a login (like YC Matching) violates Terms of Service. The agent must be configurable to "Obey TOS" (restrictive) or "User Discretion" (permissive).</li>
-<li><strong>Sub-Task:</strong> Implement robots.txt parsing as a default setting.</li>
-</ul>
-<p><strong>Task 13: Human-in-the-Loop (HITL) Architecture</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Define the intervention points where the agent <em>must</em> pause for approval.</li>
-<li><strong>Design Principle:</strong> No message is sent and no application is submitted without explicit user sign-off.</li>
-<li><strong>Sub-Task:</strong> Design the notification payload for HITL requests (e.g., "Draft Application Ready. Review?").</li>
-</ul>
-<p><strong>Task 14: Select Agentic Framework (CrewAI vs. LangGraph)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Finalize the orchestration stack.</li>
-<li><strong>Decision:</strong> Use <strong>CrewAI</strong> for the high-level collaboration between "Scout" and "Analyst" agents due to its role-based architecture. Use <strong>LangGraph</strong> for the specific, complex state machines required for form-filling and multi-step application processes, as it offers finer control over loops and retries.</li>
-</ul>
-<p><strong>Task 15: Infrastructure Blueprint</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Produce a high-level system architecture diagram.</li>
-<li><strong>Components:</strong>
-<ul>
-<li><em>Ingestion:</em> Firecrawl, Apify.</li>
-<li><em>Storage:</em> Vector DB (Weaviate), Relational DB (Postgres).</li>
-<li><em>Compute:</em> Docker Containers on AWS Fargate.</li>
-<li><em>Interface:</em> Next.js Dashboard.</li>
-</ul>
-</li>
-</ul>
-<h2 id="phase-2-data-infrastructure-and-acquisition-layer-tasks-1635"><a class="header" href="#phase-2-data-infrastructure-and-acquisition-layer-tasks-1635"><strong>Phase 2: Data Infrastructure and Acquisition Layer (Tasks 16–35)</strong></a></h2>
-<p>The "senses" of the agent. This phase focuses on building the pipelines that ingest raw data from the web and convert it into the structured UniversalOpportunity schema defined in Phase 1. Given the diversity of sources, a "one size fits all" scraper is impossible. We will implement a tiered acquisition strategy.</p>
-<h3 id="21-tier-1-intelligent-web-scraping-the-universal-scraper"><a class="header" href="#21-tier-1-intelligent-web-scraping-the-universal-scraper"><strong>2.1 Tier 1: Intelligent Web Scraping (The "Universal Scraper")</strong></a></h3>
-<p><strong>Task 16: Deploy Firecrawl for Generalized LLM-Ready Extraction</strong> Traditional scrapers break when CSS classes change. Firecrawl is designed to convert websites into Markdown, which is the native language of LLMs.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Deploy a self-hosted Firecrawl instance by Week 5 capable of crawling any given company careers page and extracting job details with 95% accuracy.</li>
-<li><strong>Technical Implementation:</strong>
-<ul>
-<li>The agent uses the "Map" feature of Firecrawl to find sub-pages (e.g., /careers/engineering).</li>
-<li>It uses the "Scrape" feature to extract the content as Markdown.</li>
-<li><strong>Sub-Task:</strong> Configure concurrency limits to avoid overwhelming target servers (Ethical Scraping).</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 17: Implement Apify Actors for "Hard Targets"</strong> Platforms like LinkedIn and Wellfound use sophisticated anti-bot measures (fingerprinting, CAPTCHAs). Building custom scrapers for these is a maintenance nightmare.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Integrate Apify’s specialized actors for LinkedIn, Wellfound, and Glassdoor.</li>
-<li><strong>Wellfound Strategy:</strong> Use the radeance/wellfound-job-listings-scraper which handles the complex pagination and infinite scroll of Wellfound’s React application.</li>
-<li><strong>LinkedIn Strategy:</strong> Use linkedin-jobs-scraper via Apify. Note the limitation: LinkedIn scrapers often require a valid session cookie. The agent must include a secure vault to store and rotate these cookies.</li>
-<li><strong>Sub-Task:</strong> Set up a webhook listener to receive data from Apify actors asynchronously.</li>
-</ul>
-<p><strong>Task 18: Develop Headless Browser Agents (Playwright) for SPAs</strong> Some platforms, particularly YC Matching, act as Single Page Applications (SPAs) where data is loaded dynamically after user interaction (clicks).</p>
-<ul>
-<li><strong>SMART Objective:</strong> Build a Playwright-based agent to navigate the YC Co-Founder Matching portal.</li>
-<li><strong>Technical Implementation:</strong>
-<ul>
-<li>The agent launches a browser context with storageState injected (pre-authenticated cookies).</li>
-<li>It simulates human-like mouse movements to avoid bot detection.</li>
-<li>It intercepts network responses (XHR/Fetch) to capture the JSON data payloads directly, rather than parsing the DOM.</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 19: Integrate Exa.ai for Semantic Discovery</strong> Keyword search is insufficient. A user looking for "companies building AI agents" might miss a company that describes itself as "automating workflows with LLMs."</p>
-<ul>
-<li><strong>SMART Objective:</strong> Integrate Exa.ai (formerly Metaphor) to enable embedding-based search for company discovery.</li>
-<li><strong>Value Proposition:</strong> Exa allows the agent to search for "link similar to this one," enabling it to expand a seed list of interesting companies into a broader market map.</li>
-<li><strong>Sub-Task:</strong> Implement a nightly "Discovery Routine" that queries Exa for new domains matching the user's interest vector.</li>
-</ul>
-<h3 id="22-tier-2-official-and-quasi-official-apis"><a class="header" href="#22-tier-2-official-and-quasi-official-apis"><strong>2.2 Tier 2: Official and Quasi-Official APIs</strong></a></h3>
-<p><strong>Task 20: Upwork API and RSS Hybrid Strategy</strong> Upwork’s API is restrictive. However, they provide RSS feeds for specific search queries.</p>
-<ul>
-<li><strong>SMART Objective:</strong> Implement a polling engine that checks Upwork RSS feeds every 15 minutes for new gigs.</li>
-<li><strong>Sub-Task:</strong> Use the Upwork API (if access granted) only for the "Apply" phase to conserve rate limits. Use RSS for the "Discovery" phase.</li>
-</ul>
-<p><strong>Task 21: Web3 Data Ingestion (Allo Protocol &amp; Immunefi)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Build an indexer for the Gitcoin Allo Protocol.</li>
-<li><strong>Technical Implementation:</strong> The Allo Protocol emits events on-chain when new pools are created. The agent can listen to these events or query a subgraph (The Graph) to detect new grant rounds instantly.</li>
-<li><strong>Sub-Task:</strong> Scrape Immunefi’s bounty list JSON (often exposed in their frontend app bundle) to get real-time bounty data.</li>
-</ul>
-<p><strong>Task 22: TaskRabbit and Dolly Location Monitoring</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Build a location-aware scraper for local gigs.</li>
-<li><strong>Technical Implementation:</strong>
-<ul>
-<li>TaskRabbit shows different tasks based on Zip Code. The agent must iterate through the user's target zip codes.</li>
-<li>For Dolly, the agent simulates a "Get Quote" request to see availability and pricing in the area.</li>
-</ul>
-</li>
-</ul>
-<h3 id="23-data-processing-and-storage-layer"><a class="header" href="#23-data-processing-and-storage-layer"><strong>2.3 Data Processing and Storage Layer</strong></a></h3>
-<p><strong>Task 23: Vector Database Implementation (Weaviate)</strong> To match opportunities semantically, we need a Vector DB. Weaviate is selected for its hybrid search capabilities (combining symbolic filters with vector similarity).</p>
-<ul>
-<li><strong>SMART Objective:</strong> specific Weaviate schema deployment by Week 6.</li>
-<li><strong>Schema Strategy:</strong>
-<ul>
-<li><strong>Class:</strong> Opportunity</li>
-<li><strong>Vector:</strong> Embedding of the description + title.</li>
-<li><strong>Properties:</strong> salary (int), equity (float), skills (text array), source (string).</li>
-<li><strong>Sub-Task:</strong> Configure the text2vec-openai module for automatic embedding generation.</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 24: Opportunity Normalization Engine</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Develop a Python pipeline to normalize disparate compensation models.</li>
-<li><strong>Logic:</strong>
-<ul>
-<li>Convert "Hourly Rate" to "Annualized Salary" (Rate * 2000).</li>
-<li>Convert "Equity %" to "Estimated Value" (Equity * Estimated_Valuation).</li>
-<li><em>Note:</em> Estimated Valuation can be fetched from a minimalist Crunchbase lookup or heuristic based on funding stage (Seed = $10M cap).</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 25: Deduplication and Entity Resolution</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Eliminate duplicate listings across platforms.</li>
-<li><strong>Logic:</strong> If Company Name (fuzzy match) AND Job Title (fuzzy match) are &gt; 90% similar, merge the records. Prefer the source with more data (e.g., prefer Wellfound over a LinkedIn aggregators).</li>
-</ul>
-<p><strong>Task 26: Skill and Attribute Extraction (LLM-Based)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Extract structured attributes from unstructured text.</li>
-<li><strong>Implementation:</strong> Pass the job description to a small, fast LLM (e.g., gpt-4o-mini).
-<ul>
-<li><strong>Prompt:</strong> "Extract the following as JSON: required_skills, years_experience, remote_policy (Remote/Hybrid/Onsite), visa_sponsorship (True/False)."</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 27: Sentiment and "Vibe" Analysis</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Score every opportunity for "Culture Signals."</li>
-<li><strong>Implementation:</strong> Analyze text for keywords indicating toxicity ("fast-paced," "rockstar," "work hard play hard") vs. health ("work-life balance," "learning budget").</li>
-<li><strong>Sub-Task:</strong> Cross-reference company name with Glassdoor ratings if scraped.</li>
-</ul>
-<p><strong>Task 28: Proxy Rotation Infrastructure</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Achieve &lt; 1% failure rate due to IP blocks.</li>
-<li><strong>Technical Implementation:</strong> Route all scraping traffic through a residential proxy network (e.g., Bright Data). Implement exponential backoff for retries.</li>
-</ul>
-<p><strong>Task 29: User Profile Vectorization</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Create a detailed vector representation of the user.</li>
-<li><strong>Implementation:</strong> Ingest the user’s Resume, LinkedIn PDF, and Portfolio. Chunk this text and embed it into the same vector space as the opportunities.</li>
-</ul>
-<p><strong>Task 30: Automated Scheduler (n8n Integration)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Orchestrate the data pipeline.</li>
-<li><strong>Tool:</strong> n8n.</li>
-<li><strong>Workflow:</strong>
-<ul>
-<li>Trigger: Every 6 hours.</li>
-<li>Step 1: Run Apify Actors.</li>
-<li>Step 2: Run Firecrawl on tracked company lists.</li>
-<li>Step 3: Run Normalizer.</li>
-<li>Step 4: Update Vector DB.</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 31: PII Redaction Module</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Automatically strip emails/phones from scraped co-founder profiles before storage.</li>
-<li><strong>Reasoning:</strong> Minimizes GDPR liability.</li>
-</ul>
-<p><strong>Task 32: Secure Credential Vault</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Implement AWS Secrets Manager to store LinkedIn cookies and Upwork API keys.</li>
-</ul>
-<p><strong>Task 33: Compliance Logging</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Maintain an immutable log of every URL scraped and the robots.txt status at the time of access.</li>
-</ul>
-<p><strong>Task 34: "Stealth" Browser Fingerprinting</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Configure Playwright to pass strict bot detection tests (e.g., pixelscan.net).</li>
-<li><strong>Technique:</strong> Use puppeteer-extra-plugin-stealth techniques adapted for Playwright.</li>
-</ul>
-<p><strong>Task 35: Data Retention Policy</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Auto-archive opportunities older than 30 days to ensure freshness.</li>
-</ul>
-<h2 id="phase-3-the-intelligence-core--agentic-workflows-tasks-3665"><a class="header" href="#phase-3-the-intelligence-core--agentic-workflows-tasks-3665"><strong>Phase 3: The Intelligence Core – Agentic Workflows (Tasks 36–65)</strong></a></h2>
-<p>With the data ingested and structured, we build the "brain." This phase utilizes <strong>CrewAI</strong> to create a team of specialized AI agents that mimic a human recruiting team: a Researcher (Scout), an Analyst (Matchmaker), and a Copywriter (Outreach).</p>
-<h3 id="31-orchestration-framework-setup"><a class="header" href="#31-orchestration-framework-setup"><strong>3.1 Orchestration Framework Setup</strong></a></h3>
-<p><strong>Task 36: Initialize CrewAI Environment</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Configure the CrewAI runtime environment by Week 7.</li>
-<li><strong>Configuration:</strong> Define the agents.yaml and tasks.yaml files.</li>
-<li><strong>Framework Choice:</strong> CrewAI is selected for its ability to define "Personas". A "Senior Recruiter" persona performs better at evaluating resumes than a generic LLM.</li>
-</ul>
-<p><strong>Task 37: Develop "The Scout" Agent (Researcher)</strong></p>
-<ul>
-<li><strong>Role:</strong> Market Researcher.</li>
-<li><strong>Goal:</strong> "Find the top 20 new opportunities today that match the User's Vector."</li>
-<li><strong>Tools:</strong> VectorSearchTool (queries Weaviate), ExaSearchTool (queries the web).</li>
-<li><strong>Logic:</strong> The Scout filters the raw stream. It creates a shortlist.</li>
-</ul>
-<p><strong>Task 38: Develop "The Matchmaker" Agent (Analyst)</strong></p>
-<ul>
-<li><strong>Role:</strong> Career Coach / Venture Associate.</li>
-<li><strong>Goal:</strong> "Rigorously evaluate the shortlist. Calculate a Match Score (0-100) based on the user's hard constraints and soft preferences."</li>
-<li><strong>Chain of Thought:</strong> "The user wants a remote job. This job is remote. The user knows React. This job needs Vue. Score penalty: -10. Final Score: 85."</li>
-</ul>
-<p><strong>Task 39: Develop "The Networker" Agent (Outreach)</strong></p>
-<ul>
-<li><strong>Role:</strong> PR Specialist.</li>
-<li><strong>Goal:</strong> "Draft the initial communication for the approved matches."</li>
-<li><strong>Capabilities:</strong> Must be able to switch tone—formal for a bank job, casual for a crypto bounty, passionate for a co-founder intro.</li>
-</ul>
-<h3 id="32-specialized-workflows-langgraph"><a class="header" href="#32-specialized-workflows-langgraph"><strong>3.2 specialized Workflows (LangGraph)</strong></a></h3>
-<p>For complex, multi-step processes where the agent might need to "go back" or handle errors, <strong>LangGraph</strong> is the superior tool.<br />
-<strong>Task 40: Job Application State Machine</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Map the application lifecycle.</li>
-<li><strong>States:</strong> New -&gt; Researched -&gt; Drafted -&gt; User_Approved -&gt; Applied -&gt; FollowUp_Scheduled.</li>
-<li><strong>Error Handling:</strong> If the "Apply" step fails (e.g., form error), the state reverts to Error_Review for human intervention.</li>
-</ul>
-<p><strong>Task 41: Co-Founder Dating Workflow</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Manage the delicate "warm intro" process.</li>
-<li><strong>Logic:</strong>
-<ul>
-<li>Step 1: Check user's LinkedIn connections for mutuals.</li>
-<li>Step 2: If Mutuals &gt; 0, draft an "Ask for Intro" message to the connection.</li>
-<li>Step 3: If Mutuals = 0, draft a cold message referencing a specific detail in the target's profile ("I saw your talk at PyCon...").</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 42: Bounty Hunter Workflow</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Real-time reaction.</li>
-<li><strong>Logic:</strong>
-<ul>
-<li>Event: New Bounty Detected via RSS.</li>
-<li>Check: Does user have required skills?</li>
-<li>Action: If Match &gt; 90%, send immediate Telegram push notification. (Bounties are time-sensitive).</li>
-</ul>
-</li>
-</ul>
-<h3 id="33-advanced-matching-and-filtering-logic"><a class="header" href="#33-advanced-matching-and-filtering-logic"><strong>3.3 Advanced Matching and Filtering Logic</strong></a></h3>
-<p><strong>Task 43: "North Star" Alignment Scoring</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Implement mission-based matching.</li>
-<li><strong>Technique:</strong> Calculate the semantic distance between the User’s "Manifesto" (a text blob describing their values) and the Company’s "Mission Statement."</li>
-</ul>
-<p><strong>Task 44: "Anti-Goal" Filtering</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Filter out deal-breakers.</li>
-<li><strong>Logic:</strong> Hard filters for industries (e.g., "Gambling," "Defense") or keywords ("Legacy Code," "On-call").</li>
-</ul>
-<p><strong>Task 45: Tech Stack Compatibility Matrix</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Granular skill matching.</li>
-<li><strong>Logic:</strong> Differentiate between "Required" and "Nice to have."
-<ul>
-<li>User has React, Job wants React -&gt; +20 points.</li>
-<li>User has React, Job wants Angular -&gt; -5 points (transferable skill).</li>
-<li>User has React, Job wants C++ -&gt; -50 points (mismatch).</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 46: Experience Calibration (Inflation/Deflation)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Normalize titles.</li>
-<li><strong>Insight:</strong> A "VP" at a 5-person startup is equivalent to a "Senior" at Google. The agent must calibrate titles based on company size data (fetched via Firecrawl/Apify).</li>
-</ul>
-<p><strong>Task 47: Founder "Psychometric" Profiling</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Analyze co-founder bios for red flags.</li>
-<li><strong>Implementation:</strong> LLM analysis of bios. Flags: "Vague about equity," "History of failed ventures," "Aggressive language."</li>
-</ul>
-<h3 id="34-llm-integration-and-optimization"><a class="header" href="#34-llm-integration-and-optimization"><strong>3.4 LLM Integration and Optimization</strong></a></h3>
-<p><strong>Task 48: LLM Selection (OpenAI vs Claude)</strong></p>
-<ul>
-<li><strong>Decision:</strong> Use <strong>Claude 3.5 Sonnet</strong> for the "Networker" agent (better nuance/writing) and <strong>GPT-4o</strong> for the "Matchmaker" (better reasoning/json-mode).</li>
-</ul>
-<p><strong>Task 49: Semantic Caching</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Reduce API costs by 30%.</li>
-<li><strong>Implementation:</strong> Use GPTCache. If the agent analyzes the same job description twice (e.g., from two different boards), return the cached analysis.</li>
-</ul>
-<p><strong>Task 50: Fine-Tuning "The Coach" (Optional)</strong></p>
-<ul>
-<li><strong>Objective:</strong> If base models fail to capture the user's voice, fine-tune a Llama-3-8B model on the user's past emails and cover letters.</li>
-</ul>
-<h3 id="35-autonomous-action-execution"><a class="header" href="#35-autonomous-action-execution"><strong>3.5 Autonomous Action Execution</strong></a></h3>
-<p><strong>Task 51: Resume Customization Engine</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Generate a tailored resume for every application.</li>
-<li><strong>Implementation:</strong> The agent maintains a "Master Resume" JSON. It selects the relevant projects/bullets for the specific job and renders a new PDF using a LaTeX template.</li>
-</ul>
-<p><strong>Task 52: Cover Letter Generator</strong></p>
-<ul>
-<li><strong>Technique:</strong> "One-Shot" prompting. "Here is the job. Here is the user's writing style. Write a cover letter that mentions [Company News X]."</li>
-</ul>
-<p><strong>Task 53: LinkedIn Connection Request Personalizer</strong></p>
-<ul>
-<li><strong>Constraint:</strong> 300 characters max.</li>
-<li><strong>Logic:</strong> "Hi [Name], I saw you're building [Product]. I'm a dev dealing with [Problem] and would love to connect."</li>
-</ul>
-<p><strong>Task 54: Proposal Generator for Upwork</strong></p>
-<ul>
-<li><strong>Logic:</strong> Address the client's problem in the <em>first line</em>. "I see you need a Python script to scrape YC. I have a Firecrawl setup ready to do this..."</li>
-</ul>
-<p><strong>Task 55: Calendar Scheduling Agent</strong></p>
-<ul>
-<li><strong>Objective:</strong> Coordinate meetings.</li>
-<li><strong>Integration:</strong> Google Calendar API. When a positive reply is detected, the agent sends a Calendly link or proposes times.</li>
-</ul>
-<p><strong>Task 56: "Form Filler" Scripts (Selenium)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Automate Greenhouse/Lever forms.</li>
-<li><strong>Implementation:</strong> Maintain a library of Selenium scripts for the top 5 ATS platforms. These have predictable DOMs (id="first_name").</li>
-</ul>
-<p><strong>Task 57: CAPTCHA Solving Integration</strong></p>
-<ul>
-<li><strong>Tool:</strong> 2Captcha or CapSolver API.</li>
-<li><strong>Logic:</strong> If CAPTCHA detected -&gt; Pause -&gt; Send to API -&gt; Wait for Token -&gt; Inject Token.</li>
-</ul>
-<p><strong>Task 58: Cold Email Infrastructure</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Ensure deliverability.</li>
-<li><strong>Implementation:</strong> Use a dedicated subdomain for agentic outreach to protect the user's main domain reputation.</li>
-</ul>
-<p><strong>Task 59: Follow-Up Management</strong></p>
-<ul>
-<li><strong>Logic:</strong> If no reply in 3 days -&gt; Send polite bump. Max 2 follow-ups.</li>
-</ul>
-<p><strong>Task 60: Interview Prep Agent</strong></p>
-<ul>
-<li><strong>Output:</strong> A "Dossier" PDF. Contains: Interviewer bios, recent company news, potential culture questions, and suggested questions to ask.</li>
-</ul>
-<p><strong>Task 61: Negotiation Advisor</strong></p>
-<ul>
-<li><strong>Logic:</strong> When an offer is received, the agent searches levels.fyi for comparable salaries and suggests a counter-offer range.</li>
-</ul>
-<p><strong>Task 62: Portfolio "Project" Generator</strong></p>
-<ul>
-<li><strong>Logic:</strong> For gig work, auto-select the 3 most relevant portfolio items to attach to the bid.</li>
-</ul>
-<p><strong>Task 63: Reference Checker</strong></p>
-<ul>
-<li><strong>Logic:</strong> For potential co-founders, the agent searches for "Back-channel" references—people in the user's network who overlap with the target's past companies.</li>
-</ul>
-<p><strong>Task 64: "Stealth" Mode Operations</strong></p>
-<ul>
-<li><strong>Logic:</strong> Ensure all LinkedIn views are done in "Private Mode" (if possible) or via the API to prevent "XYZ viewed your profile" notifications revealing the user.</li>
-</ul>
-<p><strong>Task 65: Error Handling and Retry Logic</strong></p>
-<ul>
-<li><strong>Implementation:</strong> Dead Letter Queue. If an application fails, log it, alert the user, and retry later.</li>
-</ul>
-<h2 id="phase-4-user-interface-and-control-tasks-6680"><a class="header" href="#phase-4-user-interface-and-control-tasks-6680"><strong>Phase 4: User Interface and Control (Tasks 66–80)</strong></a></h2>
-<p>The agent needs a cockpit. The user experience should be "High-Level Direction, Low-Level Automation."<br />
-<strong>Task 66: Build "Command Center" Dashboard</strong></p>
-<ul>
-<li><strong>Tech Stack:</strong> Next.js (Frontend) + FastAPI (Backend).</li>
-<li><strong>Views:</strong>
-<ul>
-<li><strong>Inbox:</strong> New matches waiting for triage.</li>
-<li><strong>Active:</strong> Applications sent, awaiting reply.</li>
-<li><strong>Scheduled:</strong> Upcoming interviews.</li>
-</ul>
-</li>
-</ul>
-<p><strong>Task 67: "Swipe" Interface (Tinder for Jobs)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Implement the CoffeeSpace mechanic.</li>
-<li><strong>Value:</strong> Swiping is faster than reading lists. It also generates training data (Right Swipe = Positive Signal) to update the User Vector.</li>
-</ul>
-<p><strong>Task 68: Telegram/Slack Bot Integration</strong></p>
-<ul>
-<li><strong>Objective:</strong> Push notifications.</li>
-<li><strong>Flow:</strong> Agent sends: "New High Match (95%).. Apply?" User replies: "Yes." Agent executes.</li>
-</ul>
-<p><strong>Task 69: Profile Editor &amp; Document Vault</strong></p>
-<ul>
-<li><strong>Functionality:</strong> Drag-and-drop interface for Resumes, Transcripts, and Portfolios.</li>
-</ul>
-<p><strong>Task 70: "Agent Logs" Transparency Viewer</strong></p>
-<ul>
-<li><strong>Objective:</strong> Trust building.</li>
-<li><strong>Display:</strong> A terminal-like stream showing the agent's actions: "Scraping YC... Found 5 profiles... Filtering... 1 Match."</li>
-</ul>
-<p><strong>Task 71: Approval Queue Implementation</strong></p>
-<ul>
-<li><strong>Logic:</strong> A "Drafts" folder. The user can bulk-approve or edit messages before they are sent.</li>
-</ul>
-<p><strong>Task 72: Analytics Dashboard</strong></p>
-<ul>
-<li><strong>Metrics:</strong> Funnel visualization. Matches -&gt; Swiped Right -&gt; Applied -&gt; Interviewed -&gt; Offers.</li>
-</ul>
-<p><strong>Task 73: "Magic Link" Authentication</strong></p>
-<ul>
-<li><strong>Tool:</strong> Auth0 or Supabase Auth. Passwordless login for ease of use.</li>
-</ul>
-<p><strong>Task 74: Mobile-Responsive Design</strong></p>
-<ul>
-<li><strong>Objective:</strong> Triage on the go. The "Swipe" interface must be mobile-first.</li>
-</ul>
-<p><strong>Task 75: Voice Interface (Whisper API)</strong></p>
-<ul>
-<li><strong>Objective:</strong> "Agent, pause the search for co-founders, I'm going on vacation."</li>
-</ul>
-<p><strong>Task 76: "Daily Digest" Email Generator</strong></p>
-<ul>
-<li><strong>Format:</strong> A structured email summary at 8:00 AM. "3 new jobs, 1 co-founder match, 2 interview requests."</li>
-</ul>
-<p><strong>Task 77: Granular Settings &amp; Preferences</strong></p>
-<ul>
-<li><strong>Controls:</strong> Sliders for "Risk Tolerance," "Equity vs Salary," "Remote Importance."</li>
-</ul>
-<p><strong>Task 78: "Vacation Mode" Toggle</strong></p>
-<ul>
-<li><strong>Logic:</strong> Pauses all outgoing actions and auto-replies to incoming messages with a delay notice.</li>
-</ul>
-<p><strong>Task 79: Data Export Feature</strong></p>
-<ul>
-<li><strong>Format:</strong> CSV/JSON export of all applications for the user's records.</li>
-</ul>
-<p><strong>Task 80: Integration with Productivity Tools (Notion/Airtable)</strong></p>
-<ul>
-<li><strong>SMART Objective:</strong> Sync status.</li>
-<li><strong>Logic:</strong> When the agent applies, it creates a row in the user's Notion "Job Search" database.</li>
-</ul>
-<h2 id="phase-5-deployment-security-and-scale-tasks-81100"><a class="header" href="#phase-5-deployment-security-and-scale-tasks-81100"><strong>Phase 5: Deployment, Security, and Scale (Tasks 81–100)</strong></a></h2>
-<p><strong>Task 81: Unit Testing of Scrapers</strong></p>
-<ul>
-<li><strong>Strategy:</strong> Maintain "Golden HTML" files (static snapshots of target sites). Run tests against these to ensure parsing logic works even if the live site is down.</li>
-</ul>
-<p><strong>Task 82: Integration Testing of Workflows</strong></p>
-<ul>
-<li><strong>Strategy:</strong> Mock the LLM responses to test the state machine logic without incurring API costs.</li>
-</ul>
-<p><strong>Task 83: Load Testing</strong></p>
-<ul>
-<li><strong>Objective:</strong> Ensure the system can handle scraping 50 sites concurrently without crashing.</li>
-</ul>
-<p><strong>Task 84: Rate Limit Simulation</strong></p>
-<ul>
-<li><strong>Strategy:</strong> Simulate 429 errors from APIs to ensure the backoff logic works.</li>
-</ul>
-<p><strong>Task 85: OWASP Security Audit</strong></p>
-<ul>
-<li><strong>Focus:</strong> Prevent SQL Injection in the dashboard and XSS in the description renderer.</li>
-</ul>
-<p><strong>Task 86: GDPR/CCPA Compliance</strong></p>
-<ul>
-<li><strong>Action:</strong> Ensure the "Delete Account" button actually wipes all scraped data associated with the user.</li>
-</ul>
-<p><strong>Task 87: Dockerization</strong></p>
-<ul>
-<li><strong>Deliverable:</strong> docker-compose.yml defining the Agent, DB, Scraper Service, and UI.</li>
-</ul>
-<p><strong>Task 88: Cloud Deployment (AWS/GCP)</strong></p>
-<ul>
-<li><strong>Architecture:</strong> Deploy on AWS ECS (Fargate) for serverless container management. Use RDS for the relational DB.</li>
-</ul>
-<p><strong>Task 89: CI/CD Pipelines (GitHub Actions)</strong></p>
-<ul>
-<li><strong>Flow:</strong> Commit -&gt; Test -&gt; Build Image -&gt; Deploy to Staging.</li>
-</ul>
-<p><strong>Task 90: Monitoring &amp; Observability (Prometheus/Grafana)</strong></p>
-<ul>
-<li><strong>Metrics:</strong> "Scraper Success Rate," "LLM Latency," "API Cost per Day."</li>
-</ul>
-<p><strong>Task 91: Cost Monitoring and Alerts</strong></p>
-<ul>
-<li><strong>Objective:</strong> Alert if OpenAI spend exceeds $5/day.</li>
-</ul>
-<p><strong>Task 92: "Kill Switch" Implementation</strong></p>
-<ul>
-<li><strong>Importance:</strong> Immediate hardware/software stop if the agent goes rogue (e.g., spamming applications).</li>
-</ul>
-<p><strong>Task 93: Beta User Onboarding</strong></p>
-<ul>
-<li><strong>Objective:</strong> Recruit 5 "Alpha" users to test the match quality.</li>
-</ul>
-<p><strong>Task 94: Feedback Loop (RLHF)</strong></p>
-<ul>
-<li><strong>Logic:</strong> Use the "Swipe" data to fine-tune the embedding model (retrieval ranking).</li>
-</ul>
-<p><strong>Task 95: Documentation</strong></p>
-<ul>
-<li><strong>Deliverable:</strong> API docs and a "User Guide" explaining how to write a "Manifesto" for the agent.</li>
-</ul>
-<p><strong>Task 96: Open Source Strategy</strong></p>
-<ul>
-<li><strong>Decision:</strong> Open source the generic scrapers (to get community fixes) but keep the matching logic proprietary.</li>
-</ul>
-<p><strong>Task 97: Community Building</strong></p>
-<ul>
-<li><strong>Action:</strong> Create a Discord for users to share "Agent Wins."</li>
-</ul>
-<p><strong>Task 98: Roadmap Planning (V2)</strong></p>
-<ul>
-<li><strong>Future:</strong> "Auto-Interview" with AI avatars? "Salary Negotiation" bot?</li>
-</ul>
-<p><strong>Task 99: Final System Polish</strong></p>
-<ul>
-<li><strong>Action:</strong> UI cleanup, loading states, error messages.</li>
-</ul>
-<p><strong>Task 100: Launch</strong></p>
-<ul>
-<li><strong>Action:</strong> Release the Kraken.</li>
-</ul>
-<h3 id="table-1-core-technology-stack-summary"><a class="header" href="#table-1-core-technology-stack-summary"><strong>Table 1: Core Technology Stack Summary</strong></a></h3>
-<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Component</th><th style="text-align: left">Technology</th><th style="text-align: left">Rationale</th></tr></thead><tbody>
-<tr><td style="text-align: left"><strong>Orchestration</strong></td><td style="text-align: left">CrewAI + LangGraph</td><td style="text-align: left">CrewAI for high-level roles; LangGraph for complex state machines.</td></tr>
-<tr><td style="text-align: left"><strong>Scraping</strong></td><td style="text-align: left">Firecrawl + Apify</td><td style="text-align: left">Firecrawl for LLM-ready markdown; Apify for difficult SPAs (LinkedIn).</td></tr>
-<tr><td style="text-align: left"><strong>Discovery</strong></td><td style="text-align: left">Exa.ai</td><td style="text-align: left">Semantic search finds companies keyword search misses.</td></tr>
-<tr><td style="text-align: left"><strong>Database</strong></td><td style="text-align: left">Weaviate</td><td style="text-align: left">Hybrid search (Vector + Keyword) is essential for job matching.</td></tr>
-<tr><td style="text-align: left"><strong>LLM</strong></td><td style="text-align: left">GPT-4o / Claude 3.5</td><td style="text-align: left">GPT-4o for logic/JSON; Claude 3.5 Sonnet for writing/nuance.</td></tr>
-<tr><td style="text-align: left"><strong>UI</strong></td><td style="text-align: left">Streamlit / Next.js</td><td style="text-align: left">Streamlit for rapid internal tools; Next.js for production dashboard.</td></tr>
-<tr><td style="text-align: left"><strong>Browser</strong></td><td style="text-align: left">Playwright</td><td style="text-align: left">Robust handling of dynamic content and stealth plugins.</td></tr>
-</tbody></table>
-</div>
-<h3 id="table-2-opportunity-normalization-schema-example"><a class="header" href="#table-2-opportunity-normalization-schema-example"><strong>Table 2: Opportunity Normalization Schema Example</strong></a></h3>
-<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Field</th><th style="text-align: left">Co-Founder Role</th><th style="text-align: left">Freelance Gig</th><th style="text-align: left">Full-Time Job</th></tr></thead><tbody>
-<tr><td style="text-align: left"><strong>compensation_cash</strong></td><td style="text-align: left">$0 (initially)</td><td style="text-align: left">$500 (fixed)</td><td style="text-align: left">$150,000 (annual)</td></tr>
-<tr><td style="text-align: left"><strong>compensation_equity</strong></td><td style="text-align: left">10% - 50%</td><td style="text-align: left">0%</td><td style="text-align: left">0.01% - 0.5%</td></tr>
-<tr><td style="text-align: left"><strong>risk_score</strong></td><td style="text-align: left">High (9/10)</td><td style="text-align: left">Low (2/10)</td><td style="text-align: left">Medium (5/10)</td></tr>
-<tr><td style="text-align: left"><strong>commitment</strong></td><td style="text-align: left">5+ Years</td><td style="text-align: left">1 Week</td><td style="text-align: left">Indefinite</td></tr>
-<tr><td style="text-align: left"><strong>key_asset</strong></td><td style="text-align: left">Vision/Chemistry</td><td style="text-align: left">Output/Deliverable</td><td style="text-align: left">Skills/Experience</td></tr>
-<tr><td style="text-align: left"><strong>source_platform</strong></td><td style="text-align: left">YC Matching</td><td style="text-align: left">Upwork</td><td style="text-align: left">LinkedIn</td></tr>
-</tbody></table>
-</div>
-<p>This plan provides a comprehensive roadmap for building the Opportunity Finder. By rigorously executing these 100 tasks, we can create a system that fundamentally alters the economics of professional opportunity discovery, giving the user a decisive advantage in the market.</p>
-<h4 id="works-cited"><a class="header" href="#works-cited"><strong>Works cited</strong></a></h4>
-<p>1. Y Combinator Co-Founder Matching Platform - find a co-founder ..., https://www.ycombinator.com/cofounder-matching 2. CoffeeSpace: Connect &amp; Build – Apps on Google Play, https://play.google.com/store/apps/details?id=com.coffeespace.cofoundermatch&amp;hl=en_GB 3. How CoffeeSpace Powers Its Tinder-Like Cofounder Matching App with Proxycurl, https://nubela.co/blog/coffeespace-powers-its-cofounder-matching-app-with-proxycurl/ 4. StartHawk - Online Community for Entrepreneurship, Cofounder - Hive Index, https://thehiveindex.com/communities/starthawk/ 5. Top 10 Taskrabbit Alternatives &amp; Competitors in 2026 - G2, https://www.g2.com/products/taskrabbit/competitors/alternatives 6. Overview, https://developer.taskrabbit.com/docs/overview 7. The Best Gig Work Websites in 2026 - Upwork, https://www.upwork.com/resources/best-gig-economy-platforms 8. Gitcoin + Chainlink: Bug Bounty Program, https://www.gitcoin.co/blog/gitcoin-chainlink-bug-bounty-program 9. Immunefi Bug Bounties | Immunefi, https://immunefi.com/bug-bounty/immunefi/information/ 10. Allo Protocol – Allo Docs - Gitcoin, https://docs.allo.gitcoin.co/ 11. Gitcoin Grants 24: Fund What Matters, https://grants.gitcoin.co/ 12. Pallet - Features, Reviews, Alternatives - VC Stack, https://www.vcstack.io/product/pallet 13. Company | Pallet.com, https://www.pallet.com/company 14. Integrate with the Job Sync API | Indeed Partner Docs, https://docs.indeed.com/job-sync-api/integrate-with-job-sync-api 15. How to use the LinkedIn Job Scraper - PhantomBuster, https://support.phantombuster.com/hc/en-us/articles/26970965144338-How-to-use-the-LinkedIn-Job-Scraper 16. Radeance/wellfound-jobs-scraper-public: Premium jobs ... - GitHub, https://github.com/Radeance/wellfound-jobs-scraper-public 17. Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. - GitHub, https://github.com/crewAIInc/crewAI 18. CrewAI vs LangGraph vs n8n | AI Agent Framework Comparison - 3Pillar Global, https://www.3pillarglobal.com/insights/blog/comparison-crewai-langgraph-n8n/ 19. Firecrawl MCP + n8n: The Ultimate Web Scraping AI Agent Tutorial - YouTube, https://www.youtube.com/watch?v=5nA14JLCWfU 20. Scrape ANYTHING with Firecrawl's NEW AI Agent (+Scraping Guide) - YouTube, https://www.youtube.com/watch?v=kt8Ow7ujdSA 21. LinkedIn Job Scraper tutorial - PhantomBuster, https://phantombuster.com/automations/linkedin/6772788738377011/linkedin-job-scraper/tutorial 22. Track down all Devpost Hackathon Projects via Participant List (when project gallery isn't released) - GitHub Gist, https://gist.github.com/ThePyProgrammer/c69bcca827c9509486256b081090abc3 23. LLM + Web Search API Demos and Tutorials - Exa, https://exa.ai/demos 24. Web Search API and Crawling for AI - Exa, https://exa.ai/exa-api 25. MDalamin5/End-to-End-Agentic-Ai-Automation-Lab: This ... - GitHub, https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab 26. Automated signal-based prospecting with n8n (Firecrawl + AI search + AI assessment), https://www.reddit.com/r/n8n/comments/1p79c7w/automated_signalbased_prospecting_with_n8n/ 27. Automate competitor research with Exa.ai, Notion and AI agents | n8n workflow template, https://n8n.io/workflows/2354-automate-competitor-research-with-exaai-notion-and-ai-agents/</p>
+                        <h1 id="opportunity-intelligence-for-the-ai-age"><a class="header" href="#opportunity-intelligence-for-the-ai-age">Opportunity Intelligence for the AI Age</a></h1>
+<h3 id="build-your-own-intelligence-service-find-your-own-opportunities-make-yourself-useful"><a class="header" href="#build-your-own-intelligence-service-find-your-own-opportunities-make-yourself-useful">Build Your Own Intelligence Service. Find Your Own Opportunities. Make Yourself Useful.</a></h3>
+<hr />
+<h2 id="i-the-broken-promise-of-traditional-career-development"><a class="header" href="#i-the-broken-promise-of-traditional-career-development">I. The Broken Promise of Traditional Career Development</a></h2>
+<p><strong>The entire process of educating professionals for careers—built by looking in the rear-view mirror at jobs that existed 5, 10, 25, or even 50 years ago—is hopelessly and painfully broken.</strong></p>
+<p>This manifesto does not address the upstream failures of parenting and education systems that neglect to teach productivity, self-sufficiency, and salary negotiation from a young age. That is a topic for another manifesto.</p>
+<p><strong>What this manifesto addresses:</strong></p>
+<ul>
+<li>The philosophy behind building tools for <strong>professional skills development</strong></li>
+<li>The principles of systematic <strong>opportunity discovery</strong></li>
+<li>The urgency of replacing legacy processes with <strong>intelligence-grade methods</strong></li>
+</ul>
+<hr />
+<h2 id="ii-first-principles"><a class="header" href="#ii-first-principles">II. First Principles</a></h2>
+<blockquote>
+<p><strong>Make yourself useful. Have no patience with those who squander resources.</strong></p>
+</blockquote>
+<p>Do not wait for backward-looking institutions to catch up. Instead:</p>
+<ul>
+<li><strong>Skip</strong> the obsolete education-to-career pipeline</li>
+<li><strong>Level up</strong> your opportunity-finding intelligence now</li>
+<li><strong>Build</strong> the tools you will need for the rest of your professional life</li>
+<li><strong>Commit</strong> to ongoing, disciplined observation with continuous improvements in how you observe</li>
+<li><strong>Cultivate</strong> a relentlessly thorough system of intelligence gathering and genuine relationship building</li>
+</ul>
+<hr />
+<h2 id="iii-the-donovan-model-a-philosophical-foundation"><a class="header" href="#iii-the-donovan-model-a-philosophical-foundation">III. The Donovan Model: A Philosophical Foundation</a></h2>
+<p>Our approach modernizes the personal intelligence-gathering strategy of <strong>Major General William J. Donovan</strong>—founder of the <a href="https://en.wikipedia.org/wiki/Office_of_the_Coordinator_of_Information">Office of the Coordinator of Information (COI)</a> and the <a href="https://en.wikipedia.org/wiki/Office_of_Strategic_Services">Office of Strategic Services (OSS)</a>, predecessor to the CIA.</p>
+<p>Donovan maintained a vast global intelligence network through his personal contacts and his law firm's international reach. His starting point was always the same: <strong>pay attention to where the rubber hits the road</strong>—not to titles, appearances, braggadocio, or virtue signaling.</p>
+<p>He was notoriously incapable of bluffing. That total lack of artifice was not a weakness—it was the engine of everything that followed.</p>
+<hr />
+<h2 id="iv-five-principles-of-the-donovan-approach"><a class="header" href="#iv-five-principles-of-the-donovan-approach">IV. Five Principles of the Donovan Approach</a></h2>
+<h3 id="principle-1--truth-over-politics"><a class="header" href="#principle-1--truth-over-politics">Principle 1 — Truth Over Politics</a></h3>
+<p><em>"The best intelligence service is one that tells the truth, even when the truth is unpopular."</em></p>
+<ul>
+<li>Donovan refused to tell superiors what they wanted to hear</li>
+<li>Built a culture of high-integrity analysis within the OSS</li>
+<li>Frequently clashed with politically minded military and FBI bureaucracies</li>
+</ul>
+<h3 id="principle-2--recruit-glorious-ordinary-amateurs--but-avoid-drama"><a class="header" href="#principle-2--recruit-glorious-ordinary-amateurs--but-avoid-drama">Principle 2 — Recruit "Glorious ORDINARY Amateurs," ... but avoid drama!</a></h3>
+<ul>
+<li>Sought effective experts from extraordinary backgrounds—e.g. former circus performers/stuntmen, taxi drivers, even convicts.</li>
+<li>Valued raw data and more data for problem-solving over espionage theatrics</li>
+<li>Rejected the social deceits of diplomatic careerists and their micro-dramas.</li>
+</ul>
+<h3 id="principle-3--lead-from-the-front-be-at-the-point-of-preparation-for-attack"><a class="header" href="#principle-3--lead-from-the-front-be-at-the-point-of-preparation-for-attack">Principle 3 — Lead from the Front, Be At The Point of Preparation For Attack</a></h3>
+<ul>
+<li>Most highly decorated U.S. soldier of World War I (Medal of Honor recipient)</li>
+<li>Frequently visited active war zones to instruct, lead, and build courage</li>
+<li>Inspired fierce loyalty as a man of action—not a desk-bound manipulator</li>
+<li>His "unorthodox" and "fatherly" leadership style created agents who would follow him anywhere</li>
+</ul>
+<h3 id="principle-4--innovate-expecting-to-transcend-boundaries--incur-jealousies-or-else"><a class="header" href="#principle-4--innovate-expecting-to-transcend-boundaries--incur-jealousies-or-else">Principle 4 — Innovate Expecting To Transcend Boundaries ... incur jealousies, or else.</a></h3>
+<ul>
+<li>Open to any idea—no matter how unconventional or "wild"</li>
+<li>Rejected protocol and virtue signaling as barriers to creative solutions</li>
+<li>Operating maxim: <em>"There are no rules in intelligence except those imposed by necessity and conscience."</em></li>
+</ul>
+<h3 id="principle-5--accept-the-cost-of-authenticity--spend-your-capital-in-order-to-build-it"><a class="header" href="#principle-5--accept-the-cost-of-authenticity--spend-your-capital-in-order-to-build-it">Principle 5 — Accept the Cost of Authenticity ... spend your capital in order to build it.</a></h3>
+<p>Donovan's bluntness, transparency, and fearless disregard for powerful figures carried a steep political price:</p>
+<ul>
+<li><strong>Targeted by rivals</strong> — J. Edgar Hoover and Douglas MacArthur relied on blackmail and subterfuge against him</li>
+<li><strong>Labeled a class traitor</strong> — Prominent Republicans in Buffalo, New York State, and the national GOP punished him for aggressively prosecuting criminal organizations without regard for political alliances</li>
+<li><strong>Political career blocked</strong> — His refusal to "play the game" thwarted repeated ambitions for public office</li>
+<li><strong>OSS disbanded by Truman</strong> — The consummate machine politician (who rose through Pendergast's Kansas City organization) viewed Donovan as a "loose cannon" and shut down the OSS—a strategic blunder that gave the USSR, Mao, and Ho Chi Minh a critical 1945–47 window to establish positions, committing the U.S. to decades of Cold War engagement</li>
+</ul>
+<hr />
+<h2 id="v-the-donovan-legacy"><a class="header" href="#v-the-donovan-legacy">V. The Donovan Legacy</a></h2>
+<p>Donovan, more than any other individual of his era, transformed American intelligence from a collection of <strong>fragmented, secretive cliques buried in military bureaucracies</strong> into a <strong>decentralized, data-driven, frontline institution</strong>.</p>
+<p>His achievements—often accomplished behind enemy lines, under fire, and against relentless bureaucratic opposition through the <a href="https://en.wikipedia.org/wiki/Office_of_the_Coordinator_of_Information">COI</a> and <a href="https://en.wikipedia.org/wiki/Office_of_Strategic_Services">OSS</a>—were pivotal to winning World War II. His ideas ultimately shaped the CIA, vindicating his vision even after Truman's costly mistake.</p>
+<hr />
+<h2 id="vi-from-donovan-to-openclaw-building-your-sovereign-opportunity-net"><a class="header" href="#vi-from-donovan-to-openclaw-building-your-sovereign-opportunity-net">VI. From Donovan to OpenClaw: Building Your Sovereign Opportunity Net</a></h2>
+<p>Donovan never tolerated yesterday's technology or yesterday's methods. Incorporating that relentless philosophy into the advances of the AI age, the <strong>OpenClaw framework</strong> enables you to build a <strong>Sovereign Opportunity Net</strong>:</p>
+<p><strong>What it replicates:</strong></p>
+<ul>
+<li>Donovan's <strong>Research &amp; Analysis (R&amp;A) Branch</strong> → systematic, AI-augmented opportunity intelligence</li>
+<li>Donovan's <strong>World Commerce Corporation (WCC)</strong> → direct, network-driven opportunity flow that bypasses mass media</li>
+</ul>
+<p><strong>What it targets:</strong></p>
+<ul>
+<li>Ground-truth opportunities in <strong>gig work</strong></li>
+<li><strong>Mid-term roles</strong> beyond traditional job boards</li>
+<li><strong>Startup partnerships</strong> sourced through disciplined intelligence gathering</li>
+</ul>
+<p><strong>The 100-point plan</strong> applies Donovan's principles to build a personal intelligence apparatus for the modern professional—one that finds real opportunities through relentless, systematic, frontline engagement with the world.</p>
 
                     </main>
 
