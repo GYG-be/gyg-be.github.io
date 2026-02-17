@@ -12,7 +12,7 @@ That means having at least a passing understanding the full 100 points and possi
 
 ### Phase 1: Infrastructure & Core Gateway Setup (Points 1–10)
 
-**Point 1: Hardware Foundation: Deploy a dedicated, but throwaway local server (e.g., Mac Mini or Intel i7 with 32GB RAM) to host the OpenClaw Gateway.**  
+**Point 1: Hardware Foundation: Deploy a dedicated, but THROWAWAY local server (e.g., Mac Mini or in a container running on that old i7 gaming PC with 128GB RAM and the NVIDIA 3080) to host the OpenClaw Gateway.**  
 
 "*Get your feet wet!*" Get started with *something* ... you will pivot later to some for of tech that more powerful. Inevitably will need to, but the lessons will transfer. 
 
