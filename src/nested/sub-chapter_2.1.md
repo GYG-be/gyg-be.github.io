@@ -1,70 +1,93 @@
-You will need some form of technology to help with organizing the information in your system ... it is necessary to ***Observe. Build. Gather intelligence. Define your luck surface area...*** 
+**The 100-point plan** applies Donovan's principles to build a personal intelligence apparatus for the modern professional—one that finds real opportunities through relentless, systematic, frontline engagement with the world.
 
-Start wherever you are ... even if your starting system is [**paper-based** GettingThingsDone with journal or notebook, calendar and file folders](https://share.google/aimode/aOfUZyD46e5FpH44u]) and would have worked 100 years ago ... the POINT is not the tech or the computers, code, AI or **any** of the tech of it ... you will need to get started with some form of *technology* to establish some order for your process, but get started. 
+# OpenClaw on Dual Mac Mini M4: 100 Points for Building Your Opportunity Intelligence System
 
-You will need to internalize in your own way of understanding what it means to ***OBSERVE. Build. Gather intelligence, as you define your luck surface area ...*** or else, you will just be complaining about how you can't find opportunities or never have any luck in things like job hunting, networking, or making deals happen.
+> ***OBSERVE. BUILD. GATHER INTELLIGENCE. DEFINE YOUR LUCK SURFACE AREA.***
+>
+> This is a living roadmap for deploying a private, high-performance AI opportunity-finding cluster on two Mac Mini M4s. The emphasis is always on *getting started*, iterating fast, and avoiding the trap of over-engineering before you've found a single lead. Two M4s is already serious infrastructure — don't let it intimidate you into paralysis.
 
-It is mostly about jumping in and starting with what you tech have ... it's mainly about understanding how intelligence gathering works and can be made to work better with better technology.
-
-**DO NOT BE THE DUFUS WHO GETS LOST IN THE TECH GEEWHIZERY OF THIS STUFF!!!**
-
-That means having at least a passing understanding the full 100 points and possibly developing your own roadmap. 
-
-### Phase 1: Infrastructure & Core Gateway Setup (Points 1–10)
-
-**Point 1: Hardware Foundation: Deploy a dedicated, but THROWAWAY local server (e.g., Mac Mini or in a container running on that old i7 gaming PC with 128GB RAM and the NVIDIA 3080) to host the OpenClaw Gateway.**  
-
-"*Get your feet wet!*" Get started with *something* ... you will pivot later to some for of tech that more powerful. Inevitably will need to, but the lessons will transfer. 
-
-At this point, the key is to get the "heartbeat" running and then iterate from there. Obviously, for complete noobs, it will necessary to spend some time just learning the basics of computing ... with an eye to building a system for finding opportunities.
-
-Weaknesses: Relies on consumer-grade hardware that may struggle with sustained 24/7 loads if model inference scales; power consumption and heat could lead to downtime without proper cooling.  
-
-Alternatives: Use dockerized OpenClaw on different hardware or a cloud VMs (not ust AWS, GCP, Azure, but CoreWeave, Lambda Labs, RunPod, ThunderCompute, VAST.AI or [other alternatives](https://share.google/aimode/lCwgCGPKnLoMUPU9H)) for better uptime and scalability, albeit with potential cost and data privacy trade-offs.
-
-Opportunities: If so inclined [***to jump way too far ahead***], you may want to think about [how legacy code bases will be ported to optimize these systems, overcome latencies](https://x.com/karpathy/status/2023476423055601903) ... no particular reason to go off on this tangent, but if you are wondering about where the tech might be going, you might want to explore ideas behind the Modular Platform OR to explore the thinking driving RustLang [or similar low-level languages] to build components that enable the extension to hybrid setups with Raspberry Pi clusters [or similar inexpensive commodity hdw] for redundancy or edge computing, or integrate with super-affordable ARM-based boards that might be orders of magnitude better, cheaper, faster than NVIDIA Jetson for GPU-accelerated local inference ... for the masses, without them breaking the bank.
+*Last updated: February 17 2026. This document is a living roadmap — version it in Git, review it quarterly, and update it when the market or the technology changes. The principles are durable; the specific tools are not.*
 
 ---
-**Point 2: Environment Isolation: Install Linux or macOS and run OpenClaw as a background daemon (systemd or LaunchAgent) to ensure 24/7 "Heartbeat" monitoring.**  
-Weaknesses: macOS LaunchAgents can be finicky with permissions updates post-OS upgrades; lacks built-in failover if the host crashes.  
-Opportunities: Add containerization via Podman (lighter than Docker) for true isolation, or script auto-restarts with cron jobs tied to uptime monitors like Uptime Kuma for proactive alerts.
+
+## Phase 1: Hardware Foundation & Cluster Bootstrap (Points 1–10)
+
+**Point 1: Designate Your Two Mac Minis — "Primary" and "Secondary."**
+The Primary M4 (ideally the M4 Pro variant with 24–48GB unified memory) runs the OpenClaw Gateway, the local inference engine, and your core agent orchestration. The Secondary M4 handles background scraping, vector indexing, and redundancy. Label them clearly — even physically with a sticker — so you never forget which one has the "heartbeat."
+
+*Weaknesses:* Unified memory is shared between CPU and GPU/Neural Engine tasks; heavy inference AND heavy scraping on Primary simultaneously causes contention.
+*Opportunities:* Use Apple's MLX framework (optimized for Apple Silicon) instead of Ollama's default GGUF quantization for dramatically faster inference on the M4's Neural Engine — benchmarks show 2–3x throughput improvements on M4 vs. equivalent GGUF.
 
 ---
-**Point 3: Local Inference Engine: Install Ollama to run models like Mistral 7B or Llama 3 locally, ensuring data regarding your job searches remains private.**  
-Weaknesses: Ollama's model quantization can degrade performance on non-GPU setups, leading to slow scans; limited to open models, missing proprietary fine-tunes for niche analysis.  
-Opportunities: Layer in Hugging Face Transformers for custom fine-tuning on your CV data, or use ExLlama for faster quantized inference to handle larger models like Llama 3 70B on modest hardware.
+
+**Point 2: Network Them Directly — Thunderbolt Bridge + 10GbE.**
+Connect both Minis with a Thunderbolt 4 cable for a direct 40Gbps inter-node link. Assign static IPs on this bridge (e.g., `192.168.100.1` and `192.168.100.2`). Keep a separate ethernet port on each for WAN. This ensures your agent traffic stays off your home router and stays fast.
+
+*Weaknesses:* Thunderbolt bridge has no built-in failover; a cable pull breaks inter-node comms.
+*Opportunities:* Add a cheap managed switch with a dedicated 2.5GbE VLAN as fallback, plus mDNS `.local` resolution so agents find each other even if IPs shift.
 
 ---
-**Point 4: OpenClaw Installation: Clone the OpenClaw repository and initialize the workspace under ~/.openclaw.**  
-Weaknesses: Assumes repository stability; if OpenClaw evolves rapidly, manual merges could break custom configs.  
-Opportunities: Automate with a GitHub Actions workflow for CI/CD pulls, or fork the repo to pin versions while adding your Donovan-inspired branches for easy community contributions.
+
+**Point 3: Install macOS Sequoia (or latest) and Harden Both Nodes.**
+Enable FileVault on both. Set automatic login to OFF. Create a dedicated `openclaw` service user account (not admin) that runs all daemon processes. This prevents a rogue browser-automation session from escalating to system-level writes.
+
+*Weaknesses:* macOS updates can silently restart daemons or revoke permissions; a surprise update during a night scan breaks everything.
+*Opportunities:* Defer major OS updates (System Settings → Software Update → Automatic Updates: OFF for major versions). Script a pre-update checkpoint that exports all OpenClaw state to a timestamped backup.
 
 ---
-**Point 5: Messaging Gateway: Connect a private Telegram or WhatsApp bot as your "interface" to receive opportunity alerts remotely.**  
-Weaknesses: Platform APIs have rate limits and ToS risks (e.g., WhatsApp bans bots easily); single-point failure if the bot token leaks.  
-Opportunities: Diversify with Matrix/Element for self-hosted, end-to-end encrypted bots, or integrate Signal's CLI for ultra-secure, ephemeral alerts that auto-delete after reading.
+
+**Point 4: Install Homebrew, Conda, and Podman on Both Nodes.**
+Homebrew for system utilities. A dedicated `conda` environment (`conda create -n openclaw python=3.12`) for all Python dependencies. Podman (not Docker — no daemon required, rootless by default on macOS) for containerized scraper isolation.
+
+*Weaknesses:* Conda environments grow large; Podman on macOS runs inside a Linux VM (podman machine), adding ~500MB overhead and slight latency.
+*Opportunities:* Use `uv` (ultra-fast Python package installer) instead of pip inside your conda env — installs are 10–100x faster, which matters when iterating on agent skills.
 
 ---
-**Point 6: Soul Configuration: Create a SOUL.md file defining the agent’s "personality" as a strategic OSS analyst focused on high-leverage opportunities.**  
-Weaknesses: Static personality files risk prompt drift over time; may over-emphasize "OSS analyst" traits, biasing toward military-style rigidity over agile startup vibes.  
-Opportunities: Make it dynamic with JSON schemas for A/B testing personalities (e.g., switch to "VC scout" for funding alerts), or use embeddings to evolve the soul based on successful past interactions.
+
+**Point 5: Deploy OpenClaw on Primary — Initialize `~/.openclaw` Workspace.**
+Clone the OpenClaw repository to `/Users/openclaw/.openclaw` on Primary. Run `clawctl init` to scaffold `SOUL.md`, `MEMORIES.md`, `HEARTBEAT.md`, and the `skills/` directory. Keep Secondary's OpenClaw install as a read-only mirror for failover, synced via `rsync` over the Thunderbolt bridge every 30 minutes.
+
+*Weaknesses:* Manual rsync drifts if Primary crashes mid-write; Secondary may get a corrupted state snapshot.
+*Opportunities:* Use `lsyncd` (Live Syncing Daemon) for near-real-time mirroring, or set up a lightweight Git bare repo on Secondary that Primary pushes to after every completed scan cycle.
 
 ---
-**Point 7: Memory Layer: Initialize the MEMORIES.md file to store your CV, past project successes, and specific "Ideal Candidate Profile" (ICP).**  
-Weaknesses: Markdown is human-readable but inefficient for semantic search; no versioning means lost history if edits overwrite key details.  
-Opportunities: Migrate to a vector DB like FAISS for fuzzy matching ICPs to leads, or add Git for versioned memories to track how your profile evolves quarterly.
+
+**Point 6: Run OpenClaw as a LaunchAgent (macOS Native Daemon).**
+Create a `.plist` file in `~/Library/LaunchAgents/com.openclaw.heartbeat.plist` that keeps the OpenClaw heartbeat running on login, with `KeepAlive = true` and stdout/stderr redirected to rotating log files. Use `launchctl load` to activate it. This gives you 24/7 "heartbeat" without needing a terminal open.
+
+*Weaknesses:* LaunchAgents run as the user, not root — some network operations or Keychain access may prompt for passwords after reboots.
+*Opportunities:* Pair with `Uptime Kuma` (running in a Podman container on Secondary) to monitor the heartbeat endpoint and send a Telegram ping if the Primary goes silent for >5 minutes.
 
 ---
-**Point 8: Workspace Hardening: Implement Clawctl for sandboxing and human-in-the-loop (HITL) approvals before the agent sends any outgoing emails or applications.**  
-Weaknesses: Clawctl's sandboxing might not catch all edge cases in browser automation; HITL could bottleneck high-volume scans.  
-Opportunities: Extend with Firejail for finer-grained Linux sandboxes, or add probabilistic HITL (e.g., auto-approve low-risk gigs under $5K) using a simple decision tree.
+
+**Point 7: Deploy Ollama + MLX on Primary for Local Inference.**
+Install Ollama for easy model management (`brew install ollama`), but also install Apple's `mlx-lm` package for native M4 inference. Run `mistral-nemo` or `llama3.2:3b` via Ollama for fast, low-memory tasks. Reserve the M4 Pro's full Neural Engine for `mlx-lm` calls when running your Auditor or Synthesis agents on complex matching tasks.
+
+*Weaknesses:* Ollama and mlx-lm can conflict over GPU memory if called simultaneously; no built-in load balancer between them.
+*Opportunities:* Write a thin Python `ModelRouter` class that checks current memory pressure (via `psutil`) and routes inference calls to Ollama (lightweight, always-on) vs. mlx-lm (high-quality, on-demand) based on task complexity score.
 
 ---
-**Point 9: Heartbeat Calibration: Set the HEARTBEAT.md checklist to trigger an "Area Scan" every 30–60 minutes.**  
-Weaknesses: Fixed intervals ignore peak times (e.g., missing evening VC tweets); resource-intensive on low-spec hardware.  
-Opportunities: Adaptive scheduling via APScheduler, triggered by external events like market hours or RSS pings, to optimize for energy and relevance.
+
+**Point 8: Offload Heavy Scraping to Secondary.**
+Configure Secondary's OpenClaw instance as a dedicated "Miner Node" — it runs browser-use automation (Playwright), RSS aggregation, and all web scraping tasks. Primary orchestrates and reasons; Secondary gathers and stores. Agents communicate via a shared Redis instance running on Primary (accessible over the Thunderbolt bridge).
+
+*Weaknesses:* Redis as a single point of failure; if Primary Redis crashes, Secondary's scrapers queue up and overflow.
+*Opportunities:* Use Redis Sentinel (even with just two nodes it helps) for basic failover, or swap to Valkey (the open-source Redis fork) for a license-clean, community-supported alternative.
 
 ---
-**Point 10: Skill Registry Access: Connect to ClawHub to download baseline skills for browser automation and file operations.**  
-Weaknesses: ClawHub dependency introduces external risks (downtime, deprecated skills); no offline caching for core functions.  
-Opportunities: Mirror key skills locally with a private repo, or contribute Donovan-themed skills back to ClawHub for community feedback and co-evolution.
+
+**Point 9: Set the Heartbeat Cadence — Staggered, Not Synchronized.**
+Configure Primary's `HEARTBEAT.md` to trigger an "Area Scan" every 45 minutes. Configure Secondary's scraping jobs to run on a *different* 45-minute cycle, offset by 22 minutes. This prevents both Minis from hammering target sites simultaneously and reduces the fingerprint of your automated activity.
+
+*Weaknesses:* Offset timing makes debugging harder — log timestamps from two nodes can confuse post-mortems.
+*Opportunities:* Adopt structured logging (JSON via `structlog`) with a `node_id` field on every log entry, then aggregate both nodes' logs into a single Loki instance (lightweight, runs fine on Secondary) for unified querying via Grafana.
+
+---
+
+**Point 10: Connect Your Notification Gateway — Telegram Bot on Primary.**
+Create a private Telegram bot (via BotFather) and configure OpenClaw's `SOUL.md` to push opportunity alerts to your personal chat. This becomes your mobile "radar screen." Set up separate Telegram topics (if using a Group with Topics enabled) for: `HIGH PRIORITY`, `MONITOR`, and `ARCHIVED` leads.
+
+*Weaknesses:* Telegram's bot API has a 30-messages-per-second global limit, but more practically, notification fatigue kills the system if thresholds aren't tuned.
+*Opportunities:* Add a secondary "digest" mode — instead of real-time pings, bundle all sub-75-score leads into a single daily morning summary message, keeping your immediate notifications reserved for truly high-value hits.
+
+---
