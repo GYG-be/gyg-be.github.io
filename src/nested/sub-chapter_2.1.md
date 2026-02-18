@@ -1,6 +1,6 @@
 You will need some form of technology to help with organizing the information in your system ... it is necessary to ***Observe. Build. Gather intelligence. Define your luck surface area...*** 
 
-Start whereever you are ... even if your starting system is [**paper-based** GettingThingsDone with journal or notebook, calendar and file folders](https://share.google/aimode/aOfUZyD46e5FpH44u]) and would have worked 100 years ago ... the POINT is not the tech or the computers, code, AI or **any** of the tech of it ... you will need to get started with some form of *technology* to establish some order for your process, but get started. 
+Start wherever you are ... even if your starting system is [**paper-based** GettingThingsDone with journal or notebook, calendar and file folders](https://share.google/aimode/aOfUZyD46e5FpH44u]) and would have worked 100 years ago ... the POINT is not the tech or the computers, code, AI or **any** of the tech of it ... you will need to get started with some form of *technology* to establish some order for your process, but get started. 
 
 You will need to internalize in your own way of understanding what it means to ***OBSERVE. Build. Gather intelligence, as you define your luck surface area ...*** or else, you will just be complaining about how you can't find opportunities or never have any luck in things like job hunting, networking, or making deals happen.
 
