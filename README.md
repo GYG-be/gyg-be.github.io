@@ -1,3 +1,9 @@
+*This file is yours to evolve. As you learn who you are, update it.*
+
+- It started with something from [Matt Berman](https://gist.github.com/mberman84) and still reflects his sensabilities, but it's an example of good template to start with; there are other [Awesome OpenClaw Agents](https://github.com/mergisi/awesome-openclaw-agents) to peruse. 
+
+---
+
 # OpenClaw Prompt Templates To Use In Building Your Own AI Assistant
 
 These prompt templates are for recreating pieces of the OpenClaw system; you would use these as starting templates for building your own prompts you would use with any AI coding assistant.
