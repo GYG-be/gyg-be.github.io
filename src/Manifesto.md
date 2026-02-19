@@ -1,12 +1,22 @@
 # Opportunity Intelligence for the AI Age
 
-What follows is the gist of the architecture for how to do this. 
+Just understand WHY no amount of scaling will get LLMs to AGI. LLMs face fundamental mathematical limitations that cannot be solved by making them bigger. LLMs do not learn how the world works. They learn from *human interpretations* of how the world works and the index are regurgitate the MISinterpretations.
+
+**Remember this brutal truth applicable to ALL AI: LLMs are NOT learning how the world works. LLMs learn how we describe the world.**
+
+That does not negate the value of AI ... it means that the value has to come from YOU, from the connections that YOU make PERSONAL to achieve a SHARED understanding, which is never, ever, ever going to be a perfect understanding -- at best, it's going to be shared HUMAN understanding.
+
+AI is ONLY a tool. It's not the magic SINGUALITY  ... nor is artificial intelligence EVIL incarnate. It can be a tool for good or a tool for evil.
+
+***It's ONLY a tool*** ... a mirror that reflects your own intelligence back at you, amplified by the scale and speed of computation.
+
+### Build Your Own Intelligence Service. Find Your Own Opportunities. Make YOURSELF Useful. Direct Yours Tools Carefully.
+
+What follows is the gist of the architecture for how approximately to do this ... there are a lot of details to fill in AND this might include unintentional errors ... you have to be responsible for your own tools.
 
 Internalize the philosophy, refactor it and make it your own. 
 
 Then SHIP — sustainably, prayerfully. ✝️
-
-### Build Your Own Intelligence Service. Find Your Own Opportunities. Make Yourself Useful.
 
 ---
 
